@@ -1,9 +1,9 @@
 {
-  "updated_at": "03/04/2026 03:02:53",
+  "updated_at": "03/04/2026 06:23:13",
   "summary": {
     "total": 360,
-    "finalizados": 118,
-    "agendados": 242,
+    "finalizados": 124,
+    "agendados": 236,
     "ligas": 20
   },
   "jogos": [
@@ -809,15 +809,15 @@
       "liga": "FC26 R313(PREMIER LEAGUE)03.04.2026",
       "p1": "Liverpool (Leonardo)",
       "p2": "Chelsea (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R313(PREMIER LEAGUE)03.04.2026",
       "p1": "Manchester Utd. (Matrix)",
       "p2": "Arsenal (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R313(PREMIER LEAGUE)03.04.2026",
@@ -921,29 +921,29 @@
       "liga": "FC26 R314(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Monaco (Bruno)",
       "p2": "Barcelona (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R314(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Real Madrid (Arthur)",
       "p2": "Bayern M. (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R314(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Barcelona (Andrew)",
       "p2": "Manchester City (Maverick)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R314(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Monaco (Bruno)",
       "p2": "Bayern M. (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R314(CHAMPIONS LEAGUE)03.04.2026",
@@ -2561,13 +2561,13 @@
     },
     "FC26 R313(PREMIER LEAGUE)03.04.2026": {
       "total": 20,
-      "finalizados": 8,
-      "agendados": 12
+      "finalizados": 10,
+      "agendados": 10
     },
     "FC26 R314(CHAMPIONS LEAGUE)03.04.2026": {
       "total": 20,
-      "finalizados": 4,
-      "agendados": 16
+      "finalizados": 8,
+      "agendados": 12
     },
     "FC26 R315(SERIA A)03.04.2026": {
       "total": 20,
@@ -3005,50 +3005,50 @@
     ],
     "FC26 R313(PREMIER LEAGUE)03.04.2026": [
       {
-        "nome": "Arsenal (Oliver)",
-        "Pts": 6,
-        "J": 3,
+        "nome": "Manchester Utd. (Matrix)",
+        "Pts": 7,
+        "J": 4,
         "V": 2,
-        "E": 0,
+        "E": 1,
         "D": 1,
-        "GP": 14,
+        "GP": 16,
         "GC": 13,
-        "SG": 1,
+        "SG": 3,
         "pos": 1
       },
       {
         "nome": "Chelsea (Cleo)",
-        "Pts": 6,
-        "J": 3,
+        "Pts": 7,
+        "J": 4,
         "V": 2,
-        "E": 0,
+        "E": 1,
         "D": 1,
-        "GP": 7,
-        "GC": 6,
+        "GP": 8,
+        "GC": 7,
         "SG": 1,
         "pos": 2
       },
       {
-        "nome": "Manchester Utd. (Matrix)",
-        "Pts": 4,
-        "J": 3,
-        "V": 1,
-        "E": 1,
-        "D": 1,
-        "GP": 12,
-        "GC": 10,
-        "SG": 2,
+        "nome": "Arsenal (Oliver)",
+        "Pts": 6,
+        "J": 4,
+        "V": 2,
+        "E": 0,
+        "D": 2,
+        "GP": 17,
+        "GC": 17,
+        "SG": 0,
         "pos": 3
       },
       {
         "nome": "Liverpool (Leonardo)",
-        "Pts": 4,
-        "J": 3,
+        "Pts": 5,
+        "J": 4,
         "V": 1,
-        "E": 1,
+        "E": 2,
         "D": 1,
-        "GP": 13,
-        "GC": 13,
+        "GP": 14,
+        "GC": 14,
         "SG": 0,
         "pos": 4
       },
@@ -3067,63 +3067,63 @@
     ],
     "FC26 R314(CHAMPIONS LEAGUE)03.04.2026": [
       {
-        "nome": "Manchester City (Maverick)",
-        "Pts": 6,
-        "J": 2,
+        "nome": "Monaco (Bruno)",
+        "Pts": 7,
+        "J": 3,
         "V": 2,
-        "E": 0,
+        "E": 1,
         "D": 0,
-        "GP": 14,
-        "GC": 6,
-        "SG": 8,
+        "GP": 13,
+        "GC": 7,
+        "SG": 6,
         "pos": 1
       },
       {
-        "nome": "Monaco (Bruno)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "nome": "Manchester City (Maverick)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
-        "D": 0,
-        "GP": 6,
-        "GC": 1,
-        "SG": 5,
+        "D": 1,
+        "GP": 17,
+        "GC": 11,
+        "SG": 6,
         "pos": 2
       },
       {
         "nome": "Barcelona (Andrew)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
-        "D": 0,
-        "GP": 4,
-        "GC": 2,
-        "SG": 2,
+        "D": 1,
+        "GP": 11,
+        "GC": 8,
+        "SG": 3,
         "pos": 3
       },
       {
         "nome": "Bayern M. (VanGogh)",
-        "Pts": 0,
-        "J": 2,
-        "V": 0,
-        "E": 0,
+        "Pts": 4,
+        "J": 4,
+        "V": 1,
+        "E": 1,
         "D": 2,
-        "GP": 6,
-        "GC": 12,
-        "SG": -6,
+        "GP": 16,
+        "GC": 20,
+        "SG": -4,
         "pos": 4
       },
       {
         "nome": "Real Madrid (Arthur)",
         "Pts": 0,
-        "J": 2,
+        "J": 3,
         "V": 0,
         "E": 0,
-        "D": 2,
-        "GP": 3,
-        "GC": 12,
-        "SG": -9,
+        "D": 3,
+        "GP": 7,
+        "GC": 18,
+        "SG": -11,
         "pos": 5
       }
     ]
