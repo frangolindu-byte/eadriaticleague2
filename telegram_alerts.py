@@ -397,8 +397,83 @@ def update_results():
     print(f"Resultados atualizados: {updated}")
 
 
+def report_stats():
+    """Gera relatorio diario de GREEN/RED e envia no canal."""
+    sent = load_sent()
+    today = get_today_str()
+
+    green = 0
+    red = 0
+    pending = 0
+    details = []
+
+    for a in sent:
+        status = a.get("result_status", "")
+        if status == "bateu":
+            green += 1
+            details.append(f"✅ {a['p1']} vs {a['p2']} = {a.get('result_placar', '?')}")
+        elif status == "errou":
+            red += 1
+            details.append(f"🔥 {a['p1']} vs {a['p2']} = {a.get('result_placar', '?')}")
+        else:
+            pending += 1
+
+    total = green + red
+    hit_rate = (green / total * 100) if total > 0 else 0
+
+    msg = (
+        f"📊 <b>RELATORIO DO DIA {today}</b>\n"
+        f"━━━━━━━━━━━━━━━━━━━━━\n\n"
+        f"✅ <b>GREEN: {green}</b>\n"
+        f"🔥 <b>RED: {red}</b>\n"
+        f"⏳ Pendentes: {pending}\n\n"
+        f"📈 <b>Taxa de acerto: {hit_rate:.1f}%</b>\n"
+        f"   ({green}/{total} resolvidos)\n\n"
+    )
+
+    if details:
+        msg += f"<b>Detalhes:</b>\n"
+        for d in details:
+            msg += f"{d}\n"
+        msg += "\n"
+
+    msg += f"━━━━━━━━━━━━━━━━━━━━━\n"
+    msg += f"⚠️ <i>Aposte com responsabilidade.</i>"
+
+    send_msg(msg)
+    print(f"Estatisticas enviadas: {green}G / {red}R / {pending}P ({hit_rate:.1f}%)")
+
+
+def check_commands():
+    """Checa se tem comandos novos no canal (ex: /stats)."""
+    if not TELEGRAM_TOKEN or not CHAT_ID:
+        return
+
+    # Pega updates recentes
+    url = f"{TELEGRAM_URL}/getUpdates?allowed_updates=[\"message\"]"
+    req = Request(url)
+    try:
+        resp = json.loads(urlopen(req, timeout=10).read())
+    except:
+        return
+
+    for update in resp.get("result", []):
+        msg = update.get("message", {})
+        chat_id = msg.get("chat", {}).get("id")
+        text = msg.get("text", "").strip()
+
+        if str(chat_id) == CHAT_ID and text == "/stats":
+            report_stats()
+
+
 if __name__ == "__main__":
-    if len(sys.argv) > 1 and sys.argv[1] == "update":
-        update_results()
+    if len(sys.argv) > 1:
+        cmd = sys.argv[1]
+        if cmd == "update":
+            update_results()
+        elif cmd == "stats":
+            report_stats()
+        elif cmd == "commands":
+            check_commands()
     else:
         send_alerts()

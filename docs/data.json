@@ -1,9 +1,9 @@
 {
-  "updated_at": "03/04/2026 21:47:35",
+  "updated_at": "03/04/2026 18:49:08",
   "summary": {
     "total": 360,
-    "finalizados": 354,
-    "agendados": 6,
+    "finalizados": 356,
+    "agendados": 4,
     "ligas": 20
   },
   "jogos": [
@@ -2503,15 +2503,15 @@
       "liga": "FC26 R326(EUROPA LEAGUE)03.04.2026",
       "p1": "Aston Villa (Kristof)",
       "p2": "Celtic (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R326(EUROPA LEAGUE)03.04.2026",
       "p1": "Manchester Utd. (Beckham)",
       "p2": "Real Betis (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R326(EUROPA LEAGUE)03.04.2026",
@@ -2626,8 +2626,8 @@
     },
     "FC26 R326(EUROPA LEAGUE)03.04.2026": {
       "total": 6,
-      "finalizados": 2,
-      "agendados": 4
+      "finalizados": 4,
+      "agendados": 2
     }
   },
   "classificacao": {
@@ -3812,15 +3812,27 @@
     "FC26 R326(EUROPA LEAGUE)03.04.2026": [
       {
         "nome": "Celtic (Sebastian)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
+        "Pts": 4,
+        "J": 2,
+        "V": 1,
         "E": 1,
         "D": 0,
-        "GP": 3,
-        "GC": 3,
-        "SG": 0,
+        "GP": 6,
+        "GC": 5,
+        "SG": 1,
         "pos": 1
+      },
+      {
+        "nome": "Real Betis (Felix)",
+        "Pts": 4,
+        "J": 2,
+        "V": 1,
+        "E": 1,
+        "D": 0,
+        "GP": 5,
+        "GC": 4,
+        "SG": 1,
+        "pos": 2
       },
       {
         "nome": "Lazio (Eric)",
@@ -3832,31 +3844,31 @@
         "GP": 3,
         "GC": 3,
         "SG": 0,
-        "pos": 2
+        "pos": 3
       },
       {
         "nome": "Aston Villa (Kristof)",
         "Pts": 1,
-        "J": 1,
+        "J": 2,
         "V": 0,
         "E": 1,
-        "D": 0,
-        "GP": 2,
-        "GC": 2,
-        "SG": 0,
-        "pos": 3
+        "D": 1,
+        "GP": 4,
+        "GC": 5,
+        "SG": -1,
+        "pos": 4
       },
       {
-        "nome": "Real Betis (Felix)",
-        "Pts": 1,
+        "nome": "Manchester Utd. (Beckham)",
+        "Pts": 0,
         "J": 1,
         "V": 0,
-        "E": 1,
-        "D": 0,
+        "E": 0,
+        "D": 1,
         "GP": 2,
-        "GC": 2,
-        "SG": 0,
-        "pos": 4
+        "GC": 3,
+        "SG": -1,
+        "pos": 5
       }
     ]
   }
