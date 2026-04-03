@@ -1,0 +1,29 @@
+# Credenciais
+credentials.json
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Logs
+robo.log
+*.log
+
+# Debug
+page_debug.html
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Dashboard (data gerada)
+docs/data.json

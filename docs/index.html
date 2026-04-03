@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eAdriatic League — Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        :root {
+            --bg: #0f1117;
+            --surface: #1a1d27;
+            --surface-2: #242836;
+            --border: #2d3348;
+            --text: #e4e6f0;
+            --text-dim: #8b90a5;
+            --accent: #6c72cb;
+            --accent-hover: #7b7fd6;
+            --green: #34d399;
+            --green-bg: rgba(52, 211, 153, 0.12);
+            --yellow: #fbbf24;
+            --yellow-bg: rgba(251, 191, 36, 0.12);
+            --radius: 12px;
+            --radius-sm: 8px;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        .container { max-width: 1200px; margin: 0 auto; padding: 24px 20px; }
+
+        /* Header */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 32px;
+            flex-wrap: wrap;
+            gap: 16px;
+        }
+        .header h1 {
+            font-size: 1.75rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--accent), #a78bfa);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .header-meta { text-align: right; }
+        .header-meta .updated { font-size: 0.85rem; color: var(--text-dim); }
+        .btn-refresh {
+            margin-top: 8px;
+            padding: 6px 16px;
+            background: var(--accent);
+            color: #fff;
+            border: none;
+            border-radius: var(--radius-sm);
+            cursor: pointer;
+            font-size: 0.8rem;
+            font-weight: 600;
+            transition: background 0.2s;
+        }
+        .btn-refresh:hover { background: var(--accent-hover); }
+
+        /* Summary Cards */
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            margin-bottom: 32px;
+        }
+        .card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 20px;
+            text-align: center;
+        }
+        .card .value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--accent);
+        }
+        .card .label {
+            font-size: 0.85rem;
+            color: var(--text-dim);
+            margin-top: 4px;
+        }
+        .card.green .value { color: var(--green); }
+        .card.yellow .value { color: var(--yellow); }
+
+        /* Section */
+        .section {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            margin-bottom: 32px;
+            overflow: hidden;
+        }
+        .section-header {
+            padding: 16px 20px;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .section-header h2 {
+            font-size: 1.1rem;
+            font-weight: 600;
+        }
+        .section-header .badge {
+            font-size: 0.75rem;
+            padding: 2px 10px;
+            border-radius: 999px;
+            background: var(--accent);
+            color: #fff;
+            font-weight: 600;
+        }
+
+        /* Filter */
+        .filter-bar {
+            padding: 12px 20px;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        .filter-btn {
+            padding: 4px 14px;
+            border-radius: 999px;
+            border: 1px solid var(--border);
+            background: transparent;
+            color: var(--text-dim);
+            cursor: pointer;
+            font-size: 0.8rem;
+            transition: all 0.2s;
+        }
+        .filter-btn:hover, .filter-btn.active {
+            background: var(--accent);
+            color: #fff;
+            border-color: var(--accent);
+        }
+
+        /* Table */
+        .table-wrap { overflow-x: auto; }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+        }
+        th {
+            text-align: left;
+            padding: 12px 16px;
+            font-weight: 600;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-dim);
+            border-bottom: 1px solid var(--border);
+            white-space: nowrap;
+        }
+        td {
+            padding: 10px 16px;
+            border-bottom: 1px solid var(--border);
+            white-space: nowrap;
+        }
+        tr:last-child td { border-bottom: none; }
+        tbody tr:hover { background: var(--surface-2); }
+
+        .status-badge {
+            display: inline-block;
+            padding: 2px 10px;
+            border-radius: 999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+        .status-badge.finalizado { background: var(--green-bg); color: var(--green); }
+        .status-badge.agendado { background: var(--yellow-bg); color: var(--yellow); }
+
+        .placar {
+            font-weight: 700;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.95rem;
+        }
+
+        /* Classification */
+        .classif-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+        .classif-card {
+            background: var(--surface-2);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            overflow: hidden;
+        }
+        .classif-card h3 {
+            padding: 12px 16px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            border-bottom: 1px solid var(--border);
+            background: rgba(108, 114, 203, 0.08);
+        }
+        .classif-card table { font-size: 0.82rem; }
+        .classif-card td, .classif-card th { padding: 8px 12px; }
+        .classif-card th { font-size: 0.7rem; }
+        .pos-1 { color: #fbbf24; font-weight: 700; }
+        .pos-2 { color: #94a3b8; font-weight: 700; }
+        .pos-3 { color: #d97706; font-weight: 700; }
+
+        /* Chart */
+        .chart-container {
+            padding: 16px;
+            height: 220px;
+        }
+
+        /* Loading */
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-dim);
+        }
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid var(--border);
+            border-top-color: var(--accent);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin: 0 auto 16px;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        /* Responsive */
+        @media (max-width: 640px) {
+            .header h1 { font-size: 1.3rem; }
+            .cards { grid-template-columns: repeat(2, 1fr); }
+            .classif-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>eAdriatic League</h1>
+            <div class="header-meta">
+                <div class="updated" id="updated"></div>
+                <button class="btn-refresh" onclick="loadData()">Atualizar</button>
+            </div>
+        </div>
+
+        <div id="loading" class="loading">
+            <div class="spinner"></div>
+            Carregando dados...
+        </div>
+
+        <div id="app" style="display:none;">
+            <div class="cards" id="cards"></div>
+            <div class="section" id="jogos-section">
+                <div class="section-header">
+                    <h2>Jogos do Dia</h2>
+                    <span class="badge" id="jogos-count"></span>
+                </div>
+                <div class="filter-bar" id="filter-bar"></div>
+                <div class="table-wrap">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Liga</th>
+                                <th>Jogador 1</th>
+                                <th>Placar</th>
+                                <th>Jogador 2</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody id="jogos-body"></tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="section-header">
+                    <h2>Resumo por Liga</h2>
+                </div>
+                <div class="table-wrap">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Liga</th>
+                                <th>Total</th>
+                                <th>Finalizados</th>
+                                <th>Agendados</th>
+                            </tr>
+                        </thead>
+                        <tbody id="resumo-body"></tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="section-header">
+                    <h2>Classificacao</h2>
+                </div>
+                <div class="classif-grid" id="classif-grid"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let allGames = [];
+        let charts = [];
+
+        async function loadData() {
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('app').style.display = 'none';
+            charts.forEach(c => c.destroy());
+            charts = [];
+
+            try {
+                const res = await fetch('data.json?t=' + Date.now());
+                if (!res.ok) throw new Error('data.json nao encontrado');
+                const data = await res.json();
+                render(data);
+            } catch (e) {
+                document.getElementById('loading').innerHTML =
+                    '<p style="color:#f87171;">Erro ao carregar dados: ' + e.message + '</p>';
+            }
+        }
+
+        function render(data) {
+            document.getElementById('loading').style.display = 'none';
+            document.getElementById('app').style.display = 'block';
+
+            document.getElementById('updated').textContent = 'Atualizado: ' + data.updated_at;
+
+            renderCards(data.summary);
+            renderJogos(data.jogos);
+            renderResumo(data.resumo);
+            renderClassificacao(data.classificacao);
+        }
+
+        function renderCards(s) {
+            const cards = [
+                { value: s.total, label: 'Total de Jogos', cls: '' },
+                { value: s.finalizados, label: 'Finalizados', cls: 'green' },
+                { value: s.agendados, label: 'Agendados', cls: 'yellow' },
+                { value: s.ligas, label: 'Ligas Ativas', cls: '' },
+            ];
+            document.getElementById('cards').innerHTML = cards.map(c =>
+                '<div class="card ' + c.cls + '"><div class="value">' + c.value + '</div><div class="label">' + c.label + '</div></div>'
+            ).join('');
+        }
+
+        function renderJogos(jogos) {
+            allGames = jogos;
+            const ligas = [...new Set(jogos.map(j => j.liga))].sort();
+
+            document.getElementById('jogos-count').textContent = jogos.length + ' jogos';
+
+            const filterBar = document.getElementById('filter-bar');
+            filterBar.innerHTML = '<button class="filter-btn active" onclick="filterGames(\'all\')">Todos</button>' +
+                ligas.map(l => '<button class="filter-btn" onclick="filterGames(\'' + l.replace(/'/g, "\\'") + '\')">' + l + '</button>').join('');
+
+            renderGamesTable(jogos);
+        }
+
+        function filterGames(liga) {
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            event.target.classList.add('active');
+            const filtered = liga === 'all' ? allGames : allGames.filter(j => j.liga === liga);
+            renderGamesTable(filtered);
+        }
+
+        function renderGamesTable(jogos) {
+            document.getElementById('jogos-body').innerHTML = jogos.map(j => {
+                const cls = j.status === 'Finalizado' ? 'finalizado' : 'agendado';
+                const placar = j.placar || 'VS';
+                return '<tr>' +
+                    '<td>' + esc(j.liga) + '</td>' +
+                    '<td>' + esc(j.p1) + '</td>' +
+                    '<td class="placar">' + esc(placar) + '</td>' +
+                    '<td>' + esc(j.p2) + '</td>' +
+                    '<td><span class="status-badge ' + cls + '">' + esc(j.status) + '</span></td>' +
+                    '</tr>';
+            }).join('');
+        }
+
+        function renderResumo(resumo) {
+            const sorted = Object.entries(resumo).sort((a, b) => b[1].total - a[1].total);
+            document.getElementById('resumo-body').innerHTML = sorted.map(([liga, s]) =>
+                '<tr><td>' + esc(liga) + '</td><td>' + s.total + '</td><td>' + s.finalizados + '</td><td>' + s.agendados + '</td></tr>'
+            ).join('');
+        }
+
+        function renderClassificacao(classif) {
+            const grid = document.getElementById('classif-grid');
+            const entries = Object.entries(classif).sort((a, b) => b[1].length - a[1].length);
+
+            grid.innerHTML = entries.map(([liga, tabela]) => {
+                const chartId = 'chart-' + liga.replace(/[^a-zA-Z0-9]/g, '-');
+                const headers = ['#', 'Jogador', 'Pts', 'J', 'V', 'E', 'D', 'GP', 'GC', 'SG'];
+                const rows = tabela.map(t => {
+                    const posCls = t.pos <= 3 ? 'pos-' + t.pos : '';
+                    return '<tr>' +
+                        '<td class="' + posCls + '">' + t.pos + '</td>' +
+                        '<td>' + esc(t.nome) + '</td>' +
+                        '<td><strong>' + t.Pts + '</strong></td>' +
+                        '<td>' + t.J + '</td>' +
+                        '<td>' + t.V + '</td>' +
+                        '<td>' + t.E + '</td>' +
+                        '<td>' + t.D + '</td>' +
+                        '<td>' + t.GP + '</td>' +
+                        '<td>' + t.GC + '</td>' +
+                        '<td>' + t.SG + '</td>' +
+                        '</tr>';
+                }).join('');
+
+                return '<div class="classif-card">' +
+                    '<h3>' + esc(liga) + '</h3>' +
+                    '<div class="table-wrap"><table><thead><tr>' +
+                    headers.map(h => '<th>' + h + '</th>').join('') +
+                    '</tr></thead><tbody>' + rows + '</tbody></table></div>' +
+                    '<div class="chart-container"><canvas id="' + chartId + '"></canvas></div>' +
+                    '</div>';
+            }).join('');
+
+            entries.forEach(([liga, tabela]) => {
+                const chartId = 'chart-' + liga.replace(/[^a-zA-Z0-9]/g, '-');
+                const canvas = document.getElementById(chartId);
+                if (!canvas) return;
+
+                const top10 = tabela.slice(0, 10);
+                const colors = ['#6c72cb', '#34d399', '#fbbf24', '#f87171', '#a78bfa', '#38bdf8', '#fb923c', '#4ade80', '#e879f9', '#22d3ee'];
+
+                charts.push(new Chart(canvas, {
+                    type: 'bar',
+                    data: {
+                        labels: top10.map(t => t.nome),
+                        datasets: [{
+                            label: 'Pontos',
+                            data: top10.map(t => t.Pts),
+                            backgroundColor: top10.map((_, i) => colors[i % colors.length]),
+                            borderRadius: 6,
+                            borderSkipped: false,
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: { display: false },
+                            title: {
+                                display: true,
+                                text: 'Pontuacao - Top 10',
+                                color: '#8b90a5',
+                                font: { size: 11 }
+                            }
+                        },
+                        scales: {
+                            x: {
+                                ticks: { color: '#8b90a5', font: { size: 9 }, maxRotation: 45 },
+                                grid: { color: 'rgba(45,51,72,0.5)' }
+                            },
+                            y: {
+                                ticks: { color: '#8b90a5', font: { size: 9 }, stepSize: 1 },
+                                grid: { color: 'rgba(45,51,72,0.5)' }
+                            }
+                        }
+                    }
+                }));
+            });
+        }
+
+        function esc(str) {
+            const div = document.createElement('div');
+            div.textContent = str || '';
+            return div.innerHTML;
+        }
+
+        loadData();
+        setInterval(loadData, 60000);
+    </script>
+</body>
+</html>
