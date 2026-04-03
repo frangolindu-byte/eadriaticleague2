@@ -41,10 +41,19 @@ jobs:
           echo "$CREDENTIALS_JSON" > credentials.json
           python telegram_alerts.py || true
 
+      - name: Update Alert Results
+        env:
+          CREDENTIALS_JSON: ${{ secrets.CREDENTIALS_JSON }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          echo "$CREDENTIALS_JSON" > credentials.json
+          python telegram_alerts.py update || true
+
       - name: Commit and push data.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data.json
-          git diff --cached --quiet || git commit -m "chore: update dashboard data [skip ci]"
+          git add docs/data.json sent_alerts.json
+          git diff --cached --quiet || git commit -m "chore: update dashboard data and alert results [skip ci]"
           git push

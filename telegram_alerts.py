@@ -1,87 +1,78 @@
 """
-Telegram Bot de Alertas de Apostas
-Envia alertas automaticos para canal/grupo do Telegram quando
-detecta oportunidades de CONFIANCA ALTA.
+Telegram Bot de Alertas de Apostas - Versao Melhorada
+- Envia alertas com % de assertividade
+- Salva message_id para atualizacao posterior
+- Atualiza com ✅ (bateu) ou 🔥 (nao bateu)
 """
 
 import json
 import logging
 import os
+import sys
 import time
 from datetime import datetime
 from typing import Any, Dict, List
 from urllib.request import Request, urlopen
+from urllib.error import URLError
+
+import gspread
+from google.oauth2.service_account import Credentials
+from collections import defaultdict
 
 from config import Config
 
 logger = logging.getLogger("TelegramAlerts")
 
 # ============================================================
-# Telegram API (sem dependencias externas)
+# Telegram API
 # ============================================================
 
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
 TELEGRAM_URL = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}"
 
+ALERTS_FILE = "sent_alerts.json"
 
-def send_telegram_message(text: str, parse_mode: str = "HTML") -> bool:
-    """Envia mensagem para o canal/grupo do Telegram."""
+
+def telegram_request(method: str, data: dict) -> dict | None:
     if not TELEGRAM_TOKEN or not CHAT_ID:
-        logger.warning("TELEGRAM_BOT_TOKEN ou TELEGRAM_CHAT_ID nao configurados")
-        return False
+        return None
+    url = f"{TELEGRAM_URL}/{method}"
+    req = Request(url, json.dumps(data).encode("utf-8"), {"Content-Type": "application/json"})
+    try:
+        resp = urlopen(req, timeout=15)
+        return json.loads(resp.read().decode())
+    except Exception as e:
+        logger.error("Telegram API error: %s", e)
+        return None
 
-    url = f"{TELEGRAM_URL}/sendMessage"
-    data = json.dumps({
+
+def send_message(text: str) -> int | None:
+    result = telegram_request("sendMessage", {
         "chat_id": CHAT_ID,
         "text": text,
-        "parse_mode": parse_mode,
-        "disable_web_page_preview": True,
-    }).encode("utf-8")
-
-    req = Request(url, data=data, headers={"Content-Type": "application/json"})
-    try:
-        response = urlopen(req, timeout=15)
-        result = json.loads(response.read().decode())
-        if result.get("ok"):
-            logger.info("Alerta enviado com sucesso")
-            return True
-        else:
-            logger.error("Erro Telegram: %s", result.get("description"))
-            return False
-    except Exception as e:
-        logger.error("Falha ao enviar mensagem: %s", e)
-        return False
-
-
-def send_photo(caption: str, photo_url: str = None) -> bool:
-    """Envia foto com legenda (opcional)."""
-    if not TELEGRAM_TOKEN or not CHAT_ID:
-        return False
-
-    url = f"{TELEGRAM_URL}/sendPhoto"
-    data = json.dumps({
-        "chat_id": CHAT_ID,
-        "caption": caption,
         "parse_mode": "HTML",
-    }).encode("utf-8")
+        "disable_web_page_preview": True,
+    })
+    if result and result.get("ok"):
+        return result["result"]["message_id"]
+    return None
 
-    req = Request(url, data=data, headers={"Content-Type": "application/json"})
-    try:
-        response = urlopen(req, timeout=15)
-        return json.loads(response.read().decode()).get("ok", False)
-    except Exception as e:
-        logger.error("Falha ao enviar foto: %s", e)
-        return False
+
+def edit_message(message_id: int, new_text: str) -> bool:
+    result = telegram_request("editMessageText", {
+        "chat_id": CHAT_ID,
+        "message_id": message_id,
+        "text": new_text,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True,
+    })
+    return result.get("ok", False) if result else False
 
 
 # ============================================================
-# Analise de Confrontos (mesma logica do create_betting_sheet)
+# Analise
 # ============================================================
-
-import gspread
-from google.oauth2.service_account import Credentials
-from collections import defaultdict
 
 SCOPES = [
     "https://www.googleapis.com/auth/spreadsheets",
@@ -90,7 +81,6 @@ SCOPES = [
 
 
 def get_data():
-    """Puxa dados da BASE_DIARIA."""
     creds = Credentials.from_service_account_file(
         Config.CREDENTIALS_PATH, scopes=SCOPES
     )
@@ -128,7 +118,6 @@ def calc_player_stats(matches):
         "W": 0, "D": 0, "L": 0, "GP": 0, "GC": 0, "J": 0,
         "over25": 0, "btts": 0, "form": [],
     })
-
     for m in matches:
         if m["status"] != "Finalizado":
             continue
@@ -137,7 +126,6 @@ def calc_player_stats(matches):
             continue
         g1, g2 = score
         total = g1 + g2
-
         for p, gp, gc in [(m["p1"], g1, g2), (m["p2"], g2, g1)]:
             s = stats[p]
             s["J"] += 1
@@ -176,51 +164,7 @@ def calc_player_stats(matches):
     return results
 
 
-def calc_h2h(matches, p1, p2):
-    total = 0
-    w1 = 0
-    w2 = 0
-    draws = 0
-    goals = []
-
-    for m in matches:
-        if m["status"] != "Finalizado":
-            continue
-        if not ((m["p1"] == p1 and m["p2"] == p2) or (m["p1"] == p2 and m["p2"] == p1)):
-            continue
-        score = parse_score(m["placar"])
-        if not score:
-            continue
-        g1, g2 = score
-        goals.append(g1 + g2)
-        total += 1
-
-        if m["p1"] == p1:
-            if g1 > g2:
-                w1 += 1
-            elif g2 > g1:
-                w2 += 1
-            else:
-                draws += 1
-        else:
-            if g2 > g1:
-                w1 += 1
-            elif g1 > g2:
-                w2 += 1
-            else:
-                draws += 1
-
-    return {
-        "total": total,
-        "w1": w1,
-        "w2": w2,
-        "draws": draws,
-        "media_gols": round(sum(goals) / len(goals), 1) if goals else 0,
-    }
-
-
-def find_high_confidence_alerts(matches):
-    """Encontra jogos agendados com confianca ALTA."""
+def find_alerts(matches):
     player_stats = calc_player_stats(matches)
     upcoming = [m for m in matches if m["status"] == "Agendado"]
     alerts = []
@@ -229,7 +173,6 @@ def find_high_confidence_alerts(matches):
         p1, p2 = m["p1"], m["p2"]
         s1 = player_stats.get(p1, {})
         s2 = player_stats.get(p2, {})
-
         j1 = s1.get("jogos", 0)
         j2 = s2.get("jogos", 0)
         wr1 = s1.get("win_rate", 50)
@@ -247,12 +190,9 @@ def find_high_confidence_alerts(matches):
         fw1 = s1.get("forma_wins", 0)
         fw2 = s2.get("forma_wins", 0)
 
-        h2h = calc_h2h(matches, p1, p2)
-
         score = 0
         reasons = []
 
-        # Over 2.5
         over25_avg = (o25_1 + o25_2) / 2 if j1 >= 3 and j2 >= 3 else 94.7
         if over25_avg >= 95:
             score += 40
@@ -261,13 +201,11 @@ def find_high_confidence_alerts(matches):
             score += 25
             reasons.append(f"Over 2.5: {over25_avg:.0f}%")
 
-        # BTTS
         btts_avg = (btts_1 + btts_2) / 2 if j1 >= 3 and j2 >= 3 else 91.9
         if btts_avg >= 90:
             score += 25
             reasons.append(f"BTTS: {btts_avg:.0f}%")
 
-        # Win rate diff
         if j1 >= 5 and j2 >= 5:
             diff = abs(wr1 - wr2)
             if diff >= 30:
@@ -276,29 +214,25 @@ def find_high_confidence_alerts(matches):
                 fav_wr = max(wr1, wr2)
                 reasons.append(f"Vitoria {fav} (WR {fav_wr:.0f}%)")
 
-        # H2H
-        if h2h["total"] >= 2 and h2h["media_gols"] > 7:
-            score += 10
-            reasons.append(f"H2H: {h2h['media_gols']} gols media")
-
-        # Forma
-        if fw1 >= 4 and j1 >= 5:
-            score += 5
-        if fw2 >= 4 and j2 >= 5:
-            score += 5
-
-        # Contra fracos
         if wr1 < 15 and j1 >= 5:
             score += 10
         if wr2 < 15 and j2 >= 5:
             score += 10
 
+        if fw1 >= 4 and j1 >= 5:
+            score += 5
+        if fw2 >= 4 and j2 >= 5:
+            score += 5
+
         if score >= 70:
             fav = p1 if wr1 > wr2 else p2
             fav_wr = max(wr1, wr2)
-            zebra = p2 if wr1 > wr2 else p1
-            zebra_wr = min(wr1, wr2)
             avg_goals = (media1 + gc2 + media2 + gc1) / 2 if j1 >= 3 and j2 >= 3 else 6.5
+
+            win_prob = fav_wr / 100.0
+            over_prob = min(over25_avg / 100.0, 1.0)
+            btts_prob = min(btts_avg / 100.0, 1.0)
+            assertividade = (over_prob * 0.40 + win_prob * 0.35 + btts_prob * 0.25) * 100
 
             alerts.append({
                 "liga": m["liga"],
@@ -311,165 +245,227 @@ def find_high_confidence_alerts(matches):
                 "over25": over25_avg,
                 "btts": btts_avg,
                 "avg_goals": avg_goals,
-                "h2h": h2h,
                 "form1": form1,
                 "form2": form2,
                 "fav": fav,
                 "fav_wr": fav_wr,
-                "zebra": zebra,
-                "zebra_wr": zebra_wr,
                 "score": score,
                 "reasons": reasons,
+                "assertividade": round(assertividade, 1),
             })
 
     return sorted(alerts, key=lambda x: x["score"], reverse=True)
 
 
 # ============================================================
-# Formatacao das Mensagens
+# Formatacao
 # ============================================================
 
-def format_alert_message(alert: Dict[str, Any]) -> str:
-    """Formata mensagem de alerta unico."""
-    emoji_conf = "🟢" if alert["score"] >= 90 else "🟡"
-
-    h2h_text = ""
-    if alert["h2h"]["total"] > 0:
-        h2h_text = (
-            f"\n📊 <b>H2H ({alert['h2h']['total']} jogos):</b>\n"
-            f"   {alert['h2h']['media_gols']} gols de media"
-        )
-
+def format_alert(alert: Dict) -> str:
+    emoji = "🟢" if alert["score"] >= 90 else "🟡"
     reasons_text = "\n".join([f"   ✅ {r}" for r in alert["reasons"]])
 
     msg = (
-        f"🚨 <b>ALERTA DE APOSTA - CONFIANCA ALTA</b> {emoji_conf}\n"
+        f"🚨 <b>ALERTA DE APOSTA</b> {emoji}\n"
         f"━━━━━━━━━━━━━━━━━━━━━\n\n"
         f"⚽ <b>{alert['p1']}</b> vs <b>{alert['p2']}</b>\n"
         f"🏆 {alert['liga']}\n\n"
+        f"📊 <b>Assertividade: {alert['assertividade']:.1f}%</b>\n\n"
         f"📈 <b>Estatisticas:</b>\n"
-        f"   {alert['p1']}: WR {alert['wr1']:.0f}% ({alert['j1']} jogos) | Forma: {alert['form1']}\n"
-        f"   {alert['p2']}: WR {alert['wr2']:.0f}% ({alert['j2']} jogos) | Forma: {alert['form2']}\n"
+        f"   {alert['p1']}: WR {alert['wr1']:.0f}% ({alert['j1']}j) | Forma: {alert['form1']}\n"
+        f"   {alert['p2']}: WR {alert['wr2']:.0f}% ({alert['j2']}j) | Forma: {alert['form2']}\n"
         f"   Over 2.5: {alert['over25']:.0f}% | BTTS: {alert['btts']:.0f}%\n"
-        f"   Media estimada: {alert['avg_goals']:.1f} gols{h2h_text}\n\n"
+        f"   Media estimada: {alert['avg_goals']:.1f} gols\n\n"
         f"💡 <b>Recomendacoes:</b>\n"
         f"{reasons_text}\n\n"
-        f"🎯 <b>Dica Principal:</b>\n"
-        f"   Over 2.5 Gols + Vitoria {alert['fav']}\n\n"
-        f"⚠️ <i>Aposte com responsabilidade. Gerencie sua banca.</i>\n"
+        f"🎯 <b>Dica:</b> Over 2.5 + Vitoria {alert['fav']}\n\n"
+        f"⏳ <i>Aguardando resultado...</i>\n"
         f"━━━━━━━━━━━━━━━━━━━━━"
     )
     return msg
 
 
-def format_daily_summary(alerts: List[Dict[str, Any]]) -> str:
-    """Resumo diario com todos os alertas."""
-    now = datetime.now().strftime("%d/%m/%Y %H:%M")
+def format_result_update(alert: Dict, placar: str, bateu: bool) -> str:
+    emoji = "🟢" if alert["score"] >= 90 else "🟡"
+    reasons_text = "\n".join([f"   ✅ {r}" for r in alert["reasons"]])
+
+    if bateu:
+        result_icon = "✅"
+        result_text = "GREEN! Aposta bateu!"
+    else:
+        result_icon = "🔥"
+        result_text = "RED! Nao bateu."
 
     msg = (
-        f"📋 <b>RESUMO DIARIO DE OPORTUNIDADES</b>\n"
-        f"🕐 {now}\n"
+        f"🚨 <b>ALERTA DE APOSTA</b> {emoji}\n"
         f"━━━━━━━━━━━━━━━━━━━━━\n\n"
-        f"🔥 <b>{len(alerts)} oportunidades de ALTA confianca detectadas</b>\n\n"
-    )
-
-    for i, a in enumerate(alerts[:10], 1):
-        emoji = "🟢" if a["score"] >= 90 else "🟡"
-        msg += (
-            f"{emoji} <b>{i}. {a['p1']} vs {a['p2']}</b>\n"
-            f"   WR: {a['wr1']:.0f}% vs {a['wr2']:.0f}% | Over 2.5: {a['over25']:.0f}%\n"
-            f"   Dica: Over 2.5 + Vitoria {a['fav']}\n\n"
-        )
-
-    if len(alerts) > 10:
-        msg += f"   ...e mais {len(alerts) - 10} oportunidades\n\n"
-
-    msg += (
-        f"⚠️ <i>Aposte com responsabilidade.</i>\n"
+        f"⚽ <b>{alert['p1']}</b> vs <b>{alert['p2']}</b>\n"
+        f"🏆 {alert['liga']}\n\n"
+        f"📊 <b>Assertividade: {alert['assertividade']:.1f}%</b>\n\n"
+        f"📈 <b>Estatisticas:</b>\n"
+        f"   {alert['p1']}: WR {alert['wr1']:.0f}% ({alert['j1']}j) | Forma: {alert['form1']}\n"
+        f"   {alert['p2']}: WR {alert['wr2']:.0f}% ({alert['j2']}j) | Forma: {alert['form2']}\n"
+        f"   Over 2.5: {alert['over25']:.0f}% | BTTS: {alert['btts']:.0f}%\n"
+        f"   Media estimada: {alert['avg_goals']:.1f} gols\n\n"
+        f"💡 <b>Recomendacoes:</b>\n"
+        f"{reasons_text}\n\n"
+        f"🎯 <b>Dica:</b> Over 2.5 + Vitoria {alert['fav']}\n\n"
+        f"{result_icon} <b>{result_text}</b>\n"
+        f"   Placar final: <b>{placar}</b>\n"
         f"━━━━━━━━━━━━━━━━━━━━━"
     )
     return msg
 
 
 # ============================================================
-# Controle de Alertas Enviados (evita duplicatas)
+# Persistencia
 # ============================================================
 
-ALERTS_FILE = "sent_alerts.json"
+def load_json(filepath: str) -> list:
+    if os.path.exists(filepath):
+        with open(filepath, "r") as f:
+            return json.load(f)
+    return []
 
 
-def load_sent_alerts() -> set:
-    if os.path.exists(ALERTS_FILE):
-        with open(ALERTS_FILE, "r") as f:
-            return set(json.load(f))
-    return set()
-
-
-def save_sent_alerts(alerts: set):
-    with open(ALERTS_FILE, "w") as f:
-        json.dump(list(alerts), f)
+def save_json(filepath: str, data: list):
+    with open(filepath, "w") as f:
+        json.dump(data, f, indent=2)
 
 
 def get_alert_key(alert: Dict) -> str:
-    """Chave unica para cada alerta (liga + jogadores)."""
     players = sorted([alert["p1"], alert["p2"]])
     return f"{alert['liga']}|{players[0]}|{players[1]}"
 
 
 # ============================================================
-# Main
+# Main - Enviar Alertas
 # ============================================================
 
-def main():
+def send_alerts():
     if not TELEGRAM_TOKEN or not CHAT_ID:
-        print("ERRO: Configure TELEGRAM_BOT_TOKEN e TELEGRAM_CHAT_ID nas variaveis de ambiente")
+        print("ERRO: TELEGRAM_BOT_TOKEN e TELEGRAM_CHAT_ID nao configurados")
         return
 
     print("Buscando dados...")
     matches = get_data()
     agendados = [m for m in matches if m["status"] == "Agendado"]
-    print(f"  {len(agendados)} jogos agendados encontrados")
+    print(f"  {len(agendados)} jogos agendados")
 
     print("Analisando oportunidades...")
-    alerts = find_high_confidence_alerts(matches)
+    alerts = find_alerts(matches)
     print(f"  {len(alerts)} oportunidades de ALTA confianca")
 
     if not alerts:
-        print("Nenhum alerta de alta confianca no momento.")
+        print("Nenhum alerta novo.")
         return
 
-    # Carrega alertas ja enviados
-    sent = load_sent_alerts()
-    new_alerts = []
+    sent = load_json(ALERTS_FILE)
+    sent_keys = {s.get("key", "") for s in sent}
 
+    new_alerts = []
     for alert in alerts:
         key = get_alert_key(alert)
-        if key not in sent:
+        if key not in sent_keys:
+            alert["key"] = key
             new_alerts.append(alert)
-            sent.add(key)
 
     if not new_alerts:
-        print("Todos os alertas ja foram enviados anteriormente.")
+        print("Todos os alertas ja foram enviados.")
         return
 
-    # Envia alertas individuais
-    print(f"\nEnviando {len(new_alerts)} novos alertas...")
+    print(f"\nEnviando {len(new_alerts)} alertas...")
     for i, alert in enumerate(new_alerts, 1):
-        msg = format_alert_message(alert)
-        success = send_telegram_message(msg)
-        status = "OK" if success else "FALHOU"
-        print(f"  [{i}/{len(new_alerts)}] {alert['p1']} vs {alert['p2']} - {status}")
-        time.sleep(1)  # Evita rate limit
+        msg = format_alert(alert)
+        msg_id = send_message(msg)
+        if msg_id:
+            alert["message_id"] = msg_id
+            sent.append(alert)
+            print(f"  [{i}/{len(new_alerts)}] {alert['p1']} vs {alert['p2']} - ENVIADO (msg_id={msg_id})")
+        else:
+            print(f"  [{i}/{len(new_alerts)}] {alert['p1']} vs {alert['p2']} - FALHOU")
+        time.sleep(1.5)
 
-    # Envia resumo
-    if len(new_alerts) > 1:
-        summary = format_daily_summary(new_alerts)
-        send_telegram_message(summary)
-        print("  Resumo diario enviado")
+    save_json(ALERTS_FILE, sent)
+    print(f"\nTotal enviados: {len(new_alerts)}")
 
-    # Salva estado
-    save_sent_alerts(sent)
-    print(f"\nTotal de alertas enviados: {len(new_alerts)}")
+
+# ============================================================
+# Main - Atualizar Resultados
+# ============================================================
+
+def update_results():
+    if not TELEGRAM_TOKEN or not CHAT_ID:
+        print("Telegram nao configurado.")
+        return
+
+    print("Buscando dados para atualizar resultados...")
+    matches = get_data()
+    finalizados = {}
+    for m in matches:
+        if m["status"] == "Finalizado":
+            finalizados[m["p1"] + "|" + m["p2"]] = m
+            finalizados[m["p2"] + "|" + m["p1"]] = m
+
+    sent = load_json(ALERTS_FILE)
+    updated_count = 0
+
+    for alert in sent:
+        if alert.get("result_checked"):
+            continue
+
+        key = alert.get("key", "")
+        parts = key.split("|")
+        if len(parts) < 3:
+            continue
+
+        p1 = parts[1]
+        p2 = parts[2]
+
+        result_match = finalizados.get(p1 + "|" + p2)
+        if not result_match:
+            continue
+
+        placar = result_match["placar"]
+        score = parse_score(placar)
+        if not score:
+            alert["result_checked"] = True
+            continue
+
+        g1, g2 = score
+        total_goals = g1 + g2
+        fav = alert["fav"]
+        fav_is_p1 = fav == p1
+        fav_goals = g1 if fav_is_p1 else g2
+        underdog_goals = g2 if fav_is_p1 else g1
+
+        over25_hit = total_goals > 2.5
+        fav_win = fav_goals > underdog_goals
+        bateu = over25_hit and fav_win
+
+        msg_id = alert.get("message_id")
+        if msg_id:
+            new_msg = format_result_update(alert, placar, bateu)
+            success = edit_message(msg_id, new_msg)
+            if success:
+                print(f"  {'✅ GREEN' if bateu else '🔥 RED'}: {p1} vs {p2} = {placar}")
+            else:
+                print(f"  ⚠️ Falha ao editar: {p1} vs {p2}")
+
+        alert["result_checked"] = True
+        alert["result_placar"] = placar
+        alert["result_status"] = "bateu" if bateu else "errou"
+        updated_count += 1
+
+    save_json(ALERTS_FILE, sent)
+    print(f"Resultados atualizados: {updated_count}")
+
+
+def main():
+    if len(sys.argv) > 1 and sys.argv[1] == "update":
+        update_results()
+    else:
+        send_alerts()
 
 
 if __name__ == "__main__":
