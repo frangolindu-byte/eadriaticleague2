@@ -1,14 +1,16 @@
 """
-Telegram Bot de Alertas de Apostas
-- Só envia jogos que AINDA NÃO COMEÇARAM (status == "Agendado")
-- Mostra % de assertividade
-- Atualiza mensagem com ✅ GREEN ou 🔥 RED após resultado
+Telegram Bot de Alertas de Apostas - eAdriatic League
+- Envia apenas jogos do DIA ATUAL
+- Maximo 5 alertas por rodada (melhores)
+- Over 6.5 gols (ajustado para a liga)
+- Atualiza com GREEN ou RED apos resultado
 """
 
 import json
 import os
 import sys
 import time
+from datetime import datetime
 from urllib.request import Request, urlopen
 
 import gspread
@@ -21,6 +23,7 @@ TELEGRAM_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
 TELEGRAM_URL = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}"
 ALERTS_FILE = "sent_alerts.json"
+MAX_ALERTS_PER_RUN = 5
 
 SCOPES = [
     "https://www.googleapis.com/auth/spreadsheets",
@@ -80,6 +83,23 @@ def get_matches():
     return data
 
 
+def get_today_str():
+    """Retorna data de hoje no formato DD.MM.YYYY (ex: 03.04.2026)."""
+    return datetime.now().strftime("%d.%m.%Y")
+
+
+def get_today_games(matches):
+    """Filtra apenas jogos do dia atual."""
+    today = get_today_str()
+    today_games = []
+    for m in matches:
+        liga = m.get("liga", "")
+        # Extrai data do nome da liga: FC26 R324(INTERNATIONAL)03.04.2026
+        if today in liga:
+            today_games.append(m)
+    return today_games
+
+
 def parse_score(placar):
     if not placar or "-" not in placar:
         return None
@@ -89,6 +109,10 @@ def parse_score(placar):
     except (ValueError, IndexError):
         return None
 
+
+# ============================================================
+# Stats
+# ============================================================
 
 def player_stats(matches):
     s = defaultdict(lambda: {"W": 0, "D": 0, "L": 0, "GP": 0, "GC": 0, "J": 0, "o65": 0, "btts": 0, "form": []})
@@ -127,9 +151,13 @@ def player_stats(matches):
 # ============================================================
 
 def find_alerts(matches):
+    """Encontra melhores jogos do dia com score alto."""
     ps = player_stats(matches)
-    upcoming = [m for m in matches if m["status"] == "Agendado"]
-    print(f"  Jogos Agendados (nao comecaram): {len(upcoming)}")
+    today = get_today_str()
+
+    # Apenas agendados do dia
+    upcoming = [m for m in matches if m["status"] == "Agendado" and today in m.get("liga", "")]
+    print(f"  Jogos agendados HOJE ({today}): {len(upcoming)}")
 
     alerts = []
     for m in upcoming:
@@ -146,14 +174,17 @@ def find_alerts(matches):
         score = 0
         reasons = []
 
+        # Over 6.5
         o65 = (o1 + o2) / 2 if j1 >= 3 and j2 >= 3 else 47.4
         if o65 >= 70: score += 40; reasons.append(f"Over 6.5: {o65:.0f}%")
         elif o65 >= 60: score += 30; reasons.append(f"Over 6.5: {o65:.0f}%")
         elif o65 >= 50: score += 20; reasons.append(f"Over 6.5: {o65:.0f}%")
 
+        # BTTS
         btts = (bt1 + bt2) / 2 if j1 >= 3 and j2 >= 3 else 91.9
         if btts >= 90: score += 25; reasons.append(f"BTTS: {btts:.0f}%")
 
+        # Win rate diff
         if j1 >= 5 and j2 >= 5:
             diff = abs(w1 - w2)
             if diff >= 30:
@@ -161,9 +192,11 @@ def find_alerts(matches):
                 score += 20
                 reasons.append(f"Vitoria {fav} (WR {max(w1,w2):.0f}%)")
 
+        # Contra fracos
         if w1 < 15 and j1 >= 5: score += 10
         if w2 < 15 and j2 >= 5: score += 10
 
+        # So aceita se score >= 60
         if score >= 60:
             fav = p1 if w1 > w2 else p2
             avg_g = (gp1 + gc2 + gp2 + gc1) / 2 if j1 >= 3 and j2 >= 3 else 6.5
@@ -178,11 +211,17 @@ def find_alerts(matches):
                 "assertividade": round(assertividade, 1),
             })
 
-    return sorted(alerts, key=lambda x: x["score"], reverse=True)
+    # Ordena por score e pega apenas os TOP 5
+    alerts.sort(key=lambda x: x["score"], reverse=True)
+    top = alerts[:MAX_ALERTS_PER_RUN]
+    print(f"  Alertas qualificados (score>=60): {len(alerts)}")
+    print(f"  Top {MAX_ALERTS_PER_RUN} selecionados")
+
+    return top
 
 
 def fmt_alert(a):
-    reasons = "\n".join(f"   ✅ {r}" for r in a["reasons"])
+    reasons = "\n".join(f"   {r}" for r in a["reasons"])
     return (
         f"🚨 <b>ALERTA DE APOSTA</b>\n"
         f"━━━━━━━━━━━━━━━━━━━━━\n\n"
@@ -203,7 +242,7 @@ def fmt_alert(a):
 
 
 def fmt_result(a, placar, bateu):
-    reasons = "\n".join(f"   ✅ {r}" for r in a["reasons"])
+    reasons = "\n".join(f"   {r}" for r in a["reasons"])
     icon = "✅" if bateu else "🔥"
     txt = "GREEN! Aposta bateu!" if bateu else "RED! Nao bateu."
     return (
@@ -225,6 +264,10 @@ def fmt_result(a, placar, bateu):
         f"━━━━━━━━━━━━━━━━━━━━━"
     )
 
+
+# ============================================================
+# Persistencia
+# ============================================================
 
 def load_sent():
     if os.path.exists(ALERTS_FILE):
@@ -254,15 +297,15 @@ def send_alerts():
 
     print("Buscando dados do Google Sheets...")
     matches = get_matches()
+    today = get_today_str()
+    print(f"  Data de hoje: {today}")
     print(f"  Total de partidas: {len(matches)}")
-    print(f"  Finalizados: {len([m for m in matches if m['status'] == 'Finalizado'])}")
-    print(f"  Agendados: {len([m for m in matches if m['status'] == 'Agendado'])}")
 
     alerts = find_alerts(matches)
-    print(f"  Alertas com score >= 70: {len(alerts)}")
+    print(f"  Top {MAX_ALERTS_PER_RUN} alertas selecionados")
 
     if not alerts:
-        print("  Nenhum alerta de alta confianca no momento.")
+        print("  Nenhum alerta qualificado hoje.")
         return
 
     sent = load_sent()
@@ -278,7 +321,7 @@ def send_alerts():
             print(f"  Ja enviado: {a['p1']} vs {a['p2']}")
 
     if not new:
-        print("  Todos os alertas ja foram enviados anteriormente.")
+        print("  Todos os alertas de hoje ja foram enviados.")
         return
 
     print(f"\nEnviando {len(new)} alerta(s)...")
@@ -304,7 +347,6 @@ def update_results():
     print("Buscando resultados...")
     matches = get_matches()
 
-    # Mapa de jogos finalizados (ambas as ordens)
     done = {}
     for m in matches:
         if m["status"] == "Finalizado":
@@ -344,7 +386,7 @@ def update_results():
         if msg_id:
             new_msg = fmt_result(a, placar, bateu)
             ok = edit_msg(msg_id, new_msg)
-            print(f"  {'✅ GREEN' if bateu else '🔥 RED'}: {p1} vs {p2} = {placar} (edit={'ok' if ok else 'falha'})")
+            print(f"  {'GREEN' if bateu else 'RED'}: {p1} vs {p2} = {placar} (edit={'ok' if ok else 'falha'})")
 
         a["result_checked"] = True
         a["result_placar"] = placar
