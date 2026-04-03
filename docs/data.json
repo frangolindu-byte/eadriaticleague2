@@ -1,9 +1,9 @@
 {
-  "updated_at": "03/04/2026 13:39:39",
+  "updated_at": "03/04/2026 14:29:00",
   "summary": {
     "total": 360,
-    "finalizados": 232,
-    "agendados": 128,
+    "finalizados": 246,
+    "agendados": 114,
     "ligas": 20
   },
   "jogos": [
@@ -1621,57 +1621,57 @@
       "liga": "FC26 R319(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Bayern M. (MisterX)",
       "p2": "PSG (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R319(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Real Madrid (Donatello)",
       "p2": "Barcelona (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R319(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Bayern M. (MisterX)",
       "p2": "Barcelona (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R319(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "PSG (Logan)",
       "p2": "Liverpool (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R319(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Bayern M. (MisterX)",
       "p2": "Liverpool (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R319(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "PSG (Logan)",
       "p2": "Real Madrid (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R319(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "PSG (Logan)",
       "p2": "Barcelona (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R319(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Real Madrid (Donatello)",
       "p2": "Liverpool (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R319(CHAMPIONS LEAGUE)03.04.2026",
@@ -1747,43 +1747,43 @@
       "liga": "FC26 R320(LA LIGA)03.04.2026",
       "p1": "Barcelona (Pascal)",
       "p2": "Villarreal (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R320(LA LIGA)03.04.2026",
       "p1": "Real Madrid (Kai)",
       "p2": "Real Sociedad (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R320(LA LIGA)03.04.2026",
       "p1": "Real Madrid (Kai)",
       "p2": "Atletico Madrid (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R320(LA LIGA)03.04.2026",
       "p1": "Real Sociedad (Lucas)",
       "p2": "Villarreal (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R320(LA LIGA)03.04.2026",
       "p1": "Atletico Madrid (Haidan)",
       "p2": "Barcelona (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R320(LA LIGA)03.04.2026",
       "p1": "Real Madrid (Kai)",
       "p2": "Villarreal (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R320(LA LIGA)03.04.2026",
@@ -2591,13 +2591,13 @@
     },
     "FC26 R319(CHAMPIONS LEAGUE)03.04.2026": {
       "total": 20,
-      "finalizados": 4,
-      "agendados": 16
+      "finalizados": 12,
+      "agendados": 8
     },
     "FC26 R320(LA LIGA)03.04.2026": {
       "total": 20,
-      "finalizados": 2,
-      "agendados": 18
+      "finalizados": 8,
+      "agendados": 12
     },
     "FC26 R321(PREMIER LEAGUE)03.04.2026": {
       "total": 20,
@@ -3377,114 +3377,126 @@
     ],
     "FC26 R319(CHAMPIONS LEAGUE)03.04.2026": [
       {
-        "nome": "Liverpool (Liam)",
-        "Pts": 4,
-        "J": 2,
-        "V": 1,
+        "nome": "PSG (Logan)",
+        "Pts": 13,
+        "J": 5,
+        "V": 4,
         "E": 1,
         "D": 0,
-        "GP": 10,
-        "GC": 6,
-        "SG": 4,
+        "GP": 16,
+        "GC": 10,
+        "SG": 6,
         "pos": 1
       },
       {
         "nome": "Barcelona (Noah)",
-        "Pts": 2,
-        "J": 2,
-        "V": 0,
+        "Pts": 8,
+        "J": 5,
+        "V": 2,
         "E": 2,
-        "D": 0,
-        "GP": 6,
-        "GC": 6,
-        "SG": 0,
+        "D": 1,
+        "GP": 15,
+        "GC": 10,
+        "SG": 5,
         "pos": 2
       },
       {
-        "nome": "Bayern M. (MisterX)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
+        "nome": "Liverpool (Liam)",
+        "Pts": 4,
+        "J": 5,
+        "V": 1,
         "E": 1,
-        "D": 0,
-        "GP": 4,
-        "GC": 4,
-        "SG": 0,
+        "D": 3,
+        "GP": 20,
+        "GC": 21,
+        "SG": -1,
         "pos": 3
       },
       {
-        "nome": "PSG (Logan)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
+        "nome": "Bayern M. (MisterX)",
+        "Pts": 4,
+        "J": 4,
+        "V": 1,
         "E": 1,
-        "D": 0,
-        "GP": 2,
-        "GC": 2,
-        "SG": 0,
+        "D": 2,
+        "GP": 10,
+        "GC": 14,
+        "SG": -4,
         "pos": 4
       },
       {
         "nome": "Real Madrid (Donatello)",
-        "Pts": 1,
-        "J": 2,
-        "V": 0,
+        "Pts": 4,
+        "J": 5,
+        "V": 1,
         "E": 1,
-        "D": 1,
-        "GP": 6,
-        "GC": 10,
-        "SG": -4,
+        "D": 3,
+        "GP": 15,
+        "GC": 21,
+        "SG": -6,
         "pos": 5
       }
     ],
     "FC26 R320(LA LIGA)03.04.2026": [
       {
         "nome": "Barcelona (Pascal)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
         "E": 0,
         "D": 0,
-        "GP": 5,
-        "GC": 2,
-        "SG": 3,
+        "GP": 14,
+        "GC": 9,
+        "SG": 5,
         "pos": 1
       },
       {
         "nome": "Villarreal (Dexter)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
-        "E": 0,
-        "D": 0,
-        "GP": 4,
-        "GC": 2,
-        "SG": 2,
+        "Pts": 7,
+        "J": 4,
+        "V": 2,
+        "E": 1,
+        "D": 1,
+        "GP": 11,
+        "GC": 8,
+        "SG": 3,
         "pos": 2
       },
       {
-        "nome": "Atletico Madrid (Haidan)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
-        "E": 0,
+        "nome": "Real Madrid (Kai)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
         "D": 1,
-        "GP": 2,
-        "GC": 4,
-        "SG": -2,
+        "GP": 8,
+        "GC": 7,
+        "SG": 1,
         "pos": 3
+      },
+      {
+        "nome": "Atletico Madrid (Haidan)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 10,
+        "GC": 12,
+        "SG": -2,
+        "pos": 4
       },
       {
         "nome": "Real Sociedad (Lucas)",
         "Pts": 0,
-        "J": 1,
+        "J": 3,
         "V": 0,
         "E": 0,
-        "D": 1,
-        "GP": 2,
-        "GC": 5,
-        "SG": -3,
-        "pos": 4
+        "D": 3,
+        "GP": 3,
+        "GC": 10,
+        "SG": -7,
+        "pos": 5
       }
     ]
   }
