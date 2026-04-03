@@ -494,7 +494,7 @@
             color: var(--text-muted);
         }
 
-        .table-scroll { overflow-x: auto; }
+        .table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
 
         table {
             width: 100%;
@@ -1011,26 +1011,89 @@
 
         /* === RESPONSIVE === */
         @media (max-width: 1024px) {
-            .stats-grid { grid-template-columns: repeat(2, 1fr); }
-            .classif-grid { grid-template-columns: 1fr; }
+            .stats-grid { grid-template-columns: repeat(4, 1fr); }
+            .classif-grid { grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); }
+            .content { padding: 24px 20px 60px; }
         }
 
-        @media (max-width: 768px) {
-            .sidebar { transform: translateX(-100%); }
+        @media (max-width: 860px) {
+            .sidebar {
+                transform: translateX(-100%);
+                z-index: 500;
+                box-shadow: var(--shadow-lg);
+            }
             .sidebar.open { transform: translateX(0); }
+            .sidebar-overlay {
+                display: none;
+                position: fixed;
+                inset: 0;
+                background: rgba(0,0,0,0.5);
+                z-index: 400;
+            }
+            .sidebar-overlay.active { display: block; }
             .main { margin-left: 0; }
             .mobile-toggle { display: flex; }
             .topbar { padding: 12px 16px; }
-            .content { padding: 20px 16px 80px; }
+            .content { padding: 16px 12px 80px; }
             .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
-            .stat-card { padding: 16px; }
+            .stat-card { padding: 14px; }
             .stat-card .value { font-size: 1.5rem; }
+            .stat-card .label { font-size: 0.72rem; }
+            .classif-grid { grid-template-columns: 1fr; }
             .filter-bar { gap: 6px; }
-            .resumo-grid { grid-template-columns: 1fr; }
+            .resumo-container { grid-template-columns: 1fr; }
+            .resumo-overview { position: static; }
+            .tabs { width: 100%; }
+            .tab { flex: 1; text-align: center; padding: 10px 12px; }
+            .search-box { max-width: 100%; }
+            .topbar-actions .btn span { display: none; }
+            .topbar { gap: 10px; }
+            .topbar > span:last-child { display: none; }
+            .credit-text { display: none; }
         }
 
         @media (max-width: 480px) {
-            .stats-grid { grid-template-columns: 1fr 1fr; }
+            .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 8px; }
+            .stat-card { padding: 12px; }
+            .stat-card .value { font-size: 1.3rem; }
+            .stat-card .label { font-size: 0.68rem; }
+            .stat-card .icon { width: 32px; height: 32px; margin-bottom: 10px; }
+            .stat-card .icon svg { width: 16px; height: 16px; }
+            .content { padding: 12px 8px 80px; }
+            .topbar { padding: 10px 12px; flex-wrap: wrap; }
+            .search-box { order: 3; max-width: 100%; flex-basis: 100%; }
+            .search-box input { padding: 8px 14px 8px 36px; font-size: 0.82rem; }
+            .tabs { width: 100%; }
+            .tab { padding: 8px 8px; font-size: 0.75rem; }
+            .filter-bar { gap: 4px; }
+            .filter-chip { padding: 5px 10px; font-size: 0.7rem; }
+            .filter-divider { height: 20px; }
+            .table-header { padding: 12px 14px; flex-direction: column; align-items: flex-start; gap: 4px; }
+            .table-header h3 { font-size: 0.85rem; }
+            table { font-size: 0.78rem; }
+            thead th { padding: 10px 10px; font-size: 0.65rem; }
+            td { padding: 10px 10px; }
+            .team-cell { gap: 8px; }
+            .team-avatar, .team-badge { width: 28px; height: 28px; }
+            .team-badge img { width: 20px; height: 20px; }
+            .team-name { font-size: 0.78rem; }
+            .score-display { font-size: 0.85rem; }
+            .badge { font-size: 0.65rem; padding: 3px 8px; }
+            .liga-tag { font-size: 0.65rem; padding: 2px 8px; }
+            .classif-table { font-size: 0.72rem; }
+            .classif-table thead th { padding: 6px 3px; font-size: 0.58rem; }
+            .classif-table tbody td { padding: 6px 3px; }
+            .classif-table .player-name { font-size: 0.7rem; }
+            .classif-table .pts { font-size: 0.76rem; }
+            .classif-header { padding: 12px 14px; }
+            .classif-header h3 { font-size: 0.82rem; }
+            .classif-chart { height: 140px; padding: 8px 10px 12px; }
+            .resumo-row { padding: 10px 14px; gap: 10px; }
+            .resumo-row .name { font-size: 0.76rem; }
+            .resumo-row .stats { gap: 10px; }
+            .resumo-row .stat .val { font-size: 0.88rem; }
+            .resumo-row .stat .lbl { font-size: 0.55rem; }
+            .mobile-toggle { bottom: 16px; right: 16px; width: 44px; height: 44px; }
         }
 
         /* === SCROLLBAR === */
@@ -1086,6 +1149,7 @@
             <span id="last-update">Atualizando...</span>
         </div>
     </aside>
+    <div class="sidebar-overlay" id="sidebar-overlay"></div>
 
     <!-- MAIN -->
     <div class="main">
@@ -1101,7 +1165,7 @@
                     Atualizar
                 </button>
             </div>
-            <span style="font-size:0.7rem;color:var(--text-muted);white-space:nowrap">Dashboard criado por <strong style="color:var(--accent-light)">FRg</strong></span>
+            <span style="font-size:0.7rem;color:var(--text-muted);white-space:nowrap" class="credit-text">Dashboard criado por <strong style="color:var(--accent-light)">FRg</strong></span>
         </header>
 
         <div class="content">
@@ -1695,13 +1759,19 @@
         // === MOBILE ===
         function toggleSidebar() {
             document.getElementById('sidebar').classList.toggle('open');
+            document.getElementById('sidebar-overlay').classList.toggle('active');
         }
 
         function closeSidebarMobile() {
-            if (window.innerWidth <= 768) {
+            if (window.innerWidth <= 860) {
                 document.getElementById('sidebar').classList.remove('open');
+                document.getElementById('sidebar-overlay').classList.remove('active');
             }
         }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('sidebar-overlay').addEventListener('click', closeSidebarMobile);
+        });
 
         // === LOAD DATA ===
         async function loadData() {
