@@ -1,9 +1,9 @@
 {
-  "updated_at": "03/04/2026 07:45:14",
+  "updated_at": "03/04/2026 08:35:42",
   "summary": {
     "total": 360,
-    "finalizados": 144,
-    "agendados": 216,
+    "finalizados": 156,
+    "agendados": 204,
     "ligas": 20
   },
   "jogos": [
@@ -1019,57 +1019,57 @@
       "liga": "FC26 R314(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Manchester City (Maverick)",
       "p2": "Monaco (Bruno)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R314(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Real Madrid (Arthur)",
       "p2": "Barcelona (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R315(SERIA A)03.04.2026",
       "p1": "Juventus (Adriano)",
       "p2": "Fiorentina (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R315(SERIA A)03.04.2026",
       "p1": "Lazio (Cleo)",
       "p2": "Atalanta (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R315(SERIA A)03.04.2026",
       "p1": "Lazio (Cleo)",
       "p2": "Juventus (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R315(SERIA A)03.04.2026",
       "p1": "Milan (Leonardo)",
       "p2": "Atalanta (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R315(SERIA A)03.04.2026",
       "p1": "Atalanta (Oliver)",
       "p2": "Juventus (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R315(SERIA A)03.04.2026",
       "p1": "Milan (Leonardo)",
       "p2": "Fiorentina (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R315(SERIA A)03.04.2026",
@@ -1173,29 +1173,29 @@
       "liga": "FC26 R316(INTERNATIONAL)03.04.2026",
       "p1": "Holland (VanGogh)",
       "p2": "Portugal (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R316(INTERNATIONAL)03.04.2026",
       "p1": "Spain (Maverick)",
       "p2": "France (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R316(INTERNATIONAL)03.04.2026",
       "p1": "Denmark (Bruno)",
       "p2": "France (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R316(INTERNATIONAL)03.04.2026",
       "p1": "Spain (Maverick)",
       "p2": "Holland (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R316(INTERNATIONAL)03.04.2026",
@@ -2566,18 +2566,18 @@
     },
     "FC26 R314(CHAMPIONS LEAGUE)03.04.2026": {
       "total": 20,
-      "finalizados": 18,
-      "agendados": 2
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R315(SERIA A)03.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 6,
+      "agendados": 14
     },
     "FC26 R316(INTERNATIONAL)03.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 4,
+      "agendados": 16
     },
     "FC26 R317(CHAMPIONS LEAGUE)03.04.2026": {
       "total": 20,
@@ -3067,28 +3067,40 @@
     ],
     "FC26 R314(CHAMPIONS LEAGUE)03.04.2026": [
       {
-        "nome": "Monaco (Bruno)",
-        "Pts": 16,
-        "J": 7,
-        "V": 5,
-        "E": 1,
-        "D": 1,
-        "GP": 34,
-        "GC": 22,
+        "nome": "Manchester City (Maverick)",
+        "Pts": 18,
+        "J": 8,
+        "V": 6,
+        "E": 0,
+        "D": 2,
+        "GP": 40,
+        "GC": 28,
         "SG": 12,
         "pos": 1
       },
       {
-        "nome": "Manchester City (Maverick)",
-        "Pts": 15,
-        "J": 7,
+        "nome": "Monaco (Bruno)",
+        "Pts": 16,
+        "J": 8,
         "V": 5,
-        "E": 0,
+        "E": 1,
         "D": 2,
-        "GP": 35,
-        "GC": 25,
+        "GP": 37,
+        "GC": 27,
         "SG": 10,
         "pos": 2
+      },
+      {
+        "nome": "Barcelona (Andrew)",
+        "Pts": 12,
+        "J": 8,
+        "V": 4,
+        "E": 0,
+        "D": 4,
+        "GP": 25,
+        "GC": 24,
+        "SG": 1,
+        "pos": 3
       },
       {
         "nome": "Bayern M. (VanGogh)",
@@ -3100,30 +3112,142 @@
         "GP": 32,
         "GC": 32,
         "SG": 0,
-        "pos": 3
-      },
-      {
-        "nome": "Barcelona (Andrew)",
-        "Pts": 9,
-        "J": 7,
-        "V": 3,
-        "E": 0,
-        "D": 4,
-        "GP": 22,
-        "GC": 23,
-        "SG": -1,
         "pos": 4
       },
       {
         "nome": "Real Madrid (Arthur)",
         "Pts": 3,
-        "J": 7,
+        "J": 8,
         "V": 1,
         "E": 0,
-        "D": 6,
-        "GP": 19,
-        "GC": 40,
-        "SG": -21,
+        "D": 7,
+        "GP": 20,
+        "GC": 43,
+        "SG": -23,
+        "pos": 5
+      }
+    ],
+    "FC26 R315(SERIA A)03.04.2026": [
+      {
+        "nome": "Lazio (Cleo)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 9,
+        "GC": 6,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "Atalanta (Oliver)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 13,
+        "GC": 12,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Fiorentina (Matrix)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 10,
+        "GC": 7,
+        "SG": 3,
+        "pos": 3
+      },
+      {
+        "nome": "Milan (Leonardo)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 8,
+        "GC": 9,
+        "SG": -1,
+        "pos": 4
+      },
+      {
+        "nome": "Juventus (Adriano)",
+        "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 10,
+        "GC": 16,
+        "SG": -6,
+        "pos": 5
+      }
+    ],
+    "FC26 R316(INTERNATIONAL)03.04.2026": [
+      {
+        "nome": "Portugal (Andrew)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 3,
+        "GC": 1,
+        "SG": 2,
+        "pos": 1
+      },
+      {
+        "nome": "France (Arthur)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 5,
+        "GC": 4,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Denmark (Bruno)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 3,
+        "GC": 2,
+        "SG": 1,
+        "pos": 3
+      },
+      {
+        "nome": "Holland (VanGogh)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 5,
+        "GC": 5,
+        "SG": 0,
+        "pos": 4
+      },
+      {
+        "nome": "Spain (Maverick)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 3,
+        "GC": 7,
+        "SG": -4,
         "pos": 5
       }
     ]
