@@ -1,9 +1,9 @@
 {
-  "updated_at": "03/04/2026 17:49:10",
+  "updated_at": "03/04/2026 21:38:42",
   "summary": {
     "total": 360,
-    "finalizados": 344,
-    "agendados": 16,
+    "finalizados": 352,
+    "agendados": 8,
     "ligas": 20
   },
   "jogos": [
@@ -2419,43 +2419,43 @@
       "liga": "FC26 R324(INTERNATIONAL)03.04.2026",
       "p1": "Portugal (Lucas)",
       "p2": "Holland (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R324(INTERNATIONAL)03.04.2026",
       "p1": "Spain (Pascal)",
       "p2": "Argentina (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R325(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Liverpool (Conde)",
       "p2": "Bayern M. (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R325(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Manchester City (Gael)",
       "p2": "Atletico Madrid (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R325(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Borussia Dortmund (Alexis)",
       "p2": "Bayern M. (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R325(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Liverpool (Conde)",
       "p2": "Manchester City (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R325(CHAMPIONS LEAGUE)03.04.2026",
@@ -2489,15 +2489,15 @@
       "liga": "FC26 R326(EUROPA LEAGUE)03.04.2026",
       "p1": "Aston Villa (Kristof)",
       "p2": "Real Betis (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R326(EUROPA LEAGUE)03.04.2026",
       "p1": "Celtic (Sebastian)",
       "p2": "Lazio (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R326(EUROPA LEAGUE)03.04.2026",
@@ -2616,18 +2616,18 @@
     },
     "FC26 R324(INTERNATIONAL)03.04.2026": {
       "total": 20,
-      "finalizados": 18,
-      "agendados": 2
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R325(CHAMPIONS LEAGUE)03.04.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 4,
+      "agendados": 4
     },
     "FC26 R326(EUROPA LEAGUE)03.04.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 2,
+      "agendados": 4
     }
   },
   "classificacao": {
@@ -3688,26 +3688,26 @@
     "FC26 R324(INTERNATIONAL)03.04.2026": [
       {
         "nome": "Spain (Pascal)",
-        "Pts": 18,
-        "J": 7,
-        "V": 6,
+        "Pts": 21,
+        "J": 8,
+        "V": 7,
         "E": 0,
         "D": 1,
-        "GP": 39,
-        "GC": 31,
-        "SG": 8,
+        "GP": 43,
+        "GC": 34,
+        "SG": 9,
         "pos": 1
       },
       {
         "nome": "Argentina (Kai)",
         "Pts": 15,
-        "J": 7,
+        "J": 8,
         "V": 5,
         "E": 0,
-        "D": 2,
-        "GP": 25,
-        "GC": 19,
-        "SG": 6,
+        "D": 3,
+        "GP": 28,
+        "GC": 23,
+        "SG": 5,
         "pos": 2
       },
       {
@@ -3723,28 +3723,140 @@
         "pos": 3
       },
       {
-        "nome": "Holland (Haidan)",
-        "Pts": 4,
-        "J": 7,
-        "V": 1,
+        "nome": "Portugal (Lucas)",
+        "Pts": 7,
+        "J": 8,
+        "V": 2,
         "E": 1,
         "D": 5,
-        "GP": 30,
-        "GC": 36,
-        "SG": -6,
+        "GP": 24,
+        "GC": 28,
+        "SG": -4,
         "pos": 4
       },
       {
-        "nome": "Portugal (Lucas)",
+        "nome": "Holland (Haidan)",
         "Pts": 4,
-        "J": 7,
+        "J": 8,
         "V": 1,
         "E": 1,
-        "D": 5,
-        "GP": 20,
-        "GC": 26,
-        "SG": -6,
+        "D": 6,
+        "GP": 32,
+        "GC": 40,
+        "SG": -8,
         "pos": 5
+      }
+    ],
+    "FC26 R325(CHAMPIONS LEAGUE)03.04.2026": [
+      {
+        "nome": "Borussia Dortmund (Alexis)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 4,
+        "GC": 2,
+        "SG": 2,
+        "pos": 1
+      },
+      {
+        "nome": "Atletico Madrid (Odin)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 4,
+        "GC": 3,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Liverpool (Conde)",
+        "Pts": 2,
+        "J": 2,
+        "V": 0,
+        "E": 2,
+        "D": 0,
+        "GP": 9,
+        "GC": 9,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Manchester City (Gael)",
+        "Pts": 1,
+        "J": 2,
+        "V": 0,
+        "E": 1,
+        "D": 1,
+        "GP": 8,
+        "GC": 9,
+        "SG": -1,
+        "pos": 4
+      },
+      {
+        "nome": "Bayern M. (Mateo)",
+        "Pts": 1,
+        "J": 2,
+        "V": 0,
+        "E": 1,
+        "D": 1,
+        "GP": 6,
+        "GC": 8,
+        "SG": -2,
+        "pos": 5
+      }
+    ],
+    "FC26 R326(EUROPA LEAGUE)03.04.2026": [
+      {
+        "nome": "Celtic (Sebastian)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 3,
+        "GC": 3,
+        "SG": 0,
+        "pos": 1
+      },
+      {
+        "nome": "Lazio (Eric)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 3,
+        "GC": 3,
+        "SG": 0,
+        "pos": 2
+      },
+      {
+        "nome": "Aston Villa (Kristof)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 2,
+        "GC": 2,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Real Betis (Felix)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 2,
+        "GC": 2,
+        "SG": 0,
+        "pos": 4
       }
     ]
   }
