@@ -552,6 +552,23 @@
             flex-shrink: 0;
         }
 
+        .team-badge {
+            width: 32px; height: 32px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            background: var(--bg-glass);
+            border: 1px solid var(--border);
+            overflow: hidden;
+        }
+
+        .team-badge img {
+            width: 24px; height: 24px;
+            object-fit: contain;
+        }
+
         .team-name {
             font-weight: 600;
             font-size: 0.85rem;
@@ -1191,6 +1208,59 @@
             return name.split(' ').map(w => w[0]).slice(0, 2).join('').toUpperCase();
         }
 
+        function extractTeamName(playerStr) {
+            return playerStr.replace(/\s*\(.*\)\s*$/, '').trim();
+        }
+
+        const TEAM_BADGES = {
+            'Barcelona': 'https://crests.football-data.org/81.svg',
+            'Real Madrid': 'https://crests.football-data.org/86.svg',
+            'Liverpool': 'https://crests.football-data.org/64.svg',
+            'Bayern M.': 'https://crests.football-data.org/5.svg',
+            'Bayern Munich': 'https://crests.football-data.org/5.svg',
+            'PSG': 'https://crests.football-data.org/524.svg',
+            'Manchester City': 'https://crests.football-data.org/65.svg',
+            'Arsenal': 'https://crests.football-data.org/57.svg',
+            'Chelsea': 'https://crests.football-data.org/61.svg',
+            'Manchester Utd.': 'https://crests.football-data.org/66.svg',
+            'Tottenham': 'https://crests.football-data.org/73.svg',
+            'Newcastle U.': 'https://crests.football-data.org/67.svg',
+            'West Ham United': 'https://crests.football-data.org/563.svg',
+            'Atletico Madrid': 'https://crests.football-data.org/78.svg',
+            'Real Sociedad': 'https://crests.football-data.org/92.svg',
+            'Villarreal': 'https://crests.football-data.org/94.svg',
+            'Sevilla': 'https://crests.football-data.org/559.svg',
+            'Real Betis': 'https://crests.football-data.org/90.svg',
+            'Milan': 'https://crests.football-data.org/98.svg',
+            'Inter': 'https://crests.football-data.org/108.svg',
+            'Juventus': 'https://crests.football-data.org/109.svg',
+            'Napoli': 'https://crests.football-data.org/113.svg',
+            'Fiorentina': 'https://crests.football-data.org/99.svg',
+            'Lazio': 'https://crests.football-data.org/110.svg',
+            'Atalanta': 'https://crests.football-data.org/102.svg',
+            'Monaco': 'https://crests.football-data.org/548.svg',
+            'Argentina': 'https://crests.football-data.org/762.svg',
+            'Italy': 'https://crests.football-data.org/784.svg',
+            'Portugal': 'https://crests.football-data.org/765.svg',
+            'Spain': 'https://crests.football-data.org/760.svg',
+            'Holland': 'https://crests.football-data.org/8601.svg',
+            'France': 'https://crests.football-data.org/773.svg',
+            'Denmark': 'https://crests.football-data.org/771.svg'
+        };
+
+        function getBadgeUrl(teamName) {
+            return TEAM_BADGES[teamName] || null;
+        }
+
+        function renderTeamBadge(playerStr) {
+            const team = extractTeamName(playerStr);
+            const badgeUrl = getBadgeUrl(team);
+            if (badgeUrl) {
+                return `<div class="team-badge"><img src="${badgeUrl}" alt="${esc(team)}" onerror="this.parentElement.innerHTML='${getInitials(team)}'"></div>`;
+            }
+            return `<div class="team-avatar" style="background:${getTeamColor(playerStr)}">${getInitials(team)}</div>`;
+        }
+
         function esc(str) {
             const div = document.createElement('div');
             div.textContent = str || '';
@@ -1432,7 +1502,7 @@
                     <td><span class="liga-tag" style="border-color:${getLigaColor(g.liga)}30;color:${getLigaColor(g.liga)}">${esc(g.liga)}</span></td>
                     <td>
                         <div class="team-cell">
-                            <div class="team-avatar" style="background:${getTeamColor(g.p1)}">${getInitials(g.p1)}</div>
+                            ${renderTeamBadge(g.p1)}
                             <div>
                                 <div class="team-name">${esc(g.p1)}</div>
                             </div>
@@ -1441,7 +1511,7 @@
                     <td style="text-align:center">${scoreHtml}</td>
                     <td>
                         <div class="team-cell">
-                            <div class="team-avatar" style="background:${getTeamColor(g.p2)}">${getInitials(g.p2)}</div>
+                            ${renderTeamBadge(g.p2)}
                             <div>
                                 <div class="team-name">${esc(g.p2)}</div>
                             </div>
