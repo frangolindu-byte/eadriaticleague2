@@ -915,17 +915,17 @@
         <nav class="sidebar-nav">
             <div class="nav-section">
                 <div class="nav-section-title">Principal</div>
-                <div class="nav-item active" data-nav="all" onclick="setNav('all')">
+                <div class="nav-item active" data-nav="all">
                     <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
                     Todos os Jogos
                     <span class="count" id="nav-count-all">0</span>
                 </div>
-                <div class="nav-item" data-nav="finalizados" onclick="setNav('finalizados')">
+                <div class="nav-item" data-nav="finalizados">
                     <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
                     Finalizados
                     <span class="count" id="nav-count-finalizados">0</span>
                 </div>
-                <div class="nav-item" data-nav="agendados" onclick="setNav('agendados')">
+                <div class="nav-item" data-nav="agendados">
                     <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
                     Agendados
                     <span class="count" id="nav-count-agendados">0</span>
@@ -972,9 +972,9 @@
 
                 <!-- TABS -->
                 <div class="tabs">
-                    <button class="tab active" onclick="setTab('jogos')">Jogos</button>
-                    <button class="tab" onclick="setTab('classificacao')">Classificacao</button>
-                    <button class="tab" onclick="setTab('resumo')">Resumo</button>
+                    <button class="tab active" data-tab="jogos">Jogos</button>
+                    <button class="tab" data-tab="classificacao">Classificacao</button>
+                    <button class="tab" data-tab="resumo">Resumo</button>
                 </div>
 
                 <!-- PANEL: JOGOS -->
@@ -1030,6 +1030,7 @@
         let currentStatusFilter = 'all';
         let searchQuery = '';
         let charts = [];
+        let allLigas = [];
 
         const LIGA_COLORS = [
             '#6366f1', '#10b981', '#f59e0b', '#ef4444', '#3b82f6',
@@ -1039,8 +1040,7 @@
         ];
 
         function getLigaColor(liga) {
-            const ligas = [...new Set(allGames.map(g => g.liga))].sort();
-            const idx = ligas.indexOf(liga);
+            const idx = allLigas.indexOf(liga);
             return LIGA_COLORS[idx % LIGA_COLORS.length];
         }
 
@@ -1060,13 +1060,14 @@
             return div.innerHTML;
         }
 
-        // === NAV ===
+        // === ACTIONS ===
         function setNav(nav) {
             currentNav = nav;
             currentLigaFilter = 'all';
             currentStatusFilter = 'all';
             document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
-            document.querySelector(`.nav-item[data-nav="${nav}"]`)?.classList.add('active');
+            const target = document.querySelector(`.nav-item[data-nav="${nav}"]`);
+            if (target) target.classList.add('active');
             applyFilters();
             closeSidebarMobile();
         }
@@ -1075,18 +1076,39 @@
             currentNav = 'liga';
             currentLigaFilter = liga;
             document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
-            document.querySelector(`.nav-item[data-nav-liga="${liga}"]`)?.classList.add('active');
+            document.querySelectorAll('.nav-item[data-nav-liga]').forEach(el => {
+                if (el.getAttribute('data-nav-liga') === liga) {
+                    el.classList.add('active');
+                }
+            });
             applyFilters();
             closeSidebarMobile();
         }
 
-        // === TABS ===
         function setTab(tab) {
             currentTab = tab;
             document.querySelectorAll('.tab').forEach(el => el.classList.remove('active'));
-            event.target.classList.add('active');
+            const target = document.querySelector(`.tab[data-tab="${tab}"]`);
+            if (target) target.classList.add('active');
             document.querySelectorAll('.panel').forEach(el => el.classList.remove('active'));
             document.getElementById(`panel-${tab}`).classList.add('active');
+        }
+
+        function setLigaFilter(liga) {
+            currentLigaFilter = liga;
+            renderFilterBar();
+            applyFilters();
+        }
+
+        function setStatusFilter(status) {
+            currentStatusFilter = status;
+            renderFilterBar();
+            applyFilters();
+        }
+
+        function handleSearch(val) {
+            searchQuery = val.trim();
+            applyFilters();
         }
 
         // === FILTERS ===
@@ -1115,35 +1137,19 @@
             updateResultCount();
         }
 
-        function handleSearch(val) {
-            searchQuery = val.trim();
-            applyFilters();
-        }
-
-        function setLigaFilter(liga) {
-            currentLigaFilter = liga;
-            renderFilterBar();
-            applyFilters();
-        }
-
-        function setStatusFilter(status) {
-            currentStatusFilter = status;
-            renderFilterBar();
-            applyFilters();
-        }
-
         // === RENDER ===
         function render(data) {
             document.getElementById('loading').style.display = 'none';
             document.getElementById('app').style.display = 'block';
             allGames = data.jogos;
             filteredGames = [...allGames];
+            allLigas = [...new Set(allGames.map(g => g.liga))].sort();
 
             document.getElementById('last-update').textContent = data.updated_at;
             document.getElementById('status-info').textContent = `${allGames.length} jogos carregados`;
 
             renderStats(data.summary);
-            renderNavLigas(data.jogos);
+            renderNavLigas();
             renderFilterBar();
             renderJogos();
             renderClassificacao(data.classificacao);
@@ -1188,37 +1194,60 @@
             `;
         }
 
-        function renderNavLigas(jogos) {
-            const ligas = [...new Set(jogos.map(j => j.liga))].sort();
+        function renderNavLigas() {
             const counts = {};
-            jogos.forEach(j => { counts[j.liga] = (counts[j.liga] || 0) + 1; });
+            allGames.forEach(j => { counts[j.liga] = (counts[j.liga] || 0) + 1; });
 
-            document.getElementById('nav-ligas').innerHTML = ligas.map(liga => `
-                <div class="nav-item" data-nav-liga="${esc(liga)}" onclick="setNavLiga('${liga.replace(/'/g, "\\'")}')">
+            const container = document.getElementById('nav-ligas');
+            container.innerHTML = '';
+
+            allLigas.forEach(liga => {
+                const el = document.createElement('div');
+                el.className = 'nav-item';
+                el.setAttribute('data-nav-liga', liga);
+                el.innerHTML = `
                     <span style="width:8px;height:8px;border-radius:50%;background:${getLigaColor(liga)};flex-shrink:0"></span>
                     <span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${esc(liga)}</span>
                     <span class="count">${counts[liga]}</span>
-                </div>
-            `).join('');
+                `;
+                el.addEventListener('click', () => setNavLiga(liga));
+                container.appendChild(el);
+            });
         }
 
         function renderFilterBar() {
-            const ligas = [...new Set(allGames.map(j => j.liga))].sort();
+            const container = document.getElementById('filter-bar');
+            container.innerHTML = '';
 
-            let html = `
-                <button class="filter-chip ${currentLigaFilter === 'all' ? 'active' : ''}" onclick="setLigaFilter('all')">Todas Ligas</button>
-            `;
+            const allBtn = document.createElement('button');
+            allBtn.className = `filter-chip ${currentLigaFilter === 'all' ? 'active' : ''}`;
+            allBtn.textContent = 'Todas Ligas';
+            allBtn.addEventListener('click', () => setLigaFilter('all'));
+            container.appendChild(allBtn);
 
-            ligas.slice(0, 8).forEach(liga => {
-                html += `<button class="filter-chip ${currentLigaFilter === liga ? 'active' : ''}" onclick="setLigaFilter('${liga.replace(/'/g, "\\'")}')">${esc(liga.split('(')[0].trim())}</button>`;
+            allLigas.slice(0, 8).forEach(liga => {
+                const btn = document.createElement('button');
+                btn.className = `filter-chip ${currentLigaFilter === liga ? 'active' : ''}`;
+                btn.textContent = liga.split('(')[0].trim();
+                btn.addEventListener('click', () => setLigaFilter(liga));
+                container.appendChild(btn);
             });
 
-            html += `<div class="filter-divider"></div>`;
-            html += `<button class="filter-chip ${currentStatusFilter === 'all' ? 'active' : ''}" onclick="setStatusFilter('all')">Todos</button>`;
-            html += `<button class="filter-chip status-finalizado ${currentStatusFilter === 'finalizado' ? 'active' : ''}" onclick="setStatusFilter('finalizado')">Finalizados</button>`;
-            html += `<button class="filter-chip status-agendado ${currentStatusFilter === 'agendado' ? 'active' : ''}" onclick="setStatusFilter('agendado')">Agendados</button>`;
+            const divider = document.createElement('div');
+            divider.className = 'filter-divider';
+            container.appendChild(divider);
 
-            document.getElementById('filter-bar').innerHTML = html;
+            [
+                { key: 'all', label: 'Todos' },
+                { key: 'finalizado', label: 'Finalizados', cls: 'status-finalizado' },
+                { key: 'agendado', label: 'Agendados', cls: 'status-agendado' }
+            ].forEach(({ key, label, cls }) => {
+                const btn = document.createElement('button');
+                btn.className = `filter-chip ${cls || ''} ${currentStatusFilter === key ? 'active' : ''}`;
+                btn.textContent = label;
+                btn.addEventListener('click', () => setStatusFilter(key));
+                container.appendChild(btn);
+            });
         }
 
         function renderJogos() {
@@ -1369,9 +1398,7 @@
                         indexAxis: 'y',
                         responsive: true,
                         maintainAspectRatio: false,
-                        plugins: {
-                            legend: { display: false },
-                        },
+                        plugins: { legend: { display: false } },
                         scales: {
                             x: {
                                 ticks: { color: '#64748b', font: { size: 10 }, stepSize: 1 },
@@ -1460,11 +1487,35 @@
                     <div style="text-align:center">
                         <svg viewBox="0 0 24 24" width="48" height="48" fill="none" stroke="#ef4444" stroke-width="2" style="margin-bottom:12px"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></svg>
                         <p style="color:#f87171;font-size:0.9rem">Erro ao carregar: ${e.message}</p>
-                        <button class="btn btn-primary" style="margin-top:16px" onclick="loadData()">Tentar novamente</button>
+                        <button class="btn btn-primary" style="margin-top:16px" id="retry-btn">Tentar novamente</button>
                     </div>
                 `;
+                document.getElementById('retry-btn').addEventListener('click', loadData);
             }
         }
+
+        // === EVENT DELEGATION ===
+        document.addEventListener('DOMContentLoaded', () => {
+            // Tab buttons
+            document.querySelectorAll('.tab[data-tab]').forEach(btn => {
+                btn.addEventListener('click', () => setTab(btn.dataset.tab));
+            });
+
+            // Nav items (principal) - use event delegation on sidebar-nav
+            document.getElementById('sidebar').addEventListener('click', (e) => {
+                const navItem = e.target.closest('.nav-item[data-nav]');
+                if (navItem) {
+                    e.preventDefault();
+                    setNav(navItem.dataset.nav);
+                    return;
+                }
+                const ligaItem = e.target.closest('.nav-item[data-nav-liga]');
+                if (ligaItem) {
+                    e.preventDefault();
+                    setNavLiga(ligaItem.getAttribute('data-nav-liga'));
+                }
+            });
+        });
 
         loadData();
         setInterval(loadData, 120000);
