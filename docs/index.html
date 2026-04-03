@@ -632,7 +632,7 @@
         /* === CLASSIFICATION === */
         .classif-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(460px, 1fr));
             gap: 20px;
         }
 
@@ -651,7 +651,7 @@
         }
 
         .classif-header {
-            padding: 16px 20px;
+            padding: 14px 18px;
             border-bottom: 1px solid var(--border);
             display: flex;
             align-items: center;
@@ -659,48 +659,55 @@
         }
 
         .classif-header h3 {
-            font-size: 0.9rem;
+            font-size: 0.88rem;
             font-weight: 700;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
         }
 
         .classif-header .players-count {
-            font-size: 0.7rem;
+            font-size: 0.68rem;
             color: var(--text-muted);
+            flex-shrink: 0;
+            margin-left: 12px;
         }
 
         .classif-table {
             width: 100%;
             border-collapse: collapse;
             font-size: 0.78rem;
+            table-layout: fixed;
         }
 
         .classif-table thead th {
-            padding: 8px 10px;
-            font-size: 0.65rem;
+            padding: 7px 4px;
+            font-size: 0.62rem;
             font-weight: 700;
             text-transform: uppercase;
-            letter-spacing: 0.06em;
+            letter-spacing: 0.04em;
             color: var(--text-muted);
             border-bottom: 1px solid var(--border);
             text-align: center;
         }
 
-        .classif-table thead th:nth-child(2) { text-align: left; }
+        .classif-table thead th:nth-child(2) { text-align: left; padding-left: 10px; }
 
         .classif-table tbody td {
-            padding: 8px 10px;
+            padding: 7px 4px;
             text-align: center;
             border-bottom: 1px solid var(--border);
+            font-size: 0.78rem;
         }
 
-        .classif-table tbody td:nth-child(2) { text-align: left; }
+        .classif-table tbody td:nth-child(2) { text-align: left; padding-left: 10px; }
         .classif-table tbody tr:last-child { border-bottom: none; }
         .classif-table tbody tr:hover { background: var(--bg-glass-hover); }
 
         .classif-table .pos {
             font-weight: 800;
-            font-size: 0.75rem;
-            width: 28px;
+            font-size: 0.72rem;
+            width: 24px;
         }
 
         .classif-table .pos-1 { color: #fbbf24; }
@@ -709,100 +716,221 @@
 
         .classif-table .player-name {
             font-weight: 600;
-            font-size: 0.8rem;
+            font-size: 0.76rem;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
         }
 
         .classif-table .pts {
             font-weight: 800;
             color: var(--accent-light);
-            font-size: 0.85rem;
+            font-size: 0.82rem;
         }
 
-        .classif-table .sg-pos { color: var(--green); }
-        .classif-table .sg-neg { color: var(--red); }
+        .classif-table .sg-pos { color: var(--green); font-weight: 600; }
+        .classif-table .sg-neg { color: var(--red); font-weight: 600; }
 
         .classif-chart {
-            padding: 12px 16px 16px;
-            height: 180px;
+            padding: 10px 14px 14px;
+            height: 160px;
         }
 
         /* === RESUMO === */
-        .resumo-grid {
+        .resumo-container {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 16px;
+            grid-template-columns: 320px 1fr;
+            gap: 20px;
         }
 
-        .resumo-card {
+        .resumo-overview {
             background: var(--bg-card);
             backdrop-filter: blur(12px);
             border: 1px solid var(--border);
             border-radius: var(--radius);
-            padding: 20px;
-            transition: all var(--transition);
+            padding: 24px;
+            position: sticky;
+            top: 80px;
+            height: fit-content;
         }
 
-        .resumo-card:hover {
-            border-color: var(--border-hover);
-            box-shadow: var(--shadow);
-        }
-
-        .resumo-card h4 {
-            font-size: 0.88rem;
+        .resumo-overview h3 {
+            font-size: 0.9rem;
             font-weight: 700;
-            margin-bottom: 14px;
+            margin-bottom: 20px;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+        }
+
+        .resumo-metric {
             display: flex;
             align-items: center;
-            gap: 8px;
+            justify-content: space-between;
+            padding: 12px 0;
+            border-bottom: 1px solid var(--border);
         }
 
-        .resumo-card h4 .dot {
+        .resumo-metric:last-child { border-bottom: none; }
+
+        .resumo-metric .label {
+            font-size: 0.82rem;
+            color: var(--text-secondary);
+        }
+
+        .resumo-metric .value {
+            font-size: 1.4rem;
+            font-weight: 800;
+        }
+
+        .resumo-metric .value.green { color: var(--green); }
+        .resumo-metric .value.yellow { color: var(--yellow); }
+        .resumo-metric .value.accent { color: var(--accent-light); }
+
+        .resumo-progress {
+            margin-top: 20px;
+            padding-top: 16px;
+            border-top: 1px solid var(--border);
+        }
+
+        .resumo-progress .label {
+            font-size: 0.72rem;
+            color: var(--text-muted);
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .resumo-progress .bar {
+            height: 8px;
+            background: var(--bg-glass);
+            border-radius: 999px;
+            overflow: hidden;
+        }
+
+        .resumo-progress .bar .done {
+            height: 100%;
+            background: linear-gradient(90deg, var(--accent), var(--green));
+            border-radius: 999px;
+            transition: width 0.6s ease;
+        }
+
+        .resumo-progress .pct {
+            text-align: right;
+            font-size: 0.78rem;
+            font-weight: 700;
+            color: var(--green);
+            margin-top: 6px;
+        }
+
+        .resumo-list-container {
+            background: var(--bg-card);
+            backdrop-filter: blur(12px);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            overflow: hidden;
+        }
+
+        .resumo-list-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 14px 20px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .resumo-list-header h3 {
+            font-size: 0.9rem;
+            font-weight: 700;
+        }
+
+        .resumo-list-header .count {
+            font-size: 0.72rem;
+            color: var(--text-muted);
+        }
+
+        .resumo-list {
+            max-height: 600px;
+            overflow-y: auto;
+        }
+
+        .resumo-list::-webkit-scrollbar { width: 4px; }
+        .resumo-list::-webkit-scrollbar-track { background: transparent; }
+        .resumo-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+
+        .resumo-row {
+            display: flex;
+            align-items: center;
+            padding: 12px 20px;
+            border-bottom: 1px solid var(--border);
+            gap: 16px;
+            transition: background var(--transition);
+        }
+
+        .resumo-row:last-child { border-bottom: none; }
+        .resumo-row:hover { background: var(--bg-glass-hover); }
+
+        .resumo-row .dot {
             width: 8px; height: 8px;
             border-radius: 50%;
             flex-shrink: 0;
         }
 
-        .resumo-stats {
-            display: flex;
-            gap: 16px;
-        }
-
-        .resumo-stat {
+        .resumo-row .info {
             flex: 1;
-            text-align: center;
+            min-width: 0;
         }
 
-        .resumo-stat .val {
-            font-size: 1.5rem;
-            font-weight: 800;
-            line-height: 1;
+        .resumo-row .name {
+            font-size: 0.82rem;
+            font-weight: 600;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
         }
 
-        .resumo-stat .lbl {
-            font-size: 0.68rem;
-            color: var(--text-muted);
-            margin-top: 4px;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-        }
-
-        .resumo-bar {
-            margin-top: 14px;
-            height: 6px;
+        .resumo-row .bar-mini {
+            height: 4px;
             background: var(--bg-glass);
             border-radius: 999px;
             overflow: hidden;
+            margin-top: 6px;
+        }
+
+        .resumo-row .bar-mini .done {
+            height: 100%;
+            border-radius: 999px;
+            transition: width 0.4s ease;
+        }
+
+        .resumo-row .stats {
             display: flex;
+            gap: 16px;
+            flex-shrink: 0;
         }
 
-        .resumo-bar .done {
-            background: var(--green);
-            transition: width 0.5s ease;
+        .resumo-row .stat {
+            text-align: center;
+            min-width: 40px;
         }
 
-        .resumo-bar .pending {
-            background: var(--yellow);
-            transition: width 0.5s ease;
+        .resumo-row .stat .val {
+            font-size: 1rem;
+            font-weight: 700;
+            line-height: 1;
+        }
+
+        .resumo-row .stat .lbl {
+            font-size: 0.6rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            margin-top: 2px;
+        }
+
+        @media (max-width: 900px) {
+            .resumo-container { grid-template-columns: 1fr; }
+            .resumo-overview { position: static; }
         }
 
         /* === LOADING === */
@@ -1009,7 +1137,16 @@
 
                 <!-- PANEL: RESUMO -->
                 <div class="panel" id="panel-resumo">
-                    <div class="resumo-grid" id="resumo-grid"></div>
+                    <div class="resumo-container">
+                        <div class="resumo-overview" id="resumo-overview"></div>
+                        <div class="resumo-list-container">
+                            <div class="resumo-list-header">
+                                <h3>Ligas</h3>
+                                <span class="count" id="resumo-count"></span>
+                            </div>
+                            <div class="resumo-list" id="resumo-list"></div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -1418,42 +1555,67 @@
 
         function renderResumo(resumo) {
             if (!resumo || Object.keys(resumo).length === 0) {
-                document.getElementById('resumo-grid').innerHTML = `
-                    <div class="empty-state" style="grid-column:1/-1">
-                        <p>Nenhum resumo disponivel</p>
-                    </div>
-                `;
+                document.getElementById('resumo-overview').innerHTML = '<p style="color:var(--text-muted)">Nenhum resumo disponivel</p>';
+                document.getElementById('resumo-list').innerHTML = '';
                 return;
             }
 
             const sorted = Object.entries(resumo).sort((a, b) => b[1].total - a[1].total);
+            const totalGames = sorted.reduce((sum, [, s]) => sum + s.total, 0);
+            const totalDone = sorted.reduce((sum, [, s]) => sum + s.finalizados, 0);
+            const totalPending = sorted.reduce((sum, [, s]) => sum + s.agendados, 0);
+            const pct = totalGames > 0 ? Math.round((totalDone / totalGames) * 100) : 0;
 
-            document.getElementById('resumo-grid').innerHTML = sorted.map(([liga, s]) => {
-                const pct = s.total > 0 ? Math.round((s.finalizados / s.total) * 100) : 0;
+            document.getElementById('resumo-overview').innerHTML = `
+                <h3>Visao Geral</h3>
+                <div class="resumo-metric">
+                    <span class="label">Total de Jogos</span>
+                    <span class="value accent">${totalGames}</span>
+                </div>
+                <div class="resumo-metric">
+                    <span class="label">Finalizados</span>
+                    <span class="value green">${totalDone}</span>
+                </div>
+                <div class="resumo-metric">
+                    <span class="label">Agendados</span>
+                    <span class="value yellow">${totalPending}</span>
+                </div>
+                <div class="resumo-metric">
+                    <span class="label">Ligas</span>
+                    <span class="value" style="color:var(--text-primary)">${sorted.length}</span>
+                </div>
+                <div class="resumo-progress">
+                    <div class="label">Progresso geral</div>
+                    <div class="bar"><div class="done" style="width:${pct}%"></div></div>
+                    <div class="pct">${pct}% concluido</div>
+                </div>
+            `;
+
+            document.getElementById('resumo-count').textContent = `${sorted.length} ligas`;
+
+            document.getElementById('resumo-list').innerHTML = sorted.map(([liga, s]) => {
+                const pctLiga = s.total > 0 ? Math.round((s.finalizados / s.total) * 100) : 0;
                 const color = getLigaColor(liga);
 
-                return `<div class="resumo-card fade-in">
-                    <h4>
-                        <span class="dot" style="background:${color}"></span>
-                        ${esc(liga)}
-                    </h4>
-                    <div class="resumo-stats">
-                        <div class="resumo-stat">
+                return `<div class="resumo-row">
+                    <span class="dot" style="background:${color}"></span>
+                    <div class="info">
+                        <div class="name">${esc(liga)}</div>
+                        <div class="bar-mini"><div class="done" style="width:${pctLiga}%;background:${color}"></div></div>
+                    </div>
+                    <div class="stats">
+                        <div class="stat">
                             <div class="val" style="color:var(--text-primary)">${s.total}</div>
                             <div class="lbl">Total</div>
                         </div>
-                        <div class="resumo-stat">
+                        <div class="stat">
                             <div class="val" style="color:var(--green)">${s.finalizados}</div>
-                            <div class="lbl">Finalizados</div>
+                            <div class="lbl">Ok</div>
                         </div>
-                        <div class="resumo-stat">
+                        <div class="stat">
                             <div class="val" style="color:var(--yellow)">${s.agendados}</div>
-                            <div class="lbl">Agendados</div>
+                            <div class="lbl">Pend</div>
                         </div>
-                    </div>
-                    <div class="resumo-bar">
-                        <div class="done" style="width:${pct}%;background:${color}"></div>
-                        <div class="pending" style="width:${100 - pct}%"></div>
                     </div>
                 </div>`;
             }).join('');
