@@ -1,9 +1,9 @@
 {
-  "updated_at": "03/04/2026 06:23:13",
+  "updated_at": "03/04/2026 03:19:02",
   "summary": {
     "total": 360,
-    "finalizados": 124,
-    "agendados": 236,
+    "finalizados": 122,
+    "agendados": 238,
     "ligas": 20
   },
   "jogos": [
@@ -935,15 +935,15 @@
       "liga": "FC26 R314(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Barcelona (Andrew)",
       "p2": "Manchester City (Maverick)",
-      "placar": "5-3",
-      "status": "Finalizado"
+      "placar": "vs",
+      "status": "Agendado"
     },
     {
       "liga": "FC26 R314(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Monaco (Bruno)",
       "p2": "Bayern M. (VanGogh)",
-      "placar": "4-4",
-      "status": "Finalizado"
+      "placar": "vs",
+      "status": "Agendado"
     },
     {
       "liga": "FC26 R314(CHAMPIONS LEAGUE)03.04.2026",
@@ -2566,8 +2566,8 @@
     },
     "FC26 R314(CHAMPIONS LEAGUE)03.04.2026": {
       "total": 20,
-      "finalizados": 8,
-      "agendados": 12
+      "finalizados": 6,
+      "agendados": 14
     },
     "FC26 R315(SERIA A)03.04.2026": {
       "total": 20,
@@ -3067,50 +3067,50 @@
     ],
     "FC26 R314(CHAMPIONS LEAGUE)03.04.2026": [
       {
-        "nome": "Monaco (Bruno)",
-        "Pts": 7,
-        "J": 3,
+        "nome": "Manchester City (Maverick)",
+        "Pts": 6,
+        "J": 2,
         "V": 2,
-        "E": 1,
+        "E": 0,
         "D": 0,
-        "GP": 13,
-        "GC": 7,
-        "SG": 6,
+        "GP": 14,
+        "GC": 6,
+        "SG": 8,
         "pos": 1
       },
       {
-        "nome": "Manchester City (Maverick)",
+        "nome": "Monaco (Bruno)",
         "Pts": 6,
-        "J": 3,
+        "J": 2,
         "V": 2,
         "E": 0,
-        "D": 1,
-        "GP": 17,
-        "GC": 11,
+        "D": 0,
+        "GP": 9,
+        "GC": 3,
         "SG": 6,
         "pos": 2
       },
       {
         "nome": "Barcelona (Andrew)",
-        "Pts": 6,
-        "J": 3,
-        "V": 2,
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
         "E": 0,
         "D": 1,
-        "GP": 11,
-        "GC": 8,
-        "SG": 3,
+        "GP": 6,
+        "GC": 5,
+        "SG": 1,
         "pos": 3
       },
       {
         "nome": "Bayern M. (VanGogh)",
-        "Pts": 4,
-        "J": 4,
+        "Pts": 3,
+        "J": 3,
         "V": 1,
-        "E": 1,
+        "E": 0,
         "D": 2,
-        "GP": 16,
-        "GC": 20,
+        "GP": 12,
+        "GC": 16,
         "SG": -4,
         "pos": 4
       },
