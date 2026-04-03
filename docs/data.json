@@ -1,9 +1,9 @@
 {
-  "updated_at": "03/04/2026 21:38:42",
+  "updated_at": "03/04/2026 21:47:35",
   "summary": {
     "total": 360,
-    "finalizados": 352,
-    "agendados": 8,
+    "finalizados": 354,
+    "agendados": 6,
     "ligas": 20
   },
   "jogos": [
@@ -2461,15 +2461,15 @@
       "liga": "FC26 R325(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Bayern M. (Mateo)",
       "p2": "Manchester City (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R325(CHAMPIONS LEAGUE)03.04.2026",
       "p1": "Borussia Dortmund (Alexis)",
       "p2": "Atletico Madrid (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R325(CHAMPIONS LEAGUE)03.04.2026",
@@ -2621,8 +2621,8 @@
     },
     "FC26 R325(CHAMPIONS LEAGUE)03.04.2026": {
       "total": 8,
-      "finalizados": 4,
-      "agendados": 4
+      "finalizados": 6,
+      "agendados": 2
     },
     "FC26 R326(EUROPA LEAGUE)03.04.2026": {
       "total": 6,
@@ -3749,28 +3749,40 @@
     ],
     "FC26 R325(CHAMPIONS LEAGUE)03.04.2026": [
       {
-        "nome": "Borussia Dortmund (Alexis)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "nome": "Atletico Madrid (Odin)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
         "E": 0,
         "D": 0,
-        "GP": 4,
-        "GC": 2,
+        "GP": 8,
+        "GC": 6,
         "SG": 2,
         "pos": 1
       },
       {
-        "nome": "Atletico Madrid (Odin)",
+        "nome": "Bayern M. (Mateo)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 9,
+        "GC": 10,
+        "SG": -1,
+        "pos": 2
+      },
+      {
+        "nome": "Borussia Dortmund (Alexis)",
         "Pts": 3,
-        "J": 1,
+        "J": 2,
         "V": 1,
         "E": 0,
-        "D": 0,
-        "GP": 4,
-        "GC": 3,
+        "D": 1,
+        "GP": 7,
+        "GC": 6,
         "SG": 1,
-        "pos": 2
+        "pos": 3
       },
       {
         "nome": "Liverpool (Conde)",
@@ -3782,29 +3794,17 @@
         "GP": 9,
         "GC": 9,
         "SG": 0,
-        "pos": 3
+        "pos": 4
       },
       {
         "nome": "Manchester City (Gael)",
         "Pts": 1,
-        "J": 2,
+        "J": 3,
         "V": 0,
         "E": 1,
-        "D": 1,
-        "GP": 8,
-        "GC": 9,
-        "SG": -1,
-        "pos": 4
-      },
-      {
-        "nome": "Bayern M. (Mateo)",
-        "Pts": 1,
-        "J": 2,
-        "V": 0,
-        "E": 1,
-        "D": 1,
-        "GP": 6,
-        "GC": 8,
+        "D": 2,
+        "GP": 10,
+        "GC": 12,
         "SG": -2,
         "pos": 5
       }
