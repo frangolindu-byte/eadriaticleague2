@@ -101,12 +101,30 @@
             letter-spacing: -0.02em;
         }
 
-        .sidebar-brand .subtitle {
+        .sidebar-brand .brand-credit {
             font-size: 0.7rem;
             color: var(--text-muted);
-            margin-top: 2px;
-            text-transform: uppercase;
-            letter-spacing: 0.1em;
+            margin-top: 6px;
+            letter-spacing: 0.02em;
+        }
+
+        .sidebar-brand .brand-credit .frg {
+            color: #fbbf24;
+            font-weight: 900;
+            font-size: 0.8rem;
+            text-shadow: 0 0 8px rgba(251, 191, 36, 0.6), 0 0 20px rgba(251, 191, 36, 0.3);
+            animation: goldGlow 2s ease-in-out infinite alternate;
+        }
+
+        @keyframes goldGlow {
+            0% {
+                text-shadow: 0 0 6px rgba(251, 191, 36, 0.4), 0 0 16px rgba(251, 191, 36, 0.2);
+                filter: brightness(1);
+            }
+            100% {
+                text-shadow: 0 0 12px rgba(251, 191, 36, 0.8), 0 0 30px rgba(251, 191, 36, 0.4), 0 0 50px rgba(251, 191, 36, 0.2);
+                filter: brightness(1.2);
+            }
         }
 
         .sidebar-nav {
@@ -195,25 +213,6 @@
             background: var(--green);
             margin-right: 6px;
             animation: pulse 2s infinite;
-        }
-
-        .sidebar-footer .credit {
-            margin-top: 12px;
-            padding-top: 12px;
-            border-top: 1px solid var(--border);
-            font-size: 0.75rem;
-            color: var(--text-secondary);
-            text-align: center;
-            letter-spacing: 0.02em;
-        }
-
-        .sidebar-footer .credit strong {
-            color: var(--accent-light);
-            font-weight: 800;
-            font-size: 0.85rem;
-            background: linear-gradient(135deg, var(--accent-light), var(--cyan));
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
         }
 
         @keyframes pulse {
@@ -1136,7 +1135,7 @@
     <aside class="sidebar" id="sidebar">
         <div class="sidebar-brand">
             <h1>eAdriatic League</h1>
-            <div class="subtitle">Dashboard ao vivo</div>
+            <div class="brand-credit">Dashboard criado por <span class="frg">FRg</span></div>
         </div>
         <nav class="sidebar-nav">
             <div class="nav-section">
@@ -1165,9 +1164,6 @@
         <div class="sidebar-footer">
             <span class="live-dot"></span>
             <span id="last-update">Atualizando...</span>
-            <div class="credit">
-                Dashboard criado por <strong>FRg</strong>
-            </div>
         </div>
     </aside>
     <div class="sidebar-overlay" id="sidebar-overlay"></div>
