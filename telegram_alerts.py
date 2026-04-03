@@ -91,7 +91,7 @@ def parse_score(placar):
 
 
 def player_stats(matches):
-    s = defaultdict(lambda: {"W": 0, "D": 0, "L": 0, "GP": 0, "GC": 0, "J": 0, "o25": 0, "btts": 0, "form": []})
+    s = defaultdict(lambda: {"W": 0, "D": 0, "L": 0, "GP": 0, "GC": 0, "J": 0, "o65": 0, "btts": 0, "form": []})
     for m in matches:
         if m["status"] != "Finalizado":
             continue
@@ -102,7 +102,7 @@ def player_stats(matches):
         for p, gp, gc in [(m["p1"], g1, g2), (m["p2"], g2, g1)]:
             x = s[p]
             x["J"] += 1; x["GP"] += gp; x["GC"] += gc
-            if g1 + g2 > 2.5: x["o25"] += 1
+            if g1 + g2 > 6.5: x["o65"] += 1
             if gp > 0 and gc > 0: x["btts"] += 1
             if gp > gc: x["W"] += 1; x["form"].append("W")
             elif gp < gc: x["L"] += 1; x["form"].append("L")
@@ -114,7 +114,7 @@ def player_stats(matches):
         f = x["form"][-5:]
         out[p] = {
             "J": x["J"], "WR": round(x["W"] / x["J"] * 100, 1),
-            "o25": round(x["o25"] / x["J"] * 100, 1),
+            "o65": round(x["o65"] / x["J"] * 100, 1),
             "btts": round(x["btts"] / x["J"] * 100, 1),
             "gp": round(x["GP"] / x["J"], 2), "gc": round(x["GC"] / x["J"], 2),
             "form": "-".join(f), "fw": f.count("W"),
@@ -137,7 +137,7 @@ def find_alerts(matches):
         a, b = ps.get(p1, {}), ps.get(p2, {})
         j1, j2 = a.get("J", 0), b.get("J", 0)
         w1, w2 = a.get("WR", 50), b.get("WR", 50)
-        o1, o2 = a.get("o25", 0), b.get("o25", 0)
+        o1, o2 = a.get("o65", 0), b.get("o65", 0)
         bt1, bt2 = a.get("btts", 0), b.get("btts", 0)
         f1, f2 = a.get("form", "N/A"), b.get("form", "N/A")
         gp1, gp2 = a.get("gp", 0), b.get("gp", 0)
@@ -146,9 +146,10 @@ def find_alerts(matches):
         score = 0
         reasons = []
 
-        o25 = (o1 + o2) / 2 if j1 >= 3 and j2 >= 3 else 94.7
-        if o25 >= 95: score += 40; reasons.append(f"Over 2.5: {o25:.0f}%")
-        elif o25 >= 90: score += 25; reasons.append(f"Over 2.5: {o25:.0f}%")
+        o65 = (o1 + o2) / 2 if j1 >= 3 and j2 >= 3 else 47.4
+        if o65 >= 70: score += 40; reasons.append(f"Over 6.5: {o65:.0f}%")
+        elif o65 >= 60: score += 30; reasons.append(f"Over 6.5: {o65:.0f}%")
+        elif o65 >= 50: score += 20; reasons.append(f"Over 6.5: {o65:.0f}%")
 
         btts = (bt1 + bt2) / 2 if j1 >= 3 and j2 >= 3 else 91.9
         if btts >= 90: score += 25; reasons.append(f"BTTS: {btts:.0f}%")
@@ -163,15 +164,15 @@ def find_alerts(matches):
         if w1 < 15 and j1 >= 5: score += 10
         if w2 < 15 and j2 >= 5: score += 10
 
-        if score >= 70:
+        if score >= 60:
             fav = p1 if w1 > w2 else p2
             avg_g = (gp1 + gc2 + gp2 + gc1) / 2 if j1 >= 3 and j2 >= 3 else 6.5
-            assertividade = (min(o25/100, 1) * 0.40 + max(w1, w2) / 100 * 0.35 + min(btts/100, 1) * 0.25) * 100
+            assertividade = (min(o65/100, 1) * 0.40 + max(w1, w2) / 100 * 0.35 + min(btts/100, 1) * 0.25) * 100
 
             alerts.append({
                 "liga": m["liga"], "p1": p1, "p2": p2,
                 "w1": w1, "w2": w2, "j1": j1, "j2": j2,
-                "o25": o25, "btts": btts, "avg_g": avg_g,
+                "o65": o65, "btts": btts, "avg_g": avg_g,
                 "f1": f1, "f2": f2, "fav": fav,
                 "score": score, "reasons": reasons,
                 "assertividade": round(assertividade, 1),
@@ -191,11 +192,11 @@ def fmt_alert(a):
         f"📈 <b>Estatisticas:</b>\n"
         f"   {a['p1']}: WR {a['w1']:.0f}% ({a['j1']}j) | Forma: {a['f1']}\n"
         f"   {a['p2']}: WR {a['w2']:.0f}% ({a['j2']}j) | Forma: {a['f2']}\n"
-        f"   Over 2.5: {a['o25']:.0f}% | BTTS: {a['btts']:.0f}%\n"
+        f"   Over 6.5: {a['o65']:.0f}% | BTTS: {a['btts']:.0f}%\n"
         f"   Media estimada: {a['avg_g']:.1f} gols\n\n"
         f"💡 <b>Recomendacoes:</b>\n"
         f"{reasons}\n\n"
-        f"🎯 <b>Dica:</b> Over 2.5 + Vitoria {a['fav']}\n\n"
+        f"🎯 <b>Dica:</b> Over 6.5 + Vitoria {a['fav']}\n\n"
         f"⏳ <i>Aguardando resultado...</i>\n"
         f"━━━━━━━━━━━━━━━━━━━━━"
     )
@@ -214,11 +215,11 @@ def fmt_result(a, placar, bateu):
         f"📈 <b>Estatisticas:</b>\n"
         f"   {a['p1']}: WR {a['w1']:.0f}% ({a['j1']}j) | Forma: {a['f1']}\n"
         f"   {a['p2']}: WR {a['w2']:.0f}% ({a['j2']}j) | Forma: {a['f2']}\n"
-        f"   Over 2.5: {a['o25']:.0f}% | BTTS: {a['btts']:.0f}%\n"
+        f"   Over 6.5: {a['o65']:.0f}% | BTTS: {a['btts']:.0f}%\n"
         f"   Media estimada: {a['avg_g']:.1f} gols\n\n"
         f"💡 <b>Recomendacoes:</b>\n"
         f"{reasons}\n\n"
-        f"🎯 <b>Dica:</b> Over 2.5 + Vitoria {a['fav']}\n\n"
+        f"🎯 <b>Dica:</b> Over 6.5 + Vitoria {a['fav']}\n\n"
         f"{icon} <b>{txt}</b>\n"
         f"   Placar final: <b>{placar}</b>\n"
         f"━━━━━━━━━━━━━━━━━━━━━"
@@ -337,7 +338,7 @@ def update_results():
         fav_g = g1 if fav == p1 else g2
         und_g = g2 if fav == p1 else g1
 
-        bateu = (g1 + g2 > 2.5) and (fav_g > und_g)
+        bateu = (g1 + g2 > 6.5) and (fav_g > und_g)
 
         msg_id = a.get("message_id")
         if msg_id:
