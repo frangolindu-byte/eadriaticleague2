@@ -197,6 +197,25 @@
             animation: pulse 2s infinite;
         }
 
+        .sidebar-footer .credit {
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px solid var(--border);
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            text-align: center;
+            letter-spacing: 0.02em;
+        }
+
+        .sidebar-footer .credit strong {
+            color: var(--accent-light);
+            font-weight: 800;
+            font-size: 0.85rem;
+            background: linear-gradient(135deg, var(--accent-light), var(--cyan));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
         @keyframes pulse {
             0%, 100% { opacity: 1; box-shadow: 0 0 0 0 var(--green-ring); }
             50% { opacity: 0.8; box-shadow: 0 0 0 6px transparent; }
@@ -1049,7 +1068,6 @@
             .topbar-actions .btn span { display: none; }
             .topbar { gap: 10px; }
             .topbar > span:last-child { display: none; }
-            .credit-text { display: none; }
         }
 
         @media (max-width: 480px) {
@@ -1147,6 +1165,9 @@
         <div class="sidebar-footer">
             <span class="live-dot"></span>
             <span id="last-update">Atualizando...</span>
+            <div class="credit">
+                Dashboard criado por <strong>FRg</strong>
+            </div>
         </div>
     </aside>
     <div class="sidebar-overlay" id="sidebar-overlay"></div>
@@ -1165,7 +1186,6 @@
                     Atualizar
                 </button>
             </div>
-            <span style="font-size:0.7rem;color:var(--text-muted);white-space:nowrap" class="credit-text">Dashboard criado por <strong style="color:var(--accent-light)">FRg</strong></span>
         </header>
 
         <div class="content">
