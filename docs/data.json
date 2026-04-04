@@ -1,9 +1,9 @@
 {
-  "updated_at": "04/04/2026 19:39:17",
+  "updated_at": "04/04/2026 20:00:02",
   "summary": {
     "total": 300,
-    "finalizados": 274,
-    "agendados": 26,
+    "finalizados": 278,
+    "agendados": 22,
     "ligas": 17
   },
   "jogos": [
@@ -1943,29 +1943,29 @@
       "liga": "FC26 R339(EUROPA LEAGUE)04.04.202",
       "p1": "Aston Villa (Lucas)",
       "p2": "Manchester Utd. (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R339(EUROPA LEAGUE)04.04.202",
       "p1": "Real Betis (Conde)",
       "p2": "Lazio (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R339(EUROPA LEAGUE)04.04.202",
       "p1": "Aston Villa (Lucas)",
       "p2": "Celtic (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R339(EUROPA LEAGUE)04.04.202",
       "p1": "Lazio (Andrew)",
       "p2": "Manchester Utd. (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R339(EUROPA LEAGUE)04.04.202",
@@ -2181,8 +2181,8 @@
     },
     "FC26 R339(EUROPA LEAGUE)04.04.202": {
       "total": 20,
-      "finalizados": 10,
-      "agendados": 10
+      "finalizados": 14,
+      "agendados": 6
     },
     "FC26 R340(LA LIGA)04.04.2026": {
       "total": 8,
@@ -3067,62 +3067,62 @@
     "FC26 R339(EUROPA LEAGUE)04.04.202": [
       {
         "nome": "Lazio (Andrew)",
-        "Pts": 8,
-        "J": 4,
-        "V": 2,
-        "E": 2,
+        "Pts": 12,
+        "J": 6,
+        "V": 3,
+        "E": 3,
         "D": 0,
-        "GP": 13,
-        "GC": 10,
-        "SG": 3,
+        "GP": 21,
+        "GC": 16,
+        "SG": 5,
         "pos": 1
       },
       {
-        "nome": "Real Betis (Conde)",
-        "Pts": 7,
-        "J": 4,
+        "nome": "Aston Villa (Lucas)",
+        "Pts": 9,
+        "J": 6,
         "V": 2,
-        "E": 1,
+        "E": 3,
         "D": 1,
-        "GP": 11,
-        "GC": 7,
-        "SG": 4,
+        "GP": 20,
+        "GC": 17,
+        "SG": 3,
         "pos": 2
       },
       {
-        "nome": "Aston Villa (Lucas)",
-        "Pts": 5,
-        "J": 4,
-        "V": 1,
+        "nome": "Real Betis (Conde)",
+        "Pts": 8,
+        "J": 5,
+        "V": 2,
         "E": 2,
         "D": 1,
-        "GP": 12,
+        "GP": 15,
         "GC": 11,
-        "SG": 1,
+        "SG": 4,
         "pos": 3
       },
       {
         "nome": "Celtic (Dexter)",
         "Pts": 4,
-        "J": 4,
+        "J": 5,
         "V": 1,
         "E": 1,
-        "D": 2,
-        "GP": 11,
-        "GC": 14,
-        "SG": -3,
+        "D": 3,
+        "GP": 14,
+        "GC": 19,
+        "SG": -5,
         "pos": 4
       },
       {
         "nome": "Manchester Utd. (Donatello)",
-        "Pts": 2,
-        "J": 4,
+        "Pts": 3,
+        "J": 6,
         "V": 0,
-        "E": 2,
-        "D": 2,
-        "GP": 7,
-        "GC": 12,
-        "SG": -5,
+        "E": 3,
+        "D": 3,
+        "GP": 12,
+        "GC": 19,
+        "SG": -7,
         "pos": 5
       }
     ]
