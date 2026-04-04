@@ -1,9 +1,9 @@
 {
-  "updated_at": "04/04/2026 13:15:56",
+  "updated_at": "04/04/2026 14:02:19",
   "summary": {
     "total": 300,
-    "finalizados": 226,
-    "agendados": 74,
+    "finalizados": 232,
+    "agendados": 68,
     "ligas": 17
   },
   "jogos": [
@@ -1607,43 +1607,43 @@
       "liga": "FC26 R337(CHAMPIONS LEAGUE)04.04.2026",
       "p1": "PSG (Dexter)",
       "p2": "Liverpool (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R337(CHAMPIONS LEAGUE)04.04.2026",
       "p1": "Real Madrid (Donatello)",
       "p2": "Atletico Madrid (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R337(CHAMPIONS LEAGUE)04.04.2026",
       "p1": "Liverpool (Lucas)",
       "p2": "Atletico Madrid (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R337(CHAMPIONS LEAGUE)04.04.2026",
       "p1": "PSG (Dexter)",
       "p2": "Manchester City (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R337(CHAMPIONS LEAGUE)04.04.2026",
       "p1": "Manchester City (Conde)",
       "p2": "Real Madrid (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R337(CHAMPIONS LEAGUE)04.04.2026",
       "p1": "PSG (Dexter)",
       "p2": "Atletico Madrid (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R337(CHAMPIONS LEAGUE)04.04.2026",
@@ -2171,8 +2171,8 @@
     },
     "FC26 R337(CHAMPIONS LEAGUE)04.04.2026": {
       "total": 20,
-      "finalizados": 2,
-      "agendados": 18
+      "finalizados": 8,
+      "agendados": 12
     },
     "FC26 R338(INTERNATIONAL)04.04.2026": {
       "total": 20,
@@ -2943,51 +2943,63 @@
     "FC26 R337(CHAMPIONS LEAGUE)04.04.2026": [
       {
         "nome": "Atletico Madrid (Andrew)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "Pts": 9,
+        "J": 4,
+        "V": 3,
         "E": 0,
-        "D": 0,
-        "GP": 5,
-        "GC": 0,
-        "SG": 5,
+        "D": 1,
+        "GP": 12,
+        "GC": 5,
+        "SG": 7,
         "pos": 1
       },
       {
         "nome": "Real Madrid (Donatello)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
-        "D": 0,
-        "GP": 5,
-        "GC": 1,
-        "SG": 4,
+        "D": 1,
+        "GP": 9,
+        "GC": 7,
+        "SG": 2,
         "pos": 2
       },
       {
-        "nome": "Liverpool (Lucas)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
-        "E": 0,
+        "nome": "PSG (Dexter)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
         "D": 1,
-        "GP": 1,
-        "GC": 5,
-        "SG": -4,
+        "GP": 9,
+        "GC": 6,
+        "SG": 3,
         "pos": 3
       },
       {
         "nome": "Manchester City (Conde)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
         "E": 0,
-        "D": 1,
-        "GP": 0,
-        "GC": 5,
+        "D": 2,
+        "GP": 5,
+        "GC": 10,
         "SG": -5,
         "pos": 4
+      },
+      {
+        "nome": "Liverpool (Lucas)",
+        "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 4,
+        "GC": 11,
+        "SG": -7,
+        "pos": 5
       }
     ]
   }
