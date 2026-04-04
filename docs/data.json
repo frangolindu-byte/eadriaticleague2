@@ -1,9 +1,9 @@
 {
-  "updated_at": "04/04/2026 15:17:46",
+  "updated_at": "04/04/2026 16:21:10",
   "summary": {
     "total": 300,
-    "finalizados": 242,
-    "agendados": 58,
+    "finalizados": 248,
+    "agendados": 52,
     "ligas": 17
   },
   "jogos": [
@@ -1719,43 +1719,43 @@
       "liga": "FC26 R337(CHAMPIONS LEAGUE)04.04.2026",
       "p1": "Liverpool (Lucas)",
       "p2": "Manchester City (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R337(CHAMPIONS LEAGUE)04.04.2026",
       "p1": "Real Madrid (Donatello)",
       "p2": "PSG (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R338(INTERNATIONAL)04.04.2026",
       "p1": "Italy (Donatello)",
       "p2": "Spain (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R338(INTERNATIONAL)04.04.2026",
       "p1": "Portugal (Andrew)",
       "p2": "Denmark (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R338(INTERNATIONAL)04.04.2026",
       "p1": "Italy (Donatello)",
       "p2": "Portugal (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R338(INTERNATIONAL)04.04.2026",
       "p1": "Norway (Dexter)",
       "p2": "Spain (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R338(INTERNATIONAL)04.04.2026",
@@ -2171,13 +2171,13 @@
     },
     "FC26 R337(CHAMPIONS LEAGUE)04.04.2026": {
       "total": 20,
-      "finalizados": 18,
-      "agendados": 2
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R338(INTERNATIONAL)04.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 4,
+      "agendados": 16
     },
     "FC26 R339(EUROPA LEAGUE)04.04.202": {
       "total": 20,
@@ -2943,14 +2943,14 @@
     "FC26 R337(CHAMPIONS LEAGUE)04.04.2026": [
       {
         "nome": "Real Madrid (Donatello)",
-        "Pts": 16,
-        "J": 7,
-        "V": 5,
+        "Pts": 19,
+        "J": 8,
+        "V": 6,
         "E": 1,
         "D": 1,
-        "GP": 20,
-        "GC": 11,
-        "SG": 9,
+        "GP": 23,
+        "GC": 13,
+        "SG": 10,
         "pos": 1
       },
       {
@@ -2968,37 +2968,99 @@
       {
         "nome": "Manchester City (Conde)",
         "Pts": 9,
-        "J": 7,
+        "J": 8,
         "V": 3,
         "E": 0,
-        "D": 4,
+        "D": 5,
         "GP": 20,
-        "GC": 22,
-        "SG": -2,
+        "GC": 26,
+        "SG": -6,
         "pos": 3
       },
       {
         "nome": "PSG (Dexter)",
         "Pts": 8,
-        "J": 7,
+        "J": 8,
         "V": 2,
         "E": 2,
-        "D": 3,
-        "GP": 21,
-        "GC": 20,
-        "SG": 1,
+        "D": 4,
+        "GP": 23,
+        "GC": 23,
+        "SG": 0,
         "pos": 4
       },
       {
         "nome": "Liverpool (Lucas)",
-        "Pts": 2,
-        "J": 7,
-        "V": 0,
+        "Pts": 5,
+        "J": 8,
+        "V": 1,
         "E": 2,
         "D": 5,
-        "GP": 13,
+        "GP": 17,
         "GC": 28,
-        "SG": -15,
+        "SG": -11,
+        "pos": 5
+      }
+    ],
+    "FC26 R338(INTERNATIONAL)04.04.2026": [
+      {
+        "nome": "Portugal (Andrew)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 5,
+        "GC": 2,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "Spain (Lucas)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 9,
+        "GC": 7,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Denmark (Conde)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 2,
+        "GC": 1,
+        "SG": 1,
+        "pos": 3
+      },
+      {
+        "nome": "Italy (Donatello)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 4,
+        "GC": 7,
+        "SG": -3,
+        "pos": 4
+      },
+      {
+        "nome": "Norway (Dexter)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 3,
+        "GC": 6,
+        "SG": -3,
         "pos": 5
       }
     ]
