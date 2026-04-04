@@ -1,9 +1,9 @@
 {
-  "updated_at": "04/04/2026 23:21:54",
+  "updated_at": "04/04/2026 23:53:14",
   "summary": {
     "total": 300,
-    "finalizados": 20,
-    "agendados": 280,
+    "finalizados": 26,
+    "agendados": 274,
     "ligas": 17
   },
   "jogos": [
@@ -81,15 +81,15 @@
       "liga": "FC26 R340(LA LIGA)04.04.2026",
       "p1": "Atletico Madrid (Sebastian)",
       "p2": "Villarreal (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R340(LA LIGA)04.04.2026",
       "p1": "Real Madrid (Eric)",
       "p2": "Real Sociedad (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R341(PREMIER LEAGUE)04.04.2026",
@@ -165,29 +165,29 @@
       "liga": "FC26 R341(PREMIER LEAGUE)04.04.2026",
       "p1": "Chelsea (Beckham)",
       "p2": "Newcastle U. (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R341(PREMIER LEAGUE)04.04.2026",
       "p1": "Liverpool (Daniel)",
       "p2": "Manchester City (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R341(PREMIER LEAGUE)04.04.2026",
       "p1": "Arsenal (Samuel)",
       "p2": "Manchester City (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R341(PREMIER LEAGUE)04.04.2026",
       "p1": "Liverpool (Daniel)",
       "p2": "Newcastle U. (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R342(CHAMPIONS LEAGUE)05.04.2026",
@@ -2111,13 +2111,13 @@
   "resumo": {
     "FC26 R340(LA LIGA)04.04.2026": {
       "total": 12,
-      "finalizados": 10,
-      "agendados": 2
+      "finalizados": 12,
+      "agendados": 0
     },
     "FC26 R341(PREMIER LEAGUE)04.04.2026": {
       "total": 14,
-      "finalizados": 10,
-      "agendados": 4
+      "finalizados": 14,
+      "agendados": 0
     },
     "FC26 R342(CHAMPIONS LEAGUE)05.04.2026": {
       "total": 20,
@@ -2199,15 +2199,27 @@
     "FC26 R340(LA LIGA)04.04.2026": [
       {
         "nome": "Villarreal (Alexis)",
-        "Pts": 12,
-        "J": 4,
-        "V": 4,
+        "Pts": 15,
+        "J": 5,
+        "V": 5,
         "E": 0,
         "D": 0,
-        "GP": 20,
-        "GC": 8,
-        "SG": 12,
+        "GP": 26,
+        "GC": 11,
+        "SG": 15,
         "pos": 1
+      },
+      {
+        "nome": "Real Madrid (Eric)",
+        "Pts": 9,
+        "J": 5,
+        "V": 3,
+        "E": 0,
+        "D": 2,
+        "GP": 14,
+        "GC": 9,
+        "SG": 5,
+        "pos": 2
       },
       {
         "nome": "Real Betis (Gael)",
@@ -2219,103 +2231,91 @@
         "GP": 15,
         "GC": 13,
         "SG": 2,
-        "pos": 2
-      },
-      {
-        "nome": "Real Madrid (Eric)",
-        "Pts": 6,
-        "J": 4,
-        "V": 2,
-        "E": 0,
-        "D": 2,
-        "GP": 12,
-        "GC": 9,
-        "SG": 3,
         "pos": 3
       },
       {
         "nome": "Real Sociedad (Mateo)",
         "Pts": 4,
-        "J": 4,
+        "J": 5,
         "V": 1,
         "E": 1,
-        "D": 2,
+        "D": 3,
         "GP": 12,
-        "GC": 18,
-        "SG": -6,
+        "GC": 20,
+        "SG": -8,
         "pos": 4
       },
       {
         "nome": "Atletico Madrid (Sebastian)",
         "Pts": 0,
-        "J": 4,
+        "J": 5,
         "V": 0,
         "E": 0,
-        "D": 4,
-        "GP": 10,
-        "GC": 21,
-        "SG": -11,
+        "D": 5,
+        "GP": 13,
+        "GC": 27,
+        "SG": -14,
         "pos": 5
       }
     ],
     "FC26 R341(PREMIER LEAGUE)04.04.2026": [
       {
         "nome": "Chelsea (Beckham)",
-        "Pts": 12,
-        "J": 4,
-        "V": 4,
+        "Pts": 15,
+        "J": 5,
+        "V": 5,
         "E": 0,
         "D": 0,
-        "GP": 16,
-        "GC": 7,
-        "SG": 9,
+        "GP": 22,
+        "GC": 9,
+        "SG": 13,
         "pos": 1
+      },
+      {
+        "nome": "Arsenal (Samuel)",
+        "Pts": 9,
+        "J": 5,
+        "V": 3,
+        "E": 0,
+        "D": 2,
+        "GP": 16,
+        "GC": 13,
+        "SG": 3,
+        "pos": 2
+      },
+      {
+        "nome": "Newcastle U. (Kristof)",
+        "Pts": 9,
+        "J": 6,
+        "V": 3,
+        "E": 0,
+        "D": 3,
+        "GP": 16,
+        "GC": 23,
+        "SG": -7,
+        "pos": 3
       },
       {
         "nome": "Manchester City (Alexander)",
         "Pts": 6,
-        "J": 4,
+        "J": 6,
         "V": 2,
         "E": 0,
-        "D": 2,
-        "GP": 17,
-        "GC": 15,
-        "SG": 2,
-        "pos": 2
-      },
-      {
-        "nome": "Arsenal (Samuel)",
-        "Pts": 6,
-        "J": 4,
-        "V": 2,
-        "E": 0,
-        "D": 2,
-        "GP": 14,
-        "GC": 12,
-        "SG": 2,
-        "pos": 3
-      },
-      {
-        "nome": "Newcastle U. (Kristof)",
-        "Pts": 6,
-        "J": 4,
-        "V": 2,
-        "E": 0,
-        "D": 2,
-        "GP": 12,
-        "GC": 16,
-        "SG": -4,
+        "D": 4,
+        "GP": 21,
+        "GC": 21,
+        "SG": 0,
         "pos": 4
       },
       {
         "nome": "Liverpool (Daniel)",
-        "Pts": 0,
-        "J": 4,
-        "V": 0,
+        "Pts": 3,
+        "J": 6,
+        "V": 1,
         "E": 0,
-        "D": 4,
-        "GP": 8,
-        "GC": 17,
+        "D": 5,
+        "GP": 13,
+        "GC": 22,
         "SG": -9,
         "pos": 5
       }
