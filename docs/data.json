@@ -1,9 +1,9 @@
 {
-  "updated_at": "03/04/2026 23:38:18",
+  "updated_at": "04/04/2026 00:02:57",
   "summary": {
     "total": 300,
-    "finalizados": 24,
-    "agendados": 276,
+    "finalizados": 28,
+    "agendados": 272,
     "ligas": 17
   },
   "jogos": [
@@ -179,29 +179,29 @@
       "liga": "FC26 R326(EUROPA LEAGUE)03.04.2026",
       "p1": "Aston Villa (Kristof)",
       "p2": "Manchester Utd. (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R326(EUROPA LEAGUE)03.04.2026",
       "p1": "Real Betis (Felix)",
       "p2": "Lazio (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R327(INTERNATIONAL)04.04.2026",
       "p1": "Norway (Gael)",
       "p2": "Italy (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R327(INTERNATIONAL)04.04.2026",
       "p1": "Portugal (Conde)",
       "p2": "Spain (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R327(INTERNATIONAL)04.04.2026",
@@ -2116,13 +2116,13 @@
     },
     "FC26 R326(EUROPA LEAGUE)03.04.2026": {
       "total": 14,
-      "finalizados": 12,
-      "agendados": 2
+      "finalizados": 14,
+      "agendados": 0
     },
     "FC26 R327(INTERNATIONAL)04.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 2,
+      "agendados": 18
     },
     "FC26 R328(CHAMPIONS LEAGUE)04.04.2026": {
       "total": 20,
@@ -2260,51 +2260,51 @@
     ],
     "FC26 R326(EUROPA LEAGUE)03.04.2026": [
       {
-        "nome": "Manchester Utd. (Beckham)",
-        "Pts": 10,
-        "J": 5,
-        "V": 3,
-        "E": 1,
-        "D": 1,
+        "nome": "Lazio (Eric)",
+        "Pts": 12,
+        "J": 6,
+        "V": 4,
+        "E": 0,
+        "D": 2,
         "GP": 23,
-        "GC": 16,
-        "SG": 7,
+        "GC": 13,
+        "SG": 10,
         "pos": 1
       },
       {
-        "nome": "Lazio (Eric)",
-        "Pts": 9,
-        "J": 5,
+        "nome": "Manchester Utd. (Beckham)",
+        "Pts": 10,
+        "J": 6,
         "V": 3,
-        "E": 0,
+        "E": 1,
         "D": 2,
-        "GP": 18,
-        "GC": 10,
-        "SG": 8,
+        "GP": 25,
+        "GC": 20,
+        "SG": 5,
         "pos": 2
       },
       {
         "nome": "Real Betis (Felix)",
         "Pts": 9,
-        "J": 4,
+        "J": 5,
         "V": 3,
         "E": 0,
-        "D": 1,
-        "GP": 16,
-        "GC": 12,
-        "SG": 4,
+        "D": 2,
+        "GP": 19,
+        "GC": 17,
+        "SG": 2,
         "pos": 3
       },
       {
         "nome": "Aston Villa (Kristof)",
-        "Pts": 4,
-        "J": 5,
-        "V": 1,
+        "Pts": 7,
+        "J": 6,
+        "V": 2,
         "E": 1,
         "D": 3,
-        "GP": 13,
-        "GC": 21,
-        "SG": -8,
+        "GP": 17,
+        "GC": 23,
+        "SG": -6,
         "pos": 4
       },
       {
@@ -2318,6 +2318,56 @@
         "GC": 22,
         "SG": -11,
         "pos": 5
+      }
+    ],
+    "FC26 R327(INTERNATIONAL)04.04.2026": [
+      {
+        "nome": "Spain (Mateo)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 7,
+        "GC": 4,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "Italy (Odin)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 3,
+        "GC": 1,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Norway (Gael)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 1,
+        "GC": 3,
+        "SG": -2,
+        "pos": 3
+      },
+      {
+        "nome": "Portugal (Conde)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 4,
+        "GC": 7,
+        "SG": -3,
+        "pos": 4
       }
     ]
   }
