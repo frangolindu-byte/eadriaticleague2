@@ -1,9 +1,9 @@
 {
-  "updated_at": "04/04/2026 20:45:34",
+  "updated_at": "04/04/2026 21:16:56",
   "summary": {
     "total": 300,
-    "finalizados": 284,
-    "agendados": 16,
+    "finalizados": 286,
+    "agendados": 14,
     "ligas": 17
   },
   "jogos": [
@@ -2013,15 +2013,15 @@
       "liga": "FC26 R340(LA LIGA)04.04.2026",
       "p1": "Real Betis (Gael)",
       "p2": "Villarreal (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R340(LA LIGA)04.04.2026",
       "p1": "Real Madrid (Eric)",
       "p2": "Atletico Madrid (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R340(LA LIGA)04.04.2026",
@@ -2186,8 +2186,8 @@
     },
     "FC26 R340(LA LIGA)04.04.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 2,
+      "agendados": 6
     },
     "FC26 R341(PREMIER LEAGUE)04.04.2026": {
       "total": 6,
@@ -3124,6 +3124,56 @@
         "GC": 28,
         "SG": -8,
         "pos": 5
+      }
+    ],
+    "FC26 R340(LA LIGA)04.04.2026": [
+      {
+        "nome": "Villarreal (Alexis)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 4,
+        "GC": 0,
+        "SG": 4,
+        "pos": 1
+      },
+      {
+        "nome": "Real Madrid (Eric)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 5,
+        "GC": 2,
+        "SG": 3,
+        "pos": 2
+      },
+      {
+        "nome": "Atletico Madrid (Sebastian)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 2,
+        "GC": 5,
+        "SG": -3,
+        "pos": 3
+      },
+      {
+        "nome": "Real Betis (Gael)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 0,
+        "GC": 4,
+        "SG": -4,
+        "pos": 4
       }
     ]
   }
