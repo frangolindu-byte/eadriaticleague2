@@ -1,9 +1,9 @@
 {
-  "updated_at": "04/04/2026 06:43:26",
+  "updated_at": "04/04/2026 07:39:06",
   "summary": {
     "total": 300,
-    "finalizados": 130,
-    "agendados": 170,
+    "finalizados": 142,
+    "agendados": 158,
     "ligas": 17
   },
   "jogos": [
@@ -851,43 +851,43 @@
       "liga": "FC26 R331(CHAMPIONS LEAGUE)04.04.2026",
       "p1": "Barcelona (Gabriel)",
       "p2": "PSG (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R331(CHAMPIONS LEAGUE)04.04.2026",
       "p1": "Liverpool (Bruno)",
       "p2": "Bayern M. (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R331(CHAMPIONS LEAGUE)04.04.2026",
       "p1": "Liverpool (Bruno)",
       "p2": "PSG (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R331(CHAMPIONS LEAGUE)04.04.2026",
       "p1": "Real Madrid (Adriano)",
       "p2": "Barcelona (Gabriel)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R331(CHAMPIONS LEAGUE)04.04.2026",
       "p1": "Bayern M. (Liam)",
       "p2": "Barcelona (Gabriel)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R331(CHAMPIONS LEAGUE)04.04.2026",
       "p1": "Real Madrid (Adriano)",
       "p2": "PSG (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R332(LA LIGA)04.04.2026",
@@ -963,43 +963,43 @@
       "liga": "FC26 R332(LA LIGA)04.04.2026",
       "p1": "Real Madrid (VanGogh)",
       "p2": "Atletico Madrid (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R332(LA LIGA)04.04.2026",
       "p1": "Real Sociedad (Arthur)",
       "p2": "Barcelona (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R332(LA LIGA)04.04.2026",
       "p1": "Barcelona (Kai)",
       "p2": "Atletico Madrid (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R332(LA LIGA)04.04.2026",
       "p1": "Real Madrid (VanGogh)",
       "p2": "Villarreal (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R332(LA LIGA)04.04.2026",
       "p1": "Barcelona (Kai)",
       "p2": "Real Madrid (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R332(LA LIGA)04.04.2026",
       "p1": "Real Sociedad (Arthur)",
       "p2": "Villarreal (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R332(LA LIGA)04.04.2026",
@@ -2141,13 +2141,13 @@
     },
     "FC26 R331(CHAMPIONS LEAGUE)04.04.2026": {
       "total": 20,
-      "finalizados": 14,
-      "agendados": 6
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R332(LA LIGA)04.04.2026": {
       "total": 20,
-      "finalizados": 10,
-      "agendados": 10
+      "finalizados": 16,
+      "agendados": 4
     },
     "FC26 R333(PREMIER LEAGUE)04.04.2026": {
       "total": 20,
@@ -2571,123 +2571,123 @@
     "FC26 R331(CHAMPIONS LEAGUE)04.04.2026": [
       {
         "nome": "Barcelona (Gabriel)",
-        "Pts": 13,
-        "J": 5,
-        "V": 4,
+        "Pts": 19,
+        "J": 8,
+        "V": 6,
         "E": 1,
-        "D": 0,
-        "GP": 19,
-        "GC": 10,
-        "SG": 9,
+        "D": 1,
+        "GP": 33,
+        "GC": 19,
+        "SG": 14,
         "pos": 1
       },
       {
         "nome": "PSG (Matrix)",
-        "Pts": 10,
-        "J": 5,
-        "V": 3,
-        "E": 1,
-        "D": 1,
-        "GP": 18,
-        "GC": 12,
-        "SG": 6,
+        "Pts": 14,
+        "J": 8,
+        "V": 4,
+        "E": 2,
+        "D": 2,
+        "GP": 29,
+        "GC": 24,
+        "SG": 5,
         "pos": 2
       },
       {
         "nome": "Bayern M. (Liam)",
-        "Pts": 9,
-        "J": 6,
-        "V": 3,
+        "Pts": 12,
+        "J": 8,
+        "V": 4,
         "E": 0,
-        "D": 3,
-        "GP": 17,
-        "GC": 17,
-        "SG": 0,
+        "D": 4,
+        "GP": 22,
+        "GC": 24,
+        "SG": -2,
         "pos": 3
       },
       {
         "nome": "Real Madrid (Adriano)",
-        "Pts": 6,
-        "J": 6,
-        "V": 2,
-        "E": 0,
+        "Pts": 10,
+        "J": 8,
+        "V": 3,
+        "E": 1,
         "D": 4,
-        "GP": 12,
-        "GC": 17,
-        "SG": -5,
+        "GP": 19,
+        "GC": 23,
+        "SG": -4,
         "pos": 4
       },
       {
         "nome": "Liverpool (Bruno)",
         "Pts": 3,
-        "J": 6,
+        "J": 8,
         "V": 1,
         "E": 0,
-        "D": 5,
-        "GP": 10,
-        "GC": 20,
-        "SG": -10,
+        "D": 7,
+        "GP": 17,
+        "GC": 30,
+        "SG": -13,
         "pos": 5
       }
     ],
     "FC26 R332(LA LIGA)04.04.2026": [
       {
         "nome": "Villarreal (MisterX)",
-        "Pts": 10,
-        "J": 4,
+        "Pts": 12,
+        "J": 6,
         "V": 3,
-        "E": 1,
+        "E": 3,
         "D": 0,
-        "GP": 19,
-        "GC": 10,
+        "GP": 26,
+        "GC": 17,
         "SG": 9,
         "pos": 1
       },
       {
-        "nome": "Real Sociedad (Arthur)",
-        "Pts": 9,
-        "J": 4,
-        "V": 3,
+        "nome": "Barcelona (Kai)",
+        "Pts": 12,
+        "J": 7,
+        "V": 4,
         "E": 0,
-        "D": 1,
-        "GP": 14,
-        "GC": 14,
-        "SG": 0,
+        "D": 3,
+        "GP": 22,
+        "GC": 19,
+        "SG": 3,
         "pos": 2
       },
       {
-        "nome": "Barcelona (Kai)",
-        "Pts": 6,
-        "J": 4,
-        "V": 2,
-        "E": 0,
+        "nome": "Real Sociedad (Arthur)",
+        "Pts": 10,
+        "J": 6,
+        "V": 3,
+        "E": 1,
         "D": 2,
-        "GP": 12,
-        "GC": 11,
-        "SG": 1,
+        "GP": 20,
+        "GC": 22,
+        "SG": -2,
         "pos": 3
       },
       {
-        "nome": "Atletico Madrid (Pascal)",
-        "Pts": 2,
-        "J": 4,
-        "V": 0,
+        "nome": "Real Madrid (VanGogh)",
+        "Pts": 8,
+        "J": 7,
+        "V": 2,
         "E": 2,
-        "D": 2,
-        "GP": 14,
-        "GC": 18,
+        "D": 3,
+        "GP": 16,
+        "GC": 20,
         "SG": -4,
         "pos": 4
       },
       {
-        "nome": "Real Madrid (VanGogh)",
-        "Pts": 1,
-        "J": 4,
+        "nome": "Atletico Madrid (Pascal)",
+        "Pts": 2,
+        "J": 6,
         "V": 0,
-        "E": 1,
-        "D": 3,
-        "GP": 7,
-        "GC": 13,
+        "E": 2,
+        "D": 4,
+        "GP": 19,
+        "GC": 25,
         "SG": -6,
         "pos": 5
       }
