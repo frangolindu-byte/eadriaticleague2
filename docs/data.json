@@ -1,9 +1,9 @@
 {
-  "updated_at": "04/04/2026 11:38:17",
+  "updated_at": "04/04/2026 11:58:56",
   "summary": {
     "total": 300,
-    "finalizados": 204,
-    "agendados": 96,
+    "finalizados": 210,
+    "agendados": 90,
     "ligas": 17
   },
   "jogos": [
@@ -1383,29 +1383,29 @@
       "liga": "FC26 R335(SERIA A)04.04.2026",
       "p1": "Fiorentina (Gabriel)",
       "p2": "Juventus (Bruno)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R335(SERIA A)04.04.2026",
       "p1": "Milan (Liam)",
       "p2": "Inter (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R335(SERIA A)04.04.2026",
       "p1": "Juventus (Bruno)",
       "p2": "Inter (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R335(SERIA A)04.04.2026",
       "p1": "Milan (Liam)",
       "p2": "Napoli (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R335(SERIA A)04.04.2026",
@@ -1509,15 +1509,15 @@
       "liga": "FC26 R336(INTERNATIONAL)04.04.2026",
       "p1": "Argentina (MisterX)",
       "p2": "Holland (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R336(INTERNATIONAL)04.04.2026",
       "p1": "Portugal (Arthur)",
       "p2": "Spain (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R336(INTERNATIONAL)04.04.2026",
@@ -2161,13 +2161,13 @@
     },
     "FC26 R335(SERIA A)04.04.2026": {
       "total": 20,
-      "finalizados": 10,
-      "agendados": 10
+      "finalizados": 14,
+      "agendados": 6
     },
     "FC26 R336(INTERNATIONAL)04.04.2026": {
       "total": 20,
-      "finalizados": 8,
-      "agendados": 12
+      "finalizados": 10,
+      "agendados": 10
     },
     "FC26 R337(CHAMPIONS LEAGUE)04.04.2026": {
       "total": 20,
@@ -2818,78 +2818,90 @@
     ],
     "FC26 R335(SERIA A)04.04.2026": [
       {
-        "nome": "Fiorentina (Gabriel)",
-        "Pts": 7,
-        "J": 4,
-        "V": 2,
+        "nome": "Napoli (Matrix)",
+        "Pts": 10,
+        "J": 5,
+        "V": 3,
         "E": 1,
         "D": 1,
-        "GP": 14,
-        "GC": 10,
-        "SG": 4,
+        "GP": 18,
+        "GC": 12,
+        "SG": 6,
         "pos": 1
       },
       {
         "nome": "Juventus (Bruno)",
-        "Pts": 7,
-        "J": 4,
-        "V": 2,
+        "Pts": 10,
+        "J": 6,
+        "V": 3,
         "E": 1,
-        "D": 1,
-        "GP": 15,
-        "GC": 12,
-        "SG": 3,
+        "D": 2,
+        "GP": 22,
+        "GC": 20,
+        "SG": 2,
         "pos": 2
       },
       {
-        "nome": "Napoli (Matrix)",
+        "nome": "Inter (Adriano)",
+        "Pts": 8,
+        "J": 6,
+        "V": 2,
+        "E": 2,
+        "D": 2,
+        "GP": 15,
+        "GC": 16,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Fiorentina (Gabriel)",
         "Pts": 7,
-        "J": 4,
+        "J": 5,
         "V": 2,
         "E": 1,
-        "D": 1,
-        "GP": 13,
-        "GC": 12,
-        "SG": 1,
-        "pos": 3
+        "D": 2,
+        "GP": 18,
+        "GC": 15,
+        "SG": 3,
+        "pos": 4
       },
       {
         "nome": "Milan (Liam)",
         "Pts": 4,
-        "J": 4,
+        "J": 6,
         "V": 1,
         "E": 1,
-        "D": 2,
-        "GP": 8,
-        "GC": 11,
-        "SG": -3,
-        "pos": 4
-      },
-      {
-        "nome": "Inter (Adriano)",
-        "Pts": 2,
-        "J": 4,
-        "V": 0,
-        "E": 2,
-        "D": 2,
-        "GP": 7,
-        "GC": 12,
-        "SG": -5,
+        "D": 4,
+        "GP": 10,
+        "GC": 20,
+        "SG": -10,
         "pos": 5
       }
     ],
     "FC26 R336(INTERNATIONAL)04.04.2026": [
       {
-        "nome": "Portugal (Arthur)",
-        "Pts": 7,
-        "J": 3,
-        "V": 2,
-        "E": 1,
-        "D": 0,
-        "GP": 16,
-        "GC": 12,
+        "nome": "Argentina (MisterX)",
+        "Pts": 9,
+        "J": 4,
+        "V": 3,
+        "E": 0,
+        "D": 1,
+        "GP": 17,
+        "GC": 13,
         "SG": 4,
         "pos": 1
+      },
+      {
+        "nome": "Portugal (Arthur)",
+        "Pts": 7,
+        "J": 4,
+        "V": 2,
+        "E": 1,
+        "D": 1,
+        "GP": 19,
+        "GC": 17,
+        "SG": 2,
+        "pos": 2
       },
       {
         "nome": "Italy (Kai)",
@@ -2901,41 +2913,29 @@
         "GP": 11,
         "GC": 9,
         "SG": 2,
-        "pos": 2
+        "pos": 3
       },
       {
-        "nome": "Argentina (MisterX)",
-        "Pts": 6,
-        "J": 3,
-        "V": 2,
+        "nome": "Spain (VanGogh)",
+        "Pts": 3,
+        "J": 4,
+        "V": 1,
         "E": 0,
-        "D": 1,
+        "D": 3,
         "GP": 14,
-        "GC": 11,
-        "SG": 3,
-        "pos": 3
+        "GC": 17,
+        "SG": -3,
+        "pos": 4
       },
       {
         "nome": "Holland (Pascal)",
         "Pts": 3,
-        "J": 3,
+        "J": 4,
         "V": 1,
         "E": 0,
-        "D": 2,
-        "GP": 10,
-        "GC": 14,
-        "SG": -4,
-        "pos": 4
-      },
-      {
-        "nome": "Spain (VanGogh)",
-        "Pts": 0,
-        "J": 3,
-        "V": 0,
-        "E": 0,
         "D": 3,
-        "GP": 9,
-        "GC": 14,
+        "GP": 12,
+        "GC": 17,
         "SG": -5,
         "pos": 5
       }
