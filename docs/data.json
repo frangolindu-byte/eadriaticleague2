@@ -1,9 +1,9 @@
 {
-  "updated_at": "05/04/2026 15:52:22",
+  "updated_at": "05/04/2026 16:26:00",
   "summary": {
     "total": 300,
-    "finalizados": 246,
-    "agendados": 54,
+    "finalizados": 250,
+    "agendados": 50,
     "ligas": 17
   },
   "jogos": [
@@ -1733,29 +1733,29 @@
       "liga": "FC26 R353(SERIA A)05.04.2026",
       "p1": "Lazio (Conde)",
       "p2": "Atalanta Bergamo (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R353(SERIA A)05.04.2026",
       "p1": "Milan (Juan)",
       "p2": "Fiorentina (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R353(SERIA A)05.04.2026",
       "p1": "Milan (Juan)",
       "p2": "Lazio (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R353(SERIA A)05.04.2026",
       "p1": "Roma (Noah)",
       "p2": "Fiorentina (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R353(SERIA A)05.04.2026",
@@ -2176,8 +2176,8 @@
     },
     "FC26 R353(SERIA A)05.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 4,
+      "agendados": 16
     },
     "FC26 R354(CHAMPIONS LEAGUE)05.04.2026": {
       "total": 20,
@@ -2999,6 +2999,68 @@
         "GP": 18,
         "GC": 30,
         "SG": -12,
+        "pos": 5
+      }
+    ],
+    "FC26 R353(SERIA A)05.04.2026": [
+      {
+        "nome": "Atalanta Bergamo (Dexter)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 5,
+        "GC": 1,
+        "SG": 4,
+        "pos": 1
+      },
+      {
+        "nome": "Roma (Noah)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 5,
+        "GC": 4,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Fiorentina (Liam)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 8,
+        "GC": 8,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Lazio (Conde)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 8,
+        "GC": 9,
+        "SG": -1,
+        "pos": 4
+      },
+      {
+        "nome": "Milan (Juan)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 7,
+        "GC": 11,
+        "SG": -4,
         "pos": 5
       }
     ]
