@@ -1,9 +1,9 @@
 {
-  "updated_at": "05/04/2026 18:22:30",
+  "updated_at": "05/04/2026 19:08:57",
   "summary": {
     "total": 300,
-    "finalizados": 266,
-    "agendados": 34,
+    "finalizados": 272,
+    "agendados": 28,
     "ligas": 17
   },
   "jogos": [
@@ -1873,43 +1873,43 @@
       "liga": "FC26 R354(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "Bayern M. (Juan)",
       "p2": "Barcelona (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R354(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "PSG (Conde)",
       "p2": "Liverpool (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R354(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "Bayern M. (Juan)",
       "p2": "PSG (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R354(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "Borrusia Dortmund (Noah)",
       "p2": "Barcelona (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R354(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "Barcelona (Liam)",
       "p2": "PSG (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R354(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "Borrusia Dortmund (Noah)",
       "p2": "Liverpool (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R354(CHAMPIONS LEAGUE)05.04.2026",
@@ -2181,8 +2181,8 @@
     },
     "FC26 R354(CHAMPIONS LEAGUE)05.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 6,
+      "agendados": 14
     },
     "FC26 R355(CHAMPIONS LEAGUE)05.04.2026": {
       "total": 8,
@@ -3061,6 +3061,68 @@
         "GP": 24,
         "GC": 42,
         "SG": -18,
+        "pos": 5
+      }
+    ],
+    "FC26 R354(CHAMPIONS LEAGUE)05.04.2026": [
+      {
+        "nome": "Borrusia Dortmund (Noah)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 10,
+        "GC": 5,
+        "SG": 5,
+        "pos": 1
+      },
+      {
+        "nome": "Barcelona (Liam)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 12,
+        "GC": 8,
+        "SG": 4,
+        "pos": 2
+      },
+      {
+        "nome": "Bayern M. (Juan)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 7,
+        "GC": 12,
+        "SG": -5,
+        "pos": 3
+      },
+      {
+        "nome": "PSG (Conde)",
+        "Pts": 2,
+        "J": 3,
+        "V": 0,
+        "E": 2,
+        "D": 1,
+        "GP": 11,
+        "GC": 12,
+        "SG": -1,
+        "pos": 4
+      },
+      {
+        "nome": "Liverpool (Dexter)",
+        "Pts": 1,
+        "J": 2,
+        "V": 0,
+        "E": 1,
+        "D": 1,
+        "GP": 6,
+        "GC": 9,
+        "SG": -3,
         "pos": 5
       }
     ]
