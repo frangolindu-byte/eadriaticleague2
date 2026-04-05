@@ -1,9 +1,9 @@
 {
-  "updated_at": "05/04/2026 23:03:29",
+  "updated_at": "05/04/2026 23:48:06",
   "summary": {
     "total": 360,
-    "finalizados": 16,
-    "agendados": 344,
+    "finalizados": 24,
+    "agendados": 336,
     "ligas": 20
   },
   "jogos": [
@@ -67,29 +67,29 @@
       "liga": "FC26 R355(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "Barcelona (Odin)",
       "p2": "PSG (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R355(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "Real Madrid (Maverick)",
       "p2": "Liverpool (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R355(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "Bayern M. (Mateo)",
       "p2": "Liverpool (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R355(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "Real Madrid (Maverick)",
       "p2": "PSG (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R356(LA LIGA)05.04.2026",
@@ -151,29 +151,29 @@
       "liga": "FC26 R356(LA LIGA)05.04.2026",
       "p1": "Atletico Madrid (Eric)",
       "p2": "Real Madrid (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R356(LA LIGA)05.04.2026",
       "p1": "Villarreal (Pascal)",
       "p2": "Real Sociedad (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R356(LA LIGA)05.04.2026",
       "p1": "Barcelona (MisterX)",
       "p2": "Atletico Madrid (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R356(LA LIGA)05.04.2026",
       "p1": "Villarreal (Pascal)",
       "p2": "Real Madrid (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R356(LA LIGA)05.04.2026",
@@ -2531,13 +2531,13 @@
   "resumo": {
     "FC26 R355(CHAMPIONS LEAGUE)05.04.2026": {
       "total": 12,
-      "finalizados": 8,
-      "agendados": 4
+      "finalizados": 12,
+      "agendados": 0
     },
     "FC26 R356(LA LIGA)05.04.2026": {
       "total": 14,
-      "finalizados": 8,
-      "agendados": 6
+      "finalizados": 12,
+      "agendados": 2
     },
     "FC26 R357(PREMIER LEAGUE)06.04.2026": {
       "total": 20,
@@ -2633,125 +2633,125 @@
   "classificacao": {
     "FC26 R355(CHAMPIONS LEAGUE)05.04.2026": [
       {
-        "nome": "Barcelona (Odin)",
+        "nome": "PSG (Eduardo)",
         "Pts": 9,
-        "J": 3,
-        "V": 3,
-        "E": 0,
+        "J": 5,
+        "V": 2,
+        "E": 3,
         "D": 0,
-        "GP": 12,
-        "GC": 7,
+        "GP": 15,
+        "GC": 10,
         "SG": 5,
         "pos": 1
       },
       {
-        "nome": "PSG (Eduardo)",
-        "Pts": 5,
-        "J": 3,
-        "V": 1,
-        "E": 2,
-        "D": 0,
-        "GP": 9,
-        "GC": 6,
+        "nome": "Barcelona (Odin)",
+        "Pts": 9,
+        "J": 4,
+        "V": 3,
+        "E": 0,
+        "D": 1,
+        "GP": 14,
+        "GC": 11,
         "SG": 3,
         "pos": 2
       },
       {
-        "nome": "Real Madrid (Maverick)",
-        "Pts": 4,
-        "J": 3,
-        "V": 1,
-        "E": 1,
-        "D": 1,
-        "GP": 10,
-        "GC": 9,
-        "SG": 1,
+        "nome": "Liverpool (Gael)",
+        "Pts": 6,
+        "J": 5,
+        "V": 2,
+        "E": 0,
+        "D": 3,
+        "GP": 15,
+        "GC": 19,
+        "SG": -4,
         "pos": 3
+      },
+      {
+        "nome": "Real Madrid (Maverick)",
+        "Pts": 5,
+        "J": 5,
+        "V": 1,
+        "E": 2,
+        "D": 2,
+        "GP": 15,
+        "GC": 15,
+        "SG": 0,
+        "pos": 4
       },
       {
         "nome": "Bayern M. (Mateo)",
         "Pts": 4,
-        "J": 4,
+        "J": 5,
         "V": 1,
         "E": 1,
-        "D": 2,
-        "GP": 12,
-        "GC": 15,
-        "SG": -3,
-        "pos": 4
-      },
-      {
-        "nome": "Liverpool (Gael)",
-        "Pts": 0,
-        "J": 3,
-        "V": 0,
-        "E": 0,
         "D": 3,
-        "GP": 7,
-        "GC": 13,
-        "SG": -6,
+        "GP": 15,
+        "GC": 19,
+        "SG": -4,
         "pos": 5
       }
     ],
     "FC26 R356(LA LIGA)05.04.2026": [
       {
         "nome": "Barcelona (MisterX)",
-        "Pts": 10,
-        "J": 4,
-        "V": 3,
+        "Pts": 13,
+        "J": 5,
+        "V": 4,
         "E": 1,
         "D": 0,
-        "GP": 16,
-        "GC": 10,
-        "SG": 6,
+        "GP": 19,
+        "GC": 12,
+        "SG": 7,
         "pos": 1
       },
       {
         "nome": "Real Madrid (Beckham)",
-        "Pts": 6,
-        "J": 3,
-        "V": 2,
+        "Pts": 9,
+        "J": 5,
+        "V": 3,
         "E": 0,
-        "D": 1,
-        "GP": 14,
-        "GC": 10,
-        "SG": 4,
+        "D": 2,
+        "GP": 21,
+        "GC": 16,
+        "SG": 5,
         "pos": 2
       },
       {
-        "nome": "Real Sociedad (Felix)",
+        "nome": "Villarreal (Pascal)",
         "Pts": 4,
-        "J": 3,
+        "J": 5,
         "V": 1,
         "E": 1,
-        "D": 1,
-        "GP": 9,
-        "GC": 11,
-        "SG": -2,
+        "D": 3,
+        "GP": 15,
+        "GC": 18,
+        "SG": -3,
         "pos": 3
       },
       {
-        "nome": "Villarreal (Pascal)",
-        "Pts": 1,
-        "J": 3,
-        "V": 0,
+        "nome": "Atletico Madrid (Eric)",
+        "Pts": 4,
+        "J": 5,
+        "V": 1,
         "E": 1,
-        "D": 2,
-        "GP": 8,
-        "GC": 12,
+        "D": 3,
+        "GP": 10,
+        "GC": 14,
         "SG": -4,
         "pos": 4
       },
       {
-        "nome": "Atletico Madrid (Eric)",
-        "Pts": 1,
-        "J": 3,
-        "V": 0,
+        "nome": "Real Sociedad (Felix)",
+        "Pts": 4,
+        "J": 4,
+        "V": 1,
         "E": 1,
         "D": 2,
-        "GP": 4,
-        "GC": 8,
-        "SG": -4,
+        "GP": 11,
+        "GC": 16,
+        "SG": -5,
         "pos": 5
       }
     ]
