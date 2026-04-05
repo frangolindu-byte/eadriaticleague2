@@ -1,9 +1,9 @@
 {
-  "updated_at": "05/04/2026 14:03:41",
+  "updated_at": "05/04/2026 14:50:37",
   "summary": {
     "total": 300,
-    "finalizados": 234,
-    "agendados": 66,
+    "finalizados": 240,
+    "agendados": 60,
     "ligas": 17
   },
   "jogos": [
@@ -1649,43 +1649,43 @@
       "liga": "FC26 R352(PREMIER LEAGUE)05.04.2026",
       "p1": "Manchester City (Noah)",
       "p2": "Liverpool (Juan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R352(PREMIER LEAGUE)05.04.2026",
       "p1": "Manchester Utd. (Dexter)",
       "p2": "Chelsea (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R352(PREMIER LEAGUE)05.04.2026",
       "p1": "Chelsea (Liam)",
       "p2": "Liverpool (Juan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R352(PREMIER LEAGUE)05.04.2026",
       "p1": "Manchester Utd. (Dexter)",
       "p2": "Arsenal (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R352(PREMIER LEAGUE)05.04.2026",
       "p1": "Arsenal (Conde)",
       "p2": "Liverpool (Juan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R352(PREMIER LEAGUE)05.04.2026",
       "p1": "Chelsea (Liam)",
       "p2": "Manchester City (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R352(PREMIER LEAGUE)05.04.2026",
@@ -2171,8 +2171,8 @@
     },
     "FC26 R352(PREMIER LEAGUE)05.04.2026": {
       "total": 20,
-      "finalizados": 8,
-      "agendados": 12
+      "finalizados": 14,
+      "agendados": 6
     },
     "FC26 R353(SERIA A)05.04.2026": {
       "total": 20,
@@ -2943,61 +2943,61 @@
     "FC26 R352(PREMIER LEAGUE)05.04.2026": [
       {
         "nome": "Chelsea (Liam)",
+        "Pts": 12,
+        "J": 6,
+        "V": 4,
+        "E": 0,
+        "D": 2,
+        "GP": 17,
+        "GC": 18,
+        "SG": -1,
+        "pos": 1
+      },
+      {
+        "nome": "Arsenal (Conde)",
+        "Pts": 10,
+        "J": 6,
+        "V": 3,
+        "E": 1,
+        "D": 2,
+        "GP": 23,
+        "GC": 21,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Manchester City (Noah)",
         "Pts": 9,
-        "J": 3,
+        "J": 5,
         "V": 3,
         "E": 0,
-        "D": 0,
-        "GP": 10,
-        "GC": 5,
-        "SG": 5,
-        "pos": 1
+        "D": 2,
+        "GP": 17,
+        "GC": 13,
+        "SG": 4,
+        "pos": 3
       },
       {
         "nome": "Manchester Utd. (Dexter)",
         "Pts": 6,
-        "J": 3,
+        "J": 5,
         "V": 2,
         "E": 0,
-        "D": 1,
-        "GP": 12,
-        "GC": 9,
-        "SG": 3,
-        "pos": 2
-      },
-      {
-        "nome": "Arsenal (Conde)",
-        "Pts": 6,
-        "J": 4,
-        "V": 2,
-        "E": 0,
-        "D": 2,
-        "GP": 14,
-        "GC": 13,
+        "D": 3,
+        "GP": 19,
+        "GC": 18,
         "SG": 1,
-        "pos": 3
-      },
-      {
-        "nome": "Manchester City (Noah)",
-        "Pts": 3,
-        "J": 3,
-        "V": 1,
-        "E": 0,
-        "D": 2,
-        "GP": 7,
-        "GC": 10,
-        "SG": -3,
         "pos": 4
       },
       {
         "nome": "Liverpool (Juan)",
-        "Pts": 0,
-        "J": 3,
-        "V": 0,
-        "E": 0,
-        "D": 3,
-        "GP": 8,
-        "GC": 14,
+        "Pts": 4,
+        "J": 6,
+        "V": 1,
+        "E": 1,
+        "D": 4,
+        "GP": 18,
+        "GC": 24,
         "SG": -6,
         "pos": 5
       }
