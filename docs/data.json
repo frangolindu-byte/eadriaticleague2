@@ -1,9 +1,9 @@
 {
-  "updated_at": "05/04/2026 19:49:17",
+  "updated_at": "05/04/2026 20:18:15",
   "summary": {
     "total": 300,
-    "finalizados": 278,
-    "agendados": 22,
+    "finalizados": 282,
+    "agendados": 18,
     "ligas": 17
   },
   "jogos": [
@@ -1957,29 +1957,29 @@
       "liga": "FC26 R354(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "Barcelona (Liam)",
       "p2": "Borrusia Dortmund (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R354(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "PSG (Conde)",
       "p2": "Bayern M. (Juan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R354(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "Liverpool (Dexter)",
       "p2": "Borrusia Dortmund (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R354(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "PSG (Conde)",
       "p2": "Barcelona (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R354(CHAMPIONS LEAGUE)05.04.2026",
@@ -2181,8 +2181,8 @@
     },
     "FC26 R354(CHAMPIONS LEAGUE)05.04.2026": {
       "total": 20,
-      "finalizados": 12,
-      "agendados": 8
+      "finalizados": 16,
+      "agendados": 4
     },
     "FC26 R355(CHAMPIONS LEAGUE)05.04.2026": {
       "total": 8,
@@ -3066,62 +3066,62 @@
     ],
     "FC26 R354(CHAMPIONS LEAGUE)05.04.2026": [
       {
-        "nome": "Barcelona (Liam)",
-        "Pts": 10,
-        "J": 5,
-        "V": 3,
-        "E": 1,
-        "D": 1,
-        "GP": 18,
-        "GC": 11,
-        "SG": 7,
+        "nome": "Borrusia Dortmund (Noah)",
+        "Pts": 14,
+        "J": 6,
+        "V": 4,
+        "E": 2,
+        "D": 0,
+        "GP": 23,
+        "GC": 15,
+        "SG": 8,
         "pos": 1
       },
       {
-        "nome": "Borrusia Dortmund (Noah)",
-        "Pts": 10,
-        "J": 4,
-        "V": 3,
+        "nome": "Barcelona (Liam)",
+        "Pts": 13,
+        "J": 7,
+        "V": 4,
         "E": 1,
-        "D": 0,
-        "GP": 17,
-        "GC": 10,
-        "SG": 7,
+        "D": 2,
+        "GP": 23,
+        "GC": 14,
+        "SG": 9,
         "pos": 2
+      },
+      {
+        "nome": "PSG (Conde)",
+        "Pts": 7,
+        "J": 7,
+        "V": 1,
+        "E": 4,
+        "D": 2,
+        "GP": 22,
+        "GC": 24,
+        "SG": -2,
+        "pos": 3
       },
       {
         "nome": "Bayern M. (Juan)",
         "Pts": 6,
-        "J": 5,
+        "J": 6,
         "V": 2,
         "E": 0,
-        "D": 3,
-        "GP": 16,
-        "GC": 20,
-        "SG": -4,
-        "pos": 3
-      },
-      {
-        "nome": "PSG (Conde)",
-        "Pts": 4,
-        "J": 5,
-        "V": 0,
-        "E": 4,
-        "D": 1,
-        "GP": 17,
-        "GC": 18,
-        "SG": -1,
+        "D": 4,
+        "GP": 18,
+        "GC": 24,
+        "SG": -6,
         "pos": 4
       },
       {
         "nome": "Liverpool (Dexter)",
-        "Pts": 2,
-        "J": 5,
+        "Pts": 3,
+        "J": 6,
         "V": 0,
-        "E": 2,
+        "E": 3,
         "D": 3,
-        "GP": 12,
-        "GC": 21,
+        "GP": 16,
+        "GC": 25,
         "SG": -9,
         "pos": 5
       }
