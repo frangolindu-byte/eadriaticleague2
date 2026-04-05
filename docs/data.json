@@ -1,9 +1,9 @@
 {
-  "updated_at": "05/04/2026 15:20:47",
+  "updated_at": "05/04/2026 15:52:22",
   "summary": {
     "total": 300,
-    "finalizados": 244,
-    "agendados": 56,
+    "finalizados": 246,
+    "agendados": 54,
     "ligas": 17
   },
   "jogos": [
@@ -1719,15 +1719,15 @@
       "liga": "FC26 R352(PREMIER LEAGUE)05.04.2026",
       "p1": "Chelsea (Liam)",
       "p2": "Manchester Utd. (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R352(PREMIER LEAGUE)05.04.2026",
       "p1": "Liverpool (Juan)",
       "p2": "Manchester City (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R353(SERIA A)05.04.2026",
@@ -2171,8 +2171,8 @@
     },
     "FC26 R352(PREMIER LEAGUE)05.04.2026": {
       "total": 20,
-      "finalizados": 18,
-      "agendados": 2
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R353(SERIA A)05.04.2026": {
       "total": 20,
@@ -2943,26 +2943,26 @@
     "FC26 R352(PREMIER LEAGUE)05.04.2026": [
       {
         "nome": "Manchester City (Noah)",
-        "Pts": 15,
-        "J": 7,
-        "V": 5,
+        "Pts": 18,
+        "J": 8,
+        "V": 6,
         "E": 0,
         "D": 2,
-        "GP": 26,
+        "GP": 31,
         "GC": 18,
-        "SG": 8,
+        "SG": 13,
         "pos": 1
       },
       {
         "nome": "Chelsea (Liam)",
-        "Pts": 15,
-        "J": 7,
-        "V": 5,
+        "Pts": 18,
+        "J": 8,
+        "V": 6,
         "E": 0,
         "D": 2,
-        "GP": 22,
-        "GC": 20,
-        "SG": 2,
+        "GP": 26,
+        "GC": 21,
+        "SG": 5,
         "pos": 2
       },
       {
@@ -2980,25 +2980,25 @@
       {
         "nome": "Manchester Utd. (Dexter)",
         "Pts": 9,
-        "J": 7,
+        "J": 8,
         "V": 3,
         "E": 0,
-        "D": 4,
-        "GP": 22,
-        "GC": 21,
-        "SG": 1,
+        "D": 5,
+        "GP": 23,
+        "GC": 25,
+        "SG": -2,
         "pos": 4
       },
       {
         "nome": "Liverpool (Juan)",
         "Pts": 4,
-        "J": 7,
+        "J": 8,
         "V": 1,
         "E": 1,
-        "D": 5,
+        "D": 6,
         "GP": 18,
-        "GC": 25,
-        "SG": -7,
+        "GC": 30,
+        "SG": -12,
         "pos": 5
       }
     ]
