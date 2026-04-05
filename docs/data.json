@@ -1,9 +1,9 @@
 {
-  "updated_at": "05/04/2026 08:03:46",
+  "updated_at": "05/04/2026 08:58:30",
   "summary": {
     "total": 300,
-    "finalizados": 148,
-    "agendados": 152,
+    "finalizados": 160,
+    "agendados": 140,
     "ligas": 17
   },
   "jogos": [
@@ -1047,43 +1047,43 @@
       "liga": "FC26 R348(INTERNATIONAL)05.04.2026",
       "p1": "Italy (Cleo)",
       "p2": "Spain (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R348(INTERNATIONAL)05.04.2026",
       "p1": "Portugal (Luigi)",
       "p2": "Holland (Leonardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R348(INTERNATIONAL)05.04.2026",
       "p1": "Italy (Cleo)",
       "p2": "Denmark (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R348(INTERNATIONAL)05.04.2026",
       "p1": "Spain (Andrew)",
       "p2": "Holland (Leonardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R348(INTERNATIONAL)05.04.2026",
       "p1": "Denmark (Matrix)",
       "p2": "Portugal (Luigi)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R348(INTERNATIONAL)05.04.2026",
       "p1": "Italy (Cleo)",
       "p2": "Holland (Leonardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R348(INTERNATIONAL)05.04.2026",
@@ -1173,43 +1173,43 @@
       "liga": "FC26 R349(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "Bayern M. (Dominic)",
       "p2": "Atletico Madrid (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R349(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "PSG (Kai)",
       "p2": "Manchester City (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R349(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "Liverpool (Nathan)",
       "p2": "Manchester City (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R349(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "PSG (Kai)",
       "p2": "Bayern M. (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R349(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "Liverpool (Nathan)",
       "p2": "Atletico Madrid (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R349(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "Manchester City (VanGogh)",
       "p2": "Bayern M. (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R349(CHAMPIONS LEAGUE)05.04.2026",
@@ -2151,13 +2151,13 @@
     },
     "FC26 R348(INTERNATIONAL)05.04.2026": {
       "total": 20,
-      "finalizados": 2,
-      "agendados": 18
+      "finalizados": 8,
+      "agendados": 12
     },
     "FC26 R349(CHAMPIONS LEAGUE)05.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 6,
+      "agendados": 14
     },
     "FC26 R350(LA LIGA)05.04.2026": {
       "total": 20,
@@ -2695,51 +2695,125 @@
     "FC26 R348(INTERNATIONAL)05.04.2026": [
       {
         "nome": "Portugal (Luigi)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
-        "D": 0,
-        "GP": 6,
-        "GC": 4,
-        "SG": 2,
+        "D": 1,
+        "GP": 12,
+        "GC": 9,
+        "SG": 3,
         "pos": 1
       },
       {
-        "nome": "Holland (Leonardo)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
-        "E": 1,
+        "nome": "Denmark (Matrix)",
+        "Pts": 5,
+        "J": 3,
+        "V": 1,
+        "E": 2,
         "D": 0,
-        "GP": 2,
-        "GC": 2,
-        "SG": 0,
+        "GP": 9,
+        "GC": 7,
+        "SG": 2,
         "pos": 2
       },
       {
-        "nome": "Denmark (Matrix)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
-        "E": 1,
+        "nome": "Italy (Cleo)",
+        "Pts": 5,
+        "J": 3,
+        "V": 1,
+        "E": 2,
         "D": 0,
-        "GP": 2,
-        "GC": 2,
-        "SG": 0,
+        "GP": 10,
+        "GC": 9,
+        "SG": 1,
         "pos": 3
       },
       {
-        "nome": "Spain (Andrew)",
-        "Pts": 0,
-        "J": 1,
+        "nome": "Holland (Leonardo)",
+        "Pts": 3,
+        "J": 4,
         "V": 0,
+        "E": 3,
+        "D": 1,
+        "GP": 8,
+        "GC": 11,
+        "SG": -3,
+        "pos": 4
+      },
+      {
+        "nome": "Spain (Andrew)",
+        "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 9,
+        "GC": 12,
+        "SG": -3,
+        "pos": 5
+      }
+    ],
+    "FC26 R349(CHAMPIONS LEAGUE)05.04.2026": [
+      {
+        "nome": "Bayern M. (Dominic)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
         "D": 1,
-        "GP": 4,
-        "GC": 6,
-        "SG": -2,
+        "GP": 12,
+        "GC": 9,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "PSG (Kai)",
+        "Pts": 4,
+        "J": 2,
+        "V": 1,
+        "E": 1,
+        "D": 0,
+        "GP": 6,
+        "GC": 5,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Liverpool (Nathan)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 9,
+        "GC": 8,
+        "SG": 1,
+        "pos": 3
+      },
+      {
+        "nome": "Atletico Madrid (Arthur)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 8,
+        "GC": 9,
+        "SG": -1,
         "pos": 4
+      },
+      {
+        "nome": "Manchester City (VanGogh)",
+        "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 9,
+        "GC": 13,
+        "SG": -4,
+        "pos": 5
       }
     ]
   }
