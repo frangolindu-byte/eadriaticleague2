@@ -1,9 +1,9 @@
 {
-  "updated_at": "05/04/2026 17:03:07",
+  "updated_at": "05/04/2026 17:46:37",
   "summary": {
     "total": 300,
-    "finalizados": 256,
-    "agendados": 44,
+    "finalizados": 262,
+    "agendados": 38,
     "ligas": 17
   },
   "jogos": [
@@ -1803,43 +1803,43 @@
       "liga": "FC26 R353(SERIA A)05.04.2026",
       "p1": "Atalanta Bergamo (Dexter)",
       "p2": "Lazio (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R353(SERIA A)05.04.2026",
       "p1": "Fiorentina (Liam)",
       "p2": "Milan (Juan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R353(SERIA A)05.04.2026",
       "p1": "Fiorentina (Liam)",
       "p2": "Roma (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R353(SERIA A)05.04.2026",
       "p1": "Lazio (Conde)",
       "p2": "Milan (Juan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R353(SERIA A)05.04.2026",
       "p1": "Atalanta Bergamo (Dexter)",
       "p2": "Roma (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R353(SERIA A)05.04.2026",
       "p1": "Lazio (Conde)",
       "p2": "Fiorentina (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R353(SERIA A)05.04.2026",
@@ -2176,8 +2176,8 @@
     },
     "FC26 R353(SERIA A)05.04.2026": {
       "total": 20,
-      "finalizados": 10,
-      "agendados": 10
+      "finalizados": 16,
+      "agendados": 4
     },
     "FC26 R354(CHAMPIONS LEAGUE)05.04.2026": {
       "total": 20,
@@ -3004,63 +3004,63 @@
     ],
     "FC26 R353(SERIA A)05.04.2026": [
       {
-        "nome": "Roma (Noah)",
-        "Pts": 12,
-        "J": 4,
-        "V": 4,
+        "nome": "Fiorentina (Liam)",
+        "Pts": 15,
+        "J": 7,
+        "V": 5,
         "E": 0,
-        "D": 0,
-        "GP": 23,
-        "GC": 16,
-        "SG": 7,
+        "D": 2,
+        "GP": 31,
+        "GC": 20,
+        "SG": 11,
         "pos": 1
       },
       {
-        "nome": "Atalanta Bergamo (Dexter)",
-        "Pts": 9,
-        "J": 4,
-        "V": 3,
+        "nome": "Roma (Noah)",
+        "Pts": 15,
+        "J": 6,
+        "V": 5,
         "E": 0,
         "D": 1,
-        "GP": 20,
-        "GC": 11,
-        "SG": 9,
+        "GP": 29,
+        "GC": 23,
+        "SG": 6,
         "pos": 2
       },
       {
-        "nome": "Fiorentina (Liam)",
-        "Pts": 6,
-        "J": 4,
-        "V": 2,
+        "nome": "Atalanta Bergamo (Dexter)",
+        "Pts": 12,
+        "J": 6,
+        "V": 4,
         "E": 0,
         "D": 2,
-        "GP": 14,
-        "GC": 15,
-        "SG": -1,
+        "GP": 28,
+        "GC": 18,
+        "SG": 10,
         "pos": 3
       },
       {
         "nome": "Lazio (Conde)",
-        "Pts": 3,
-        "J": 4,
-        "V": 1,
+        "Pts": 6,
+        "J": 7,
+        "V": 2,
         "E": 0,
-        "D": 3,
-        "GP": 12,
-        "GC": 18,
-        "SG": -6,
+        "D": 5,
+        "GP": 20,
+        "GC": 32,
+        "SG": -12,
         "pos": 4
       },
       {
         "nome": "Milan (Juan)",
         "Pts": 0,
-        "J": 4,
+        "J": 6,
         "V": 0,
         "E": 0,
-        "D": 4,
-        "GP": 13,
-        "GC": 22,
-        "SG": -9,
+        "D": 6,
+        "GP": 17,
+        "GC": 32,
+        "SG": -15,
         "pos": 5
       }
     ]
