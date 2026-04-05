@@ -1,9 +1,9 @@
 {
-  "updated_at": "05/04/2026 20:53:56",
+  "updated_at": "05/04/2026 21:26:37",
   "summary": {
     "total": 300,
-    "finalizados": 286,
-    "agendados": 14,
+    "finalizados": 288,
+    "agendados": 12,
     "ligas": 17
   },
   "jogos": [
@@ -2013,15 +2013,15 @@
       "liga": "FC26 R355(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "Barcelona (Odin)",
       "p2": "Liverpool (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R355(CHAMPIONS LEAGUE)05.04.2026",
       "p1": "Real Madrid (Maverick)",
       "p2": "Bayern M. (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R355(CHAMPIONS LEAGUE)05.04.2026",
@@ -2186,8 +2186,8 @@
     },
     "FC26 R355(CHAMPIONS LEAGUE)05.04.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 2,
+      "agendados": 6
     },
     "FC26 R356(LA LIGA)05.04.2026": {
       "total": 6,
@@ -3124,6 +3124,56 @@
         "GC": 33,
         "SG": -11,
         "pos": 5
+      }
+    ],
+    "FC26 R355(CHAMPIONS LEAGUE)05.04.2026": [
+      {
+        "nome": "Barcelona (Odin)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 4,
+        "GC": 2,
+        "SG": 2,
+        "pos": 1
+      },
+      {
+        "nome": "Real Madrid (Maverick)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 3,
+        "GC": 2,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Bayern M. (Mateo)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 2,
+        "GC": 3,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Liverpool (Gael)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 2,
+        "GC": 4,
+        "SG": -2,
+        "pos": 4
       }
     ]
   }
