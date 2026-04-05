@@ -1,9 +1,9 @@
 {
-  "updated_at": "05/04/2026 10:59:10",
+  "updated_at": "05/04/2026 11:39:16",
   "summary": {
     "total": 300,
-    "finalizados": 192,
-    "agendados": 108,
+    "finalizados": 204,
+    "agendados": 96,
     "ligas": 17
   },
   "jogos": [
@@ -1341,43 +1341,43 @@
       "liga": "FC26 R350(LA LIGA)05.04.2026",
       "p1": "Barcelona (Andrew)",
       "p2": "Real Sociedad (Leonardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R350(LA LIGA)05.04.2026",
       "p1": "Real Betis (Cleo)",
       "p2": "Sevilla (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R350(LA LIGA)05.04.2026",
       "p1": "Real Betis (Cleo)",
       "p2": "Real Sociedad (Leonardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R350(LA LIGA)05.04.2026",
       "p1": "Sevilla (Matrix)",
       "p2": "Villarreal (Luigi)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R350(LA LIGA)05.04.2026",
       "p1": "Real Betis (Cleo)",
       "p2": "Villarreal (Luigi)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R350(LA LIGA)05.04.2026",
       "p1": "Sevilla (Matrix)",
       "p2": "Barcelona (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R350(LA LIGA)05.04.2026",
@@ -1467,43 +1467,43 @@
       "liga": "FC26 R351(INTERNATIONAL)05.04.2026",
       "p1": "France (Nathan)",
       "p2": "Holland (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R351(INTERNATIONAL)05.04.2026",
       "p1": "Spain (Kai)",
       "p2": "Italy (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R351(INTERNATIONAL)05.04.2026",
       "p1": "France (Nathan)",
       "p2": "Argentina (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R351(INTERNATIONAL)05.04.2026",
       "p1": "Holland (VanGogh)",
       "p2": "Italy (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R351(INTERNATIONAL)05.04.2026",
       "p1": "Argentina (Arthur)",
       "p2": "Spain (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R351(INTERNATIONAL)05.04.2026",
       "p1": "France (Nathan)",
       "p2": "Italy (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R351(INTERNATIONAL)05.04.2026",
@@ -2161,13 +2161,13 @@
     },
     "FC26 R350(LA LIGA)05.04.2026": {
       "total": 20,
-      "finalizados": 4,
-      "agendados": 16
+      "finalizados": 10,
+      "agendados": 10
     },
     "FC26 R351(INTERNATIONAL)05.04.2026": {
       "total": 20,
-      "finalizados": 2,
-      "agendados": 18
+      "finalizados": 8,
+      "agendados": 12
     },
     "FC26 R352(PREMIER LEAGUE)05.04.2026": {
       "total": 20,
@@ -2818,114 +2818,126 @@
     ],
     "FC26 R350(LA LIGA)05.04.2026": [
       {
-        "nome": "Barcelona (Andrew)",
-        "Pts": 6,
-        "J": 2,
+        "nome": "Sevilla (Matrix)",
+        "Pts": 7,
+        "J": 4,
         "V": 2,
-        "E": 0,
-        "D": 0,
-        "GP": 9,
-        "GC": 4,
-        "SG": 5,
+        "E": 1,
+        "D": 1,
+        "GP": 15,
+        "GC": 8,
+        "SG": 7,
         "pos": 1
       },
       {
-        "nome": "Sevilla (Matrix)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
-        "E": 0,
-        "D": 0,
-        "GP": 6,
-        "GC": 1,
-        "SG": 5,
+        "nome": "Barcelona (Andrew)",
+        "Pts": 7,
+        "J": 4,
+        "V": 2,
+        "E": 1,
+        "D": 1,
+        "GP": 15,
+        "GC": 11,
+        "SG": 4,
         "pos": 2
       },
       {
-        "nome": "Villarreal (Luigi)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
+        "nome": "Real Sociedad (Leonardo)",
+        "Pts": 6,
+        "J": 4,
+        "V": 2,
         "E": 0,
-        "D": 1,
-        "GP": 8,
-        "GC": 10,
-        "SG": -2,
+        "D": 2,
+        "GP": 15,
+        "GC": 18,
+        "SG": -3,
         "pos": 3
       },
       {
-        "nome": "Real Betis (Cleo)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
+        "nome": "Villarreal (Luigi)",
+        "Pts": 6,
+        "J": 4,
+        "V": 2,
         "E": 0,
-        "D": 1,
-        "GP": 2,
-        "GC": 4,
-        "SG": -2,
+        "D": 2,
+        "GP": 17,
+        "GC": 21,
+        "SG": -4,
         "pos": 4
       },
       {
-        "nome": "Real Sociedad (Leonardo)",
-        "Pts": 0,
-        "J": 2,
-        "V": 0,
+        "nome": "Real Betis (Cleo)",
+        "Pts": 3,
+        "J": 4,
+        "V": 1,
         "E": 0,
-        "D": 2,
-        "GP": 6,
-        "GC": 12,
-        "SG": -6,
+        "D": 3,
+        "GP": 9,
+        "GC": 13,
+        "SG": -4,
         "pos": 5
       }
     ],
     "FC26 R351(INTERNATIONAL)05.04.2026": [
       {
         "nome": "Italy (Dominic)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
-        "E": 0,
-        "D": 0,
-        "GP": 5,
-        "GC": 2,
+        "Pts": 7,
+        "J": 4,
+        "V": 2,
+        "E": 1,
+        "D": 1,
+        "GP": 11,
+        "GC": 8,
         "SG": 3,
         "pos": 1
       },
       {
-        "nome": "Holland (VanGogh)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "nome": "Spain (Kai)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
-        "D": 0,
-        "GP": 5,
-        "GC": 4,
-        "SG": 1,
+        "D": 1,
+        "GP": 13,
+        "GC": 10,
+        "SG": 3,
         "pos": 2
       },
       {
-        "nome": "Spain (Kai)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
-        "E": 0,
+        "nome": "Holland (VanGogh)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
         "D": 1,
-        "GP": 4,
-        "GC": 5,
+        "GP": 8,
+        "GC": 9,
         "SG": -1,
         "pos": 3
       },
       {
         "nome": "Argentina (Arthur)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
         "E": 0,
-        "D": 1,
-        "GP": 2,
-        "GC": 5,
-        "SG": -3,
+        "D": 2,
+        "GP": 10,
+        "GC": 11,
+        "SG": -1,
         "pos": 4
+      },
+      {
+        "nome": "France (Nathan)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 4,
+        "GC": 8,
+        "SG": -4,
+        "pos": 5
       }
     ]
   }
