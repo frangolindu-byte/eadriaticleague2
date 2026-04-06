@@ -858,7 +858,10 @@
     ],
     "assertividade": 73.3,
     "key": "FC26 R358(CHAMPIONS LEAGUE)06.04.2026|Bayern M. (MisterX)|Liverpool (Beckham)",
-    "message_id": 689
+    "message_id": 689,
+    "result_checked": true,
+    "result_placar": "3-5",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R358(CHAMPIONS LEAGUE)06.04.2026",
@@ -882,7 +885,10 @@
     ],
     "assertividade": 73.3,
     "key": "FC26 R358(CHAMPIONS LEAGUE)06.04.2026|Bayern M. (MisterX)|Liverpool (Beckham)",
-    "message_id": 690
+    "message_id": 690,
+    "result_checked": true,
+    "result_placar": "3-5",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R358(CHAMPIONS LEAGUE)06.04.2026",
@@ -906,7 +912,10 @@
     ],
     "assertividade": 73.3,
     "key": "FC26 R358(CHAMPIONS LEAGUE)06.04.2026|Bayern M. (MisterX)|Liverpool (Beckham)",
-    "message_id": 691
+    "message_id": 691,
+    "result_checked": true,
+    "result_placar": "3-5",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R358(CHAMPIONS LEAGUE)06.04.2026",
@@ -930,7 +939,10 @@
     ],
     "assertividade": 73.3,
     "key": "FC26 R358(CHAMPIONS LEAGUE)06.04.2026|Bayern M. (MisterX)|Liverpool (Beckham)",
-    "message_id": 692
+    "message_id": 692,
+    "result_checked": true,
+    "result_placar": "3-5",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R357(PREMIER LEAGUE)06.04.2026",
@@ -957,6 +969,141 @@
     "message_id": 693,
     "result_checked": true,
     "result_placar": "4-1",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R359(SERIA A)06.04.2026",
+    "p1": "Milan (Gael)",
+    "p2": "Inter (Maverick)",
+    "w1": 14.3,
+    "w2": 62.5,
+    "j1": 7,
+    "j2": 8,
+    "o65": 78.55,
+    "btts": 100.0,
+    "avg_g": 8.635,
+    "f1": "L-W-L-D-D",
+    "f2": "W-L-L-W-L",
+    "fav": "Inter (Maverick)",
+    "score": 95,
+    "reasons": [
+      "Over 6.5: 79%",
+      "BTTS: 100%",
+      "Vitoria Inter (Maverick) (WR 62%)"
+    ],
+    "assertividade": 78.3,
+    "key": "FC26 R359(SERIA A)06.04.2026|Inter (Maverick)|Milan (Gael)",
+    "message_id": 694,
+    "result_checked": true,
+    "result_placar": "8-7",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R359(SERIA A)06.04.2026",
+    "p1": "Inter (Maverick)",
+    "p2": "Milan (Gael)",
+    "w1": 62.5,
+    "w2": 14.3,
+    "j1": 8,
+    "j2": 7,
+    "o65": 78.55,
+    "btts": 100.0,
+    "avg_g": 8.635,
+    "f1": "W-L-L-W-L",
+    "f2": "L-W-L-D-D",
+    "fav": "Inter (Maverick)",
+    "score": 95,
+    "reasons": [
+      "Over 6.5: 79%",
+      "BTTS: 100%",
+      "Vitoria Inter (Maverick) (WR 62%)"
+    ],
+    "assertividade": 78.3,
+    "key": "FC26 R359(SERIA A)06.04.2026|Inter (Maverick)|Milan (Gael)",
+    "message_id": 695,
+    "result_checked": true,
+    "result_placar": "8-7",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R360(INTERNATIONAL)06.04.2026",
+    "p1": "Spain (MisterX)",
+    "p2": "Italy (Pascal)",
+    "w1": 50.0,
+    "w2": 14.3,
+    "j1": 6,
+    "j2": 14,
+    "o65": 82.15,
+    "btts": 100.0,
+    "avg_g": 8.355,
+    "f1": "L-W-W-L-W",
+    "f2": "L-L-L-L-L",
+    "fav": "Spain (MisterX)",
+    "score": 95,
+    "reasons": [
+      "Over 6.5: 82%",
+      "BTTS: 100%",
+      "Vitoria Spain (MisterX) (WR 50%)"
+    ],
+    "assertividade": 75.4,
+    "key": "FC26 R360(INTERNATIONAL)06.04.2026|Italy (Pascal)|Spain (MisterX)",
+    "message_id": 696,
+    "result_checked": true,
+    "result_placar": "5-4",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R360(INTERNATIONAL)06.04.2026",
+    "p1": "Portugal (Felix)",
+    "p2": "Italy (Pascal)",
+    "w1": 66.7,
+    "w2": 14.3,
+    "j1": 6,
+    "j2": 14,
+    "o65": 82.15,
+    "btts": 100.0,
+    "avg_g": 8.274999999999999,
+    "f1": "W-W-W-L-L",
+    "f2": "L-L-L-L-L",
+    "fav": "Portugal (Felix)",
+    "score": 95,
+    "reasons": [
+      "Over 6.5: 82%",
+      "BTTS: 100%",
+      "Vitoria Portugal (Felix) (WR 67%)"
+    ],
+    "assertividade": 81.2,
+    "key": "FC26 R360(INTERNATIONAL)06.04.2026|Italy (Pascal)|Portugal (Felix)",
+    "message_id": 697,
+    "result_checked": true,
+    "result_placar": "5-2",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R360(INTERNATIONAL)06.04.2026",
+    "p1": "Italy (Pascal)",
+    "p2": "Spain (MisterX)",
+    "w1": 14.3,
+    "w2": 50.0,
+    "j1": 14,
+    "j2": 6,
+    "o65": 82.15,
+    "btts": 100.0,
+    "avg_g": 8.355,
+    "f1": "L-L-L-L-L",
+    "f2": "L-W-W-L-W",
+    "fav": "Spain (MisterX)",
+    "score": 95,
+    "reasons": [
+      "Over 6.5: 82%",
+      "BTTS: 100%",
+      "Vitoria Spain (MisterX) (WR 50%)"
+    ],
+    "assertividade": 75.4,
+    "key": "FC26 R360(INTERNATIONAL)06.04.2026|Italy (Pascal)|Spain (MisterX)",
+    "message_id": 698,
+    "result_checked": true,
+    "result_placar": "5-4",
     "result_status": "errou"
   }
 ]
