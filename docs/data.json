@@ -1,9 +1,9 @@
 {
-  "updated_at": "08/04/2026 15:52:14",
+  "updated_at": "08/04/2026 16:51:41",
   "summary": {
     "total": 360,
-    "finalizados": 266,
-    "agendados": 94,
+    "finalizados": 280,
+    "agendados": 80,
     "ligas": 20
   },
   "jogos": [
@@ -1873,57 +1873,57 @@
       "liga": "FC26 R405(LA LIGA)08.04.2026",
       "p1": "Barcelona (Andrew)",
       "p2": "Real Sociedad (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R405(LA LIGA)08.04.2026",
       "p1": "Sevilla FC (Donatello)",
       "p2": "Girona (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R405(LA LIGA)08.04.2026",
       "p1": "Barcelona (Andrew)",
       "p2": "Sevilla FC (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R405(LA LIGA)08.04.2026",
       "p1": "Valencia (Alexis)",
       "p2": "Real Sociedad (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R405(LA LIGA)08.04.2026",
       "p1": "Real Sociedad (Adriano)",
       "p2": "Sevilla FC (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R405(LA LIGA)08.04.2026",
       "p1": "Valencia (Alexis)",
       "p2": "Girona (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R405(LA LIGA)08.04.2026",
       "p1": "Girona (Noah)",
       "p2": "Barcelona (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R405(LA LIGA)08.04.2026",
       "p1": "Valencia (Alexis)",
       "p2": "Sevilla FC (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R405(LA LIGA)08.04.2026",
@@ -2013,43 +2013,43 @@
       "liga": "FC26 R406(CHAMPIONS LEAGUE)08.04.2026",
       "p1": "Bayern M. (Kai)",
       "p2": "Liverpool (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R406(CHAMPIONS LEAGUE)08.04.2026",
       "p1": "Real Madrid (MisterX)",
       "p2": "Manchester City (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R406(CHAMPIONS LEAGUE)08.04.2026",
       "p1": "PSG (Maverick)",
       "p2": "Manchester City (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R406(CHAMPIONS LEAGUE)08.04.2026",
       "p1": "Real Madrid (MisterX)",
       "p2": "Bayern M. (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R406(CHAMPIONS LEAGUE)08.04.2026",
       "p1": "Manchester City (Logan)",
       "p2": "Bayern M. (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R406(CHAMPIONS LEAGUE)08.04.2026",
       "p1": "PSG (Maverick)",
       "p2": "Liverpool (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R406(CHAMPIONS LEAGUE)08.04.2026",
@@ -2601,13 +2601,13 @@
     },
     "FC26 R405(LA LIGA)08.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 8,
+      "agendados": 12
     },
     "FC26 R406(CHAMPIONS LEAGUE)08.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 6,
+      "agendados": 14
     },
     "FC26 R407(EUROPA LEAGUE)08.04.2026": {
       "total": 20,
@@ -3496,6 +3496,130 @@
         "GP": 14,
         "GC": 26,
         "SG": -12,
+        "pos": 5
+      }
+    ],
+    "FC26 R405(LA LIGA)08.04.2026": [
+      {
+        "nome": "Sevilla FC (Donatello)",
+        "Pts": 9,
+        "J": 4,
+        "V": 3,
+        "E": 0,
+        "D": 1,
+        "GP": 17,
+        "GC": 7,
+        "SG": 10,
+        "pos": 1
+      },
+      {
+        "nome": "Barcelona (Andrew)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 8,
+        "GC": 7,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Valencia (Alexis)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 10,
+        "GC": 11,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Girona (Noah)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 7,
+        "GC": 10,
+        "SG": -3,
+        "pos": 4
+      },
+      {
+        "nome": "Real Sociedad (Adriano)",
+        "Pts": 0,
+        "J": 3,
+        "V": 0,
+        "E": 0,
+        "D": 3,
+        "GP": 6,
+        "GC": 13,
+        "SG": -7,
+        "pos": 5
+      }
+    ],
+    "FC26 R406(CHAMPIONS LEAGUE)08.04.2026": [
+      {
+        "nome": "Bayern M. (Kai)",
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
+        "E": 1,
+        "D": 0,
+        "GP": 10,
+        "GC": 6,
+        "SG": 4,
+        "pos": 1
+      },
+      {
+        "nome": "PSG (Maverick)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 11,
+        "GC": 6,
+        "SG": 5,
+        "pos": 2
+      },
+      {
+        "nome": "Real Madrid (MisterX)",
+        "Pts": 2,
+        "J": 2,
+        "V": 0,
+        "E": 2,
+        "D": 0,
+        "GP": 5,
+        "GC": 5,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Manchester City (Logan)",
+        "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 6,
+        "GC": 11,
+        "SG": -5,
+        "pos": 4
+      },
+      {
+        "nome": "Liverpool (Lucas)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 5,
+        "GC": 9,
+        "SG": -4,
         "pos": 5
       }
     ]
