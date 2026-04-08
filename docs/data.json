@@ -1,9 +1,9 @@
 {
-  "updated_at": "08/04/2026 21:56:02",
+  "updated_at": "08/04/2026 22:40:29",
   "summary": {
     "total": 360,
-    "finalizados": 356,
-    "agendados": 4,
+    "finalizados": 360,
+    "agendados": 0,
     "ligas": 20
   },
   "jogos": [
@@ -2475,15 +2475,15 @@
       "liga": "FC26 R409(CHAMPIONS LEAGUE)08.04.2026",
       "p1": "Bayern M. (Dexter)",
       "p2": "Atletico Madrid (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R409(CHAMPIONS LEAGUE)08.04.2026",
       "p1": "Liverpool (Gael)",
       "p2": "Real Madrid (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
@@ -2517,15 +2517,15 @@
       "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
       "p1": "Manchester City (Sebastian)",
       "p2": "Liverpool (Nathan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
       "p1": "Newcastle (Iron)",
       "p2": "Arsenal (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2621,13 +2621,13 @@
     },
     "FC26 R409(CHAMPIONS LEAGUE)08.04.2026": {
       "total": 8,
-      "finalizados": 6,
-      "agendados": 2
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R410(PREMIER LEAGUE)08.04.2026": {
       "total": 6,
-      "finalizados": 4,
-      "agendados": 2
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3749,6 +3749,18 @@
     ],
     "FC26 R409(CHAMPIONS LEAGUE)08.04.2026": [
       {
+        "nome": "Atletico Madrid (Odin)",
+        "Pts": 9,
+        "J": 4,
+        "V": 3,
+        "E": 0,
+        "D": 1,
+        "GP": 14,
+        "GC": 11,
+        "SG": 3,
+        "pos": 1
+      },
+      {
         "nome": "PSG (Eduardo)",
         "Pts": 7,
         "J": 3,
@@ -3758,72 +3770,72 @@
         "GP": 8,
         "GC": 6,
         "SG": 2,
-        "pos": 1
+        "pos": 2
       },
       {
-        "nome": "Atletico Madrid (Odin)",
+        "nome": "Liverpool (Gael)",
         "Pts": 6,
         "J": 3,
         "V": 2,
         "E": 0,
         "D": 1,
-        "GP": 10,
+        "GP": 11,
         "GC": 9,
-        "SG": 1,
-        "pos": 2
-      },
-      {
-        "nome": "Liverpool (Gael)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
-        "E": 0,
-        "D": 1,
-        "GP": 7,
-        "GC": 6,
-        "SG": 1,
+        "SG": 2,
         "pos": 3
       },
       {
         "nome": "Real Madrid (Mateo)",
         "Pts": 1,
-        "J": 2,
+        "J": 3,
         "V": 0,
         "E": 1,
-        "D": 1,
-        "GP": 6,
-        "GC": 7,
-        "SG": -1,
+        "D": 2,
+        "GP": 9,
+        "GC": 11,
+        "SG": -2,
         "pos": 4
       },
       {
         "nome": "Bayern M. (Dexter)",
         "Pts": 0,
-        "J": 2,
+        "J": 3,
         "V": 0,
         "E": 0,
-        "D": 2,
-        "GP": 3,
-        "GC": 6,
-        "SG": -3,
+        "D": 3,
+        "GP": 5,
+        "GC": 10,
+        "SG": -5,
         "pos": 5
       }
     ],
     "FC26 R410(PREMIER LEAGUE)08.04.2026": [
       {
-        "nome": "Liverpool (Nathan)",
-        "Pts": 4,
-        "J": 2,
-        "V": 1,
+        "nome": "Manchester City (Sebastian)",
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
         "E": 1,
         "D": 0,
-        "GP": 7,
-        "GC": 4,
+        "GP": 11,
+        "GC": 8,
         "SG": 3,
         "pos": 1
       },
       {
-        "nome": "Manchester City (Sebastian)",
+        "nome": "Liverpool (Nathan)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 11,
+        "GC": 10,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Arsenal (Eric)",
         "Pts": 4,
         "J": 2,
         "V": 1,
@@ -3832,18 +3844,6 @@
         "GP": 5,
         "GC": 4,
         "SG": 1,
-        "pos": 2
-      },
-      {
-        "nome": "Arsenal (Eric)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
-        "E": 1,
-        "D": 0,
-        "GP": 2,
-        "GC": 2,
-        "SG": 0,
         "pos": 3
       },
       {
@@ -3861,13 +3861,13 @@
       {
         "nome": "Newcastle (Iron)",
         "Pts": 0,
-        "J": 1,
+        "J": 2,
         "V": 0,
         "E": 0,
-        "D": 1,
-        "GP": 3,
-        "GC": 4,
-        "SG": -1,
+        "D": 2,
+        "GP": 5,
+        "GC": 7,
+        "SG": -2,
         "pos": 5
       }
     ]
