@@ -1,9 +1,9 @@
 {
-  "updated_at": "07/04/2026 23:38:05",
+  "updated_at": "08/04/2026 00:08:03",
   "summary": {
     "total": 360,
-    "finalizados": 24,
-    "agendados": 336,
+    "finalizados": 28,
+    "agendados": 332,
     "ligas": 20
   },
   "jogos": [
@@ -179,29 +179,29 @@
       "liga": "FC26 R392(CHAMPIONS LEAGUE)07.04.2026",
       "p1": "Barcelona (Kristof)",
       "p2": "Bayern M. (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R392(CHAMPIONS LEAGUE)07.04.2026",
       "p1": "Real Madrid (Sebastian)",
       "p2": "Atletico Madrid (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R393(SERIA A)08.04.2026",
       "p1": "Atalanta (Odin)",
       "p2": "Milan (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R393(SERIA A)08.04.2026",
       "p1": "Inter (Conde)",
       "p2": "Napoli (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R393(SERIA A)08.04.2026",
@@ -2536,13 +2536,13 @@
     },
     "FC26 R392(CHAMPIONS LEAGUE)07.04.2026": {
       "total": 14,
-      "finalizados": 12,
-      "agendados": 2
+      "finalizados": 14,
+      "agendados": 0
     },
     "FC26 R393(SERIA A)08.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 2,
+      "agendados": 18
     },
     "FC26 R394(INTERNATIONAL)08.04.2026": {
       "total": 20,
@@ -2695,40 +2695,52 @@
     ],
     "FC26 R392(CHAMPIONS LEAGUE)07.04.2026": [
       {
-        "nome": "Real Madrid (Sebastian)",
-        "Pts": 9,
-        "J": 4,
+        "nome": "Bayern M. (Beckham)",
+        "Pts": 10,
+        "J": 6,
         "V": 3,
-        "E": 0,
-        "D": 1,
-        "GP": 16,
-        "GC": 10,
-        "SG": 6,
+        "E": 1,
+        "D": 2,
+        "GP": 21,
+        "GC": 18,
+        "SG": 3,
         "pos": 1
       },
       {
-        "nome": "Barcelona (Kristof)",
+        "nome": "Real Madrid (Sebastian)",
         "Pts": 9,
         "J": 5,
         "V": 3,
         "E": 0,
-        "D": 2,
-        "GP": 18,
-        "GC": 21,
-        "SG": -3,
-        "pos": 2
-      },
-      {
-        "nome": "Bayern M. (Beckham)",
-        "Pts": 7,
-        "J": 5,
-        "V": 2,
-        "E": 1,
         "D": 2,
         "GP": 16,
         "GC": 15,
         "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Barcelona (Kristof)",
+        "Pts": 9,
+        "J": 6,
+        "V": 3,
+        "E": 0,
+        "D": 3,
+        "GP": 21,
+        "GC": 26,
+        "SG": -5,
         "pos": 3
+      },
+      {
+        "nome": "Atletico Madrid (Felix)",
+        "Pts": 7,
+        "J": 6,
+        "V": 2,
+        "E": 1,
+        "D": 3,
+        "GP": 21,
+        "GC": 18,
+        "SG": 3,
+        "pos": 4
       },
       {
         "nome": "Liverpool (Iron)",
@@ -2740,19 +2752,57 @@
         "GP": 16,
         "GC": 18,
         "SG": -2,
-        "pos": 4
+        "pos": 5
+      }
+    ],
+    "FC26 R393(SERIA A)08.04.2026": [
+      {
+        "nome": "Atalanta (Odin)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 5,
+        "GC": 3,
+        "SG": 2,
+        "pos": 1
       },
       {
-        "nome": "Atletico Madrid (Felix)",
-        "Pts": 4,
-        "J": 5,
+        "nome": "Inter (Conde)",
+        "Pts": 3,
+        "J": 1,
         "V": 1,
-        "E": 1,
-        "D": 3,
-        "GP": 16,
-        "GC": 18,
+        "E": 0,
+        "D": 0,
+        "GP": 4,
+        "GC": 3,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Napoli (Gael)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 3,
+        "GC": 4,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Milan (Mateo)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 3,
+        "GC": 5,
         "SG": -2,
-        "pos": 5
+        "pos": 4
       }
     ]
   }
