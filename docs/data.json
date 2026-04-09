@@ -1,9 +1,9 @@
 {
-  "updated_at": "09/04/2026 21:28:52",
+  "updated_at": "09/04/2026 22:08:38",
   "summary": {
     "total": 360,
-    "finalizados": 350,
-    "agendados": 10,
+    "finalizados": 360,
+    "agendados": 0,
     "ligas": 20
   },
   "jogos": [
@@ -2461,71 +2461,71 @@
       "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
       "p1": "Bayern M. (Felix)",
       "p2": "Liverpool (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
       "p1": "Borussia Dortmund (Dexter)",
       "p2": "Real Madrid (Nathan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
       "p1": "Bayern M. (Felix)",
       "p2": "Real Madrid (Nathan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
       "p1": "Liverpool (Conde)",
       "p2": "Bayer Leverkusen (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
       "p1": "Flamengo (Sebastian)",
       "p2": "Bolivar (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
       "p1": "Penarol (Beckham)",
       "p2": "Sao Paulo (Jason)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
       "p1": "Flamengo (Sebastian)",
       "p2": "Penarol (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
       "p1": "River Plate (Iron)",
       "p2": "Bolivar (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
       "p1": "Bolivar (Kristof)",
       "p2": "Penarol (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
       "p1": "River Plate (Iron)",
       "p2": "Sao Paulo (Jason)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2621,13 +2621,13 @@
     },
     "FC26 R427(CHAMPIONS LEAGUE)09.04.2026": {
       "total": 8,
-      "finalizados": 4,
-      "agendados": 4
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R428(COPA LIBERTADORES)09.04.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3749,63 +3749,125 @@
     ],
     "FC26 R427(CHAMPIONS LEAGUE)09.04.2026": [
       {
-        "nome": "Real Madrid (Nathan)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
+        "nome": "Borussia Dortmund (Dexter)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
         "D": 1,
-        "GP": 7,
-        "GC": 5,
-        "SG": 2,
+        "GP": 9,
+        "GC": 8,
+        "SG": 1,
         "pos": 1
       },
       {
-        "nome": "Bayern M. (Felix)",
-        "Pts": 3,
-        "J": 1,
+        "nome": "Real Madrid (Nathan)",
+        "Pts": 4,
+        "J": 4,
         "V": 1,
-        "E": 0,
-        "D": 0,
-        "GP": 4,
-        "GC": 2,
-        "SG": 2,
+        "E": 1,
+        "D": 2,
+        "GP": 11,
+        "GC": 10,
+        "SG": 1,
         "pos": 2
       },
       {
-        "nome": "Borussia Dortmund (Dexter)",
-        "Pts": 3,
-        "J": 2,
+        "nome": "Bayern M. (Felix)",
+        "Pts": 4,
+        "J": 3,
         "V": 1,
-        "E": 0,
+        "E": 1,
         "D": 1,
         "GP": 6,
-        "GC": 6,
-        "SG": 0,
+        "GC": 5,
+        "SG": 1,
         "pos": 3
       },
       {
         "nome": "Bayer Leverkusen (Gael)",
-        "Pts": 3,
-        "J": 2,
+        "Pts": 4,
+        "J": 3,
         "V": 1,
-        "E": 0,
+        "E": 1,
         "D": 1,
-        "GP": 6,
-        "GC": 7,
+        "GP": 11,
+        "GC": 12,
         "SG": -1,
         "pos": 4
       },
       {
         "nome": "Liverpool (Conde)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 7,
+        "GC": 9,
+        "SG": -2,
+        "pos": 5
+      }
+    ],
+    "FC26 R428(COPA LIBERTADORES)09.04.2026": [
+      {
+        "nome": "Penarol (Beckham)",
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
+        "E": 0,
+        "D": 0,
+        "GP": 14,
+        "GC": 2,
+        "SG": 12,
+        "pos": 1
+      },
+      {
+        "nome": "Bolivar (Kristof)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 8,
+        "GC": 11,
+        "SG": -3,
+        "pos": 2
+      },
+      {
+        "nome": "River Plate (Iron)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
         "E": 0,
         "D": 1,
-        "GP": 1,
-        "GC": 4,
-        "SG": -3,
+        "GP": 8,
+        "GC": 7,
+        "SG": 1,
+        "pos": 3
+      },
+      {
+        "nome": "Flamengo (Sebastian)",
+        "Pts": 1,
+        "J": 2,
+        "V": 0,
+        "E": 1,
+        "D": 1,
+        "GP": 2,
+        "GC": 6,
+        "SG": -4,
+        "pos": 4
+      },
+      {
+        "nome": "Sao Paulo (Jason)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 3,
+        "GC": 9,
+        "SG": -6,
         "pos": 5
       }
     ]
