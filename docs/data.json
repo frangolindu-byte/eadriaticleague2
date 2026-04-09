@@ -1,9 +1,9 @@
 {
-  "updated_at": "08/04/2026 23:26:06",
+  "updated_at": "09/04/2026 00:00:16",
   "summary": {
     "total": 360,
-    "finalizados": 20,
-    "agendados": 340,
+    "finalizados": 28,
+    "agendados": 332,
     "ligas": 20
   },
   "jogos": [
@@ -81,15 +81,15 @@
       "liga": "FC26 R409(CHAMPIONS LEAGUE)08.04.2026",
       "p1": "PSG (Eduardo)",
       "p2": "Liverpool (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R409(CHAMPIONS LEAGUE)08.04.2026",
       "p1": "Real Madrid (Mateo)",
       "p2": "Bayern M. (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
@@ -165,43 +165,43 @@
       "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
       "p1": "Liverpool (Nathan)",
       "p2": "Newcastle (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
       "p1": "Tottenham (Beckham)",
       "p2": "Arsenal (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
       "p1": "Manchester City (Sebastian)",
       "p2": "Arsenal (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
       "p1": "Tottenham (Beckham)",
       "p2": "Newcastle (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
       "p1": "Argentina (Odin)",
       "p2": "Portugal (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
       "p1": "Holland (Mateo)",
       "p2": "Italy (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
@@ -2531,18 +2531,18 @@
   "resumo": {
     "FC26 R409(CHAMPIONS LEAGUE)08.04.2026": {
       "total": 12,
-      "finalizados": 10,
-      "agendados": 2
+      "finalizados": 12,
+      "agendados": 0
     },
     "FC26 R410(PREMIER LEAGUE)08.04.2026": {
       "total": 14,
-      "finalizados": 10,
-      "agendados": 4
+      "finalizados": 14,
+      "agendados": 0
     },
     "FC26 R411(INTERNATIONAL)09.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 2,
+      "agendados": 18
     },
     "FC26 R412(CHAMPIONS LEAGUE)09.04.2026": {
       "total": 20,
@@ -2635,13 +2635,13 @@
       {
         "nome": "Bayern M. (Dexter)",
         "Pts": 10,
-        "J": 4,
+        "J": 5,
         "V": 3,
         "E": 1,
-        "D": 0,
-        "GP": 12,
-        "GC": 8,
-        "SG": 4,
+        "D": 1,
+        "GP": 13,
+        "GC": 10,
+        "SG": 3,
         "pos": 1
       },
       {
@@ -2659,100 +2659,150 @@
       {
         "nome": "PSG (Eduardo)",
         "Pts": 7,
-        "J": 4,
+        "J": 5,
         "V": 2,
         "E": 1,
-        "D": 1,
-        "GP": 12,
-        "GC": 9,
-        "SG": 3,
+        "D": 2,
+        "GP": 13,
+        "GC": 11,
+        "SG": 2,
         "pos": 3
       },
       {
         "nome": "Real Madrid (Mateo)",
-        "Pts": 3,
-        "J": 4,
-        "V": 1,
+        "Pts": 6,
+        "J": 5,
+        "V": 2,
         "E": 0,
         "D": 3,
-        "GP": 11,
-        "GC": 13,
-        "SG": -2,
+        "GP": 13,
+        "GC": 14,
+        "SG": -1,
         "pos": 4
       },
       {
         "nome": "Liverpool (Gael)",
-        "Pts": 0,
-        "J": 4,
-        "V": 0,
+        "Pts": 3,
+        "J": 5,
+        "V": 1,
         "E": 0,
         "D": 4,
-        "GP": 5,
-        "GC": 12,
-        "SG": -7,
+        "GP": 7,
+        "GC": 13,
+        "SG": -6,
         "pos": 5
       }
     ],
     "FC26 R410(PREMIER LEAGUE)08.04.2026": [
       {
         "nome": "Arsenal (Eric)",
-        "Pts": 9,
-        "J": 4,
-        "V": 3,
+        "Pts": 12,
+        "J": 6,
+        "V": 4,
         "E": 0,
-        "D": 1,
-        "GP": 11,
-        "GC": 5,
-        "SG": 6,
+        "D": 2,
+        "GP": 17,
+        "GC": 12,
+        "SG": 5,
         "pos": 1
       },
       {
         "nome": "Newcastle (Iron)",
-        "Pts": 9,
-        "J": 4,
+        "Pts": 10,
+        "J": 6,
         "V": 3,
-        "E": 0,
-        "D": 1,
-        "GP": 10,
-        "GC": 7,
-        "SG": 3,
+        "E": 1,
+        "D": 2,
+        "GP": 13,
+        "GC": 12,
+        "SG": 1,
         "pos": 2
       },
       {
         "nome": "Liverpool (Nathan)",
-        "Pts": 6,
-        "J": 4,
+        "Pts": 7,
+        "J": 5,
         "V": 2,
-        "E": 0,
+        "E": 1,
         "D": 2,
-        "GP": 12,
-        "GC": 12,
+        "GP": 15,
+        "GC": 15,
         "SG": 0,
         "pos": 3
       },
       {
-        "nome": "Manchester City (Sebastian)",
+        "nome": "Tottenham (Beckham)",
         "Pts": 6,
-        "J": 4,
+        "J": 6,
         "V": 2,
         "E": 0,
-        "D": 2,
-        "GP": 7,
-        "GC": 9,
+        "D": 4,
+        "GP": 12,
+        "GC": 14,
         "SG": -2,
         "pos": 4
       },
       {
-        "nome": "Tottenham (Beckham)",
+        "nome": "Manchester City (Sebastian)",
+        "Pts": 6,
+        "J": 5,
+        "V": 2,
+        "E": 0,
+        "D": 3,
+        "GP": 10,
+        "GC": 14,
+        "SG": -4,
+        "pos": 5
+      }
+    ],
+    "FC26 R411(INTERNATIONAL)09.04.2026": [
+      {
+        "nome": "Argentina (Odin)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 4,
+        "GC": 1,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "Italy (Eduardo)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 4,
+        "GC": 3,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Holland (Mateo)",
         "Pts": 0,
-        "J": 4,
+        "J": 1,
         "V": 0,
         "E": 0,
-        "D": 4,
-        "GP": 6,
-        "GC": 13,
-        "SG": -7,
-        "pos": 5
+        "D": 1,
+        "GP": 3,
+        "GC": 4,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Portugal (Gael)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 1,
+        "GC": 4,
+        "SG": -3,
+        "pos": 4
       }
     ]
   }
