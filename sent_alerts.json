@@ -2201,7 +2201,10 @@
     ],
     "assertividade": 65.0,
     "key": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026|PSG (Oliver)|Real Madrid (Arthur)",
-    "message_id": 739
+    "message_id": 739,
+    "result_checked": true,
+    "result_placar": "5-3",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
@@ -2309,6 +2312,60 @@
     "message_id": 743,
     "result_checked": true,
     "result_placar": "6-4",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
+    "p1": "PSG (Oliver)",
+    "p2": "Atletico Madrid (Liam)",
+    "w1": 38.5,
+    "w2": 0.0,
+    "j1": 13,
+    "j2": 5,
+    "o65": 64.6,
+    "btts": 100.0,
+    "avg_g": 7.85,
+    "f1": "W-W-L-L-W",
+    "f2": "L-L-L-L-L",
+    "fav": "PSG (Oliver)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 65%",
+      "BTTS: 100%",
+      "Vitoria PSG (Oliver) (WR 38%)"
+    ],
+    "assertividade": 64.3,
+    "key": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026|Atletico Madrid (Liam)|PSG (Oliver)",
+    "message_id": 744,
+    "result_checked": true,
+    "result_placar": "4-6",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
+    "p1": "Atletico Madrid (Liam)",
+    "p2": "PSG (Oliver)",
+    "w1": 0.0,
+    "w2": 38.5,
+    "j1": 5,
+    "j2": 13,
+    "o65": 64.6,
+    "btts": 100.0,
+    "avg_g": 7.85,
+    "f1": "L-L-L-L-L",
+    "f2": "W-W-L-L-W",
+    "fav": "PSG (Oliver)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 65%",
+      "BTTS: 100%",
+      "Vitoria PSG (Oliver) (WR 38%)"
+    ],
+    "assertividade": 64.3,
+    "key": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026|Atletico Madrid (Liam)|PSG (Oliver)",
+    "message_id": 745,
+    "result_checked": true,
+    "result_placar": "4-6",
     "result_status": "bateu"
   }
 ]
