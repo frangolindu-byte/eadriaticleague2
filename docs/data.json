@@ -1,9 +1,9 @@
 {
-  "updated_at": "10/04/2026 15:35:37",
+  "updated_at": "10/04/2026 16:32:54",
   "summary": {
     "total": 360,
-    "finalizados": 264,
-    "agendados": 96,
+    "finalizados": 274,
+    "agendados": 86,
     "ligas": 20
   },
   "jogos": [
@@ -1859,57 +1859,57 @@
       "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
       "p1": "Denmark (Maverick)",
       "p2": "Norway (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
       "p1": "France (Beckham)",
       "p2": "Holland (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
       "p1": "Aston Villa (Noah)",
       "p2": "Liverpool (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
       "p1": "Newcastle U. (Adriano)",
       "p2": "West Ham United (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
       "p1": "Manchester City (Oliver)",
       "p2": "West Ham United (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
       "p1": "Newcastle U. (Adriano)",
       "p2": "Aston Villa (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
       "p1": "Manchester City (Oliver)",
       "p2": "Liverpool (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
       "p1": "West Ham United (Cleo)",
       "p2": "Aston Villa (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
@@ -2013,15 +2013,15 @@
       "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
       "p1": "Atletico Madrid (Maverick)",
       "p2": "Real Madrid (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
       "p1": "Liverpool (Kai)",
       "p2": "Barcelona (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
@@ -2596,18 +2596,18 @@
     },
     "FC26 R440(INTERNATIONAL)10.04.2026": {
       "total": 20,
-      "finalizados": 18,
-      "agendados": 2
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R441(PREMIER LEAGUE)10.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 6,
+      "agendados": 14
     },
     "FC26 R442(CHAMPIONS LEAGUE)10.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 2,
+      "agendados": 18
     },
     "FC26 R443(INTERNATIONAL)10.04.2026": {
       "total": 20,
@@ -3440,38 +3440,38 @@
     "FC26 R440(INTERNATIONAL)10.04.2026": [
       {
         "nome": "Denmark (Maverick)",
-        "Pts": 15,
-        "J": 7,
-        "V": 4,
+        "Pts": 18,
+        "J": 8,
+        "V": 5,
         "E": 3,
         "D": 0,
-        "GP": 29,
-        "GC": 17,
-        "SG": 12,
+        "GP": 34,
+        "GC": 18,
+        "SG": 16,
         "pos": 1
+      },
+      {
+        "nome": "France (Beckham)",
+        "Pts": 13,
+        "J": 8,
+        "V": 4,
+        "E": 1,
+        "D": 3,
+        "GP": 27,
+        "GC": 23,
+        "SG": 4,
+        "pos": 2
       },
       {
         "nome": "Norway (Conde)",
         "Pts": 13,
-        "J": 7,
+        "J": 8,
         "V": 4,
         "E": 1,
-        "D": 2,
-        "GP": 28,
-        "GC": 22,
-        "SG": 6,
-        "pos": 2
-      },
-      {
-        "nome": "France (Beckham)",
-        "Pts": 10,
-        "J": 7,
-        "V": 3,
-        "E": 1,
         "D": 3,
-        "GP": 23,
-        "GC": 22,
-        "SG": 1,
+        "GP": 29,
+        "GC": 27,
+        "SG": 2,
         "pos": 3
       },
       {
@@ -3489,14 +3489,126 @@
       {
         "nome": "Holland (Alexander)",
         "Pts": 5,
-        "J": 7,
+        "J": 8,
         "V": 1,
         "E": 2,
-        "D": 4,
-        "GP": 11,
-        "GC": 20,
-        "SG": -9,
+        "D": 5,
+        "GP": 12,
+        "GC": 24,
+        "SG": -12,
         "pos": 5
+      }
+    ],
+    "FC26 R441(PREMIER LEAGUE)10.04.2026": [
+      {
+        "nome": "Aston Villa (Noah)",
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
+        "E": 1,
+        "D": 0,
+        "GP": 11,
+        "GC": 6,
+        "SG": 5,
+        "pos": 1
+      },
+      {
+        "nome": "Manchester City (Oliver)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 11,
+        "GC": 7,
+        "SG": 4,
+        "pos": 2
+      },
+      {
+        "nome": "West Ham United (Cleo)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 11,
+        "GC": 13,
+        "SG": -2,
+        "pos": 3
+      },
+      {
+        "nome": "Newcastle U. (Adriano)",
+        "Pts": 1,
+        "J": 2,
+        "V": 0,
+        "E": 1,
+        "D": 1,
+        "GP": 4,
+        "GC": 6,
+        "SG": -2,
+        "pos": 4
+      },
+      {
+        "nome": "Liverpool (Andrew)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 4,
+        "GC": 9,
+        "SG": -5,
+        "pos": 5
+      }
+    ],
+    "FC26 R442(CHAMPIONS LEAGUE)10.04.2026": [
+      {
+        "nome": "Real Madrid (Beckham)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 5,
+        "GC": 4,
+        "SG": 1,
+        "pos": 1
+      },
+      {
+        "nome": "Barcelona (Alexander)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 3,
+        "GC": 2,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Atletico Madrid (Maverick)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 4,
+        "GC": 5,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Liverpool (Kai)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 2,
+        "GC": 3,
+        "SG": -1,
+        "pos": 4
       }
     ]
   }
