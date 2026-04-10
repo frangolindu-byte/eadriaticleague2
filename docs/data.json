@@ -1,9 +1,9 @@
 {
-  "updated_at": "10/04/2026 21:21:32",
+  "updated_at": "10/04/2026 22:00:04",
   "summary": {
     "total": 360,
-    "finalizados": 348,
-    "agendados": 12,
+    "finalizados": 358,
+    "agendados": 2,
     "ligas": 20
   },
   "jogos": [
@@ -2447,71 +2447,71 @@
       "liga": "FC26 R445(CHAMPIONS LEAGUE)10.04.2026",
       "p1": "Barcelona (Odin)",
       "p2": "Bayern M. (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R445(CHAMPIONS LEAGUE)10.04.2026",
       "p1": "Liverpool (Mateo)",
       "p2": "Manchester City (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R445(CHAMPIONS LEAGUE)10.04.2026",
       "p1": "Barcelona (Odin)",
       "p2": "PSG (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R445(CHAMPIONS LEAGUE)10.04.2026",
       "p1": "Bayern M. (Dexter)",
       "p2": "Manchester City (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R445(CHAMPIONS LEAGUE)10.04.2026",
       "p1": "Barcelona (Odin)",
       "p2": "Manchester City (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R445(CHAMPIONS LEAGUE)10.04.2026",
       "p1": "PSG (Gael)",
       "p2": "Liverpool (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
       "p1": "Arsenal (Kristof)",
       "p2": "Liverpool (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
       "p1": "Manchester City (Jason)",
       "p2": "Newcastle U. (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
       "p1": "Arsenal (Kristof)",
       "p2": "Manchester City (Jason)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
       "p1": "Tottenham (Iron)",
       "p2": "Liverpool (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
@@ -2621,13 +2621,13 @@
     },
     "FC26 R445(CHAMPIONS LEAGUE)10.04.2026": {
       "total": 8,
-      "finalizados": 2,
-      "agendados": 6
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R446(PREMIER LEAGUE)10.04.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 4,
+      "agendados": 2
     }
   },
   "classificacao": {
@@ -3750,51 +3750,125 @@
     "FC26 R445(CHAMPIONS LEAGUE)10.04.2026": [
       {
         "nome": "Manchester City (Alexis)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
-        "E": 1,
+        "Pts": 8,
+        "J": 4,
+        "V": 2,
+        "E": 2,
         "D": 0,
-        "GP": 3,
-        "GC": 3,
-        "SG": 0,
+        "GP": 16,
+        "GC": 11,
+        "SG": 5,
         "pos": 1
       },
       {
-        "nome": "PSG (Gael)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
-        "E": 1,
-        "D": 0,
-        "GP": 3,
-        "GC": 3,
-        "SG": 0,
+        "nome": "Barcelona (Odin)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 10,
+        "GC": 9,
+        "SG": 1,
         "pos": 2
       },
       {
         "nome": "Liverpool (Mateo)",
-        "Pts": 1,
-        "J": 1,
+        "Pts": 3,
+        "J": 3,
         "V": 0,
-        "E": 1,
+        "E": 3,
         "D": 0,
-        "GP": 2,
-        "GC": 2,
+        "GP": 10,
+        "GC": 10,
         "SG": 0,
         "pos": 3
       },
       {
+        "nome": "PSG (Gael)",
+        "Pts": 2,
+        "J": 3,
+        "V": 0,
+        "E": 2,
+        "D": 1,
+        "GP": 11,
+        "GC": 12,
+        "SG": -1,
+        "pos": 4
+      },
+      {
         "nome": "Bayern M. (Dexter)",
         "Pts": 1,
-        "J": 1,
+        "J": 3,
         "V": 0,
         "E": 1,
+        "D": 2,
+        "GP": 7,
+        "GC": 12,
+        "SG": -5,
+        "pos": 5
+      }
+    ],
+    "FC26 R446(PREMIER LEAGUE)10.04.2026": [
+      {
+        "nome": "Liverpool (Eric)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
         "D": 0,
+        "GP": 9,
+        "GC": 6,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "Arsenal (Kristof)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 10,
+        "GC": 9,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Manchester City (Jason)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 7,
+        "GC": 8,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Tottenham (Iron)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
         "GP": 2,
-        "GC": 2,
-        "SG": 0,
+        "GC": 3,
+        "SG": -1,
         "pos": 4
+      },
+      {
+        "nome": "Newcastle U. (Sebastian)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 2,
+        "GC": 4,
+        "SG": -2,
+        "pos": 5
       }
     ]
   }
