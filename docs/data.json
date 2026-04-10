@@ -1,9 +1,9 @@
 {
-  "updated_at": "10/04/2026 23:23:37",
+  "updated_at": "10/04/2026 23:58:22",
   "summary": {
     "total": 300,
-    "finalizados": 20,
-    "agendados": 280,
+    "finalizados": 26,
+    "agendados": 274,
     "ligas": 17
   },
   "jogos": [
@@ -81,15 +81,15 @@
       "liga": "FC26 R445(CHAMPIONS LEAGUE)10.04.2026",
       "p1": "Bayern M. (Dexter)",
       "p2": "PSG (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R445(CHAMPIONS LEAGUE)10.04.2026",
       "p1": "Liverpool (Mateo)",
       "p2": "Barcelona (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
@@ -165,29 +165,29 @@
       "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
       "p1": "Arsenal (Kristof)",
       "p2": "Newcastle U. (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
       "p1": "Manchester City (Jason)",
       "p2": "Tottenham (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
       "p1": "Arsenal (Kristof)",
       "p2": "Tottenham (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
       "p1": "Liverpool (Eric)",
       "p2": "Newcastle U. (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R447(INTERNATIONAL)11.04.2026",
@@ -2111,13 +2111,13 @@
   "resumo": {
     "FC26 R445(CHAMPIONS LEAGUE)10.04.2026": {
       "total": 12,
-      "finalizados": 10,
-      "agendados": 2
+      "finalizados": 12,
+      "agendados": 0
     },
     "FC26 R446(PREMIER LEAGUE)10.04.2026": {
       "total": 14,
-      "finalizados": 10,
-      "agendados": 4
+      "finalizados": 14,
+      "agendados": 0
     },
     "FC26 R447(INTERNATIONAL)11.04.2026": {
       "total": 20,
@@ -2199,14 +2199,14 @@
     "FC26 R445(CHAMPIONS LEAGUE)10.04.2026": [
       {
         "nome": "Barcelona (Odin)",
-        "Pts": 9,
-        "J": 4,
-        "V": 3,
+        "Pts": 12,
+        "J": 5,
+        "V": 4,
         "E": 0,
         "D": 1,
-        "GP": 18,
-        "GC": 11,
-        "SG": 7,
+        "GP": 23,
+        "GC": 14,
+        "SG": 9,
         "pos": 1
       },
       {
@@ -2224,99 +2224,99 @@
       {
         "nome": "PSG (Gael)",
         "Pts": 5,
-        "J": 4,
+        "J": 5,
         "V": 1,
         "E": 2,
-        "D": 1,
-        "GP": 12,
-        "GC": 13,
-        "SG": -1,
+        "D": 2,
+        "GP": 14,
+        "GC": 17,
+        "SG": -3,
         "pos": 3
+      },
+      {
+        "nome": "Bayern M. (Dexter)",
+        "Pts": 4,
+        "J": 5,
+        "V": 1,
+        "E": 1,
+        "D": 3,
+        "GP": 13,
+        "GC": 17,
+        "SG": -4,
+        "pos": 4
       },
       {
         "nome": "Liverpool (Mateo)",
         "Pts": 4,
-        "J": 4,
+        "J": 5,
         "V": 1,
         "E": 1,
-        "D": 2,
-        "GP": 12,
-        "GC": 17,
-        "SG": -5,
-        "pos": 4
-      },
-      {
-        "nome": "Bayern M. (Dexter)",
-        "Pts": 1,
-        "J": 4,
-        "V": 0,
-        "E": 1,
         "D": 3,
-        "GP": 9,
-        "GC": 15,
-        "SG": -6,
+        "GP": 15,
+        "GC": 22,
+        "SG": -7,
         "pos": 5
       }
     ],
     "FC26 R446(PREMIER LEAGUE)10.04.2026": [
       {
-        "nome": "Newcastle U. (Sebastian)",
-        "Pts": 8,
-        "J": 4,
-        "V": 2,
-        "E": 2,
-        "D": 0,
-        "GP": 14,
-        "GC": 9,
-        "SG": 5,
+        "nome": "Arsenal (Kristof)",
+        "Pts": 13,
+        "J": 6,
+        "V": 4,
+        "E": 1,
+        "D": 1,
+        "GP": 30,
+        "GC": 21,
+        "SG": 9,
         "pos": 1
       },
       {
-        "nome": "Arsenal (Kristof)",
-        "Pts": 7,
-        "J": 4,
-        "V": 2,
+        "nome": "Liverpool (Eric)",
+        "Pts": 10,
+        "J": 5,
+        "V": 3,
         "E": 1,
         "D": 1,
-        "GP": 18,
-        "GC": 14,
-        "SG": 4,
+        "GP": 17,
+        "GC": 12,
+        "SG": 5,
         "pos": 2
       },
       {
-        "nome": "Liverpool (Eric)",
-        "Pts": 7,
-        "J": 4,
+        "nome": "Newcastle U. (Sebastian)",
+        "Pts": 8,
+        "J": 6,
         "V": 2,
-        "E": 1,
-        "D": 1,
-        "GP": 13,
-        "GC": 12,
-        "SG": 1,
+        "E": 2,
+        "D": 2,
+        "GP": 17,
+        "GC": 19,
+        "SG": -2,
         "pos": 3
       },
       {
         "nome": "Tottenham (Iron)",
-        "Pts": 4,
-        "J": 4,
-        "V": 1,
+        "Pts": 7,
+        "J": 6,
+        "V": 2,
         "E": 1,
-        "D": 2,
-        "GP": 7,
-        "GC": 11,
-        "SG": -4,
+        "D": 3,
+        "GP": 14,
+        "GC": 19,
+        "SG": -5,
         "pos": 4
       },
       {
         "nome": "Manchester City (Jason)",
         "Pts": 1,
-        "J": 4,
+        "J": 5,
         "V": 0,
         "E": 1,
-        "D": 3,
-        "GP": 12,
-        "GC": 18,
-        "SG": -6,
+        "D": 4,
+        "GP": 14,
+        "GC": 21,
+        "SG": -7,
         "pos": 5
       }
     ]
