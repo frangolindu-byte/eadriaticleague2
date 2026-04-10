@@ -1,9 +1,9 @@
 {
-  "updated_at": "10/04/2026 22:00:04",
+  "updated_at": "10/04/2026 22:50:26",
   "summary": {
     "total": 360,
-    "finalizados": 358,
-    "agendados": 2,
+    "finalizados": 360,
+    "agendados": 0,
     "ligas": 20
   },
   "jogos": [
@@ -2517,15 +2517,15 @@
       "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
       "p1": "Liverpool (Eric)",
       "p2": "Manchester City (Jason)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
       "p1": "Tottenham (Iron)",
       "p2": "Newcastle U. (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-0",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2626,8 +2626,8 @@
     },
     "FC26 R446(PREMIER LEAGUE)10.04.2026": {
       "total": 6,
-      "finalizados": 4,
-      "agendados": 2
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3812,15 +3812,27 @@
     "FC26 R446(PREMIER LEAGUE)10.04.2026": [
       {
         "nome": "Liverpool (Eric)",
-        "Pts": 6,
-        "J": 2,
-        "V": 2,
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
         "E": 0,
         "D": 0,
-        "GP": 9,
-        "GC": 6,
-        "SG": 3,
+        "GP": 14,
+        "GC": 8,
+        "SG": 6,
         "pos": 1
+      },
+      {
+        "nome": "Tottenham (Iron)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 7,
+        "GC": 3,
+        "SG": 4,
+        "pos": 2
       },
       {
         "nome": "Arsenal (Kristof)",
@@ -3832,42 +3844,30 @@
         "GP": 10,
         "GC": 9,
         "SG": 1,
-        "pos": 2
+        "pos": 3
       },
       {
         "nome": "Manchester City (Jason)",
         "Pts": 3,
-        "J": 2,
+        "J": 3,
         "V": 1,
         "E": 0,
-        "D": 1,
-        "GP": 7,
-        "GC": 8,
-        "SG": -1,
-        "pos": 3
-      },
-      {
-        "nome": "Tottenham (Iron)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
-        "E": 0,
-        "D": 1,
-        "GP": 2,
-        "GC": 3,
-        "SG": -1,
+        "D": 2,
+        "GP": 9,
+        "GC": 13,
+        "SG": -4,
         "pos": 4
       },
       {
         "nome": "Newcastle U. (Sebastian)",
         "Pts": 0,
-        "J": 1,
+        "J": 2,
         "V": 0,
         "E": 0,
-        "D": 1,
+        "D": 2,
         "GP": 2,
-        "GC": 4,
-        "SG": -2,
+        "GC": 9,
+        "SG": -7,
         "pos": 5
       }
     ]
