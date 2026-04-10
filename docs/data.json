@@ -1,3764 +1,2684 @@
 {
-  "updated_at": "09/04/2026 23:00:48",
+  "updated_at": "10/04/2026 01:08:04",
   "summary": {
     "total": 360,
-    "finalizados": 360,
-    "agendados": 0,
+    "finalizados": 44,
+    "agendados": 316,
     "ligas": 20
   },
   "jogos": [
     {
-      "liga": "FC26 R409(CHAMPIONS LEAGUE)08.04.2026",
-      "p1": "Bayern M. (Dexter)",
-      "p2": "Real Madrid (Mateo)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R409(CHAMPIONS LEAGUE)08.04.2026",
-      "p1": "Liverpool (Gael)",
-      "p2": "PSG (Eduardo)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R409(CHAMPIONS LEAGUE)08.04.2026",
-      "p1": "Liverpool (Gael)",
-      "p2": "Atletico Madrid (Odin)",
-      "placar": "1-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R409(CHAMPIONS LEAGUE)08.04.2026",
-      "p1": "PSG (Eduardo)",
-      "p2": "Real Madrid (Mateo)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R409(CHAMPIONS LEAGUE)08.04.2026",
-      "p1": "Atletico Madrid (Odin)",
-      "p2": "Real Madrid (Mateo)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R409(CHAMPIONS LEAGUE)08.04.2026",
-      "p1": "PSG (Eduardo)",
-      "p2": "Bayern M. (Dexter)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R409(CHAMPIONS LEAGUE)08.04.2026",
-      "p1": "Atletico Madrid (Odin)",
-      "p2": "PSG (Eduardo)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R409(CHAMPIONS LEAGUE)08.04.2026",
-      "p1": "Liverpool (Gael)",
-      "p2": "Bayern M. (Dexter)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R409(CHAMPIONS LEAGUE)08.04.2026",
-      "p1": "Atletico Madrid (Odin)",
-      "p2": "Bayern M. (Dexter)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R409(CHAMPIONS LEAGUE)08.04.2026",
-      "p1": "Real Madrid (Mateo)",
-      "p2": "Liverpool (Gael)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R409(CHAMPIONS LEAGUE)08.04.2026",
-      "p1": "PSG (Eduardo)",
-      "p2": "Liverpool (Gael)",
-      "placar": "1-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R409(CHAMPIONS LEAGUE)08.04.2026",
-      "p1": "Real Madrid (Mateo)",
-      "p2": "Bayern M. (Dexter)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
-      "p1": "Arsenal (Eric)",
-      "p2": "Tottenham (Beckham)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
-      "p1": "Newcastle (Iron)",
-      "p2": "Liverpool (Nathan)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
-      "p1": "Arsenal (Eric)",
-      "p2": "Manchester City (Sebastian)",
-      "placar": "4-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
-      "p1": "Newcastle (Iron)",
-      "p2": "Tottenham (Beckham)",
-      "placar": "5-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
-      "p1": "Arsenal (Eric)",
-      "p2": "Liverpool (Nathan)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
-      "p1": "Manchester City (Sebastian)",
-      "p2": "Tottenham (Beckham)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
-      "p1": "Liverpool (Nathan)",
-      "p2": "Tottenham (Beckham)",
-      "placar": "3-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
-      "p1": "Manchester City (Sebastian)",
-      "p2": "Newcastle (Iron)",
-      "placar": "2-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
-      "p1": "Arsenal (Eric)",
-      "p2": "Newcastle (Iron)",
-      "placar": "0-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
-      "p1": "Liverpool (Nathan)",
-      "p2": "Manchester City (Sebastian)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
-      "p1": "Liverpool (Nathan)",
-      "p2": "Newcastle (Iron)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
-      "p1": "Tottenham (Beckham)",
-      "p2": "Arsenal (Eric)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
-      "p1": "Manchester City (Sebastian)",
-      "p2": "Arsenal (Eric)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R410(PREMIER LEAGUE)08.04.2026",
-      "p1": "Tottenham (Beckham)",
-      "p2": "Newcastle (Iron)",
-      "placar": "2-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "Argentina (Odin)",
-      "p2": "Portugal (Gael)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (Mateo)",
-      "p2": "Italy (Eduardo)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "France (Dexter)",
-      "p2": "Italy (Eduardo)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (Mateo)",
-      "p2": "Argentina (Odin)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "France (Dexter)",
-      "p2": "Portugal (Gael)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "Italy (Eduardo)",
-      "p2": "Argentina (Odin)",
-      "placar": "2-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "France (Dexter)",
-      "p2": "Argentina (Odin)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "Portugal (Gael)",
-      "p2": "Holland (Mateo)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "France (Dexter)",
-      "p2": "Holland (Mateo)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "Portugal (Gael)",
-      "p2": "Italy (Eduardo)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "Italy (Eduardo)",
-      "p2": "Holland (Mateo)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "Portugal (Gael)",
-      "p2": "Argentina (Odin)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "Argentina (Odin)",
-      "p2": "Holland (Mateo)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "Italy (Eduardo)",
-      "p2": "France (Dexter)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "Argentina (Odin)",
-      "p2": "Italy (Eduardo)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "Portugal (Gael)",
-      "p2": "France (Dexter)",
-      "placar": "3-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "Argentina (Odin)",
-      "p2": "France (Dexter)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (Mateo)",
-      "p2": "Portugal (Gael)",
-      "placar": "1-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (Mateo)",
-      "p2": "France (Dexter)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R411(INTERNATIONAL)09.04.2026",
-      "p1": "Italy (Eduardo)",
-      "p2": "Portugal (Gael)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Liverpool (Beckham)",
-      "p2": "Bayern M. (Sebastian)",
-      "placar": "5-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (Nathan)",
-      "p2": "Real Madrid (Eric)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Liverpool (Beckham)",
-      "p2": "PSG (Nathan)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Manchester City (Iron)",
-      "p2": "Bayern M. (Sebastian)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M. (Sebastian)",
-      "p2": "PSG (Nathan)",
-      "placar": "5-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Manchester City (Iron)",
-      "p2": "Real Madrid (Eric)",
-      "placar": "0-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Manchester City (Iron)",
-      "p2": "PSG (Nathan)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Real Madrid (Eric)",
-      "p2": "Liverpool (Beckham)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Manchester City (Iron)",
-      "p2": "Liverpool (Beckham)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Real Madrid (Eric)",
-      "p2": "Bayern M. (Sebastian)",
-      "placar": "6-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M. (Sebastian)",
-      "p2": "Liverpool (Beckham)",
-      "placar": "5-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Real Madrid (Eric)",
-      "p2": "PSG (Nathan)",
-      "placar": "0-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M. (Sebastian)",
-      "p2": "Manchester City (Iron)",
-      "placar": "1-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (Nathan)",
-      "p2": "Liverpool (Beckham)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (Nathan)",
-      "p2": "Bayern M. (Sebastian)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Real Madrid (Eric)",
-      "p2": "Manchester City (Iron)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Liverpool (Beckham)",
-      "p2": "Real Madrid (Eric)",
-      "placar": "0-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (Nathan)",
-      "p2": "Manchester City (Iron)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M. (Sebastian)",
-      "p2": "Real Madrid (Eric)",
-      "placar": "3-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R412(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Liverpool (Beckham)",
-      "p2": "Manchester City (Iron)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "River Plate (Odin)",
-      "p2": "Flamengo (Gael)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "Sao Paulo (Mateo)",
-      "p2": "Bolivar (Eduardo)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "Penarol (Dexter)",
-      "p2": "Bolivar (Eduardo)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "Sao Paulo (Mateo)",
-      "p2": "River Plate (Odin)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "Bolivar (Eduardo)",
-      "p2": "River Plate (Odin)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "Penarol (Dexter)",
-      "p2": "Flamengo (Gael)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "Flamengo (Gael)",
-      "p2": "Sao Paulo (Mateo)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "Penarol (Dexter)",
-      "p2": "River Plate (Odin)",
-      "placar": "0-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "Flamengo (Gael)",
-      "p2": "Bolivar (Eduardo)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "Penarol (Dexter)",
-      "p2": "Sao Paulo (Mateo)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "Bolivar (Eduardo)",
-      "p2": "Sao Paulo (Mateo)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "Flamengo (Gael)",
-      "p2": "River Plate (Odin)",
-      "placar": "1-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "Bolivar (Eduardo)",
-      "p2": "Penarol (Dexter)",
-      "placar": "3-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "River Plate (Odin)",
-      "p2": "Sao Paulo (Mateo)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "Flamengo (Gael)",
-      "p2": "Penarol (Dexter)",
-      "placar": "0-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "River Plate (Odin)",
-      "p2": "Bolivar (Eduardo)",
-      "placar": "1-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "River Plate (Odin)",
-      "p2": "Penarol (Dexter)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "Sao Paulo (Mateo)",
-      "p2": "Flamengo (Gael)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "Bolivar (Eduardo)",
-      "p2": "Flamengo (Gael)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R413(COPA LIBERTADORES)09.04.2026",
-      "p1": "Sao Paulo (Mateo)",
-      "p2": "Penarol (Dexter)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "Argentina (Beckham)",
-      "p2": "Portugal (Sebastian)",
-      "placar": "5-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "France (Nathan)",
-      "p2": "Holland (Eric)",
-      "placar": "5-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "Argentina (Beckham)",
-      "p2": "France (Nathan)",
-      "placar": "4-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "Spain (Iron)",
-      "p2": "Portugal (Sebastian)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "Portugal (Sebastian)",
-      "p2": "France (Nathan)",
-      "placar": "4-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "Spain (Iron)",
-      "p2": "Holland (Eric)",
-      "placar": "3-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (Eric)",
-      "p2": "Argentina (Beckham)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "Spain (Iron)",
-      "p2": "France (Nathan)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (Eric)",
-      "p2": "Portugal (Sebastian)",
-      "placar": "4-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "Spain (Iron)",
-      "p2": "Argentina (Beckham)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (Eric)",
-      "p2": "France (Nathan)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "Portugal (Sebastian)",
-      "p2": "Argentina (Beckham)",
-      "placar": "4-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "France (Nathan)",
-      "p2": "Argentina (Beckham)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "Portugal (Sebastian)",
-      "p2": "Spain (Iron)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "France (Nathan)",
-      "p2": "Portugal (Sebastian)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (Eric)",
-      "p2": "Spain (Iron)",
-      "placar": "3-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "Argentina (Beckham)",
-      "p2": "Holland (Eric)",
-      "placar": "6-8",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "France (Nathan)",
-      "p2": "Spain (Iron)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "Argentina (Beckham)",
-      "p2": "Spain (Iron)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R414(INTERNATIONAL)09.04.2026",
-      "p1": "Portugal (Sebastian)",
-      "p2": "Holland (Eric)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayer Leverkusen (Matrix)",
-      "p2": "Borussia Dortmund (Panther)",
-      "placar": "CancelledC-C",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Real Madrid (Bruno)",
-      "p2": "Bayern M. (Logan)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (Gabriel)",
-      "p2": "Bayern M. (Logan)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Real Madrid (Bruno)",
-      "p2": "Bayer Leverkusen (Matrix)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M. (Logan)",
-      "p2": "Bayer Leverkusen (Matrix)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (Gabriel)",
-      "p2": "Borussia Dortmund (Panther)",
-      "placar": "CancelledC-C",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Borussia Dortmund (Panther)",
-      "p2": "Real Madrid (Bruno)",
-      "placar": "4-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (Gabriel)",
-      "p2": "Bayer Leverkusen (Matrix)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Borussia Dortmund (Panther)",
-      "p2": "Bayern M. (Logan)",
-      "placar": "5-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (Gabriel)",
-      "p2": "Real Madrid (Bruno)",
-      "placar": "3-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M. (Logan)",
-      "p2": "Real Madrid (Bruno)",
-      "placar": "1-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Borussia Dortmund (Panther)",
-      "p2": "Bayer Leverkusen (Matrix)",
-      "placar": "5-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayer Leverkusen (Matrix)",
-      "p2": "Real Madrid (Bruno)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M. (Logan)",
-      "p2": "PSG (Gabriel)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayer Leverkusen (Matrix)",
-      "p2": "Bayern M. (Logan)",
-      "placar": "5-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Borussia Dortmund (Panther)",
-      "p2": "PSG (Gabriel)",
-      "placar": "1-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayer Leverkusen (Matrix)",
-      "p2": "PSG (Gabriel)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Real Madrid (Bruno)",
-      "p2": "Borussia Dortmund (Panther)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M. (Logan)",
-      "p2": "Borussia Dortmund (Panther)",
-      "placar": "2-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R415(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Real Madrid (Bruno)",
-      "p2": "PSG (Gabriel)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "Tottenham (Oliver)",
-      "p2": "Aston Villa (Liam)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "West Ham United (Maverick)",
-      "p2": "Manchester City (Arthur)",
-      "placar": "6-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "Newcastle U. (Leonardo)",
-      "p2": "Manchester City (Arthur)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "West Ham United (Maverick)",
-      "p2": "Tottenham (Oliver)",
-      "placar": "4-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "Manchester City (Arthur)",
-      "p2": "Tottenham (Oliver)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "Newcastle U. (Leonardo)",
-      "p2": "Aston Villa (Liam)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "Aston Villa (Liam)",
-      "p2": "West Ham United (Maverick)",
-      "placar": "4-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "Newcastle U. (Leonardo)",
-      "p2": "Tottenham (Oliver)",
-      "placar": "5-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "Aston Villa (Liam)",
-      "p2": "Manchester City (Arthur)",
-      "placar": "3-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "Newcastle U. (Leonardo)",
-      "p2": "West Ham United (Maverick)",
-      "placar": "7-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "Aston Villa (Liam)",
-      "p2": "Tottenham (Oliver)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "Manchester City (Arthur)",
-      "p2": "West Ham United (Maverick)",
-      "placar": "8-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "Manchester City (Arthur)",
-      "p2": "Newcastle U. (Leonardo)",
-      "placar": "5-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "Tottenham (Oliver)",
-      "p2": "West Ham United (Maverick)",
-      "placar": "6-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "Aston Villa (Liam)",
-      "p2": "Newcastle U. (Leonardo)",
-      "placar": "1-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "Tottenham (Oliver)",
-      "p2": "Manchester City (Arthur)",
-      "placar": "5-7",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "Tottenham (Oliver)",
-      "p2": "Newcastle U. (Leonardo)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "West Ham United (Maverick)",
-      "p2": "Aston Villa (Liam)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "Manchester City (Arthur)",
-      "p2": "Aston Villa (Liam)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R416(PREMIER LEAGUE)09.04.2026",
-      "p1": "West Ham United (Maverick)",
-      "p2": "Newcastle U. (Leonardo)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "France (Bruno)",
-      "p2": "Holland (Logan)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "Morocco (Matrix)",
-      "p2": "Ghana (Panther)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "France (Bruno)",
-      "p2": "Morocco (Matrix)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "Norway (Gabriel)",
-      "p2": "Holland (Logan)",
-      "placar": "3-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (Logan)",
-      "p2": "Morocco (Matrix)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "Norway (Gabriel)",
-      "p2": "Ghana (Panther)",
-      "placar": "3-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "Ghana (Panther)",
-      "p2": "France (Bruno)",
-      "placar": "5-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "Norway (Gabriel)",
-      "p2": "Morocco (Matrix)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "Ghana (Panther)",
-      "p2": "Holland (Logan)",
-      "placar": "6-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "Norway (Gabriel)",
-      "p2": "France (Bruno)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "Ghana (Panther)",
-      "p2": "Morocco (Matrix)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (Logan)",
-      "p2": "France (Bruno)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (Logan)",
-      "p2": "Norway (Gabriel)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "Morocco (Matrix)",
-      "p2": "France (Bruno)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "Ghana (Panther)",
-      "p2": "Norway (Gabriel)",
-      "placar": "5-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "Morocco (Matrix)",
-      "p2": "Holland (Logan)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "France (Bruno)",
-      "p2": "Ghana (Panther)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "Morocco (Matrix)",
-      "p2": "Norway (Gabriel)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "France (Bruno)",
-      "p2": "Norway (Gabriel)",
-      "placar": "4-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R417(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (Logan)",
-      "p2": "Ghana (Panther)",
-      "placar": "1-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Barcelona (Maverick)",
-      "p2": "Real Madrid (Arthur)",
-      "placar": "4-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (Oliver)",
-      "p2": "Atletico Madrid (Liam)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Barcelona (Maverick)",
-      "p2": "PSG (Oliver)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Manchester City (Leonardo)",
-      "p2": "Real Madrid (Arthur)",
-      "placar": "5-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Manchester City (Leonardo)",
-      "p2": "Atletico Madrid (Liam)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Real Madrid (Arthur)",
-      "p2": "PSG (Oliver)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Atletico Madrid (Liam)",
-      "p2": "Barcelona (Maverick)",
-      "placar": "2-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Manchester City (Leonardo)",
-      "p2": "PSG (Oliver)",
-      "placar": "9-8",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Atletico Madrid (Liam)",
-      "p2": "Real Madrid (Arthur)",
-      "placar": "1-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Manchester City (Leonardo)",
-      "p2": "Barcelona (Maverick)",
-      "placar": "1-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Atletico Madrid (Liam)",
-      "p2": "PSG (Oliver)",
-      "placar": "4-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Real Madrid (Arthur)",
-      "p2": "Barcelona (Maverick)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (Oliver)",
-      "p2": "Barcelona (Maverick)",
-      "placar": "6-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Real Madrid (Arthur)",
-      "p2": "Manchester City (Leonardo)",
-      "placar": "5-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Atletico Madrid (Liam)",
-      "p2": "Manchester City (Leonardo)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (Oliver)",
-      "p2": "Real Madrid (Arthur)",
-      "placar": "7-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Barcelona (Maverick)",
-      "p2": "Atletico Madrid (Liam)",
-      "placar": "5-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (Oliver)",
-      "p2": "Manchester City (Leonardo)",
-      "placar": "5-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Barcelona (Maverick)",
-      "p2": "Manchester City (Leonardo)",
-      "placar": "6-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R418(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Real Madrid (Arthur)",
-      "p2": "Atletico Madrid (Liam)",
-      "placar": "6-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Bologna (Matrix)",
-      "p2": "Olympiacos FC (Panther)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Lazio (Bruno)",
-      "p2": "Roma (Logan)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Feyenoord (Gabriel)",
-      "p2": "Roma (Logan)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Lazio (Bruno)",
-      "p2": "Bologna (Matrix)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Feyenoord (Gabriel)",
-      "p2": "Olympiacos FC (Panther)",
-      "placar": "1-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Roma (Logan)",
-      "p2": "Bologna (Matrix)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Feyenoord (Gabriel)",
-      "p2": "Bologna (Matrix)",
-      "placar": "5-7",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Olympiacos FC (Panther)",
-      "p2": "Lazio (Bruno)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Feyenoord (Gabriel)",
-      "p2": "Lazio (Bruno)",
-      "placar": "5-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Olympiacos FC (Panther)",
-      "p2": "Roma (Logan)",
-      "placar": "3-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Olympiacos FC (Panther)",
-      "p2": "Bologna (Matrix)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Roma (Logan)",
-      "p2": "Lazio (Bruno)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Bologna (Matrix)",
-      "p2": "Lazio (Bruno)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Roma (Logan)",
-      "p2": "Feyenoord (Gabriel)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Bologna (Matrix)",
-      "p2": "Roma (Logan)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Olympiacos FC (Panther)",
-      "p2": "Feyenoord (Gabriel)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Bologna (Matrix)",
-      "p2": "Feyenoord (Gabriel)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Lazio (Bruno)",
-      "p2": "Olympiacos FC (Panther)",
-      "placar": "1-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Lazio (Bruno)",
-      "p2": "Feyenoord (Gabriel)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R419(EUROPA LEAGUE)09.04.2026",
-      "p1": "Roma (Logan)",
-      "p2": "Olympiacos FC (Panther)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Denmark (Oliver)",
-      "p2": "Portugal (Liam)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Italy (Maverick)",
-      "p2": "Holland (Arthur)",
-      "placar": "5-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Argentina (Leonardo)",
-      "p2": "Holland (Arthur)",
-      "placar": "5-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Italy (Maverick)",
-      "p2": "Denmark (Oliver)",
-      "placar": "5-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Argentina (Leonardo)",
-      "p2": "Portugal (Liam)",
-      "placar": "4-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (Arthur)",
-      "p2": "Denmark (Oliver)",
-      "placar": "3-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Argentina (Leonardo)",
-      "p2": "Denmark (Oliver)",
-      "placar": "8-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Portugal (Liam)",
-      "p2": "Italy (Maverick)",
-      "placar": "3-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Argentina (Leonardo)",
-      "p2": "Italy (Maverick)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Portugal (Liam)",
-      "p2": "Holland (Arthur)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (Arthur)",
-      "p2": "Italy (Maverick)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Portugal (Liam)",
-      "p2": "Denmark (Oliver)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Denmark (Oliver)",
-      "p2": "Italy (Maverick)",
-      "placar": "6-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (Arthur)",
-      "p2": "Argentina (Leonardo)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Denmark (Oliver)",
-      "p2": "Holland (Arthur)",
-      "placar": "9-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Portugal (Liam)",
-      "p2": "Argentina (Leonardo)",
-      "placar": "4-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Denmark (Oliver)",
-      "p2": "Argentina (Leonardo)",
-      "placar": "7-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Italy (Maverick)",
-      "p2": "Portugal (Liam)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (Arthur)",
-      "p2": "Portugal (Liam)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R420(INTERNATIONAL)09.04.2026",
-      "p1": "Italy (Maverick)",
-      "p2": "Argentina (Leonardo)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Arsenal (Donatello)",
-      "p2": "Newcastle U. (Cleo)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Manchester City (Adriano)",
-      "p2": "Chelsea (Alexis)",
-      "placar": "1-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Manchester City (Adriano)",
-      "p2": "Arsenal (Donatello)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Tottenham (Noah)",
-      "p2": "Chelsea (Alexis)",
-      "placar": "5-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Chelsea (Alexis)",
-      "p2": "Arsenal (Donatello)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Tottenham (Noah)",
-      "p2": "Newcastle U. (Cleo)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Newcastle U. (Cleo)",
-      "p2": "Manchester City (Adriano)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Tottenham (Noah)",
-      "p2": "Arsenal (Donatello)",
-      "placar": "1-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Newcastle U. (Cleo)",
-      "p2": "Chelsea (Alexis)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Tottenham (Noah)",
-      "p2": "Manchester City (Adriano)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Chelsea (Alexis)",
-      "p2": "Manchester City (Adriano)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Newcastle U. (Cleo)",
-      "p2": "Arsenal (Donatello)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Arsenal (Donatello)",
-      "p2": "Manchester City (Adriano)",
-      "placar": "6-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Chelsea (Alexis)",
-      "p2": "Tottenham (Noah)",
-      "placar": "5-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Arsenal (Donatello)",
-      "p2": "Chelsea (Alexis)",
-      "placar": "1-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Newcastle U. (Cleo)",
-      "p2": "Tottenham (Noah)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Arsenal (Donatello)",
-      "p2": "Tottenham (Noah)",
-      "placar": "0-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Manchester City (Adriano)",
-      "p2": "Newcastle U. (Cleo)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Chelsea (Alexis)",
-      "p2": "Newcastle U. (Cleo)",
-      "placar": "4-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R421(PREMIER LEAGUE)09.04.2026",
-      "p1": "Manchester City (Adriano)",
-      "p2": "Tottenham (Noah)",
-      "placar": "6-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M (Popeye)",
-      "p2": "Liverpool (Pascal)",
-      "placar": "5-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Manchester City (VanGogh)",
-      "p2": "PSG (MisterX)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Atletico Madrid (Andrew)",
-      "p2": "Liverpool (Pascal)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M (Popeye)",
-      "p2": "Manchester City (VanGogh)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Atletico Madrid (Andrew)",
-      "p2": "PSG (MisterX)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Liverpool (Pascal)",
-      "p2": "Manchester City (VanGogh)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Atletico Madrid (Andrew)",
-      "p2": "Manchester City (VanGogh)",
-      "placar": "4-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (MisterX)",
-      "p2": "Bayern M (Popeye)",
-      "placar": "4-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Atletico Madrid (Andrew)",
-      "p2": "Bayern M (Popeye)",
-      "placar": "5-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (MisterX)",
-      "p2": "Liverpool (Pascal)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Liverpool (Pascal)",
-      "p2": "Bayern M (Popeye)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (MisterX)",
-      "p2": "Manchester City (VanGogh)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Liverpool (Pascal)",
-      "p2": "Atletico Madrid (Andrew)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Manchester City (VanGogh)",
-      "p2": "Bayern M (Popeye)",
-      "placar": "1-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Manchester City (VanGogh)",
-      "p2": "Liverpool (Pascal)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (MisterX)",
-      "p2": "Atletico Madrid (Andrew)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M (Popeye)",
-      "p2": "PSG (MisterX)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Manchester City (VanGogh)",
-      "p2": "Atletico Madrid (Andrew)",
-      "placar": "3-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M (Popeye)",
-      "p2": "Atletico Madrid (Andrew)",
-      "placar": "5-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R422(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Liverpool (Pascal)",
-      "p2": "PSG (MisterX)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Inter (Donatello)",
-      "p2": "Napoli (Cleo)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Juventus (Adriano)",
-      "p2": "Atalanta Bergamo (Alexis)",
-      "placar": "4-7",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Juventus (Adriano)",
-      "p2": "Inter (Donatello)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Milan (Noah)",
-      "p2": "Atalanta Bergamo (Alexis)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Atalanta Bergamo (Alexis)",
-      "p2": "Inter (Donatello)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Milan (Noah)",
-      "p2": "Napoli (Cleo)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Milan (Noah)",
-      "p2": "Inter (Donatello)",
-      "placar": "0-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Napoli (Cleo)",
-      "p2": "Juventus (Adriano)",
-      "placar": "1-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Milan (Noah)",
-      "p2": "Juventus (Adriano)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Napoli (Cleo)",
-      "p2": "Atalanta Bergamo (Alexis)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Atalanta Bergamo (Alexis)",
-      "p2": "Juventus (Adriano)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Napoli (Cleo)",
-      "p2": "Inter (Donatello)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Atalanta Bergamo (Alexis)",
-      "p2": "Milan (Noah)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Inter (Donatello)",
-      "p2": "Juventus (Adriano)",
-      "placar": "5-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Inter (Donatello)",
-      "p2": "Atalanta Bergamo (Alexis)",
-      "placar": "1-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Napoli (Cleo)",
-      "p2": "Milan (Noah)",
-      "placar": "0-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Inter (Donatello)",
-      "p2": "Milan (Noah)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Juventus (Adriano)",
-      "p2": "Napoli (Cleo)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Atalanta Bergamo (Alexis)",
-      "p2": "Napoli (Cleo)",
-      "placar": "8-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R423(SERIA A)09.04.2026",
-      "p1": "Juventus (Adriano)",
-      "p2": "Milan (Noah)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Argentina (VanGogh)",
-      "p2": "Holland (MisterX)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Denmark (Popeye)",
-      "p2": "Italy (Pascal)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Denmark (Popeye)",
-      "p2": "Argentina (VanGogh)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Portugal (Andrew)",
-      "p2": "Italy (Pascal)",
-      "placar": "5-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Italy (Pascal)",
-      "p2": "Argentina (VanGogh)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Portugal (Andrew)",
-      "p2": "Holland (MisterX)",
-      "placar": "5-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (MisterX)",
-      "p2": "Denmark (Popeye)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Portugal (Andrew)",
-      "p2": "Argentina (VanGogh)",
-      "placar": "5-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (MisterX)",
-      "p2": "Italy (Pascal)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Portugal (Andrew)",
-      "p2": "Denmark (Popeye)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (MisterX)",
-      "p2": "Argentina (VanGogh)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Italy (Pascal)",
-      "p2": "Denmark (Popeye)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Argentina (VanGogh)",
-      "p2": "Denmark (Popeye)",
-      "placar": "3-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Italy (Pascal)",
-      "p2": "Portugal (Andrew)",
-      "placar": "6-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Argentina (VanGogh)",
-      "p2": "Italy (Pascal)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Holland (MisterX)",
-      "p2": "Portugal (Andrew)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Argentina (VanGogh)",
-      "p2": "Portugal (Andrew)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Denmark (Popeye)",
-      "p2": "Holland (MisterX)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Denmark (Popeye)",
-      "p2": "Portugal (Andrew)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R424(INTERNATIONAL)09.04.2026",
-      "p1": "Italy (Pascal)",
-      "p2": "Holland (MisterX)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Liverpool (Donatello)",
-      "p2": "Bayern M. (Cleo)",
-      "placar": "1-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Real Madrid (Adriano)",
-      "p2": "Barcelona (Alexis)",
-      "placar": "2-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (Noah)",
-      "p2": "Barcelona (Alexis)",
-      "placar": "3-8",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Real Madrid (Adriano)",
-      "p2": "Liverpool (Donatello)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Barcelona (Alexis)",
-      "p2": "Liverpool (Donatello)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (Noah)",
-      "p2": "Bayern M. (Cleo)",
-      "placar": "3-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M. (Cleo)",
-      "p2": "Real Madrid (Adriano)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (Noah)",
-      "p2": "Liverpool (Donatello)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M. (Cleo)",
-      "p2": "Barcelona (Alexis)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "PSG (Noah)",
-      "p2": "Real Madrid (Adriano)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Barcelona (Alexis)",
-      "p2": "Real Madrid (Adriano)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M. (Cleo)",
-      "p2": "Liverpool (Donatello)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Barcelona (Alexis)",
-      "p2": "PSG (Noah)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Liverpool (Donatello)",
-      "p2": "Real Madrid (Adriano)",
-      "placar": "1-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M. (Cleo)",
-      "p2": "PSG (Noah)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Liverpool (Donatello)",
-      "p2": "Barcelona (Alexis)",
-      "placar": "0-9",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Liverpool (Donatello)",
-      "p2": "PSG (Noah)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Real Madrid (Adriano)",
-      "p2": "Bayern M. (Cleo)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Barcelona (Alexis)",
-      "p2": "Bayern M. (Cleo)",
-      "placar": "3-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R425(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Real Madrid (Adriano)",
-      "p2": "PSG (Noah)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Barcelona (VanGogh)",
-      "p2": "Real Sociedad (MisterX)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Sevilla (Popeye)",
-      "p2": "Real Madrid (Pascal)",
-      "placar": "5-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Sevilla (Popeye)",
-      "p2": "Barcelona (VanGogh)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Villarreal (Andrew)",
-      "p2": "Real Madrid (Pascal)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Real Madrid (Pascal)",
-      "p2": "Barcelona (VanGogh)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Villarreal (Andrew)",
-      "p2": "Real Sociedad (MisterX)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Real Sociedad (MisterX)",
-      "p2": "Sevilla (Popeye)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Villarreal (Andrew)",
-      "p2": "Barcelona (VanGogh)",
-      "placar": "5-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Real Sociedad (MisterX)",
-      "p2": "Real Madrid (Pascal)",
-      "placar": "2-7",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Villarreal (Andrew)",
-      "p2": "Sevilla (Popeye)",
-      "placar": "7-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Real Madrid (Pascal)",
-      "p2": "Sevilla (Popeye)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Real Sociedad (MisterX)",
-      "p2": "Barcelona (VanGogh)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Barcelona (VanGogh)",
-      "p2": "Sevilla (Popeye)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Real Madrid (Pascal)",
-      "p2": "Villarreal (Andrew)",
-      "placar": "5-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Barcelona (VanGogh)",
-      "p2": "Real Madrid (Pascal)",
-      "placar": "3-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Real Sociedad (MisterX)",
-      "p2": "Villarreal (Andrew)",
-      "placar": "3-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Barcelona (VanGogh)",
-      "p2": "Villarreal (Andrew)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Sevilla (Popeye)",
-      "p2": "Real Sociedad (MisterX)",
-      "placar": "5-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Real Madrid (Pascal)",
-      "p2": "Real Sociedad (MisterX)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R426(LA LIGA)09.04.2026",
-      "p1": "Sevilla (Popeye)",
-      "p2": "Villarreal (Andrew)",
-      "placar": "5-7",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayer Leverkusen (Gael)",
-      "p2": "Borussia Dortmund (Dexter)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Real Madrid (Nathan)",
-      "p2": "Liverpool (Conde)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayer Leverkusen (Gael)",
-      "p2": "Real Madrid (Nathan)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
       "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
       "p1": "Bayern M. (Felix)",
-      "p2": "Borussia Dortmund (Dexter)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M. (Felix)",
-      "p2": "Liverpool (Conde)",
-      "placar": "0-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Borussia Dortmund (Dexter)",
-      "p2": "Real Madrid (Nathan)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
-      "p1": "Bayern M. (Felix)",
-      "p2": "Real Madrid (Nathan)",
-      "placar": "2-2",
+      "p2": "Bayer Leverkusen (Gael)",
+      "placar": "4-4",
       "status": "Finalizado"
     },
     {
       "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
       "p1": "Liverpool (Conde)",
+      "p2": "Borussia Dortmund (Dexter)",
+      "placar": "5-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
+      "p1": "Borussia Dortmund (Dexter)",
       "p2": "Bayer Leverkusen (Gael)",
-      "placar": "5-5",
+      "placar": "3-4",
       "status": "Finalizado"
     },
     {
-      "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
-      "p1": "Flamengo (Sebastian)",
-      "p2": "Bolivar (Kristof)",
-      "placar": "2-2",
+      "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
+      "p1": "Liverpool (Conde)",
+      "p2": "Real Madrid (Nathan)",
+      "placar": "3-6",
       "status": "Finalizado"
     },
     {
-      "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
-      "p1": "Penarol (Beckham)",
-      "p2": "Sao Paulo (Jason)",
-      "placar": "5-1",
+      "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
+      "p1": "Borussia Dortmund (Dexter)",
+      "p2": "Bayern M. (Felix)",
+      "placar": "2-1",
       "status": "Finalizado"
     },
     {
-      "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
-      "p1": "Flamengo (Sebastian)",
-      "p2": "Penarol (Beckham)",
-      "placar": "0-4",
+      "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
+      "p1": "Real Madrid (Nathan)",
+      "p2": "Bayer Leverkusen (Gael)",
+      "placar": "5-7",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
+      "p1": "Liverpool (Conde)",
+      "p2": "Bayern M. (Felix)",
+      "placar": "0-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
+      "p1": "Real Madrid (Nathan)",
+      "p2": "Borussia Dortmund (Dexter)",
+      "placar": "2-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
+      "p1": "Bayer Leverkusen (Gael)",
+      "p2": "Liverpool (Conde)",
+      "placar": "4-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
+      "p1": "Real Madrid (Nathan)",
+      "p2": "Bayern M. (Felix)",
+      "placar": "4-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
+      "p1": "Bayer Leverkusen (Gael)",
+      "p2": "Bayern M. (Felix)",
+      "placar": "8-6",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R427(CHAMPIONS LEAGUE)09.04.2026",
+      "p1": "Borussia Dortmund (Dexter)",
+      "p2": "Liverpool (Conde)",
+      "placar": "2-5",
       "status": "Finalizado"
     },
     {
       "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
       "p1": "River Plate (Iron)",
+      "p2": "Penarol (Beckham)",
+      "placar": "6-5",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
+      "p1": "Sao Paulo (Jason)",
+      "p2": "Flamengo (Sebastian)",
+      "placar": "2-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
+      "p1": "River Plate (Iron)",
+      "p2": "Flamengo (Sebastian)",
+      "placar": "3-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
+      "p1": "Sao Paulo (Jason)",
       "p2": "Bolivar (Kristof)",
-      "placar": "4-5",
+      "placar": "5-4",
       "status": "Finalizado"
     },
     {
       "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
       "p1": "Bolivar (Kristof)",
+      "p2": "Flamengo (Sebastian)",
+      "placar": "4-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
+      "p1": "Sao Paulo (Jason)",
       "p2": "Penarol (Beckham)",
+      "placar": "4-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
+      "p1": "Bolivar (Kristof)",
+      "p2": "River Plate (Iron)",
+      "placar": "5-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
+      "p1": "Penarol (Beckham)",
+      "p2": "Flamengo (Sebastian)",
+      "placar": "5-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
+      "p1": "Penarol (Beckham)",
+      "p2": "Bolivar (Kristof)",
+      "placar": "3-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
+      "p1": "Sao Paulo (Jason)",
+      "p2": "River Plate (Iron)",
+      "placar": "2-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
+      "p1": "Flamengo (Sebastian)",
+      "p2": "Sao Paulo (Jason)",
       "placar": "1-5",
       "status": "Finalizado"
     },
     {
       "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
-      "p1": "River Plate (Iron)",
-      "p2": "Sao Paulo (Jason)",
+      "p1": "Penarol (Beckham)",
+      "p2": "River Plate (Iron)",
       "placar": "4-2",
       "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
+      "p1": "Bolivar (Kristof)",
+      "p2": "Sao Paulo (Jason)",
+      "placar": "5-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R428(COPA LIBERTADORES)09.04.2026",
+      "p1": "Flamengo (Sebastian)",
+      "p2": "River Plate (Iron)",
+      "placar": "4-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Barcelona (Nathan)",
+      "p2": "Real Sociedad (Conde)",
+      "placar": "5-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Girona (Gael)",
+      "p2": "Valencia (Dexter)",
+      "placar": "1-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Girona (Gael)",
+      "p2": "Barcelona (Nathan)",
+      "placar": "5-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Sevilla (Felix)",
+      "p2": "Valencia (Dexter)",
+      "placar": "4-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Sevilla (Felix)",
+      "p2": "Real Sociedad (Conde)",
+      "placar": "3-5",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Valencia (Dexter)",
+      "p2": "Barcelona (Nathan)",
+      "placar": "2-5",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Real Sociedad (Conde)",
+      "p2": "Girona (Gael)",
+      "placar": "2-6",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Sevilla (Felix)",
+      "p2": "Barcelona (Nathan)",
+      "placar": "2-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Real Sociedad (Conde)",
+      "p2": "Valencia (Dexter)",
+      "placar": "5-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Sevilla (Felix)",
+      "p2": "Girona (Gael)",
+      "placar": "0-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Real Sociedad (Conde)",
+      "p2": "Barcelona (Nathan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Valencia (Dexter)",
+      "p2": "Girona (Gael)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Barcelona (Nathan)",
+      "p2": "Girona (Gael)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Valencia (Dexter)",
+      "p2": "Sevilla (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Barcelona (Nathan)",
+      "p2": "Valencia (Dexter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Real Sociedad (Conde)",
+      "p2": "Sevilla (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Barcelona (Nathan)",
+      "p2": "Sevilla (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Girona (Gael)",
+      "p2": "Real Sociedad (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Girona (Gael)",
+      "p2": "Sevilla (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R429(LA LIGA)10.04.2026",
+      "p1": "Valencia (Dexter)",
+      "p2": "Real Sociedad (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Manchester City (Beckham)",
+      "p2": "Real Madrid (Jason)",
+      "placar": "4-0",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Sebastian)",
+      "p2": "Bayern M. (Kristof)",
+      "placar": "2-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico Madrid (Iron)",
+      "p2": "Bayern M. (Kristof)",
+      "placar": "4-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Sebastian)",
+      "p2": "Manchester City (Beckham)",
+      "placar": "1-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico Madrid (Iron)",
+      "p2": "Real Madrid (Jason)",
+      "placar": "4-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Bayern M. (Kristof)",
+      "p2": "Manchester City (Beckham)",
+      "placar": "4-6",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico Madrid (Iron)",
+      "p2": "Manchester City (Beckham)",
+      "placar": "2-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Real Madrid (Jason)",
+      "p2": "PSG (Sebastian)",
+      "placar": "6-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico Madrid (Iron)",
+      "p2": "PSG (Sebastian)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Real Madrid (Jason)",
+      "p2": "Bayern M. (Kristof)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Bayern M. (Kristof)",
+      "p2": "PSG (Sebastian)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Real Madrid (Jason)",
+      "p2": "Manchester City (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Bayern M. (Kristof)",
+      "p2": "Atletico Madrid (Iron)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Manchester City (Beckham)",
+      "p2": "PSG (Sebastian)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Manchester City (Beckham)",
+      "p2": "Bayern M. (Kristof)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Real Madrid (Jason)",
+      "p2": "Atletico Madrid (Iron)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Manchester City (Beckham)",
+      "p2": "Atletico Madrid (Iron)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Sebastian)",
+      "p2": "Real Madrid (Jason)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Bayern M. (Kristof)",
+      "p2": "Real Madrid (Jason)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R430(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Sebastian)",
+      "p2": "Atletico Madrid (Iron)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Fiorentina (Gael)",
+      "p2": "Roma (Dexter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Milan (Nathan)",
+      "p2": "Napoli (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Fiorentina (Gael)",
+      "p2": "Milan (Nathan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Juventus (Felix)",
+      "p2": "Roma (Dexter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Juventus (Felix)",
+      "p2": "Napoli (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Roma (Dexter)",
+      "p2": "Milan (Nathan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Juventus (Felix)",
+      "p2": "Milan (Nathan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Napoli (Conde)",
+      "p2": "Fiorentina (Gael)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Juventus (Felix)",
+      "p2": "Fiorentina (Gael)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Napoli (Conde)",
+      "p2": "Roma (Dexter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Napoli (Conde)",
+      "p2": "Milan (Nathan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Roma (Dexter)",
+      "p2": "Fiorentina (Gael)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Milan (Nathan)",
+      "p2": "Fiorentina (Gael)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Roma (Dexter)",
+      "p2": "Juventus (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Milan (Nathan)",
+      "p2": "Roma (Dexter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Napoli (Conde)",
+      "p2": "Juventus (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Fiorentina (Gael)",
+      "p2": "Napoli (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Milan (Nathan)",
+      "p2": "Juventus (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Fiorentina (Gael)",
+      "p2": "Juventus (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R431(SERIA A)10.04.2026",
+      "p1": "Roma (Dexter)",
+      "p2": "Napoli (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "Italy (Beckham)",
+      "p2": "France (Jason)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "Spain (Sebastian)",
+      "p2": "Holland (Kristof)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "Argentina (Iron)",
+      "p2": "Holland (Kristof)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "Spain (Sebastian)",
+      "p2": "Italy (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "Argentina (Iron)",
+      "p2": "France (Jason)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "Holland (Kristof)",
+      "p2": "Italy (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "Argentina (Iron)",
+      "p2": "Italy (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "France (Jason)",
+      "p2": "Spain (Sebastian)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "Argentina (Iron)",
+      "p2": "Spain (Sebastian)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "France (Jason)",
+      "p2": "Holland (Kristof)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "France (Jason)",
+      "p2": "Italy (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "Holland (Kristof)",
+      "p2": "Spain (Sebastian)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "Holland (Kristof)",
+      "p2": "Argentina (Iron)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "Italy (Beckham)",
+      "p2": "Spain (Sebastian)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "France (Jason)",
+      "p2": "Argentina (Iron)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "Italy (Beckham)",
+      "p2": "Holland (Kristof)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "Italy (Beckham)",
+      "p2": "Argentina (Iron)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "Spain (Sebastian)",
+      "p2": "France (Jason)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "Holland (Kristof)",
+      "p2": "France (Jason)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R432(INTERNATIONAL)10.04.2026",
+      "p1": "Spain (Sebastian)",
+      "p2": "Argentina (Iron)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Atalanta (Flash)",
+      "p2": "Inter (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Juventus (Gabriel)",
+      "p2": "Napoli (Panther)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Atalanta (Flash)",
+      "p2": "Juventus (Gabriel)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Milan (Leonardo)",
+      "p2": "Inter (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Inter (Donatello)",
+      "p2": "Juventus (Gabriel)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Milan (Leonardo)",
+      "p2": "Napoli (Panther)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Milan (Leonardo)",
+      "p2": "Juventus (Gabriel)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Napoli (Panther)",
+      "p2": "Atalanta (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Milan (Leonardo)",
+      "p2": "Atalanta (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Napoli (Panther)",
+      "p2": "Inter (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Inter (Donatello)",
+      "p2": "Atalanta (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Napoli (Panther)",
+      "p2": "Juventus (Gabriel)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Inter (Donatello)",
+      "p2": "Milan (Leonardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Juventus (Gabriel)",
+      "p2": "Atalanta (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Juventus (Gabriel)",
+      "p2": "Inter (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Napoli (Panther)",
+      "p2": "Milan (Leonardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Atalanta (Flash)",
+      "p2": "Napoli (Panther)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Juventus (Gabriel)",
+      "p2": "Milan (Leonardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Atalanta (Flash)",
+      "p2": "Milan (Leonardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R433(SERIA A)10.04.2026",
+      "p1": "Inter (Donatello)",
+      "p2": "Napoli (Panther)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico Madrid (MisterX)",
+      "p2": "Borussia Dortmund (Logan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Liverpool (VanGogh)",
+      "p2": "Bayern M. (Arthur)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico Madrid (MisterX)",
+      "p2": "Liverpool (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Bruno)",
+      "p2": "Borussia Dortmund (Logan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Borussia Dortmund (Logan)",
+      "p2": "Liverpool (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Bruno)",
+      "p2": "Bayern M. (Arthur)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Bayern M. (Arthur)",
+      "p2": "Atletico Madrid (MisterX)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Bruno)",
+      "p2": "Liverpool (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Bayern M. (Arthur)",
+      "p2": "Borussia Dortmund (Logan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Bruno)",
+      "p2": "Atletico Madrid (MisterX)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Bayern M. (Arthur)",
+      "p2": "Liverpool (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Borussia Dortmund (Logan)",
+      "p2": "Atletico Madrid (MisterX)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Borussia Dortmund (Logan)",
+      "p2": "PSG (Bruno)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Liverpool (VanGogh)",
+      "p2": "Atletico Madrid (MisterX)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Bayern M. (Arthur)",
+      "p2": "PSG (Bruno)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Liverpool (VanGogh)",
+      "p2": "Borussia Dortmund (Logan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico Madrid (MisterX)",
+      "p2": "Bayern M. (Arthur)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Liverpool (VanGogh)",
+      "p2": "PSG (Bruno)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico Madrid (MisterX)",
+      "p2": "PSG (Bruno)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R434(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Borussia Dortmund (Logan)",
+      "p2": "Bayern M. (Arthur)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Denmark (Flash)",
+      "p2": "Holland (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Italy (Gabriel)",
+      "p2": "Argentina (Panther)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Denmark (Flash)",
+      "p2": "Italy (Gabriel)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Spain (Leonardo)",
+      "p2": "Holland (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Holland (Donatello)",
+      "p2": "Italy (Gabriel)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Spain (Leonardo)",
+      "p2": "Argentina (Panther)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Argentina (Panther)",
+      "p2": "Denmark (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Spain (Leonardo)",
+      "p2": "Italy (Gabriel)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Argentina (Panther)",
+      "p2": "Holland (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Spain (Leonardo)",
+      "p2": "Denmark (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Argentina (Panther)",
+      "p2": "Italy (Gabriel)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Holland (Donatello)",
+      "p2": "Denmark (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Holland (Donatello)",
+      "p2": "Spain (Leonardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Italy (Gabriel)",
+      "p2": "Denmark (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Argentina (Panther)",
+      "p2": "Spain (Leonardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Italy (Gabriel)",
+      "p2": "Holland (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Denmark (Flash)",
+      "p2": "Argentina (Panther)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Italy (Gabriel)",
+      "p2": "Spain (Leonardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Denmark (Flash)",
+      "p2": "Spain (Leonardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R435(INTERNATIONAL)10.04.2026",
+      "p1": "Holland (Donatello)",
+      "p2": "Argentina (Panther)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Girona (MisterX)",
+      "p2": "Valencia (Logan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Real Sociedad (VanGogh)",
+      "p2": "Sevilla (Arthur)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Barcelona (Bruno)",
+      "p2": "Valencia (Logan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Girona (MisterX)",
+      "p2": "Real Sociedad (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Barcelona (Bruno)",
+      "p2": "Sevilla (Arthur)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Valencia (Logan)",
+      "p2": "Real Sociedad (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Barcelona (Bruno)",
+      "p2": "Real Sociedad (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Sevilla (Arthur)",
+      "p2": "Girona (MisterX)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Barcelona (Bruno)",
+      "p2": "Girona (MisterX)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Sevilla (Arthur)",
+      "p2": "Valencia (Logan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Sevilla (Arthur)",
+      "p2": "Real Sociedad (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Valencia (Logan)",
+      "p2": "Girona (MisterX)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Real Sociedad (VanGogh)",
+      "p2": "Girona (MisterX)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Valencia (Logan)",
+      "p2": "Barcelona (Bruno)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Real Sociedad (VanGogh)",
+      "p2": "Valencia (Logan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Sevilla (Arthur)",
+      "p2": "Barcelona (Bruno)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Girona (MisterX)",
+      "p2": "Sevilla (Arthur)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Real Sociedad (VanGogh)",
+      "p2": "Barcelona (Bruno)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Girona (MisterX)",
+      "p2": "Barcelona (Bruno)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R436(LA LIGA)10.04.2026",
+      "p1": "Valencia (Logan)",
+      "p2": "Sevilla (Arthur)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Manchester City (Gabriel)",
+      "p2": "Atletico M. (Panther)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Flash)",
+      "p2": "Liverpool (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Bayern M. (Leonardo)",
+      "p2": "Liverpool (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Flash)",
+      "p2": "Manchester City (Gabriel)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Bayern M. (Leonardo)",
+      "p2": "Atletico M. (Panther)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Liverpool (Donatello)",
+      "p2": "Manchester City (Gabriel)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico M. (Panther)",
+      "p2": "PSG (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Bayern M. (Leonardo)",
+      "p2": "Manchester City (Gabriel)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico M. (Panther)",
+      "p2": "Liverpool (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Bayern M. (Leonardo)",
+      "p2": "PSG (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico M. (Panther)",
+      "p2": "Manchester City (Gabriel)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Liverpool (Donatello)",
+      "p2": "PSG (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Liverpool (Donatello)",
+      "p2": "Bayern M. (Leonardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Manchester City (Gabriel)",
+      "p2": "PSG (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico M. (Panther)",
+      "p2": "Bayern M. (Leonardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Manchester City (Gabriel)",
+      "p2": "Liverpool (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Manchester City (Gabriel)",
+      "p2": "Bayern M. (Leonardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Flash)",
+      "p2": "Atletico M. (Panther)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Liverpool (Donatello)",
+      "p2": "Atletico M. (Panther)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R437(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Flash)",
+      "p2": "Bayern M. (Leonardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Fiorentina (MisterX)",
+      "p2": "Lazio (Logan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Napoli (VanGogh)",
+      "p2": "Juventus (Arthur)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Fiorentina (MisterX)",
+      "p2": "Napoli (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Roma (Bruno)",
+      "p2": "Lazio (Logan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Lazio (Logan)",
+      "p2": "Napoli (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Roma (Bruno)",
+      "p2": "Juventus (Arthur)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Juventus (Arthur)",
+      "p2": "Fiorentina (MisterX)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Roma (Bruno)",
+      "p2": "Napoli (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Juventus (Arthur)",
+      "p2": "Lazio (Logan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Roma (Bruno)",
+      "p2": "Fiorentina (MisterX)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Juventus (Arthur)",
+      "p2": "Napoli (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Lazio (Logan)",
+      "p2": "Fiorentina (MisterX)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Lazio (Logan)",
+      "p2": "Roma (Bruno)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Napoli (VanGogh)",
+      "p2": "Fiorentina (MisterX)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Juventus (Arthur)",
+      "p2": "Roma (Bruno)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Napoli (VanGogh)",
+      "p2": "Lazio (Logan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Fiorentina (MisterX)",
+      "p2": "Juventus (Arthur)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Napoli (VanGogh)",
+      "p2": "Roma (Bruno)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Fiorentina (MisterX)",
+      "p2": "Roma (Bruno)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R438(SERIA A)10.04.2026",
+      "p1": "Lazio (Logan)",
+      "p2": "Juventus (Arthur)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico Madrid (Noah)",
+      "p2": "Bayern M. (Andrew)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Real Madrid (Adriano)",
+      "p2": "PSG (Cleo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Barcelona (Oliver)",
+      "p2": "PSG (Cleo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Real Madrid (Adriano)",
+      "p2": "Atletico Madrid (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Barcelona (Oliver)",
+      "p2": "Bayern M. (Andrew)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Cleo)",
+      "p2": "Atletico Madrid (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Barcelona (Oliver)",
+      "p2": "Atletico Madrid (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Bayern M. (Andrew)",
+      "p2": "Real Madrid (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Barcelona (Oliver)",
+      "p2": "Real Madrid (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Bayern M. (Andrew)",
+      "p2": "PSG (Cleo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Bayern M. (Andrew)",
+      "p2": "Atletico Madrid (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Cleo)",
+      "p2": "Real Madrid (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico Madrid (Noah)",
+      "p2": "Real Madrid (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Cleo)",
+      "p2": "Barcelona (Oliver)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico Madrid (Noah)",
+      "p2": "PSG (Cleo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Bayern M. (Andrew)",
+      "p2": "Barcelona (Oliver)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico Madrid (Noah)",
+      "p2": "Barcelona (Oliver)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Real Madrid (Adriano)",
+      "p2": "Bayern M. (Andrew)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Cleo)",
+      "p2": "Bayern M. (Andrew)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R439(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Real Madrid (Adriano)",
+      "p2": "Barcelona (Oliver)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "Denmark (Maverick)",
+      "p2": "France (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "Italy (Kai)",
+      "p2": "Holland (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "Denmark (Maverick)",
+      "p2": "Italy (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "Norway (Conde)",
+      "p2": "France (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "France (Beckham)",
+      "p2": "Italy (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "Norway (Conde)",
+      "p2": "Holland (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "Holland (Alexander)",
+      "p2": "Denmark (Maverick)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "Norway (Conde)",
+      "p2": "Italy (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "Holland (Alexander)",
+      "p2": "France (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "Norway (Conde)",
+      "p2": "Denmark (Maverick)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "France (Beckham)",
+      "p2": "Denmark (Maverick)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "Holland (Alexander)",
+      "p2": "Italy (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "France (Beckham)",
+      "p2": "Norway (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "Italy (Kai)",
+      "p2": "Denmark (Maverick)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "Holland (Alexander)",
+      "p2": "Norway (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "Italy (Kai)",
+      "p2": "France (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "Denmark (Maverick)",
+      "p2": "Holland (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "Italy (Kai)",
+      "p2": "Norway (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "Denmark (Maverick)",
+      "p2": "Norway (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R440(INTERNATIONAL)10.04.2026",
+      "p1": "France (Beckham)",
+      "p2": "Holland (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "Aston Villa (Noah)",
+      "p2": "Liverpool (Andrew)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "Newcastle U. (Adriano)",
+      "p2": "West Ham United (Cleo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "Manchester City (Oliver)",
+      "p2": "West Ham United (Cleo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "Newcastle U. (Adriano)",
+      "p2": "Aston Villa (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "Manchester City (Oliver)",
+      "p2": "Liverpool (Andrew)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "West Ham United (Cleo)",
+      "p2": "Aston Villa (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "Liverpool (Andrew)",
+      "p2": "Newcastle U. (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "Manchester City (Oliver)",
+      "p2": "Aston Villa (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "Liverpool (Andrew)",
+      "p2": "West Ham United (Cleo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "Manchester City (Oliver)",
+      "p2": "Newcastle U. (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "Liverpool (Andrew)",
+      "p2": "Aston Villa (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "West Ham United (Cleo)",
+      "p2": "Newcastle U. (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "Aston Villa (Noah)",
+      "p2": "Newcastle U. (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "West Ham United (Cleo)",
+      "p2": "Manchester City (Oliver)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "Aston Villa (Noah)",
+      "p2": "West Ham United (Cleo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "Liverpool (Andrew)",
+      "p2": "Manchester City (Oliver)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "Aston Villa (Noah)",
+      "p2": "Manchester City (Oliver)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "Newcastle U. (Adriano)",
+      "p2": "Liverpool (Andrew)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "Newcastle U. (Adriano)",
+      "p2": "Manchester City (Oliver)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R441(PREMIER LEAGUE)10.04.2026",
+      "p1": "West Ham United (Cleo)",
+      "p2": "Liverpool (Andrew)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico Madrid (Maverick)",
+      "p2": "Real Madrid (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Liverpool (Kai)",
+      "p2": "Barcelona (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico Madrid (Maverick)",
+      "p2": "Liverpool (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Conde)",
+      "p2": "Real Madrid (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Conde)",
+      "p2": "Barcelona (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Real Madrid (Beckham)",
+      "p2": "Liverpool (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Barcelona (Alexander)",
+      "p2": "Atletico Madrid (Maverick)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Conde)",
+      "p2": "Liverpool (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Barcelona (Alexander)",
+      "p2": "Real Madrid (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Conde)",
+      "p2": "Atletico Madrid (Maverick)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Barcelona (Alexander)",
+      "p2": "Liverpool (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Real Madrid (Beckham)",
+      "p2": "Atletico Madrid (Maverick)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Liverpool (Kai)",
+      "p2": "Atletico Madrid (Maverick)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Real Madrid (Beckham)",
+      "p2": "PSG (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Barcelona (Alexander)",
+      "p2": "PSG (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Liverpool (Kai)",
+      "p2": "Real Madrid (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico Madrid (Maverick)",
+      "p2": "Barcelona (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Liverpool (Kai)",
+      "p2": "PSG (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Atletico Madrid (Maverick)",
+      "p2": "PSG (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R442(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Real Madrid (Beckham)",
+      "p2": "Barcelona (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Denmark (Noah)",
+      "p2": "Portugal (Andrew)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Holland (Adriano)",
+      "p2": "Italy (Cleo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Argentina (Oliver)",
+      "p2": "Italy (Cleo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Holland (Adriano)",
+      "p2": "Denmark (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Argentina (Oliver)",
+      "p2": "Portugal (Andrew)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Italy (Cleo)",
+      "p2": "Denmark (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Argentina (Oliver)",
+      "p2": "Denmark (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Portugal (Andrew)",
+      "p2": "Holland (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Argentina (Oliver)",
+      "p2": "Holland (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Portugal (Andrew)",
+      "p2": "Italy (Cleo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Italy (Cleo)",
+      "p2": "Holland (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Portugal (Andrew)",
+      "p2": "Denmark (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Denmark (Noah)",
+      "p2": "Holland (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Italy (Cleo)",
+      "p2": "Argentina (Oliver)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Denmark (Noah)",
+      "p2": "Italy (Cleo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Portugal (Andrew)",
+      "p2": "Argentina (Oliver)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Denmark (Noah)",
+      "p2": "Argentina (Oliver)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Holland (Adriano)",
+      "p2": "Portugal (Andrew)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Holland (Adriano)",
+      "p2": "Argentina (Oliver)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R443(INTERNATIONAL)10.04.2026",
+      "p1": "Italy (Cleo)",
+      "p2": "Portugal (Andrew)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Bologna (Kai)",
+      "p2": "Lazio (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Olympiacos FC (Maverick)",
+      "p2": "Roma (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Feyenoord (Conde)",
+      "p2": "Roma (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Olympiacos FC (Maverick)",
+      "p2": "Bologna (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Feyenoord (Conde)",
+      "p2": "Lazio (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Roma (Beckham)",
+      "p2": "Bologna (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Feyenoord (Conde)",
+      "p2": "Bologna (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Lazio (Alexander)",
+      "p2": "Olympiacos FC (Maverick)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Feyenoord (Conde)",
+      "p2": "Olympiacos FC (Maverick)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Lazio (Alexander)",
+      "p2": "Roma (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Lazio (Alexander)",
+      "p2": "Bologna (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Roma (Beckham)",
+      "p2": "Olympiacos FC (Maverick)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Bologna (Kai)",
+      "p2": "Olympiacos FC (Maverick)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Roma (Beckham)",
+      "p2": "Feyenoord (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Bologna (Kai)",
+      "p2": "Roma (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Lazio (Alexander)",
+      "p2": "Feyenoord (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Bologna (Kai)",
+      "p2": "Feyenoord (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Olympiacos FC (Maverick)",
+      "p2": "Lazio (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Olympiacos FC (Maverick)",
+      "p2": "Feyenoord (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R444(EUROPA LEAGUE)010.04.2026",
+      "p1": "Roma (Beckham)",
+      "p2": "Lazio (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R445(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Liverpool (Mateo)",
+      "p2": "Bayern M. (Dexter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R445(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Manchester City (Alexis)",
+      "p2": "PSG (Gael)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R445(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Barcelona (Odin)",
+      "p2": "Bayern M. (Dexter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R445(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Liverpool (Mateo)",
+      "p2": "Manchester City (Alexis)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R445(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Barcelona (Odin)",
+      "p2": "PSG (Gael)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R445(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Bayern M. (Dexter)",
+      "p2": "Manchester City (Alexis)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R445(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "Barcelona (Odin)",
+      "p2": "Manchester City (Alexis)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R445(CHAMPIONS LEAGUE)10.04.2026",
+      "p1": "PSG (Gael)",
+      "p2": "Liverpool (Mateo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
+      "p1": "Arsenal (Kristof)",
+      "p2": "Liverpool (Eric)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
+      "p1": "Manchester City (Jason)",
+      "p2": "Newcastle U. (Sebastian)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
+      "p1": "Arsenal (Kristof)",
+      "p2": "Manchester City (Jason)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
+      "p1": "Tottenham (Iron)",
+      "p2": "Liverpool (Eric)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
+      "p1": "Liverpool (Eric)",
+      "p2": "Manchester City (Jason)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R446(PREMIER LEAGUE)10.04.2026",
+      "p1": "Tottenham (Iron)",
+      "p2": "Newcastle U. (Sebastian)",
+      "placar": "vs",
+      "status": "Agendado"
     }
   ],
   "resumo": {
-    "FC26 R409(CHAMPIONS LEAGUE)08.04.2026": {
+    "FC26 R427(CHAMPIONS LEAGUE)09.04.2026": {
       "total": 12,
       "finalizados": 12,
       "agendados": 0
     },
-    "FC26 R410(PREMIER LEAGUE)08.04.2026": {
+    "FC26 R428(COPA LIBERTADORES)09.04.2026": {
       "total": 14,
       "finalizados": 14,
       "agendados": 0
     },
-    "FC26 R411(INTERNATIONAL)09.04.2026": {
+    "FC26 R429(LA LIGA)10.04.2026": {
       "total": 20,
-      "finalizados": 20,
-      "agendados": 0
+      "finalizados": 10,
+      "agendados": 10
     },
-    "FC26 R412(CHAMPIONS LEAGUE)09.04.2026": {
+    "FC26 R430(CHAMPIONS LEAGUE)10.04.2026": {
       "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R413(COPA LIBERTADORES)09.04.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R414(INTERNATIONAL)09.04.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R415(CHAMPIONS LEAGUE)09.04.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R416(PREMIER LEAGUE)09.04.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R417(INTERNATIONAL)09.04.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R418(CHAMPIONS LEAGUE)09.04.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R419(EUROPA LEAGUE)09.04.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R420(INTERNATIONAL)09.04.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R421(PREMIER LEAGUE)09.04.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R422(CHAMPIONS LEAGUE)09.04.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R423(SERIA A)09.04.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R424(INTERNATIONAL)09.04.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R425(CHAMPIONS LEAGUE)09.04.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R426(LA LIGA)09.04.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R427(CHAMPIONS LEAGUE)09.04.2026": {
-      "total": 8,
       "finalizados": 8,
-      "agendados": 0
+      "agendados": 12
     },
-    "FC26 R428(COPA LIBERTADORES)09.04.2026": {
+    "FC26 R431(SERIA A)10.04.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R432(INTERNATIONAL)10.04.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R433(SERIA A)10.04.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R434(CHAMPIONS LEAGUE)10.04.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R435(INTERNATIONAL)10.04.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R436(LA LIGA)10.04.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R437(CHAMPIONS LEAGUE)10.04.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R438(SERIA A)10.04.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R439(CHAMPIONS LEAGUE)10.04.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R440(INTERNATIONAL)10.04.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R441(PREMIER LEAGUE)10.04.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R442(CHAMPIONS LEAGUE)10.04.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R443(INTERNATIONAL)10.04.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R444(EUROPA LEAGUE)010.04.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R445(CHAMPIONS LEAGUE)10.04.2026": {
+      "total": 8,
+      "finalizados": 0,
+      "agendados": 8
+    },
+    "FC26 R446(PREMIER LEAGUE)10.04.2026": {
       "total": 6,
-      "finalizados": 6,
-      "agendados": 0
+      "finalizados": 0,
+      "agendados": 6
     }
   },
   "classificacao": {
-    "FC26 R409(CHAMPIONS LEAGUE)08.04.2026": [
-      {
-        "nome": "Bayern M. (Dexter)",
-        "Pts": 10,
-        "J": 5,
-        "V": 3,
-        "E": 1,
-        "D": 1,
-        "GP": 13,
-        "GC": 10,
-        "SG": 3,
-        "pos": 1
-      },
-      {
-        "nome": "Atletico Madrid (Odin)",
-        "Pts": 9,
-        "J": 4,
-        "V": 3,
-        "E": 0,
-        "D": 1,
-        "GP": 9,
-        "GC": 7,
-        "SG": 2,
-        "pos": 2
-      },
-      {
-        "nome": "PSG (Eduardo)",
-        "Pts": 7,
-        "J": 5,
-        "V": 2,
-        "E": 1,
-        "D": 2,
-        "GP": 13,
-        "GC": 11,
-        "SG": 2,
-        "pos": 3
-      },
-      {
-        "nome": "Real Madrid (Mateo)",
-        "Pts": 6,
-        "J": 5,
-        "V": 2,
-        "E": 0,
-        "D": 3,
-        "GP": 13,
-        "GC": 14,
-        "SG": -1,
-        "pos": 4
-      },
-      {
-        "nome": "Liverpool (Gael)",
-        "Pts": 3,
-        "J": 5,
-        "V": 1,
-        "E": 0,
-        "D": 4,
-        "GP": 7,
-        "GC": 13,
-        "SG": -6,
-        "pos": 5
-      }
-    ],
-    "FC26 R410(PREMIER LEAGUE)08.04.2026": [
-      {
-        "nome": "Arsenal (Eric)",
-        "Pts": 12,
-        "J": 6,
-        "V": 4,
-        "E": 0,
-        "D": 2,
-        "GP": 17,
-        "GC": 12,
-        "SG": 5,
-        "pos": 1
-      },
-      {
-        "nome": "Newcastle (Iron)",
-        "Pts": 10,
-        "J": 6,
-        "V": 3,
-        "E": 1,
-        "D": 2,
-        "GP": 13,
-        "GC": 12,
-        "SG": 1,
-        "pos": 2
-      },
-      {
-        "nome": "Liverpool (Nathan)",
-        "Pts": 7,
-        "J": 5,
-        "V": 2,
-        "E": 1,
-        "D": 2,
-        "GP": 15,
-        "GC": 15,
-        "SG": 0,
-        "pos": 3
-      },
-      {
-        "nome": "Tottenham (Beckham)",
-        "Pts": 6,
-        "J": 6,
-        "V": 2,
-        "E": 0,
-        "D": 4,
-        "GP": 12,
-        "GC": 14,
-        "SG": -2,
-        "pos": 4
-      },
-      {
-        "nome": "Manchester City (Sebastian)",
-        "Pts": 6,
-        "J": 5,
-        "V": 2,
-        "E": 0,
-        "D": 3,
-        "GP": 10,
-        "GC": 14,
-        "SG": -4,
-        "pos": 5
-      }
-    ],
-    "FC26 R411(INTERNATIONAL)09.04.2026": [
-      {
-        "nome": "Italy (Eduardo)",
-        "Pts": 15,
-        "J": 8,
-        "V": 5,
-        "E": 0,
-        "D": 3,
-        "GP": 20,
-        "GC": 17,
-        "SG": 3,
-        "pos": 1
-      },
-      {
-        "nome": "France (Dexter)",
-        "Pts": 13,
-        "J": 8,
-        "V": 4,
-        "E": 1,
-        "D": 3,
-        "GP": 21,
-        "GC": 19,
-        "SG": 2,
-        "pos": 2
-      },
-      {
-        "nome": "Argentina (Odin)",
-        "Pts": 12,
-        "J": 8,
-        "V": 4,
-        "E": 0,
-        "D": 4,
-        "GP": 17,
-        "GC": 17,
-        "SG": 0,
-        "pos": 3
-      },
-      {
-        "nome": "Holland (Mateo)",
-        "Pts": 10,
-        "J": 8,
-        "V": 3,
-        "E": 1,
-        "D": 4,
-        "GP": 24,
-        "GC": 27,
-        "SG": -3,
-        "pos": 4
-      },
-      {
-        "nome": "Portugal (Gael)",
-        "Pts": 9,
-        "J": 8,
-        "V": 3,
-        "E": 0,
-        "D": 5,
-        "GP": 18,
-        "GC": 20,
-        "SG": -2,
-        "pos": 5
-      }
-    ],
-    "FC26 R412(CHAMPIONS LEAGUE)09.04.2026": [
-      {
-        "nome": "Real Madrid (Eric)",
-        "Pts": 16,
-        "J": 8,
-        "V": 5,
-        "E": 1,
-        "D": 2,
-        "GP": 21,
-        "GC": 16,
-        "SG": 5,
-        "pos": 1
-      },
-      {
-        "nome": "Liverpool (Beckham)",
-        "Pts": 12,
-        "J": 8,
-        "V": 4,
-        "E": 0,
-        "D": 4,
-        "GP": 25,
-        "GC": 24,
-        "SG": 1,
-        "pos": 2
-      },
-      {
-        "nome": "Bayern M. (Sebastian)",
-        "Pts": 12,
-        "J": 8,
-        "V": 4,
-        "E": 0,
-        "D": 4,
-        "GP": 26,
-        "GC": 30,
-        "SG": -4,
-        "pos": 3
-      },
-      {
-        "nome": "Manchester City (Iron)",
-        "Pts": 10,
-        "J": 8,
-        "V": 3,
-        "E": 1,
-        "D": 4,
-        "GP": 24,
-        "GC": 21,
-        "SG": 3,
-        "pos": 4
-      },
-      {
-        "nome": "PSG (Nathan)",
-        "Pts": 9,
-        "J": 8,
-        "V": 3,
-        "E": 0,
-        "D": 5,
-        "GP": 19,
-        "GC": 24,
-        "SG": -5,
-        "pos": 5
-      }
-    ],
-    "FC26 R413(COPA LIBERTADORES)09.04.2026": [
-      {
-        "nome": "Bolivar (Eduardo)",
-        "Pts": 14,
-        "J": 8,
-        "V": 4,
-        "E": 2,
-        "D": 2,
-        "GP": 22,
-        "GC": 18,
-        "SG": 4,
-        "pos": 1
-      },
-      {
-        "nome": "River Plate (Odin)",
-        "Pts": 13,
-        "J": 8,
-        "V": 4,
-        "E": 1,
-        "D": 3,
-        "GP": 22,
-        "GC": 19,
-        "SG": 3,
-        "pos": 2
-      },
-      {
-        "nome": "Sao Paulo (Mateo)",
-        "Pts": 11,
-        "J": 8,
-        "V": 3,
-        "E": 2,
-        "D": 3,
-        "GP": 27,
-        "GC": 28,
-        "SG": -1,
-        "pos": 3
-      },
-      {
-        "nome": "Flamengo (Gael)",
-        "Pts": 11,
-        "J": 8,
-        "V": 3,
-        "E": 2,
-        "D": 3,
-        "GP": 23,
-        "GC": 24,
-        "SG": -1,
-        "pos": 4
-      },
-      {
-        "nome": "Penarol (Dexter)",
-        "Pts": 6,
-        "J": 8,
-        "V": 1,
-        "E": 3,
-        "D": 4,
-        "GP": 16,
-        "GC": 21,
-        "SG": -5,
-        "pos": 5
-      }
-    ],
-    "FC26 R414(INTERNATIONAL)09.04.2026": [
-      {
-        "nome": "France (Nathan)",
-        "Pts": 15,
-        "J": 8,
-        "V": 5,
-        "E": 0,
-        "D": 3,
-        "GP": 32,
-        "GC": 30,
-        "SG": 2,
-        "pos": 1
-      },
-      {
-        "nome": "Argentina (Beckham)",
-        "Pts": 13,
-        "J": 8,
-        "V": 4,
-        "E": 1,
-        "D": 3,
-        "GP": 36,
-        "GC": 35,
-        "SG": 1,
-        "pos": 2
-      },
-      {
-        "nome": "Spain (Iron)",
-        "Pts": 12,
-        "J": 8,
-        "V": 4,
-        "E": 0,
-        "D": 4,
-        "GP": 20,
-        "GC": 22,
-        "SG": -2,
-        "pos": 3
-      },
-      {
-        "nome": "Portugal (Sebastian)",
-        "Pts": 10,
-        "J": 8,
-        "V": 3,
-        "E": 1,
-        "D": 4,
-        "GP": 28,
-        "GC": 32,
-        "SG": -4,
-        "pos": 4
-      },
-      {
-        "nome": "Holland (Eric)",
-        "Pts": 9,
-        "J": 8,
-        "V": 3,
-        "E": 0,
-        "D": 5,
-        "GP": 29,
-        "GC": 26,
-        "SG": 3,
-        "pos": 5
-      }
-    ],
-    "FC26 R415(CHAMPIONS LEAGUE)09.04.2026": [
-      {
-        "nome": "PSG (Gabriel)",
-        "Pts": 17,
-        "J": 7,
-        "V": 5,
-        "E": 2,
-        "D": 0,
-        "GP": 23,
-        "GC": 13,
-        "SG": 10,
-        "pos": 1
-      },
-      {
-        "nome": "Borussia Dortmund (Panther)",
-        "Pts": 11,
-        "J": 6,
-        "V": 3,
-        "E": 2,
-        "D": 1,
-        "GP": 22,
-        "GC": 14,
-        "SG": 8,
-        "pos": 2
-      },
-      {
-        "nome": "Bayer Leverkusen (Matrix)",
-        "Pts": 11,
-        "J": 7,
-        "V": 3,
-        "E": 2,
-        "D": 2,
-        "GP": 24,
-        "GC": 19,
-        "SG": 5,
-        "pos": 3
-      },
-      {
-        "nome": "Real Madrid (Bruno)",
-        "Pts": 8,
-        "J": 8,
-        "V": 2,
-        "E": 2,
-        "D": 4,
-        "GP": 19,
-        "GC": 21,
-        "SG": -2,
-        "pos": 4
-      },
-      {
-        "nome": "Bayern M. (Logan)",
-        "Pts": 3,
-        "J": 8,
-        "V": 1,
-        "E": 0,
-        "D": 7,
-        "GP": 12,
-        "GC": 33,
-        "SG": -21,
-        "pos": 5
-      }
-    ],
-    "FC26 R416(PREMIER LEAGUE)09.04.2026": [
-      {
-        "nome": "Tottenham (Oliver)",
-        "Pts": 16,
-        "J": 8,
-        "V": 5,
-        "E": 1,
-        "D": 2,
-        "GP": 34,
-        "GC": 30,
-        "SG": 4,
-        "pos": 1
-      },
-      {
-        "nome": "Newcastle U. (Leonardo)",
-        "Pts": 13,
-        "J": 8,
-        "V": 3,
-        "E": 4,
-        "D": 1,
-        "GP": 32,
-        "GC": 23,
-        "SG": 9,
-        "pos": 2
-      },
-      {
-        "nome": "Manchester City (Arthur)",
-        "Pts": 10,
-        "J": 8,
-        "V": 3,
-        "E": 1,
-        "D": 4,
-        "GP": 32,
-        "GC": 31,
-        "SG": 1,
-        "pos": 3
-      },
-      {
-        "nome": "Aston Villa (Liam)",
-        "Pts": 9,
-        "J": 8,
-        "V": 2,
-        "E": 3,
-        "D": 3,
-        "GP": 23,
-        "GC": 25,
-        "SG": -2,
-        "pos": 4
-      },
-      {
-        "nome": "West Ham United (Maverick)",
-        "Pts": 7,
-        "J": 8,
-        "V": 2,
-        "E": 1,
-        "D": 5,
-        "GP": 31,
-        "GC": 43,
-        "SG": -12,
-        "pos": 5
-      }
-    ],
-    "FC26 R417(INTERNATIONAL)09.04.2026": [
-      {
-        "nome": "Norway (Gabriel)",
-        "Pts": 14,
-        "J": 8,
-        "V": 4,
-        "E": 2,
-        "D": 2,
-        "GP": 26,
-        "GC": 23,
-        "SG": 3,
-        "pos": 1
-      },
-      {
-        "nome": "Ghana (Panther)",
-        "Pts": 13,
-        "J": 8,
-        "V": 4,
-        "E": 1,
-        "D": 3,
-        "GP": 29,
-        "GC": 23,
-        "SG": 6,
-        "pos": 2
-      },
-      {
-        "nome": "France (Bruno)",
-        "Pts": 12,
-        "J": 8,
-        "V": 3,
-        "E": 3,
-        "D": 2,
-        "GP": 30,
-        "GC": 27,
-        "SG": 3,
-        "pos": 3
-      },
-      {
-        "nome": "Morocco (Matrix)",
-        "Pts": 12,
-        "J": 8,
-        "V": 3,
-        "E": 3,
-        "D": 2,
-        "GP": 23,
-        "GC": 21,
-        "SG": 2,
-        "pos": 4
-      },
-      {
-        "nome": "Holland (Logan)",
-        "Pts": 4,
-        "J": 8,
-        "V": 1,
-        "E": 1,
-        "D": 6,
-        "GP": 18,
-        "GC": 32,
-        "SG": -14,
-        "pos": 5
-      }
-    ],
-    "FC26 R418(CHAMPIONS LEAGUE)09.04.2026": [
-      {
-        "nome": "Barcelona (Maverick)",
-        "Pts": 18,
-        "J": 8,
-        "V": 6,
-        "E": 0,
-        "D": 2,
-        "GP": 34,
-        "GC": 20,
-        "SG": 14,
-        "pos": 1
-      },
-      {
-        "nome": "PSG (Oliver)",
-        "Pts": 18,
-        "J": 8,
-        "V": 6,
-        "E": 0,
-        "D": 2,
-        "GP": 42,
-        "GC": 32,
-        "SG": 10,
-        "pos": 2
-      },
-      {
-        "nome": "Real Madrid (Arthur)",
-        "Pts": 13,
-        "J": 8,
-        "V": 4,
-        "E": 1,
-        "D": 3,
-        "GP": 34,
-        "GC": 30,
-        "SG": 4,
-        "pos": 3
-      },
-      {
-        "nome": "Manchester City (Leonardo)",
-        "Pts": 8,
-        "J": 8,
-        "V": 2,
-        "E": 2,
-        "D": 4,
-        "GP": 29,
-        "GC": 39,
-        "SG": -10,
-        "pos": 4
-      },
-      {
-        "nome": "Atletico Madrid (Liam)",
-        "Pts": 1,
-        "J": 8,
-        "V": 0,
-        "E": 1,
-        "D": 7,
-        "GP": 18,
-        "GC": 36,
-        "SG": -18,
-        "pos": 5
-      }
-    ],
-    "FC26 R419(EUROPA LEAGUE)09.04.2026": [
-      {
-        "nome": "Olympiacos FC (Panther)",
-        "Pts": 19,
-        "J": 8,
-        "V": 6,
-        "E": 1,
-        "D": 1,
-        "GP": 28,
-        "GC": 19,
-        "SG": 9,
-        "pos": 1
-      },
-      {
-        "nome": "Feyenoord (Gabriel)",
-        "Pts": 15,
-        "J": 8,
-        "V": 5,
-        "E": 0,
-        "D": 3,
-        "GP": 31,
-        "GC": 26,
-        "SG": 5,
-        "pos": 2
-      },
-      {
-        "nome": "Bologna (Matrix)",
-        "Pts": 11,
-        "J": 8,
-        "V": 3,
-        "E": 2,
-        "D": 3,
-        "GP": 29,
-        "GC": 27,
-        "SG": 2,
-        "pos": 3
-      },
-      {
-        "nome": "Lazio (Bruno)",
-        "Pts": 9,
-        "J": 8,
-        "V": 3,
-        "E": 0,
-        "D": 5,
-        "GP": 19,
-        "GC": 24,
-        "SG": -5,
-        "pos": 4
-      },
-      {
-        "nome": "Roma (Logan)",
-        "Pts": 4,
-        "J": 8,
-        "V": 1,
-        "E": 1,
-        "D": 6,
-        "GP": 16,
-        "GC": 27,
-        "SG": -11,
-        "pos": 5
-      }
-    ],
-    "FC26 R420(INTERNATIONAL)09.04.2026": [
-      {
-        "nome": "Denmark (Oliver)",
-        "Pts": 15,
-        "J": 8,
-        "V": 5,
-        "E": 0,
-        "D": 3,
-        "GP": 41,
-        "GC": 37,
-        "SG": 4,
-        "pos": 1
-      },
-      {
-        "nome": "Argentina (Leonardo)",
-        "Pts": 14,
-        "J": 8,
-        "V": 4,
-        "E": 2,
-        "D": 2,
-        "GP": 39,
-        "GC": 34,
-        "SG": 5,
-        "pos": 2
-      },
-      {
-        "nome": "Italy (Maverick)",
-        "Pts": 13,
-        "J": 8,
-        "V": 4,
-        "E": 1,
-        "D": 3,
-        "GP": 34,
-        "GC": 26,
-        "SG": 8,
-        "pos": 3
-      },
-      {
-        "nome": "Holland (Arthur)",
-        "Pts": 10,
-        "J": 8,
-        "V": 3,
-        "E": 1,
-        "D": 4,
-        "GP": 28,
-        "GC": 36,
-        "SG": -8,
-        "pos": 4
-      },
-      {
-        "nome": "Portugal (Liam)",
-        "Pts": 6,
-        "J": 8,
-        "V": 2,
-        "E": 0,
-        "D": 6,
-        "GP": 25,
-        "GC": 34,
-        "SG": -9,
-        "pos": 5
-      }
-    ],
-    "FC26 R421(PREMIER LEAGUE)09.04.2026": [
-      {
-        "nome": "Chelsea (Alexis)",
-        "Pts": 14,
-        "J": 8,
-        "V": 4,
-        "E": 2,
-        "D": 2,
-        "GP": 27,
-        "GC": 17,
-        "SG": 10,
-        "pos": 1
-      },
-      {
-        "nome": "Manchester City (Adriano)",
-        "Pts": 14,
-        "J": 8,
-        "V": 4,
-        "E": 2,
-        "D": 2,
-        "GP": 24,
-        "GC": 21,
-        "SG": 3,
-        "pos": 2
-      },
-      {
-        "nome": "Arsenal (Donatello)",
-        "Pts": 13,
-        "J": 8,
-        "V": 4,
-        "E": 1,
-        "D": 3,
-        "GP": 23,
-        "GC": 24,
-        "SG": -1,
-        "pos": 3
-      },
-      {
-        "nome": "Newcastle U. (Cleo)",
-        "Pts": 7,
-        "J": 8,
-        "V": 1,
-        "E": 4,
-        "D": 3,
-        "GP": 17,
-        "GC": 22,
-        "SG": -5,
-        "pos": 4
-      },
-      {
-        "nome": "Tottenham (Noah)",
-        "Pts": 6,
-        "J": 8,
-        "V": 1,
-        "E": 3,
-        "D": 4,
-        "GP": 21,
-        "GC": 28,
-        "SG": -7,
-        "pos": 5
-      }
-    ],
-    "FC26 R422(CHAMPIONS LEAGUE)09.04.2026": [
-      {
-        "nome": "Bayern M (Popeye)",
-        "Pts": 17,
-        "J": 8,
-        "V": 5,
-        "E": 2,
-        "D": 1,
-        "GP": 33,
-        "GC": 21,
-        "SG": 12,
-        "pos": 1
-      },
-      {
-        "nome": "Atletico Madrid (Andrew)",
-        "Pts": 13,
-        "J": 8,
-        "V": 3,
-        "E": 4,
-        "D": 1,
-        "GP": 30,
-        "GC": 25,
-        "SG": 5,
-        "pos": 2
-      },
-      {
-        "nome": "PSG (MisterX)",
-        "Pts": 11,
-        "J": 8,
-        "V": 3,
-        "E": 2,
-        "D": 3,
-        "GP": 28,
-        "GC": 27,
-        "SG": 1,
-        "pos": 3
-      },
-      {
-        "nome": "Manchester City (VanGogh)",
-        "Pts": 8,
-        "J": 8,
-        "V": 2,
-        "E": 2,
-        "D": 4,
-        "GP": 23,
-        "GC": 31,
-        "SG": -8,
-        "pos": 4
-      },
-      {
-        "nome": "Liverpool (Pascal)",
-        "Pts": 4,
-        "J": 8,
-        "V": 0,
-        "E": 4,
-        "D": 4,
-        "GP": 22,
-        "GC": 32,
-        "SG": -10,
-        "pos": 5
-      }
-    ],
-    "FC26 R423(SERIA A)09.04.2026": [
-      {
-        "nome": "Atalanta Bergamo (Alexis)",
-        "Pts": 16,
-        "J": 8,
-        "V": 5,
-        "E": 1,
-        "D": 2,
-        "GP": 34,
-        "GC": 26,
-        "SG": 8,
-        "pos": 1
-      },
-      {
-        "nome": "Inter (Donatello)",
-        "Pts": 13,
-        "J": 8,
-        "V": 4,
-        "E": 1,
-        "D": 3,
-        "GP": 23,
-        "GC": 22,
-        "SG": 1,
-        "pos": 2
-      },
-      {
-        "nome": "Milan (Noah)",
-        "Pts": 12,
-        "J": 8,
-        "V": 4,
-        "E": 0,
-        "D": 4,
-        "GP": 19,
-        "GC": 24,
-        "SG": -5,
-        "pos": 3
-      },
-      {
-        "nome": "Juventus (Adriano)",
-        "Pts": 10,
-        "J": 8,
-        "V": 3,
-        "E": 1,
-        "D": 4,
-        "GP": 28,
-        "GC": 26,
-        "SG": 2,
-        "pos": 4
-      },
-      {
-        "nome": "Napoli (Cleo)",
-        "Pts": 7,
-        "J": 8,
-        "V": 2,
-        "E": 1,
-        "D": 5,
-        "GP": 15,
-        "GC": 21,
-        "SG": -6,
-        "pos": 5
-      }
-    ],
-    "FC26 R424(INTERNATIONAL)09.04.2026": [
-      {
-        "nome": "Portugal (Andrew)",
-        "Pts": 19,
-        "J": 8,
-        "V": 6,
-        "E": 1,
-        "D": 1,
-        "GP": 36,
-        "GC": 22,
-        "SG": 14,
-        "pos": 1
-      },
-      {
-        "nome": "Denmark (Popeye)",
-        "Pts": 13,
-        "J": 8,
-        "V": 4,
-        "E": 1,
-        "D": 3,
-        "GP": 25,
-        "GC": 23,
-        "SG": 2,
-        "pos": 2
-      },
-      {
-        "nome": "Italy (Pascal)",
-        "Pts": 9,
-        "J": 8,
-        "V": 2,
-        "E": 3,
-        "D": 3,
-        "GP": 27,
-        "GC": 30,
-        "SG": -3,
-        "pos": 3
-      },
-      {
-        "nome": "Holland (MisterX)",
-        "Pts": 8,
-        "J": 8,
-        "V": 2,
-        "E": 2,
-        "D": 4,
-        "GP": 22,
-        "GC": 26,
-        "SG": -4,
-        "pos": 4
-      },
-      {
-        "nome": "Argentina (VanGogh)",
-        "Pts": 7,
-        "J": 8,
-        "V": 2,
-        "E": 1,
-        "D": 5,
-        "GP": 22,
-        "GC": 31,
-        "SG": -9,
-        "pos": 5
-      }
-    ],
-    "FC26 R425(CHAMPIONS LEAGUE)09.04.2026": [
-      {
-        "nome": "Barcelona (Alexis)",
-        "Pts": 19,
-        "J": 8,
-        "V": 6,
-        "E": 1,
-        "D": 1,
-        "GP": 39,
-        "GC": 17,
-        "SG": 22,
-        "pos": 1
-      },
-      {
-        "nome": "Real Madrid (Adriano)",
-        "Pts": 16,
-        "J": 8,
-        "V": 5,
-        "E": 1,
-        "D": 2,
-        "GP": 27,
-        "GC": 22,
-        "SG": 5,
-        "pos": 2
-      },
-      {
-        "nome": "Bayern M. (Cleo)",
-        "Pts": 12,
-        "J": 8,
-        "V": 3,
-        "E": 3,
-        "D": 2,
-        "GP": 22,
-        "GC": 19,
-        "SG": 3,
-        "pos": 3
-      },
-      {
-        "nome": "PSG (Noah)",
-        "Pts": 8,
-        "J": 8,
-        "V": 2,
-        "E": 2,
-        "D": 4,
-        "GP": 24,
-        "GC": 32,
-        "SG": -8,
-        "pos": 4
-      },
-      {
-        "nome": "Liverpool (Donatello)",
-        "Pts": 1,
-        "J": 8,
-        "V": 0,
-        "E": 1,
-        "D": 7,
-        "GP": 15,
-        "GC": 37,
-        "SG": -22,
-        "pos": 5
-      }
-    ],
-    "FC26 R426(LA LIGA)09.04.2026": [
-      {
-        "nome": "Real Madrid (Pascal)",
-        "Pts": 19,
-        "J": 8,
-        "V": 6,
-        "E": 1,
-        "D": 1,
-        "GP": 33,
-        "GC": 22,
-        "SG": 11,
-        "pos": 1
-      },
-      {
-        "nome": "Villarreal (Andrew)",
-        "Pts": 14,
-        "J": 8,
-        "V": 4,
-        "E": 2,
-        "D": 2,
-        "GP": 37,
-        "GC": 32,
-        "SG": 5,
-        "pos": 2
-      },
-      {
-        "nome": "Barcelona (VanGogh)",
-        "Pts": 13,
-        "J": 8,
-        "V": 4,
-        "E": 1,
-        "D": 3,
-        "GP": 28,
-        "GC": 25,
-        "SG": 3,
-        "pos": 3
-      },
-      {
-        "nome": "Sevilla (Popeye)",
-        "Pts": 5,
-        "J": 8,
-        "V": 1,
-        "E": 2,
-        "D": 5,
-        "GP": 31,
-        "GC": 37,
-        "SG": -6,
-        "pos": 4
-      },
-      {
-        "nome": "Real Sociedad (MisterX)",
-        "Pts": 5,
-        "J": 8,
-        "V": 1,
-        "E": 2,
-        "D": 5,
-        "GP": 18,
-        "GC": 31,
-        "SG": -13,
-        "pos": 5
-      }
-    ],
     "FC26 R427(CHAMPIONS LEAGUE)09.04.2026": [
+      {
+        "nome": "Bayer Leverkusen (Gael)",
+        "Pts": 13,
+        "J": 5,
+        "V": 4,
+        "E": 1,
+        "D": 0,
+        "GP": 27,
+        "GC": 20,
+        "SG": 7,
+        "pos": 1
+      },
+      {
+        "nome": "Liverpool (Conde)",
+        "Pts": 6,
+        "J": 5,
+        "V": 2,
+        "E": 0,
+        "D": 3,
+        "GP": 15,
+        "GC": 17,
+        "SG": -2,
+        "pos": 2
+      },
       {
         "nome": "Borussia Dortmund (Dexter)",
         "Pts": 6,
-        "J": 3,
+        "J": 5,
         "V": 2,
         "E": 0,
-        "D": 1,
-        "GP": 9,
-        "GC": 8,
-        "SG": 1,
-        "pos": 1
+        "D": 3,
+        "GP": 13,
+        "GC": 17,
+        "SG": -4,
+        "pos": 3
+      },
+      {
+        "nome": "Bayern M. (Felix)",
+        "Pts": 5,
+        "J": 5,
+        "V": 1,
+        "E": 2,
+        "D": 2,
+        "GP": 18,
+        "GC": 18,
+        "SG": 0,
+        "pos": 4
       },
       {
         "nome": "Real Madrid (Nathan)",
@@ -3767,25 +2687,151 @@
         "V": 1,
         "E": 1,
         "D": 2,
-        "GP": 11,
-        "GC": 10,
-        "SG": 1,
+        "GP": 17,
+        "GC": 18,
+        "SG": -1,
+        "pos": 5
+      }
+    ],
+    "FC26 R428(COPA LIBERTADORES)09.04.2026": [
+      {
+        "nome": "Bolivar (Kristof)",
+        "Pts": 9,
+        "J": 5,
+        "V": 3,
+        "E": 0,
+        "D": 2,
+        "GP": 20,
+        "GC": 14,
+        "SG": 6,
+        "pos": 1
+      },
+      {
+        "nome": "Penarol (Beckham)",
+        "Pts": 9,
+        "J": 5,
+        "V": 3,
+        "E": 0,
+        "D": 2,
+        "GP": 20,
+        "GC": 15,
+        "SG": 5,
         "pos": 2
       },
       {
-        "nome": "Bayern M. (Felix)",
-        "Pts": 4,
-        "J": 3,
-        "V": 1,
-        "E": 1,
-        "D": 1,
-        "GP": 6,
-        "GC": 5,
-        "SG": 1,
+        "nome": "Sao Paulo (Jason)",
+        "Pts": 9,
+        "J": 6,
+        "V": 3,
+        "E": 0,
+        "D": 3,
+        "GP": 22,
+        "GC": 20,
+        "SG": 2,
         "pos": 3
       },
       {
-        "nome": "Bayer Leverkusen (Gael)",
+        "nome": "River Plate (Iron)",
+        "Pts": 9,
+        "J": 6,
+        "V": 3,
+        "E": 0,
+        "D": 3,
+        "GP": 16,
+        "GC": 22,
+        "SG": -6,
+        "pos": 4
+      },
+      {
+        "nome": "Flamengo (Sebastian)",
+        "Pts": 6,
+        "J": 6,
+        "V": 2,
+        "E": 0,
+        "D": 4,
+        "GP": 13,
+        "GC": 20,
+        "SG": -7,
+        "pos": 5
+      }
+    ],
+    "FC26 R429(LA LIGA)10.04.2026": [
+      {
+        "nome": "Girona (Gael)",
+        "Pts": 9,
+        "J": 4,
+        "V": 3,
+        "E": 0,
+        "D": 1,
+        "GP": 16,
+        "GC": 7,
+        "SG": 9,
+        "pos": 1
+      },
+      {
+        "nome": "Barcelona (Nathan)",
+        "Pts": 9,
+        "J": 4,
+        "V": 3,
+        "E": 0,
+        "D": 1,
+        "GP": 16,
+        "GC": 13,
+        "SG": 3,
+        "pos": 2
+      },
+      {
+        "nome": "Real Sociedad (Conde)",
+        "Pts": 6,
+        "J": 4,
+        "V": 2,
+        "E": 0,
+        "D": 2,
+        "GP": 16,
+        "GC": 17,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Sevilla (Felix)",
+        "Pts": 3,
+        "J": 4,
+        "V": 1,
+        "E": 0,
+        "D": 3,
+        "GP": 9,
+        "GC": 14,
+        "SG": -5,
+        "pos": 4
+      },
+      {
+        "nome": "Valencia (Dexter)",
+        "Pts": 3,
+        "J": 4,
+        "V": 1,
+        "E": 0,
+        "D": 3,
+        "GP": 9,
+        "GC": 15,
+        "SG": -6,
+        "pos": 5
+      }
+    ],
+    "FC26 R430(CHAMPIONS LEAGUE)10.04.2026": [
+      {
+        "nome": "Manchester City (Beckham)",
+        "Pts": 12,
+        "J": 4,
+        "V": 4,
+        "E": 0,
+        "D": 0,
+        "GP": 17,
+        "GC": 7,
+        "SG": 10,
+        "pos": 1
+      },
+      {
+        "nome": "Bayern M. (Kristof)",
         "Pts": 4,
         "J": 3,
         "V": 1,
@@ -3794,80 +2840,42 @@
         "GP": 11,
         "GC": 12,
         "SG": -1,
-        "pos": 4
-      },
-      {
-        "nome": "Liverpool (Conde)",
-        "Pts": 4,
-        "J": 3,
-        "V": 1,
-        "E": 1,
-        "D": 1,
-        "GP": 7,
-        "GC": 9,
-        "SG": -2,
-        "pos": 5
-      }
-    ],
-    "FC26 R428(COPA LIBERTADORES)09.04.2026": [
-      {
-        "nome": "Penarol (Beckham)",
-        "Pts": 9,
-        "J": 3,
-        "V": 3,
-        "E": 0,
-        "D": 0,
-        "GP": 14,
-        "GC": 2,
-        "SG": 12,
-        "pos": 1
-      },
-      {
-        "nome": "Bolivar (Kristof)",
-        "Pts": 4,
-        "J": 3,
-        "V": 1,
-        "E": 1,
-        "D": 1,
-        "GP": 8,
-        "GC": 11,
-        "SG": -3,
         "pos": 2
       },
       {
-        "nome": "River Plate (Iron)",
-        "Pts": 3,
-        "J": 2,
+        "nome": "Atletico Madrid (Iron)",
+        "Pts": 4,
+        "J": 3,
         "V": 1,
-        "E": 0,
+        "E": 1,
         "D": 1,
-        "GP": 8,
-        "GC": 7,
-        "SG": 1,
+        "GP": 10,
+        "GC": 11,
+        "SG": -1,
         "pos": 3
       },
       {
-        "nome": "Flamengo (Sebastian)",
-        "Pts": 1,
-        "J": 2,
-        "V": 0,
-        "E": 1,
-        "D": 1,
-        "GP": 2,
-        "GC": 6,
-        "SG": -4,
+        "nome": "Real Madrid (Jason)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 9,
+        "GC": 10,
+        "SG": -1,
         "pos": 4
       },
       {
-        "nome": "Sao Paulo (Jason)",
+        "nome": "PSG (Sebastian)",
         "Pts": 0,
-        "J": 2,
+        "J": 3,
         "V": 0,
         "E": 0,
-        "D": 2,
-        "GP": 3,
-        "GC": 9,
-        "SG": -6,
+        "D": 3,
+        "GP": 5,
+        "GC": 12,
+        "SG": -7,
         "pos": 5
       }
     ]
