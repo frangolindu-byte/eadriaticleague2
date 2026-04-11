@@ -1,9 +1,9 @@
 {
-  "updated_at": "11/04/2026 19:11:01",
+  "updated_at": "11/04/2026 19:50:28",
   "summary": {
     "total": 300,
-    "finalizados": 272,
-    "agendados": 28,
+    "finalizados": 278,
+    "agendados": 22,
     "ligas": 17
   },
   "jogos": [
@@ -1915,43 +1915,43 @@
       "liga": "FC26 R459(SERIA A)11.04.2026",
       "p1": "Fiorentina (Adriano)",
       "p2": "Napoli (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R459(SERIA A)11.04.2026",
       "p1": "Roma (Pascal)",
       "p2": "Lazio (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R459(SERIA A)11.04.2026",
       "p1": "Fiorentina (Adriano)",
       "p2": "Juventus (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R459(SERIA A)11.04.2026",
       "p1": "Roma (Pascal)",
       "p2": "Napoli (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R459(SERIA A)11.04.2026",
       "p1": "Fiorentina (Adriano)",
       "p2": "Lazio (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R459(SERIA A)11.04.2026",
       "p1": "Juventus (Haidan)",
       "p2": "Napoli (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R459(SERIA A)11.04.2026",
@@ -2181,8 +2181,8 @@
     },
     "FC26 R459(SERIA A)11.04.2026": {
       "total": 20,
-      "finalizados": 6,
-      "agendados": 14
+      "finalizados": 12,
+      "agendados": 8
     },
     "FC26 R460(PREMIER LEAGUE)11.04.2026": {
       "total": 8,
@@ -3066,63 +3066,63 @@
     ],
     "FC26 R459(SERIA A)11.04.2026": [
       {
-        "nome": "Napoli (MisterX)",
-        "Pts": 6,
-        "J": 2,
-        "V": 2,
-        "E": 0,
-        "D": 0,
-        "GP": 11,
-        "GC": 6,
+        "nome": "Fiorentina (Adriano)",
+        "Pts": 10,
+        "J": 5,
+        "V": 3,
+        "E": 1,
+        "D": 1,
+        "GP": 24,
+        "GC": 19,
         "SG": 5,
         "pos": 1
       },
       {
-        "nome": "Fiorentina (Adriano)",
-        "Pts": 6,
-        "J": 2,
-        "V": 2,
+        "nome": "Napoli (MisterX)",
+        "Pts": 9,
+        "J": 5,
+        "V": 3,
         "E": 0,
-        "D": 0,
-        "GP": 11,
-        "GC": 7,
-        "SG": 4,
+        "D": 2,
+        "GP": 24,
+        "GC": 22,
+        "SG": 2,
         "pos": 2
       },
       {
-        "nome": "Juventus (Haidan)",
-        "Pts": 2,
-        "J": 3,
-        "V": 0,
+        "nome": "Roma (Pascal)",
+        "Pts": 5,
+        "J": 4,
+        "V": 1,
         "E": 2,
         "D": 1,
-        "GP": 14,
-        "GC": 16,
-        "SG": -2,
+        "GP": 18,
+        "GC": 18,
+        "SG": 0,
         "pos": 3
       },
       {
-        "nome": "Roma (Pascal)",
-        "Pts": 1,
-        "J": 2,
-        "V": 0,
-        "E": 1,
-        "D": 1,
-        "GP": 9,
-        "GC": 11,
-        "SG": -2,
+        "nome": "Lazio (Kai)",
+        "Pts": 5,
+        "J": 5,
+        "V": 1,
+        "E": 2,
+        "D": 2,
+        "GP": 13,
+        "GC": 16,
+        "SG": -3,
         "pos": 4
       },
       {
-        "nome": "Lazio (Kai)",
-        "Pts": 1,
-        "J": 3,
+        "nome": "Juventus (Haidan)",
+        "Pts": 3,
+        "J": 5,
         "V": 0,
-        "E": 1,
+        "E": 3,
         "D": 2,
-        "GP": 6,
-        "GC": 11,
-        "SG": -5,
+        "GP": 25,
+        "GC": 29,
+        "SG": -4,
         "pos": 5
       }
     ]
