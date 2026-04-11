@@ -1,9 +1,9 @@
 {
-  "updated_at": "11/04/2026 11:06:30",
+  "updated_at": "11/04/2026 11:45:03",
   "summary": {
     "total": 300,
-    "finalizados": 196,
-    "agendados": 104,
+    "finalizados": 206,
+    "agendados": 94,
     "ligas": 17
   },
   "jogos": [
@@ -1355,43 +1355,43 @@
       "liga": "FC26 R455(INTERNATIONAL)11.04.2026",
       "p1": "Argentina (Donatello)",
       "p2": "Holland (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R455(INTERNATIONAL)11.04.2026",
       "p1": "Denmark (Matrix)",
       "p2": "Portugal (Bruno)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R455(INTERNATIONAL)11.04.2026",
       "p1": "Argentina (Donatello)",
       "p2": "Italy (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R455(INTERNATIONAL)11.04.2026",
       "p1": "Denmark (Matrix)",
       "p2": "Holland (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R455(INTERNATIONAL)11.04.2026",
       "p1": "Argentina (Donatello)",
       "p2": "Portugal (Bruno)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R455(INTERNATIONAL)11.04.2026",
       "p1": "Italy (Oliver)",
       "p2": "Holland (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R455(INTERNATIONAL)11.04.2026",
@@ -1481,29 +1481,29 @@
       "liga": "FC26 R456(EUROPA LEAGUE)11.04.2026",
       "p1": "Feyenoord (Nathan)",
       "p2": "Roma (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R456(EUROPA LEAGUE)11.04.2026",
       "p1": "Lazio (Beckham)",
       "p2": "Olympiacos FC (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R456(EUROPA LEAGUE)11.04.2026",
       "p1": "Feyenoord (Nathan)",
       "p2": "Olympiacos FC (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R456(EUROPA LEAGUE)11.04.2026",
       "p1": "Roma (Dominic)",
       "p2": "Bologna (Maverick)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R456(EUROPA LEAGUE)11.04.2026",
@@ -2161,13 +2161,13 @@
     },
     "FC26 R455(INTERNATIONAL)11.04.2026": {
       "total": 20,
-      "finalizados": 6,
-      "agendados": 14
+      "finalizados": 12,
+      "agendados": 8
     },
     "FC26 R456(EUROPA LEAGUE)11.04.2026": {
       "total": 20,
-      "finalizados": 4,
-      "agendados": 16
+      "finalizados": 8,
+      "agendados": 12
     },
     "FC26 R457(CHAMPIONS LEAGUE)11.04.2026": {
       "total": 20,
@@ -2819,124 +2819,124 @@
     "FC26 R455(INTERNATIONAL)11.04.2026": [
       {
         "nome": "Holland (Andrew)",
-        "Pts": 6,
-        "J": 2,
-        "V": 2,
-        "E": 0,
+        "Pts": 11,
+        "J": 5,
+        "V": 3,
+        "E": 2,
         "D": 0,
-        "GP": 14,
-        "GC": 6,
-        "SG": 8,
+        "GP": 26,
+        "GC": 12,
+        "SG": 14,
         "pos": 1
       },
       {
-        "nome": "Argentina (Donatello)",
-        "Pts": 6,
-        "J": 2,
-        "V": 2,
+        "nome": "Portugal (Bruno)",
+        "Pts": 9,
+        "J": 5,
+        "V": 3,
         "E": 0,
-        "D": 0,
-        "GP": 8,
-        "GC": 5,
-        "SG": 3,
+        "D": 2,
+        "GP": 17,
+        "GC": 16,
+        "SG": 1,
         "pos": 2
       },
       {
-        "nome": "Denmark (Matrix)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
-        "E": 0,
-        "D": 1,
-        "GP": 8,
-        "GC": 5,
-        "SG": 3,
+        "nome": "Argentina (Donatello)",
+        "Pts": 7,
+        "J": 5,
+        "V": 2,
+        "E": 1,
+        "D": 2,
+        "GP": 15,
+        "GC": 16,
+        "SG": -1,
         "pos": 3
       },
       {
-        "nome": "Portugal (Bruno)",
-        "Pts": 3,
-        "J": 3,
+        "nome": "Denmark (Matrix)",
+        "Pts": 4,
+        "J": 4,
         "V": 1,
-        "E": 0,
+        "E": 1,
         "D": 2,
-        "GP": 10,
-        "GC": 11,
-        "SG": -1,
+        "GP": 14,
+        "GC": 12,
+        "SG": 2,
         "pos": 4
       },
       {
         "nome": "Italy (Oliver)",
-        "Pts": 0,
-        "J": 3,
-        "V": 0,
+        "Pts": 3,
+        "J": 5,
+        "V": 1,
         "E": 0,
-        "D": 3,
-        "GP": 8,
-        "GC": 21,
-        "SG": -13,
+        "D": 4,
+        "GP": 15,
+        "GC": 31,
+        "SG": -16,
         "pos": 5
       }
     ],
     "FC26 R456(EUROPA LEAGUE)11.04.2026": [
       {
         "nome": "Bologna (Maverick)",
-        "Pts": 6,
-        "J": 2,
-        "V": 2,
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
         "E": 0,
         "D": 0,
-        "GP": 11,
-        "GC": 6,
-        "SG": 5,
+        "GP": 18,
+        "GC": 11,
+        "SG": 7,
         "pos": 1
       },
       {
-        "nome": "Roma (Dominic)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "nome": "Lazio (Beckham)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
-        "D": 0,
-        "GP": 5,
-        "GC": 1,
+        "D": 1,
+        "GP": 10,
+        "GC": 6,
         "SG": 4,
         "pos": 2
       },
       {
-        "nome": "Lazio (Beckham)",
-        "Pts": 3,
-        "J": 2,
+        "nome": "Feyenoord (Nathan)",
+        "Pts": 4,
+        "J": 3,
         "V": 1,
-        "E": 0,
+        "E": 1,
         "D": 1,
-        "GP": 7,
-        "GC": 5,
-        "SG": 2,
+        "GP": 11,
+        "GC": 13,
+        "SG": -2,
         "pos": 3
       },
       {
-        "nome": "Feyenoord (Nathan)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
+        "nome": "Roma (Dominic)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
         "E": 0,
-        "D": 1,
-        "GP": 0,
-        "GC": 5,
-        "SG": -5,
+        "D": 2,
+        "GP": 12,
+        "GC": 13,
+        "SG": -1,
         "pos": 4
       },
       {
         "nome": "Olympiacos FC (VanGogh)",
-        "Pts": 0,
-        "J": 2,
+        "Pts": 1,
+        "J": 4,
         "V": 0,
-        "E": 0,
-        "D": 2,
-        "GP": 5,
-        "GC": 11,
-        "SG": -6,
+        "E": 1,
+        "D": 3,
+        "GP": 12,
+        "GC": 20,
+        "SG": -8,
         "pos": 5
       }
     ]
