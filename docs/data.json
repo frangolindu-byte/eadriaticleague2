@@ -1,9 +1,9 @@
 {
-  "updated_at": "11/04/2026 15:55:15",
+  "updated_at": "11/04/2026 16:35:42",
   "summary": {
     "total": 300,
-    "finalizados": 246,
-    "agendados": 54,
+    "finalizados": 252,
+    "agendados": 48,
     "ligas": 17
   },
   "jogos": [
@@ -1733,43 +1733,43 @@
       "liga": "FC26 R458(INTERNATIONAL)11.04.2026",
       "p1": "Argentina (MisterX)",
       "p2": "Holland (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R458(INTERNATIONAL)11.04.2026",
       "p1": "Portugal (Kai)",
       "p2": "Denmark (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R458(INTERNATIONAL)11.04.2026",
       "p1": "Argentina (MisterX)",
       "p2": "Portugal (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R458(INTERNATIONAL)11.04.2026",
       "p1": "Norway (Pascal)",
       "p2": "Holland (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R458(INTERNATIONAL)11.04.2026",
       "p1": "Holland (Haidan)",
       "p2": "Portugal (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R458(INTERNATIONAL)11.04.2026",
       "p1": "Norway (Pascal)",
       "p2": "Denmark (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R458(INTERNATIONAL)11.04.2026",
@@ -2176,8 +2176,8 @@
     },
     "FC26 R458(INTERNATIONAL)11.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 6,
+      "agendados": 14
     },
     "FC26 R459(SERIA A)11.04.2026": {
       "total": 20,
@@ -2999,6 +2999,68 @@
         "GP": 19,
         "GC": 32,
         "SG": -13,
+        "pos": 5
+      }
+    ],
+    "FC26 R458(INTERNATIONAL)11.04.2026": [
+      {
+        "nome": "Holland (Haidan)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 17,
+        "GC": 14,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "Denmark (Adriano)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 9,
+        "GC": 6,
+        "SG": 3,
+        "pos": 2
+      },
+      {
+        "nome": "Portugal (Kai)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 10,
+        "GC": 11,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Norway (Pascal)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 10,
+        "GC": 11,
+        "SG": -1,
+        "pos": 4
+      },
+      {
+        "nome": "Argentina (MisterX)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 6,
+        "GC": 10,
+        "SG": -4,
         "pos": 5
       }
     ]
