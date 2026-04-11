@@ -1,9 +1,9 @@
 {
-  "updated_at": "11/04/2026 13:21:22",
+  "updated_at": "11/04/2026 14:05:28",
   "summary": {
     "total": 300,
-    "finalizados": 227,
-    "agendados": 73,
+    "finalizados": 233,
+    "agendados": 67,
     "ligas": 17
   },
   "jogos": [
@@ -1600,43 +1600,43 @@
       "liga": "FC26 R457(CHAMPIONS LEAGUE)11.04.2026",
       "p1": "Barcelona (Pascal)",
       "p2": "Liverpool (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R457(CHAMPIONS LEAGUE)11.04.2026",
       "p1": "Manchester City (MisterX)",
       "p2": "Bayern M. (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R457(CHAMPIONS LEAGUE)11.04.2026",
       "p1": "Barcelona (Pascal)",
       "p2": "PSG (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R457(CHAMPIONS LEAGUE)11.04.2026",
       "p1": "Liverpool (Haidan)",
       "p2": "Bayern M. (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R457(CHAMPIONS LEAGUE)11.04.2026",
       "p1": "Barcelona (Pascal)",
       "p2": "Bayern M. (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R457(CHAMPIONS LEAGUE)11.04.2026",
       "p1": "PSG (Adriano)",
       "p2": "Manchester City (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R457(CHAMPIONS LEAGUE)11.04.2026",
@@ -2171,8 +2171,8 @@
     },
     "FC26 R457(CHAMPIONS LEAGUE)11.04.2026": {
       "total": 20,
-      "finalizados": 1,
-      "agendados": 19
+      "finalizados": 7,
+      "agendados": 13
     },
     "FC26 R458(INTERNATIONAL)11.04.2026": {
       "total": 20,
@@ -2942,28 +2942,64 @@
     ],
     "FC26 R457(CHAMPIONS LEAGUE)11.04.2026": [
       {
-        "nome": "Liverpool (Haidan)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
-        "E": 0,
+        "nome": "Bayern M. (Kai)",
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
+        "E": 1,
         "D": 0,
-        "GP": 6,
-        "GC": 4,
+        "GP": 10,
+        "GC": 8,
         "SG": 2,
         "pos": 1
       },
       {
-        "nome": "Manchester City (MisterX)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
+        "nome": "PSG (Adriano)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
         "E": 0,
-        "D": 1,
-        "GP": 4,
-        "GC": 6,
-        "SG": -2,
+        "D": 0,
+        "GP": 7,
+        "GC": 3,
+        "SG": 4,
         "pos": 2
+      },
+      {
+        "nome": "Liverpool (Haidan)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 12,
+        "GC": 12,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Barcelona (Pascal)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 11,
+        "GC": 14,
+        "SG": -3,
+        "pos": 4
+      },
+      {
+        "nome": "Manchester City (MisterX)",
+        "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 9,
+        "GC": 12,
+        "SG": -3,
+        "pos": 5
       }
     ]
   }
