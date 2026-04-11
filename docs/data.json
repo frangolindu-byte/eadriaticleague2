@@ -1,9 +1,9 @@
 {
-  "updated_at": "11/04/2026 20:55:16",
+  "updated_at": "11/04/2026 21:30:59",
   "summary": {
     "total": 300,
-    "finalizados": 286,
-    "agendados": 14,
+    "finalizados": 290,
+    "agendados": 10,
     "ligas": 17
   },
   "jogos": [
@@ -2013,29 +2013,29 @@
       "liga": "FC26 R460(PREMIER LEAGUE)11.04.2026",
       "p1": "Liverpool (Conde)",
       "p2": "Manchester City (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R460(PREMIER LEAGUE)11.04.2026",
       "p1": "Tottenham (Odin)",
       "p2": "Arsenal (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R460(PREMIER LEAGUE)11.04.2026",
       "p1": "Liverpool (Conde)",
       "p2": "Tottenham (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R460(PREMIER LEAGUE)11.04.2026",
       "p1": "Newcastle U. (Dexter)",
       "p2": "Manchester City (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R460(PREMIER LEAGUE)11.04.2026",
@@ -2186,8 +2186,8 @@
     },
     "FC26 R460(PREMIER LEAGUE)11.04.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 4,
+      "agendados": 4
     },
     "FC26 R461(SERIA A)11.04.2026": {
       "total": 6,
@@ -3123,6 +3123,68 @@
         "GP": 37,
         "GC": 49,
         "SG": -12,
+        "pos": 5
+      }
+    ],
+    "FC26 R460(PREMIER LEAGUE)11.04.2026": [
+      {
+        "nome": "Tottenham (Odin)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 9,
+        "GC": 3,
+        "SG": 6,
+        "pos": 1
+      },
+      {
+        "nome": "Manchester City (Mateo)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 8,
+        "GC": 6,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Liverpool (Conde)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 5,
+        "GC": 7,
+        "SG": -2,
+        "pos": 3
+      },
+      {
+        "nome": "Arsenal (Gael)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 3,
+        "GC": 5,
+        "SG": -2,
+        "pos": 4
+      },
+      {
+        "nome": "Newcastle U. (Dexter)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 1,
+        "GC": 5,
+        "SG": -4,
         "pos": 5
       }
     ]
