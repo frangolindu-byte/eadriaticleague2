@@ -1,9 +1,9 @@
 {
-  "updated_at": "11/04/2026 08:25:47",
+  "updated_at": "11/04/2026 09:08:55",
   "summary": {
     "total": 300,
-    "finalizados": 152,
-    "agendados": 148,
+    "finalizados": 164,
+    "agendados": 136,
     "ligas": 17
   },
   "jogos": [
@@ -1061,43 +1061,43 @@
       "liga": "FC26 R453(PREMIER LEAGUE)11.04.2026",
       "p1": "Aston Villa (Matrix)",
       "p2": "Manchester City (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R453(PREMIER LEAGUE)11.04.2026",
       "p1": "West Ham United (Oliver)",
       "p2": "Liverpool (Bruno)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R453(PREMIER LEAGUE)11.04.2026",
       "p1": "Aston Villa (Matrix)",
       "p2": "Liverpool (Bruno)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R453(PREMIER LEAGUE)11.04.2026",
       "p1": "Manchester City (Donatello)",
       "p2": "Newcastle U. (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R453(PREMIER LEAGUE)11.04.2026",
       "p1": "Aston Villa (Matrix)",
       "p2": "Newcastle U. (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R453(PREMIER LEAGUE)11.04.2026",
       "p1": "Manchester City (Donatello)",
       "p2": "West Ham United (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R453(PREMIER LEAGUE)11.04.2026",
@@ -1187,43 +1187,43 @@
       "liga": "FC26 R454(CHAMPIONS LEAGUE)11.04.2026",
       "p1": "Barcelona (Maverick)",
       "p2": "Real Madrid (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R454(CHAMPIONS LEAGUE)11.04.2026",
       "p1": "Liverpool (Nathan)",
       "p2": "Atletico Madrid (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R454(CHAMPIONS LEAGUE)11.04.2026",
       "p1": "Atletico Madrid (Beckham)",
       "p2": "Real Madrid (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R454(CHAMPIONS LEAGUE)11.04.2026",
       "p1": "Liverpool (Nathan)",
       "p2": "PSG (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R454(CHAMPIONS LEAGUE)11.04.2026",
       "p1": "Liverpool (Nathan)",
       "p2": "Real Madrid (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R454(CHAMPIONS LEAGUE)11.04.2026",
       "p1": "PSG (Dominic)",
       "p2": "Barcelona (Maverick)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R454(CHAMPIONS LEAGUE)11.04.2026",
@@ -2151,13 +2151,13 @@
     },
     "FC26 R453(PREMIER LEAGUE)11.04.2026": {
       "total": 20,
-      "finalizados": 4,
-      "agendados": 16
+      "finalizados": 10,
+      "agendados": 10
     },
     "FC26 R454(CHAMPIONS LEAGUE)11.04.2026": {
       "total": 20,
-      "finalizados": 2,
-      "agendados": 18
+      "finalizados": 8,
+      "agendados": 12
     },
     "FC26 R455(INTERNATIONAL)11.04.2026": {
       "total": 20,
@@ -2695,61 +2695,61 @@
     "FC26 R453(PREMIER LEAGUE)11.04.2026": [
       {
         "nome": "Newcastle U. (Andrew)",
-        "Pts": 6,
-        "J": 2,
-        "V": 2,
+        "Pts": 9,
+        "J": 4,
+        "V": 3,
         "E": 0,
-        "D": 0,
-        "GP": 10,
-        "GC": 6,
+        "D": 1,
+        "GP": 13,
+        "GC": 9,
         "SG": 4,
         "pos": 1
       },
       {
-        "nome": "Liverpool (Bruno)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
+        "nome": "Manchester City (Donatello)",
+        "Pts": 6,
+        "J": 4,
+        "V": 2,
         "E": 0,
-        "D": 1,
-        "GP": 9,
-        "GC": 7,
-        "SG": 2,
+        "D": 2,
+        "GP": 13,
+        "GC": 12,
+        "SG": 1,
         "pos": 2
       },
       {
-        "nome": "West Ham United (Oliver)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
+        "nome": "Aston Villa (Matrix)",
+        "Pts": 6,
+        "J": 4,
+        "V": 2,
         "E": 0,
-        "D": 1,
-        "GP": 5,
-        "GC": 6,
+        "D": 2,
+        "GP": 8,
+        "GC": 9,
         "SG": -1,
         "pos": 3
       },
       {
-        "nome": "Aston Villa (Matrix)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
-        "E": 0,
-        "D": 1,
-        "GP": 1,
-        "GC": 3,
-        "SG": -2,
+        "nome": "Liverpool (Bruno)",
+        "Pts": 4,
+        "J": 4,
+        "V": 1,
+        "E": 1,
+        "D": 2,
+        "GP": 13,
+        "GC": 14,
+        "SG": -1,
         "pos": 4
       },
       {
-        "nome": "Manchester City (Donatello)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
-        "E": 0,
-        "D": 1,
-        "GP": 2,
-        "GC": 5,
+        "nome": "West Ham United (Oliver)",
+        "Pts": 4,
+        "J": 4,
+        "V": 1,
+        "E": 1,
+        "D": 2,
+        "GP": 12,
+        "GC": 15,
         "SG": -3,
         "pos": 5
       }
@@ -2757,51 +2757,63 @@
     "FC26 R454(CHAMPIONS LEAGUE)11.04.2026": [
       {
         "nome": "Barcelona (Maverick)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
-        "E": 0,
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
+        "E": 1,
         "D": 0,
-        "GP": 7,
-        "GC": 2,
-        "SG": 5,
+        "GP": 14,
+        "GC": 6,
+        "SG": 8,
         "pos": 1
+      },
+      {
+        "nome": "Liverpool (Nathan)",
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
+        "E": 1,
+        "D": 0,
+        "GP": 12,
+        "GC": 7,
+        "SG": 5,
+        "pos": 2
+      },
+      {
+        "nome": "Atletico Madrid (Beckham)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 8,
+        "GC": 11,
+        "SG": -3,
+        "pos": 3
+      },
+      {
+        "nome": "PSG (Dominic)",
+        "Pts": 2,
+        "J": 3,
+        "V": 0,
+        "E": 2,
+        "D": 1,
+        "GP": 5,
+        "GC": 8,
+        "SG": -3,
+        "pos": 4
       },
       {
         "nome": "Real Madrid (VanGogh)",
         "Pts": 1,
-        "J": 1,
+        "J": 4,
         "V": 0,
         "E": 1,
-        "D": 0,
-        "GP": 2,
-        "GC": 2,
-        "SG": 0,
-        "pos": 2
-      },
-      {
-        "nome": "PSG (Dominic)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
-        "E": 1,
-        "D": 0,
-        "GP": 2,
-        "GC": 2,
-        "SG": 0,
-        "pos": 3
-      },
-      {
-        "nome": "Atletico Madrid (Beckham)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
-        "E": 0,
-        "D": 1,
-        "GP": 2,
-        "GC": 7,
-        "SG": -5,
-        "pos": 4
+        "D": 3,
+        "GP": 8,
+        "GC": 15,
+        "SG": -7,
+        "pos": 5
       }
     ]
   }
