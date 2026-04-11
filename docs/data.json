@@ -1,9 +1,9 @@
 {
-  "updated_at": "11/04/2026 17:49:31",
+  "updated_at": "11/04/2026 18:24:06",
   "summary": {
     "total": 300,
-    "finalizados": 262,
-    "agendados": 38,
+    "finalizados": 266,
+    "agendados": 34,
     "ligas": 17
   },
   "jogos": [
@@ -1845,29 +1845,29 @@
       "liga": "FC26 R458(INTERNATIONAL)11.04.2026",
       "p1": "Argentina (MisterX)",
       "p2": "Denmark (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R458(INTERNATIONAL)11.04.2026",
       "p1": "Portugal (Kai)",
       "p2": "Norway (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R458(INTERNATIONAL)11.04.2026",
       "p1": "Argentina (MisterX)",
       "p2": "Norway (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R458(INTERNATIONAL)11.04.2026",
       "p1": "Holland (Haidan)",
       "p2": "Denmark (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R459(SERIA A)11.04.2026",
@@ -2176,8 +2176,8 @@
     },
     "FC26 R458(INTERNATIONAL)11.04.2026": {
       "total": 20,
-      "finalizados": 16,
-      "agendados": 4
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R459(SERIA A)11.04.2026": {
       "total": 20,
@@ -3004,63 +3004,63 @@
     ],
     "FC26 R458(INTERNATIONAL)11.04.2026": [
       {
-        "nome": "Portugal (Kai)",
-        "Pts": 15,
-        "J": 7,
-        "V": 5,
+        "nome": "Denmark (Adriano)",
+        "Pts": 18,
+        "J": 8,
+        "V": 6,
         "E": 0,
         "D": 2,
-        "GP": 28,
-        "GC": 22,
-        "SG": 6,
+        "GP": 30,
+        "GC": 23,
+        "SG": 7,
         "pos": 1
       },
       {
-        "nome": "Denmark (Adriano)",
-        "Pts": 12,
-        "J": 6,
-        "V": 4,
-        "E": 0,
+        "nome": "Portugal (Kai)",
+        "Pts": 16,
+        "J": 8,
+        "V": 5,
+        "E": 1,
         "D": 2,
-        "GP": 21,
-        "GC": 18,
-        "SG": 3,
+        "GP": 30,
+        "GC": 24,
+        "SG": 6,
         "pos": 2
+      },
+      {
+        "nome": "Norway (Pascal)",
+        "Pts": 10,
+        "J": 8,
+        "V": 3,
+        "E": 1,
+        "D": 4,
+        "GP": 32,
+        "GC": 37,
+        "SG": -5,
+        "pos": 3
       },
       {
         "nome": "Argentina (MisterX)",
         "Pts": 9,
-        "J": 6,
+        "J": 8,
         "V": 3,
         "E": 0,
-        "D": 3,
-        "GP": 24,
-        "GC": 23,
-        "SG": 1,
-        "pos": 3
+        "D": 5,
+        "GP": 30,
+        "GC": 33,
+        "SG": -3,
+        "pos": 4
       },
       {
         "nome": "Holland (Haidan)",
         "Pts": 6,
-        "J": 7,
+        "J": 8,
         "V": 2,
         "E": 0,
-        "D": 5,
-        "GP": 33,
-        "GC": 37,
-        "SG": -4,
-        "pos": 4
-      },
-      {
-        "nome": "Norway (Pascal)",
-        "Pts": 6,
-        "J": 6,
-        "V": 2,
-        "E": 0,
-        "D": 4,
-        "GP": 25,
-        "GC": 31,
-        "SG": -6,
+        "D": 6,
+        "GP": 36,
+        "GC": 41,
+        "SG": -5,
         "pos": 5
       }
     ]
