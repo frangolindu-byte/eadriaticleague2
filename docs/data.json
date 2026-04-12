@@ -1,9 +1,9 @@
 {
-  "updated_at": "12/04/2026 14:28:11",
+  "updated_at": "12/04/2026 15:08:03",
   "summary": {
     "total": 300,
-    "finalizados": 236,
-    "agendados": 64,
+    "finalizados": 242,
+    "agendados": 58,
     "ligas": 17
   },
   "jogos": [
@@ -1663,43 +1663,43 @@
       "liga": "FC26 R472(SERIA A)12.04.2026",
       "p1": "Atalanta (Cleo)",
       "p2": "Napoli (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R472(SERIA A)12.04.2026",
       "p1": "Juventus (Iron)",
       "p2": "Inter (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R472(SERIA A)12.04.2026",
       "p1": "Atalanta (Cleo)",
       "p2": "Milan (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R472(SERIA A)12.04.2026",
       "p1": "Inter (Dexter)",
       "p2": "Napoli (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R472(SERIA A)12.04.2026",
       "p1": "Inter (Dexter)",
       "p2": "Atalanta (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R472(SERIA A)12.04.2026",
       "p1": "Juventus (Iron)",
       "p2": "Milan (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R472(SERIA A)12.04.2026",
@@ -2171,8 +2171,8 @@
     },
     "FC26 R472(SERIA A)12.04.2026": {
       "total": 20,
-      "finalizados": 10,
-      "agendados": 10
+      "finalizados": 16,
+      "agendados": 4
     },
     "FC26 R473(INTERNATIONAL)12.04.2026": {
       "total": 20,
@@ -2943,62 +2943,62 @@
     "FC26 R472(SERIA A)12.04.2026": [
       {
         "nome": "Atalanta (Cleo)",
-        "Pts": 8,
-        "J": 4,
-        "V": 2,
-        "E": 2,
-        "D": 0,
-        "GP": 15,
-        "GC": 11,
+        "Pts": 12,
+        "J": 7,
+        "V": 3,
+        "E": 3,
+        "D": 1,
+        "GP": 21,
+        "GC": 17,
         "SG": 4,
         "pos": 1
       },
       {
         "nome": "Inter (Dexter)",
-        "Pts": 8,
-        "J": 4,
-        "V": 2,
-        "E": 2,
-        "D": 0,
-        "GP": 14,
-        "GC": 11,
-        "SG": 3,
+        "Pts": 12,
+        "J": 7,
+        "V": 3,
+        "E": 3,
+        "D": 1,
+        "GP": 22,
+        "GC": 21,
+        "SG": 1,
         "pos": 2
       },
       {
         "nome": "Milan (Eric)",
-        "Pts": 5,
-        "J": 4,
-        "V": 1,
-        "E": 2,
+        "Pts": 9,
+        "J": 6,
+        "V": 2,
+        "E": 3,
         "D": 1,
-        "GP": 15,
-        "GC": 14,
-        "SG": 1,
+        "GP": 21,
+        "GC": 17,
+        "SG": 4,
         "pos": 3
       },
       {
         "nome": "Napoli (Logan)",
-        "Pts": 3,
-        "J": 4,
-        "V": 1,
+        "Pts": 6,
+        "J": 6,
+        "V": 2,
         "E": 0,
-        "D": 3,
-        "GP": 14,
-        "GC": 20,
-        "SG": -6,
+        "D": 4,
+        "GP": 20,
+        "GC": 24,
+        "SG": -4,
         "pos": 4
       },
       {
         "nome": "Juventus (Iron)",
-        "Pts": 2,
-        "J": 4,
+        "Pts": 3,
+        "J": 6,
         "V": 0,
-        "E": 2,
-        "D": 2,
-        "GP": 14,
-        "GC": 16,
-        "SG": -2,
+        "E": 3,
+        "D": 3,
+        "GP": 19,
+        "GC": 24,
+        "SG": -5,
         "pos": 5
       }
     ]
