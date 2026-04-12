@@ -1,9 +1,9 @@
 {
-  "updated_at": "12/04/2026 19:24:32",
+  "updated_at": "12/04/2026 19:59:13",
   "summary": {
     "total": 300,
-    "finalizados": 274,
-    "agendados": 26,
+    "finalizados": 280,
+    "agendados": 20,
     "ligas": 17
   },
   "jogos": [
@@ -1929,43 +1929,43 @@
       "liga": "FC26 R474(PREMIER LEAGUE)12.04.2026",
       "p1": "Liverpool (Eric)",
       "p2": "Newcastle U. (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R474(PREMIER LEAGUE)12.04.2026",
       "p1": "Manchester City (Iron)",
       "p2": "Aston Villa (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R474(PREMIER LEAGUE)12.04.2026",
       "p1": "Aston Villa (Cleo)",
       "p2": "Newcastle U. (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R474(PREMIER LEAGUE)12.04.2026",
       "p1": "Manchester City (Iron)",
       "p2": "West Ham United (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R474(PREMIER LEAGUE)12.04.2026",
       "p1": "Aston Villa (Cleo)",
       "p2": "Liverpool (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R474(PREMIER LEAGUE)12.04.2026",
       "p1": "West Ham United (Dexter)",
       "p2": "Newcastle U. (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R474(PREMIER LEAGUE)12.04.2026",
@@ -2181,8 +2181,8 @@
     },
     "FC26 R474(PREMIER LEAGUE)12.04.2026": {
       "total": 20,
-      "finalizados": 8,
-      "agendados": 12
+      "finalizados": 14,
+      "agendados": 6
     },
     "FC26 R475(CHAMPIONS LEAGUE)12.04.2026": {
       "total": 8,
@@ -3067,62 +3067,62 @@
     "FC26 R474(PREMIER LEAGUE)12.04.2026": [
       {
         "nome": "Aston Villa (Cleo)",
-        "Pts": 9,
-        "J": 3,
-        "V": 3,
+        "Pts": 15,
+        "J": 6,
+        "V": 5,
         "E": 0,
-        "D": 0,
-        "GP": 12,
-        "GC": 5,
-        "SG": 7,
+        "D": 1,
+        "GP": 25,
+        "GC": 15,
+        "SG": 10,
         "pos": 1
+      },
+      {
+        "nome": "Newcastle U. (Logan)",
+        "Pts": 13,
+        "J": 6,
+        "V": 4,
+        "E": 1,
+        "D": 1,
+        "GP": 22,
+        "GC": 15,
+        "SG": 7,
+        "pos": 2
       },
       {
         "nome": "Liverpool (Eric)",
         "Pts": 6,
-        "J": 3,
+        "J": 5,
         "V": 2,
         "E": 0,
-        "D": 1,
-        "GP": 9,
-        "GC": 9,
-        "SG": 0,
-        "pos": 2
-      },
-      {
-        "nome": "Newcastle U. (Logan)",
-        "Pts": 4,
-        "J": 3,
-        "V": 1,
-        "E": 1,
-        "D": 1,
-        "GP": 8,
-        "GC": 7,
-        "SG": 1,
+        "D": 3,
+        "GP": 15,
+        "GC": 21,
+        "SG": -6,
         "pos": 3
       },
       {
         "nome": "West Ham United (Dexter)",
-        "Pts": 3,
-        "J": 4,
+        "Pts": 4,
+        "J": 6,
         "V": 1,
-        "E": 0,
-        "D": 3,
-        "GP": 13,
-        "GC": 16,
-        "SG": -3,
+        "E": 1,
+        "D": 4,
+        "GP": 19,
+        "GC": 24,
+        "SG": -5,
         "pos": 4
       },
       {
         "nome": "Manchester City (Iron)",
-        "Pts": 1,
-        "J": 3,
+        "Pts": 2,
+        "J": 5,
         "V": 0,
-        "E": 1,
-        "D": 2,
-        "GP": 5,
-        "GC": 10,
-        "SG": -5,
+        "E": 2,
+        "D": 3,
+        "GP": 10,
+        "GC": 16,
+        "SG": -6,
         "pos": 5
       }
     ]
