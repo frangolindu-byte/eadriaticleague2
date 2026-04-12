@@ -1,9 +1,9 @@
 {
-  "updated_at": "12/04/2026 12:29:42",
+  "updated_at": "12/04/2026 13:43:25",
   "summary": {
     "total": 300,
-    "finalizados": 218,
-    "agendados": 82,
+    "finalizados": 230,
+    "agendados": 70,
     "ligas": 17
   },
   "jogos": [
@@ -1439,15 +1439,15 @@
       "liga": "FC26 R470(SERIA A)12.04.2026",
       "p1": "Fiorentina (Eduardo)",
       "p2": "Roma (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R470(SERIA A)12.04.2026",
       "p1": "Napoli (Oliver)",
       "p2": "Lazio (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R471(CHAMPIONS LEAGUE)12.04.2026",
@@ -1551,71 +1551,71 @@
       "liga": "FC26 R471(CHAMPIONS LEAGUE)12.04.2026",
       "p1": "Barcelona (Arthur)",
       "p2": "Bayern M. (Splinter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R471(CHAMPIONS LEAGUE)12.04.2026",
       "p1": "Real Madrid (VanGogh)",
       "p2": "PSG (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R471(CHAMPIONS LEAGUE)12.04.2026",
       "p1": "Liverpool (Sebastian)",
       "p2": "Barcelona (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R471(CHAMPIONS LEAGUE)12.04.2026",
       "p1": "Real Madrid (VanGogh)",
       "p2": "Bayern M. (Splinter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R471(CHAMPIONS LEAGUE)12.04.2026",
       "p1": "Liverpool (Sebastian)",
       "p2": "Bayern M. (Splinter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R471(CHAMPIONS LEAGUE)12.04.2026",
       "p1": "PSG (MisterX)",
       "p2": "Barcelona (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R472(SERIA A)12.04.2026",
       "p1": "Inter (Dexter)",
       "p2": "Juventus (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R472(SERIA A)12.04.2026",
       "p1": "Napoli (Logan)",
       "p2": "Atalanta (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R472(SERIA A)12.04.2026",
       "p1": "Milan (Eric)",
       "p2": "Atalanta (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R472(SERIA A)12.04.2026",
       "p1": "Napoli (Logan)",
       "p2": "Inter (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R472(SERIA A)12.04.2026",
@@ -2161,18 +2161,18 @@
     },
     "FC26 R470(SERIA A)12.04.2026": {
       "total": 20,
-      "finalizados": 18,
-      "agendados": 2
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R471(CHAMPIONS LEAGUE)12.04.2026": {
       "total": 20,
-      "finalizados": 14,
-      "agendados": 6
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R472(SERIA A)12.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 4,
+      "agendados": 16
     },
     "FC26 R473(INTERNATIONAL)12.04.2026": {
       "total": 20,
@@ -2820,49 +2820,49 @@
       {
         "nome": "Fiorentina (Eduardo)",
         "Pts": 14,
-        "J": 7,
+        "J": 8,
         "V": 4,
         "E": 2,
-        "D": 1,
-        "GP": 26,
-        "GC": 22,
-        "SG": 4,
+        "D": 2,
+        "GP": 27,
+        "GC": 24,
+        "SG": 3,
         "pos": 1
       },
       {
-        "nome": "Napoli (Oliver)",
-        "Pts": 11,
-        "J": 7,
-        "V": 3,
-        "E": 2,
-        "D": 2,
-        "GP": 28,
-        "GC": 27,
+        "nome": "Roma (Matrix)",
+        "Pts": 13,
+        "J": 8,
+        "V": 4,
+        "E": 1,
+        "D": 3,
+        "GP": 23,
+        "GC": 22,
         "SG": 1,
         "pos": 2
       },
       {
-        "nome": "Roma (Matrix)",
-        "Pts": 10,
-        "J": 7,
+        "nome": "Napoli (Oliver)",
+        "Pts": 11,
+        "J": 8,
         "V": 3,
-        "E": 1,
+        "E": 2,
         "D": 3,
-        "GP": 21,
-        "GC": 21,
+        "GP": 28,
+        "GC": 28,
         "SG": 0,
         "pos": 3
       },
       {
         "nome": "Lazio (Adriano)",
-        "Pts": 7,
-        "J": 7,
-        "V": 1,
+        "Pts": 10,
+        "J": 8,
+        "V": 2,
         "E": 4,
         "D": 2,
-        "GP": 17,
+        "GP": 18,
         "GC": 19,
-        "SG": -2,
+        "SG": -1,
         "pos": 4
       },
       {
@@ -2881,62 +2881,124 @@
     "FC26 R471(CHAMPIONS LEAGUE)12.04.2026": [
       {
         "nome": "Real Madrid (VanGogh)",
-        "Pts": 13,
-        "J": 6,
-        "V": 4,
+        "Pts": 19,
+        "J": 8,
+        "V": 6,
         "E": 1,
         "D": 1,
-        "GP": 24,
-        "GC": 16,
-        "SG": 8,
+        "GP": 30,
+        "GC": 19,
+        "SG": 11,
         "pos": 1
       },
       {
         "nome": "Barcelona (Arthur)",
-        "Pts": 9,
-        "J": 5,
-        "V": 3,
+        "Pts": 15,
+        "J": 8,
+        "V": 5,
         "E": 0,
-        "D": 2,
-        "GP": 19,
-        "GC": 15,
-        "SG": 4,
+        "D": 3,
+        "GP": 32,
+        "GC": 26,
+        "SG": 6,
         "pos": 2
       },
       {
         "nome": "PSG (MisterX)",
-        "Pts": 7,
-        "J": 6,
-        "V": 2,
+        "Pts": 10,
+        "J": 8,
+        "V": 3,
         "E": 1,
-        "D": 3,
-        "GP": 17,
-        "GC": 22,
-        "SG": -5,
+        "D": 4,
+        "GP": 23,
+        "GC": 26,
+        "SG": -3,
         "pos": 3
       },
       {
-        "nome": "Bayern M. (Splinter)",
-        "Pts": 6,
-        "J": 5,
+        "nome": "Liverpool (Sebastian)",
+        "Pts": 8,
+        "J": 8,
         "V": 2,
-        "E": 0,
-        "D": 3,
-        "GP": 18,
-        "GC": 22,
+        "E": 2,
+        "D": 4,
+        "GP": 21,
+        "GC": 25,
         "SG": -4,
         "pos": 4
       },
       {
-        "nome": "Liverpool (Sebastian)",
-        "Pts": 5,
-        "J": 6,
-        "V": 1,
-        "E": 2,
-        "D": 3,
-        "GP": 15,
-        "GC": 18,
-        "SG": -3,
+        "nome": "Bayern M. (Splinter)",
+        "Pts": 6,
+        "J": 8,
+        "V": 2,
+        "E": 0,
+        "D": 6,
+        "GP": 27,
+        "GC": 37,
+        "SG": -10,
+        "pos": 5
+      }
+    ],
+    "FC26 R472(SERIA A)12.04.2026": [
+      {
+        "nome": "Atalanta (Cleo)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 9,
+        "GC": 5,
+        "SG": 4,
+        "pos": 1
+      },
+      {
+        "nome": "Inter (Dexter)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 8,
+        "GC": 5,
+        "SG": 3,
+        "pos": 2
+      },
+      {
+        "nome": "Milan (Eric)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 3,
+        "GC": 4,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Juventus (Iron)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 2,
+        "GC": 3,
+        "SG": -1,
+        "pos": 4
+      },
+      {
+        "nome": "Napoli (Logan)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 5,
+        "GC": 10,
+        "SG": -5,
         "pos": 5
       }
     ]
