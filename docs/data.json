@@ -1,9 +1,9 @@
 {
-  "updated_at": "12/04/2026 15:08:03",
+  "updated_at": "12/04/2026 15:51:48",
   "summary": {
     "total": 300,
-    "finalizados": 242,
-    "agendados": 58,
+    "finalizados": 246,
+    "agendados": 54,
     "ligas": 17
   },
   "jogos": [
@@ -1705,29 +1705,29 @@
       "liga": "FC26 R472(SERIA A)12.04.2026",
       "p1": "Inter (Dexter)",
       "p2": "Milan (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R472(SERIA A)12.04.2026",
       "p1": "Napoli (Logan)",
       "p2": "Juventus (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R472(SERIA A)12.04.2026",
       "p1": "Atalanta (Cleo)",
       "p2": "Juventus (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R472(SERIA A)12.04.2026",
       "p1": "Napoli (Logan)",
       "p2": "Milan (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R473(INTERNATIONAL)12.04.2026",
@@ -2171,8 +2171,8 @@
     },
     "FC26 R472(SERIA A)12.04.2026": {
       "total": 20,
-      "finalizados": 16,
-      "agendados": 4
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R473(INTERNATIONAL)12.04.2026": {
       "total": 20,
@@ -2943,62 +2943,62 @@
     "FC26 R472(SERIA A)12.04.2026": [
       {
         "nome": "Atalanta (Cleo)",
-        "Pts": 12,
-        "J": 7,
-        "V": 3,
+        "Pts": 15,
+        "J": 8,
+        "V": 4,
         "E": 3,
         "D": 1,
-        "GP": 21,
+        "GP": 25,
         "GC": 17,
-        "SG": 4,
+        "SG": 8,
         "pos": 1
       },
       {
         "nome": "Inter (Dexter)",
-        "Pts": 12,
-        "J": 7,
-        "V": 3,
+        "Pts": 15,
+        "J": 8,
+        "V": 4,
         "E": 3,
         "D": 1,
-        "GP": 22,
-        "GC": 21,
-        "SG": 1,
+        "GP": 25,
+        "GC": 23,
+        "SG": 2,
         "pos": 2
       },
       {
         "nome": "Milan (Eric)",
-        "Pts": 9,
-        "J": 6,
-        "V": 2,
+        "Pts": 12,
+        "J": 8,
+        "V": 3,
         "E": 3,
-        "D": 1,
-        "GP": 21,
-        "GC": 17,
-        "SG": 4,
+        "D": 2,
+        "GP": 28,
+        "GC": 23,
+        "SG": 5,
         "pos": 3
       },
       {
         "nome": "Napoli (Logan)",
-        "Pts": 6,
-        "J": 6,
+        "Pts": 7,
+        "J": 8,
         "V": 2,
-        "E": 0,
-        "D": 4,
-        "GP": 20,
-        "GC": 24,
-        "SG": -4,
+        "E": 1,
+        "D": 5,
+        "GP": 25,
+        "GC": 31,
+        "SG": -6,
         "pos": 4
       },
       {
         "nome": "Juventus (Iron)",
-        "Pts": 3,
-        "J": 6,
+        "Pts": 4,
+        "J": 8,
         "V": 0,
-        "E": 3,
-        "D": 3,
-        "GP": 19,
-        "GC": 24,
-        "SG": -5,
+        "E": 4,
+        "D": 4,
+        "GP": 21,
+        "GC": 30,
+        "SG": -9,
         "pos": 5
       }
     ]
