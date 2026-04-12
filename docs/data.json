@@ -1,9 +1,9 @@
 {
-  "updated_at": "12/04/2026 09:34:11",
+  "updated_at": "12/04/2026 10:23:11",
   "summary": {
     "total": 300,
-    "finalizados": 172,
-    "agendados": 128,
+    "finalizados": 184,
+    "agendados": 116,
     "ligas": 17
   },
   "jogos": [
@@ -1131,43 +1131,43 @@
       "liga": "FC26 R468(INTERNATIONAL)12.04.2026",
       "p1": "Norway (Matrix)",
       "p2": "Holland (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R468(INTERNATIONAL)12.04.2026",
       "p1": "Spain (Liam)",
       "p2": "Denmark (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R468(INTERNATIONAL)12.04.2026",
       "p1": "Argentina (Oliver)",
       "p2": "Norway (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R468(INTERNATIONAL)12.04.2026",
       "p1": "Spain (Liam)",
       "p2": "Holland (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R468(INTERNATIONAL)12.04.2026",
       "p1": "Argentina (Oliver)",
       "p2": "Holland (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R468(INTERNATIONAL)12.04.2026",
       "p1": "Denmark (Eduardo)",
       "p2": "Norway (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R469(LA LIGA)12.04.2026",
@@ -1257,43 +1257,43 @@
       "liga": "FC26 R469(LA LIGA)12.04.2026",
       "p1": "Sevilla (VanGogh)",
       "p2": "Atletico Madrid (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R469(LA LIGA)12.04.2026",
       "p1": "Villarreal (MisterX)",
       "p2": "Barcelona (Splinter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R469(LA LIGA)12.04.2026",
       "p1": "Real Sociedad (Arthur)",
       "p2": "Barcelona (Splinter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R469(LA LIGA)12.04.2026",
       "p1": "Sevilla (VanGogh)",
       "p2": "Villarreal (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R469(LA LIGA)12.04.2026",
       "p1": "Atletico Madrid (Sebastian)",
       "p2": "Real Sociedad (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R469(LA LIGA)12.04.2026",
       "p1": "Sevilla (VanGogh)",
       "p2": "Barcelona (Splinter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R469(LA LIGA)12.04.2026",
@@ -2151,13 +2151,13 @@
     },
     "FC26 R468(INTERNATIONAL)12.04.2026": {
       "total": 20,
-      "finalizados": 14,
-      "agendados": 6
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R469(LA LIGA)12.04.2026": {
       "total": 20,
-      "finalizados": 12,
-      "agendados": 8
+      "finalizados": 18,
+      "agendados": 2
     },
     "FC26 R470(SERIA A)12.04.2026": {
       "total": 20,
@@ -2695,124 +2695,124 @@
     "FC26 R468(INTERNATIONAL)12.04.2026": [
       {
         "nome": "Norway (Matrix)",
-        "Pts": 11,
-        "J": 5,
-        "V": 3,
+        "Pts": 14,
+        "J": 8,
+        "V": 4,
         "E": 2,
-        "D": 0,
-        "GP": 21,
-        "GC": 14,
+        "D": 2,
+        "GP": 31,
+        "GC": 24,
         "SG": 7,
         "pos": 1
       },
       {
         "nome": "Denmark (Eduardo)",
-        "Pts": 7,
-        "J": 6,
-        "V": 2,
+        "Pts": 13,
+        "J": 8,
+        "V": 4,
         "E": 1,
         "D": 3,
-        "GP": 19,
-        "GC": 17,
-        "SG": 2,
+        "GP": 28,
+        "GC": 23,
+        "SG": 5,
         "pos": 2
       },
       {
-        "nome": "Spain (Liam)",
-        "Pts": 7,
-        "J": 6,
-        "V": 2,
-        "E": 1,
-        "D": 3,
-        "GP": 21,
-        "GC": 25,
-        "SG": -4,
+        "nome": "Holland (Adriano)",
+        "Pts": 12,
+        "J": 8,
+        "V": 3,
+        "E": 3,
+        "D": 2,
+        "GP": 19,
+        "GC": 15,
+        "SG": 4,
         "pos": 3
+      },
+      {
+        "nome": "Spain (Liam)",
+        "Pts": 10,
+        "J": 8,
+        "V": 3,
+        "E": 1,
+        "D": 4,
+        "GP": 26,
+        "GC": 30,
+        "SG": -4,
+        "pos": 4
       },
       {
         "nome": "Argentina (Oliver)",
         "Pts": 7,
-        "J": 6,
+        "J": 8,
         "V": 2,
         "E": 1,
-        "D": 3,
-        "GP": 22,
-        "GC": 27,
-        "SG": -5,
-        "pos": 4
-      },
-      {
-        "nome": "Holland (Adriano)",
-        "Pts": 6,
-        "J": 5,
-        "V": 1,
-        "E": 3,
-        "D": 1,
-        "GP": 11,
-        "GC": 11,
-        "SG": 0,
+        "D": 5,
+        "GP": 26,
+        "GC": 38,
+        "SG": -12,
         "pos": 5
       }
     ],
     "FC26 R469(LA LIGA)12.04.2026": [
       {
         "nome": "Sevilla (VanGogh)",
-        "Pts": 15,
-        "J": 5,
-        "V": 5,
-        "E": 0,
-        "D": 0,
-        "GP": 16,
-        "GC": 9,
-        "SG": 7,
+        "Pts": 19,
+        "J": 8,
+        "V": 6,
+        "E": 1,
+        "D": 1,
+        "GP": 28,
+        "GC": 18,
+        "SG": 10,
         "pos": 1
       },
       {
         "nome": "Atletico Madrid (Sebastian)",
-        "Pts": 7,
-        "J": 5,
-        "V": 2,
-        "E": 1,
+        "Pts": 11,
+        "J": 7,
+        "V": 3,
+        "E": 2,
         "D": 2,
-        "GP": 22,
-        "GC": 20,
-        "SG": 2,
+        "GP": 28,
+        "GC": 23,
+        "SG": 5,
         "pos": 2
       },
       {
-        "nome": "Villarreal (MisterX)",
+        "nome": "Real Sociedad (Arthur)",
         "Pts": 7,
-        "J": 5,
+        "J": 7,
         "V": 2,
         "E": 1,
-        "D": 2,
-        "GP": 17,
-        "GC": 19,
+        "D": 4,
+        "GP": 20,
+        "GC": 22,
         "SG": -2,
         "pos": 3
       },
       {
-        "nome": "Real Sociedad (Arthur)",
-        "Pts": 4,
-        "J": 5,
-        "V": 1,
+        "nome": "Barcelona (Splinter)",
+        "Pts": 7,
+        "J": 7,
+        "V": 2,
         "E": 1,
-        "D": 3,
-        "GP": 15,
-        "GC": 16,
-        "SG": -1,
+        "D": 4,
+        "GP": 24,
+        "GC": 30,
+        "SG": -6,
         "pos": 4
       },
       {
-        "nome": "Barcelona (Splinter)",
-        "Pts": 1,
-        "J": 4,
-        "V": 0,
+        "nome": "Villarreal (MisterX)",
+        "Pts": 7,
+        "J": 7,
+        "V": 2,
         "E": 1,
-        "D": 3,
-        "GP": 11,
-        "GC": 17,
-        "SG": -6,
+        "D": 4,
+        "GP": 22,
+        "GC": 29,
+        "SG": -7,
         "pos": 5
       }
     ]
