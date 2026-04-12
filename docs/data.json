@@ -1,9 +1,9 @@
 {
-  "updated_at": "12/04/2026 17:50:46",
+  "updated_at": "12/04/2026 18:28:57",
   "summary": {
     "total": 300,
-    "finalizados": 262,
-    "agendados": 38,
+    "finalizados": 266,
+    "agendados": 34,
     "ligas": 17
   },
   "jogos": [
@@ -1845,29 +1845,29 @@
       "liga": "FC26 R473(INTERNATIONAL)12.04.2026",
       "p1": "Argentina (Logan)",
       "p2": "Spain (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R473(INTERNATIONAL)12.04.2026",
       "p1": "Italy (Dexter)",
       "p2": "Holland (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R473(INTERNATIONAL)12.04.2026",
       "p1": "Argentina (Logan)",
       "p2": "Holland (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R473(INTERNATIONAL)12.04.2026",
       "p1": "Denmark (Cleo)",
       "p2": "Spain (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R474(PREMIER LEAGUE)12.04.2026",
@@ -2176,8 +2176,8 @@
     },
     "FC26 R473(INTERNATIONAL)12.04.2026": {
       "total": 20,
-      "finalizados": 16,
-      "agendados": 4
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R474(PREMIER LEAGUE)12.04.2026": {
       "total": 20,
@@ -3005,62 +3005,62 @@
     "FC26 R473(INTERNATIONAL)12.04.2026": [
       {
         "nome": "Denmark (Cleo)",
-        "Pts": 14,
-        "J": 7,
-        "V": 4,
+        "Pts": 17,
+        "J": 8,
+        "V": 5,
         "E": 2,
         "D": 1,
-        "GP": 26,
-        "GC": 18,
-        "SG": 8,
+        "GP": 32,
+        "GC": 20,
+        "SG": 12,
         "pos": 1
+      },
+      {
+        "nome": "Italy (Dexter)",
+        "Pts": 13,
+        "J": 8,
+        "V": 4,
+        "E": 1,
+        "D": 3,
+        "GP": 20,
+        "GC": 22,
+        "SG": -2,
+        "pos": 2
       },
       {
         "nome": "Spain (Iron)",
         "Pts": 10,
-        "J": 6,
+        "J": 8,
         "V": 3,
         "E": 1,
-        "D": 2,
-        "GP": 15,
-        "GC": 9,
-        "SG": 6,
-        "pos": 2
-      },
-      {
-        "nome": "Italy (Dexter)",
-        "Pts": 10,
-        "J": 7,
-        "V": 3,
-        "E": 1,
-        "D": 3,
-        "GP": 16,
-        "GC": 21,
-        "SG": -5,
+        "D": 4,
+        "GP": 18,
+        "GC": 19,
+        "SG": -1,
         "pos": 3
       },
       {
         "nome": "Argentina (Logan)",
-        "Pts": 5,
-        "J": 6,
-        "V": 1,
+        "Pts": 8,
+        "J": 8,
+        "V": 2,
         "E": 2,
-        "D": 3,
-        "GP": 20,
-        "GC": 24,
-        "SG": -4,
+        "D": 4,
+        "GP": 27,
+        "GC": 30,
+        "SG": -3,
         "pos": 4
       },
       {
         "nome": "Holland (Eric)",
-        "Pts": 5,
-        "J": 6,
-        "V": 1,
+        "Pts": 8,
+        "J": 8,
+        "V": 2,
         "E": 2,
-        "D": 3,
-        "GP": 11,
-        "GC": 16,
-        "SG": -5,
+        "D": 4,
+        "GP": 17,
+        "GC": 23,
+        "SG": -6,
         "pos": 5
       }
     ]
