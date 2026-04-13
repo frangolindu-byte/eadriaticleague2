@@ -1,9 +1,9 @@
 {
-  "updated_at": "13/04/2026 21:32:25",
+  "updated_at": "13/04/2026 22:26:57",
   "summary": {
     "total": 360,
-    "finalizados": 350,
-    "agendados": 10,
+    "finalizados": 360,
+    "agendados": 0,
     "ligas": 20
   },
   "jogos": [
@@ -2461,71 +2461,71 @@
       "liga": "FC26 R493(CHAMPIONS LEAGUE)13.04.2026",
       "p1": "Barcelona (Gael)",
       "p2": "Bayern M. (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R493(CHAMPIONS LEAGUE)13.04.2026",
       "p1": "Manchester City (Odin)",
       "p2": "PSG (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R493(CHAMPIONS LEAGUE)13.04.2026",
       "p1": "Barcelona (Gael)",
       "p2": "PSG (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R493(CHAMPIONS LEAGUE)13.04.2026",
       "p1": "Bayern M. (Mateo)",
       "p2": "Liverpool (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R494(PREMIER LEAGUE)13.04.2026",
       "p1": "Arsenal (Eric)",
       "p2": "Newcastle U. (Nathan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R494(PREMIER LEAGUE)13.04.2026",
       "p1": "Manchester City (Haidan)",
       "p2": "Tottenham (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R494(PREMIER LEAGUE)13.04.2026",
       "p1": "Arsenal (Eric)",
       "p2": "Manchester City (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R494(PREMIER LEAGUE)13.04.2026",
       "p1": "Aston Villa (Beckham)",
       "p2": "Newcastle U. (Nathan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R494(PREMIER LEAGUE)13.04.2026",
       "p1": "Aston Villa (Beckham)",
       "p2": "Tottenham (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R494(PREMIER LEAGUE)13.04.2026",
       "p1": "Newcastle U. (Nathan)",
       "p2": "Manchester City (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2621,13 +2621,13 @@
     },
     "FC26 R493(CHAMPIONS LEAGUE)13.04.2026": {
       "total": 8,
-      "finalizados": 4,
-      "agendados": 4
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R494(PREMIER LEAGUE)13.04.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3749,7 +3749,69 @@
     ],
     "FC26 R493(CHAMPIONS LEAGUE)13.04.2026": [
       {
+        "nome": "Bayern M. (Mateo)",
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
+        "E": 0,
+        "D": 0,
+        "GP": 12,
+        "GC": 6,
+        "SG": 6,
+        "pos": 1
+      },
+      {
         "nome": "Manchester City (Odin)",
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
+        "E": 0,
+        "D": 0,
+        "GP": 11,
+        "GC": 6,
+        "SG": 5,
+        "pos": 2
+      },
+      {
+        "nome": "PSG (Dexter)",
+        "Pts": 6,
+        "J": 4,
+        "V": 2,
+        "E": 0,
+        "D": 2,
+        "GP": 10,
+        "GC": 11,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Liverpool (MisterX)",
+        "Pts": 0,
+        "J": 3,
+        "V": 0,
+        "E": 0,
+        "D": 3,
+        "GP": 7,
+        "GC": 12,
+        "SG": -5,
+        "pos": 4
+      },
+      {
+        "nome": "Barcelona (Gael)",
+        "Pts": 0,
+        "J": 3,
+        "V": 0,
+        "E": 0,
+        "D": 3,
+        "GP": 7,
+        "GC": 12,
+        "SG": -5,
+        "pos": 5
+      }
+    ],
+    "FC26 R494(PREMIER LEAGUE)13.04.2026": [
+      {
+        "nome": "Arsenal (Eric)",
         "Pts": 6,
         "J": 2,
         "V": 2,
@@ -3761,51 +3823,51 @@
         "pos": 1
       },
       {
-        "nome": "Bayern M. (Mateo)",
-        "Pts": 3,
-        "J": 1,
+        "nome": "Tottenham (Felix)",
+        "Pts": 4,
+        "J": 2,
         "V": 1,
-        "E": 0,
+        "E": 1,
         "D": 0,
-        "GP": 3,
-        "GC": 1,
-        "SG": 2,
+        "GP": 7,
+        "GC": 2,
+        "SG": 5,
         "pos": 2
       },
       {
-        "nome": "PSG (Dexter)",
-        "Pts": 3,
+        "nome": "Aston Villa (Beckham)",
+        "Pts": 4,
         "J": 2,
         "V": 1,
-        "E": 0,
-        "D": 1,
-        "GP": 5,
-        "GC": 6,
-        "SG": -1,
+        "E": 1,
+        "D": 0,
+        "GP": 7,
+        "GC": 2,
+        "SG": 5,
         "pos": 3
       },
       {
-        "nome": "Barcelona (Gael)",
-        "Pts": 0,
-        "J": 1,
+        "nome": "Manchester City (Haidan)",
+        "Pts": 1,
+        "J": 3,
         "V": 0,
-        "E": 0,
-        "D": 1,
-        "GP": 3,
-        "GC": 5,
-        "SG": -2,
+        "E": 1,
+        "D": 2,
+        "GP": 7,
+        "GC": 13,
+        "SG": -6,
         "pos": 4
       },
       {
-        "nome": "Liverpool (MisterX)",
-        "Pts": 0,
-        "J": 2,
+        "nome": "Newcastle U. (Nathan)",
+        "Pts": 1,
+        "J": 3,
         "V": 0,
-        "E": 0,
+        "E": 1,
         "D": 2,
-        "GP": 4,
-        "GC": 7,
-        "SG": -3,
+        "GP": 5,
+        "GC": 13,
+        "SG": -8,
         "pos": 5
       }
     ]
