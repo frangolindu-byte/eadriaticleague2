@@ -1,9 +1,9 @@
 {
-  "updated_at": "14/04/2026 15:50:30",
+  "updated_at": "14/04/2026 16:53:31",
   "summary": {
     "total": 360,
-    "finalizados": 266,
-    "agendados": 94,
+    "finalizados": 280,
+    "agendados": 80,
     "ligas": 20
   },
   "jogos": [
@@ -1873,57 +1873,57 @@
       "liga": "FC26 R507(INTERNATIONAL)14.04.2026",
       "p1": "Denmark (Noah)",
       "p2": "Italy (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R507(INTERNATIONAL)14.04.2026",
       "p1": "Spain (VanGogh)",
       "p2": "Argentina (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R507(INTERNATIONAL)14.04.2026",
       "p1": "Holland (Liam)",
       "p2": "Argentina (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R507(INTERNATIONAL)14.04.2026",
       "p1": "Spain (VanGogh)",
       "p2": "Denmark (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R507(INTERNATIONAL)14.04.2026",
       "p1": "Argentina (Donatello)",
       "p2": "Denmark (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R507(INTERNATIONAL)14.04.2026",
       "p1": "Holland (Liam)",
       "p2": "Italy (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R507(INTERNATIONAL)14.04.2026",
       "p1": "Holland (Liam)",
       "p2": "Denmark (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R507(INTERNATIONAL)14.04.2026",
       "p1": "Italy (Andrew)",
       "p2": "Spain (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R507(INTERNATIONAL)14.04.2026",
@@ -2013,43 +2013,43 @@
       "liga": "FC26 R508(LA LIGA)14.04.2026",
       "p1": "Girona (Logan)",
       "p2": "Atletico Madrid (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R508(LA LIGA)14.04.2026",
       "p1": "Real Sociedad (Kai)",
       "p2": "Valencia (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R508(LA LIGA)14.04.2026",
       "p1": "Barcelona (Pascal)",
       "p2": "Valencia (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R508(LA LIGA)14.04.2026",
       "p1": "Real Sociedad (Kai)",
       "p2": "Girona (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R508(LA LIGA)14.04.2026",
       "p1": "Barcelona (Pascal)",
       "p2": "Atletico Madrid (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R508(LA LIGA)14.04.2026",
       "p1": "Valencia (MisterX)",
       "p2": "Girona (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R508(LA LIGA)14.04.2026",
@@ -2601,13 +2601,13 @@
     },
     "FC26 R507(INTERNATIONAL)14.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 8,
+      "agendados": 12
     },
     "FC26 R508(LA LIGA)14.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 6,
+      "agendados": 14
     },
     "FC26 R509(CHAMPIONS LEAGUE)14.04.2026": {
       "total": 20,
@@ -3496,6 +3496,130 @@
         "GP": 23,
         "GC": 34,
         "SG": -11,
+        "pos": 5
+      }
+    ],
+    "FC26 R507(INTERNATIONAL)14.04.2026": [
+      {
+        "nome": "Denmark (Noah)",
+        "Pts": 12,
+        "J": 4,
+        "V": 4,
+        "E": 0,
+        "D": 0,
+        "GP": 15,
+        "GC": 9,
+        "SG": 6,
+        "pos": 1
+      },
+      {
+        "nome": "Italy (Andrew)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 9,
+        "GC": 5,
+        "SG": 4,
+        "pos": 2
+      },
+      {
+        "nome": "Spain (VanGogh)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 9,
+        "GC": 9,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Holland (Liam)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 7,
+        "GC": 10,
+        "SG": -3,
+        "pos": 4
+      },
+      {
+        "nome": "Argentina (Donatello)",
+        "Pts": 0,
+        "J": 3,
+        "V": 0,
+        "E": 0,
+        "D": 3,
+        "GP": 5,
+        "GC": 12,
+        "SG": -7,
+        "pos": 5
+      }
+    ],
+    "FC26 R508(LA LIGA)14.04.2026": [
+      {
+        "nome": "Girona (Logan)",
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
+        "E": 1,
+        "D": 0,
+        "GP": 8,
+        "GC": 2,
+        "SG": 6,
+        "pos": 1
+      },
+      {
+        "nome": "Valencia (MisterX)",
+        "Pts": 5,
+        "J": 3,
+        "V": 1,
+        "E": 2,
+        "D": 0,
+        "GP": 12,
+        "GC": 10,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Barcelona (Pascal)",
+        "Pts": 4,
+        "J": 2,
+        "V": 1,
+        "E": 1,
+        "D": 0,
+        "GP": 10,
+        "GC": 8,
+        "SG": 2,
+        "pos": 3
+      },
+      {
+        "nome": "Atletico Madrid (Lucas)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 2,
+        "GC": 7,
+        "SG": -5,
+        "pos": 4
+      },
+      {
+        "nome": "Real Sociedad (Kai)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 2,
+        "GC": 7,
+        "SG": -5,
         "pos": 5
       }
     ]
