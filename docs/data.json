@@ -1,9 +1,9 @@
 {
-  "updated_at": "15/04/2026 21:07:16",
+  "updated_at": "15/04/2026 22:03:47",
   "summary": {
     "total": 360,
-    "finalizados": 346,
-    "agendados": 14,
+    "finalizados": 360,
+    "agendados": 0,
     "ligas": 20
   },
   "jogos": [
@@ -2433,99 +2433,99 @@
       "liga": "FC26 R529(COPA LIBERTADORES)15.04.2026",
       "p1": "Bolivar (Alexis)",
       "p2": "San Lorenzo (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R529(COPA LIBERTADORES)15.04.2026",
       "p1": "Sao Paulo (Beckham)",
       "p2": "Penarol (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R529(COPA LIBERTADORES)15.04.2026",
       "p1": "River Plate (Dexter)",
       "p2": "Penarol (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R529(COPA LIBERTADORES)15.04.2026",
       "p1": "Sao Paulo (Beckham)",
       "p2": "Bolivar (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R529(COPA LIBERTADORES)15.04.2026",
       "p1": "Penarol (Eduardo)",
       "p2": "Bolivar (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R529(COPA LIBERTADORES)15.04.2026",
       "p1": "River Plate (Dexter)",
       "p2": "San Lorenzo (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R529(COPA LIBERTADORES)15.04.2026",
       "p1": "River Plate (Dexter)",
       "p2": "Bolivar (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R529(COPA LIBERTADORES)15.04.2026",
       "p1": "San Lorenzo (Gael)",
       "p2": "Sao Paulo (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R530(CHAMPIONS LEAGUE)15.04.2026",
       "p1": "Atletico Madrid (Eric)",
       "p2": "Barcelona (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R530(CHAMPIONS LEAGUE)15.04.2026",
       "p1": "Bayern M. (Splinter)",
       "p2": "PSG (Nathan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R530(CHAMPIONS LEAGUE)15.04.2026",
       "p1": "Atletico Madrid (Eric)",
       "p2": "Bayern M. (Splinter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R530(CHAMPIONS LEAGUE)15.04.2026",
       "p1": "Manchester City (Felix)",
       "p2": "Barcelona (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R530(CHAMPIONS LEAGUE)15.04.2026",
       "p1": "Barcelona (Sebastian)",
       "p2": "Bayern M. (Splinter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R530(CHAMPIONS LEAGUE)15.04.2026",
       "p1": "Manchester City (Felix)",
       "p2": "PSG (Nathan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2621,13 +2621,13 @@
     },
     "FC26 R529(COPA LIBERTADORES)15.04.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R530(CHAMPIONS LEAGUE)15.04.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3744,6 +3744,130 @@
         "GP": 24,
         "GC": 34,
         "SG": -10,
+        "pos": 5
+      }
+    ],
+    "FC26 R529(COPA LIBERTADORES)15.04.2026": [
+      {
+        "nome": "Penarol (Eduardo)",
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
+        "E": 0,
+        "D": 0,
+        "GP": 11,
+        "GC": 5,
+        "SG": 6,
+        "pos": 1
+      },
+      {
+        "nome": "River Plate (Dexter)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 10,
+        "GC": 8,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "San Lorenzo (Gael)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 10,
+        "GC": 11,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Sao Paulo (Beckham)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 9,
+        "GC": 10,
+        "SG": -1,
+        "pos": 4
+      },
+      {
+        "nome": "Bolivar (Alexis)",
+        "Pts": 2,
+        "J": 4,
+        "V": 0,
+        "E": 2,
+        "D": 2,
+        "GP": 9,
+        "GC": 15,
+        "SG": -6,
+        "pos": 5
+      }
+    ],
+    "FC26 R530(CHAMPIONS LEAGUE)15.04.2026": [
+      {
+        "nome": "Manchester City (Felix)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 9,
+        "GC": 4,
+        "SG": 5,
+        "pos": 1
+      },
+      {
+        "nome": "Bayern M. (Splinter)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 9,
+        "GC": 9,
+        "SG": 0,
+        "pos": 2
+      },
+      {
+        "nome": "Atletico Madrid (Eric)",
+        "Pts": 4,
+        "J": 2,
+        "V": 1,
+        "E": 1,
+        "D": 0,
+        "GP": 7,
+        "GC": 4,
+        "SG": 3,
+        "pos": 3
+      },
+      {
+        "nome": "Barcelona (Sebastian)",
+        "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 6,
+        "GC": 11,
+        "SG": -5,
+        "pos": 4
+      },
+      {
+        "nome": "PSG (Nathan)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 4,
+        "GC": 7,
+        "SG": -3,
         "pos": 5
       }
     ]
