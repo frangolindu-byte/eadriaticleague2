@@ -4929,7 +4929,10 @@
     ],
     "assertividade": 72.3,
     "key": "FC26 R515(INTERNATIONAL)15.04.2026|Argentina (Alexis)|Portugal (Conde)",
-    "message_id": 840
+    "message_id": 840,
+    "result_checked": true,
+    "result_placar": "6-5",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R515(INTERNATIONAL)15.04.2026",
@@ -4953,7 +4956,10 @@
     ],
     "assertividade": 72.3,
     "key": "FC26 R515(INTERNATIONAL)15.04.2026|Argentina (Alexis)|Portugal (Conde)",
-    "message_id": 841
+    "message_id": 841,
+    "result_checked": true,
+    "result_placar": "6-5",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R515(INTERNATIONAL)15.04.2026",
@@ -4977,7 +4983,10 @@
     ],
     "assertividade": 72.3,
     "key": "FC26 R515(INTERNATIONAL)15.04.2026|Argentina (Alexis)|Portugal (Conde)",
-    "message_id": 842
+    "message_id": 842,
+    "result_checked": true,
+    "result_placar": "6-5",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R515(INTERNATIONAL)15.04.2026",
@@ -5001,7 +5010,10 @@
     ],
     "assertividade": 72.3,
     "key": "FC26 R515(INTERNATIONAL)15.04.2026|Argentina (Alexis)|Portugal (Conde)",
-    "message_id": 843
+    "message_id": 843,
+    "result_checked": true,
+    "result_placar": "6-5",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R515(INTERNATIONAL)15.04.2026",
@@ -5025,6 +5037,144 @@
     ],
     "assertividade": 71.9,
     "key": "FC26 R515(INTERNATIONAL)15.04.2026|Argentina (Alexis)|Italy (Gael)",
-    "message_id": 844
+    "message_id": 844,
+    "result_checked": true,
+    "result_placar": "4-2",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R513(PREMIER LEAGUE)15.04.2026",
+    "p1": "Tottenham (Alexis)",
+    "p2": "Liverpool (Conde)",
+    "w1": 100.0,
+    "w2": 27.0,
+    "j1": 8,
+    "j2": 63,
+    "o65": 76.3,
+    "btts": 96.85,
+    "avg_g": 8.58,
+    "f1": "W-W-W-W-W",
+    "f2": "L-L-L-L-L",
+    "fav": "Tottenham (Alexis)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 76%",
+      "BTTS: 97%",
+      "Vitoria Tottenham (Alexis) (WR 100%)"
+    ],
+    "assertividade": 89.7,
+    "key": "FC26 R513(PREMIER LEAGUE)15.04.2026|Liverpool (Conde)|Tottenham (Alexis)",
+    "message_id": 845,
+    "result_checked": true,
+    "result_placar": "4-6",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R513(PREMIER LEAGUE)15.04.2026",
+    "p1": "Tottenham (Alexis)",
+    "p2": "Newcastle U. (Mateo)",
+    "w1": 100.0,
+    "w2": 25.0,
+    "j1": 8,
+    "j2": 8,
+    "o65": 87.5,
+    "btts": 100.0,
+    "avg_g": 9.31,
+    "f1": "W-W-W-W-W",
+    "f2": "L-W-L-L-L",
+    "fav": "Tottenham (Alexis)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 88%",
+      "BTTS: 100%",
+      "Vitoria Tottenham (Alexis) (WR 100%)"
+    ],
+    "assertividade": 95.0,
+    "key": "FC26 R513(PREMIER LEAGUE)15.04.2026|Newcastle U. (Mateo)|Tottenham (Alexis)",
+    "message_id": 846,
+    "result_checked": true,
+    "result_placar": "5-8",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R513(PREMIER LEAGUE)15.04.2026",
+    "p1": "Tottenham (Alexis)",
+    "p2": "Manchester City (Gael)",
+    "w1": 100.0,
+    "w2": 30.0,
+    "j1": 8,
+    "j2": 20,
+    "o65": 83.75,
+    "btts": 100.0,
+    "avg_g": 9.4,
+    "f1": "W-W-W-W-W",
+    "f2": "L-D-W-W-L",
+    "fav": "Tottenham (Alexis)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 84%",
+      "BTTS: 100%",
+      "Vitoria Tottenham (Alexis) (WR 100%)"
+    ],
+    "assertividade": 93.5,
+    "key": "FC26 R513(PREMIER LEAGUE)15.04.2026|Manchester City (Gael)|Tottenham (Alexis)",
+    "message_id": 847,
+    "result_checked": true,
+    "result_placar": "4-6",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R513(PREMIER LEAGUE)15.04.2026",
+    "p1": "Liverpool (Conde)",
+    "p2": "Tottenham (Alexis)",
+    "w1": 27.0,
+    "w2": 100.0,
+    "j1": 63,
+    "j2": 8,
+    "o65": 76.3,
+    "btts": 96.85,
+    "avg_g": 8.58,
+    "f1": "L-L-L-L-L",
+    "f2": "W-W-W-W-W",
+    "fav": "Tottenham (Alexis)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 76%",
+      "BTTS: 97%",
+      "Vitoria Tottenham (Alexis) (WR 100%)"
+    ],
+    "assertividade": 89.7,
+    "key": "FC26 R513(PREMIER LEAGUE)15.04.2026|Liverpool (Conde)|Tottenham (Alexis)",
+    "message_id": 848,
+    "result_checked": true,
+    "result_placar": "4-6",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R513(PREMIER LEAGUE)15.04.2026",
+    "p1": "Newcastle U. (Mateo)",
+    "p2": "Tottenham (Alexis)",
+    "w1": 25.0,
+    "w2": 100.0,
+    "j1": 8,
+    "j2": 8,
+    "o65": 87.5,
+    "btts": 100.0,
+    "avg_g": 9.31,
+    "f1": "L-W-L-L-L",
+    "f2": "W-W-W-W-W",
+    "fav": "Tottenham (Alexis)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 88%",
+      "BTTS: 100%",
+      "Vitoria Tottenham (Alexis) (WR 100%)"
+    ],
+    "assertividade": 95.0,
+    "key": "FC26 R513(PREMIER LEAGUE)15.04.2026|Newcastle U. (Mateo)|Tottenham (Alexis)",
+    "message_id": 849,
+    "result_checked": true,
+    "result_placar": "5-8",
+    "result_status": "bateu"
   }
 ]
