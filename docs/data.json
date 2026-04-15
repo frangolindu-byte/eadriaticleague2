@@ -1,9 +1,9 @@
 {
-  "updated_at": "14/04/2026 23:12:44",
+  "updated_at": "15/04/2026 00:01:33",
   "summary": {
     "total": 360,
-    "finalizados": 16,
-    "agendados": 344,
+    "finalizados": 28,
+    "agendados": 332,
     "ligas": 20
   },
   "jogos": [
@@ -67,29 +67,29 @@
       "liga": "FC26 R511(CHAMPIONS LEAGUE)14.04.2026",
       "p1": "Atletico Madrid (Gael)",
       "p2": "Bayern M. (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R511(CHAMPIONS LEAGUE)14.04.2026",
       "p1": "Real Madrid (Mateo)",
       "p2": "Barcelona (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R511(CHAMPIONS LEAGUE)14.04.2026",
       "p1": "Atletico Madrid (Gael)",
       "p2": "Barcelona (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R511(CHAMPIONS LEAGUE)14.04.2026",
       "p1": "PSG (Odin)",
       "p2": "Bayern M. (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R512(INTERNATIONAL)14.04.2026",
@@ -151,57 +151,57 @@
       "liga": "FC26 R512(INTERNATIONAL)14.04.2026",
       "p1": "Denmark (Beckham)",
       "p2": "Italy (Nathan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R512(INTERNATIONAL)14.04.2026",
       "p1": "Norway (Felix)",
       "p2": "France (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R512(INTERNATIONAL)14.04.2026",
       "p1": "Denmark (Beckham)",
       "p2": "France (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R512(INTERNATIONAL)14.04.2026",
       "p1": "Holland (Sebastian)",
       "p2": "Norway (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R512(INTERNATIONAL)14.04.2026",
       "p1": "Holland (Sebastian)",
       "p2": "France (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R512(INTERNATIONAL)14.04.2026",
       "p1": "Italy (Nathan)",
       "p2": "Norway (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R513(PREMIER LEAGUE)15.04.2026",
       "p1": "Manchester City (Gael)",
       "p2": "Aston Villa (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R513(PREMIER LEAGUE)15.04.2026",
       "p1": "Newcastle U. (Mateo)",
       "p2": "Liverpool (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R513(PREMIER LEAGUE)15.04.2026",
@@ -2531,18 +2531,18 @@
   "resumo": {
     "FC26 R511(CHAMPIONS LEAGUE)14.04.2026": {
       "total": 12,
-      "finalizados": 8,
-      "agendados": 4
+      "finalizados": 12,
+      "agendados": 0
     },
     "FC26 R512(INTERNATIONAL)14.04.2026": {
       "total": 14,
-      "finalizados": 8,
-      "agendados": 6
+      "finalizados": 14,
+      "agendados": 0
     },
     "FC26 R513(PREMIER LEAGUE)15.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 2,
+      "agendados": 18
     },
     "FC26 R514(CHAMPIONS LEAGUE)15.04.2026": {
       "total": 20,
@@ -2633,126 +2633,176 @@
   "classificacao": {
     "FC26 R511(CHAMPIONS LEAGUE)14.04.2026": [
       {
-        "nome": "PSG (Odin)",
-        "Pts": 9,
-        "J": 4,
-        "V": 3,
+        "nome": "Barcelona (Alexis)",
+        "Pts": 15,
+        "J": 5,
+        "V": 5,
         "E": 0,
-        "D": 1,
-        "GP": 17,
-        "GC": 7,
-        "SG": 10,
+        "D": 0,
+        "GP": 24,
+        "GC": 8,
+        "SG": 16,
         "pos": 1
       },
       {
-        "nome": "Barcelona (Alexis)",
-        "Pts": 9,
-        "J": 3,
-        "V": 3,
+        "nome": "PSG (Odin)",
+        "Pts": 12,
+        "J": 5,
+        "V": 4,
         "E": 0,
-        "D": 0,
-        "GP": 13,
-        "GC": 4,
-        "SG": 9,
+        "D": 1,
+        "GP": 20,
+        "GC": 9,
+        "SG": 11,
         "pos": 2
+      },
+      {
+        "nome": "Atletico Madrid (Gael)",
+        "Pts": 3,
+        "J": 5,
+        "V": 1,
+        "E": 0,
+        "D": 4,
+        "GP": 10,
+        "GC": 18,
+        "SG": -8,
+        "pos": 3
       },
       {
         "nome": "Real Madrid (Mateo)",
         "Pts": 3,
-        "J": 3,
+        "J": 4,
         "V": 1,
         "E": 0,
-        "D": 2,
-        "GP": 7,
-        "GC": 11,
-        "SG": -4,
-        "pos": 3
+        "D": 3,
+        "GP": 9,
+        "GC": 18,
+        "SG": -9,
+        "pos": 4
       },
       {
         "nome": "Bayern M. (Conde)",
         "Pts": 3,
-        "J": 3,
+        "J": 5,
         "V": 1,
         "E": 0,
-        "D": 2,
-        "GP": 6,
-        "GC": 13,
-        "SG": -7,
-        "pos": 4
-      },
-      {
-        "nome": "Atletico Madrid (Gael)",
-        "Pts": 0,
-        "J": 3,
-        "V": 0,
-        "E": 0,
-        "D": 3,
-        "GP": 5,
-        "GC": 13,
-        "SG": -8,
+        "D": 4,
+        "GP": 9,
+        "GC": 19,
+        "SG": -10,
         "pos": 5
       }
     ],
     "FC26 R512(INTERNATIONAL)14.04.2026": [
       {
         "nome": "Norway (Felix)",
-        "Pts": 9,
-        "J": 3,
-        "V": 3,
+        "Pts": 12,
+        "J": 6,
+        "V": 4,
         "E": 0,
-        "D": 0,
-        "GP": 12,
-        "GC": 5,
-        "SG": 7,
+        "D": 2,
+        "GP": 22,
+        "GC": 18,
+        "SG": 4,
         "pos": 1
       },
       {
         "nome": "France (Iron)",
-        "Pts": 6,
-        "J": 3,
-        "V": 2,
-        "E": 0,
-        "D": 1,
-        "GP": 12,
-        "GC": 10,
-        "SG": 2,
+        "Pts": 10,
+        "J": 6,
+        "V": 3,
+        "E": 1,
+        "D": 2,
+        "GP": 20,
+        "GC": 20,
+        "SG": 0,
         "pos": 2
       },
       {
         "nome": "Holland (Sebastian)",
-        "Pts": 6,
-        "J": 4,
-        "V": 2,
-        "E": 0,
+        "Pts": 10,
+        "J": 6,
+        "V": 3,
+        "E": 1,
         "D": 2,
-        "GP": 9,
-        "GC": 11,
-        "SG": -2,
+        "GP": 18,
+        "GC": 18,
+        "SG": 0,
         "pos": 3
       },
       {
-        "nome": "Italy (Nathan)",
-        "Pts": 3,
-        "J": 3,
+        "nome": "Denmark (Beckham)",
+        "Pts": 4,
+        "J": 5,
         "V": 1,
-        "E": 0,
-        "D": 2,
-        "GP": 8,
-        "GC": 10,
-        "SG": -2,
+        "E": 1,
+        "D": 3,
+        "GP": 14,
+        "GC": 15,
+        "SG": -1,
         "pos": 4
       },
       {
-        "nome": "Denmark (Beckham)",
+        "nome": "Italy (Nathan)",
+        "Pts": 4,
+        "J": 5,
+        "V": 1,
+        "E": 1,
+        "D": 3,
+        "GP": 15,
+        "GC": 18,
+        "SG": -3,
+        "pos": 5
+      }
+    ],
+    "FC26 R513(PREMIER LEAGUE)15.04.2026": [
+      {
+        "nome": "Aston Villa (Odin)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 7,
+        "GC": 4,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "Newcastle U. (Mateo)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 4,
+        "GC": 4,
+        "SG": 0,
+        "pos": 2
+      },
+      {
+        "nome": "Liverpool (Conde)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 4,
+        "GC": 4,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Manchester City (Gael)",
         "Pts": 0,
-        "J": 3,
+        "J": 1,
         "V": 0,
         "E": 0,
-        "D": 3,
-        "GP": 7,
-        "GC": 12,
-        "SG": -5,
-        "pos": 5
+        "D": 1,
+        "GP": 4,
+        "GC": 7,
+        "SG": -3,
+        "pos": 4
       }
     ]
   }
