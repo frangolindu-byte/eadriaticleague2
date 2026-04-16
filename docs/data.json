@@ -1,9 +1,9 @@
 {
-  "updated_at": "16/04/2026 22:01:21",
+  "updated_at": "16/04/2026 22:56:49",
   "summary": {
     "total": 254,
-    "finalizados": 252,
-    "agendados": 2,
+    "finalizados": 254,
+    "agendados": 0,
     "ligas": 14
   },
   "jogos": [
@@ -1635,15 +1635,15 @@
       "liga": "FC26 R14(INTERNATIONAL)16.04.2026",
       "p1": "Holland (Felix)",
       "p2": "Norway (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R14(INTERNATIONAL)16.04.2026",
       "p1": "Italy (Iron)",
       "p2": "France (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R12(PREMIER LEAGUE)17.04.2026",
@@ -1849,8 +1849,8 @@
     },
     "FC26 R14(INTERNATIONAL)16.04.2026": {
       "total": 6,
-      "finalizados": 4,
-      "agendados": 2
+      "finalizados": 6,
+      "agendados": 0
     },
     "FC26 R12(PREMIER LEAGUE)17.04.2026": {
       "total": 20,
@@ -2605,6 +2605,18 @@
     ],
     "FC26 R14(INTERNATIONAL)16.04.2026": [
       {
+        "nome": "France (Kristof)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 8,
+        "GC": 3,
+        "SG": 5,
+        "pos": 1
+      },
+      {
         "nome": "Denmark (Sebastian)",
         "Pts": 4,
         "J": 2,
@@ -2614,53 +2626,41 @@
         "GP": 7,
         "GC": 5,
         "SG": 2,
-        "pos": 1
-      },
-      {
-        "nome": "France (Kristof)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
-        "E": 0,
-        "D": 0,
-        "GP": 4,
-        "GC": 0,
-        "SG": 4,
         "pos": 2
       },
       {
         "nome": "Italy (Iron)",
         "Pts": 3,
-        "J": 1,
+        "J": 2,
         "V": 1,
         "E": 0,
-        "D": 0,
-        "GP": 4,
-        "GC": 3,
-        "SG": 1,
+        "D": 1,
+        "GP": 7,
+        "GC": 7,
+        "SG": 0,
         "pos": 3
       },
       {
         "nome": "Norway (Kai)",
-        "Pts": 1,
-        "J": 2,
+        "Pts": 2,
+        "J": 3,
         "V": 0,
-        "E": 1,
+        "E": 2,
         "D": 1,
-        "GP": 2,
-        "GC": 6,
+        "GP": 4,
+        "GC": 8,
         "SG": -4,
         "pos": 4
       },
       {
         "nome": "Holland (Felix)",
-        "Pts": 0,
-        "J": 2,
+        "Pts": 1,
+        "J": 3,
         "V": 0,
-        "E": 0,
+        "E": 1,
         "D": 2,
-        "GP": 6,
-        "GC": 9,
+        "GP": 8,
+        "GC": 11,
         "SG": -3,
         "pos": 5
       }
