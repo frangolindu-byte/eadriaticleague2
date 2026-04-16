@@ -1,9 +1,9 @@
 {
-  "updated_at": "16/04/2026 20:27:38",
+  "updated_at": "16/04/2026 21:12:29",
   "summary": {
     "total": 254,
-    "finalizados": 230,
-    "agendados": 24,
+    "finalizados": 240,
+    "agendados": 14,
     "ligas": 14
   },
   "jogos": [
@@ -1523,29 +1523,29 @@
       "liga": "FC26 R11(CHAMPIONS LEAGUE)16.04.2026",
       "p1": "Bayer Leverkusen (Oliver)",
       "p2": "Manchester City (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R11(CHAMPIONS LEAGUE)16.04.2026",
       "p1": "Borussia Dortmund (Adriano)",
       "p2": "Bayern M. (Maverick)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R11(CHAMPIONS LEAGUE)16.04.2026",
       "p1": "Bayer Leverkusen (Oliver)",
       "p2": "Bayern M. (Maverick)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R11(CHAMPIONS LEAGUE)16.04.2026",
       "p1": "PSG (Donatello)",
       "p2": "Manchester City (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R13(CHAMPIONS LEAGUE)16.04.2026",
@@ -1747,43 +1747,43 @@
       "liga": "FC26 R12(PREMIER LEAGUE)17.04.2026",
       "p1": "Arsenal (Juan)",
       "p2": "Liverpool (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R12(PREMIER LEAGUE)17.04.2026",
       "p1": "Newcastle U. (Dominic)",
       "p2": "Manchester City (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R12(PREMIER LEAGUE)17.04.2026",
       "p1": "Newcastle U. (Dominic)",
       "p2": "Liverpool (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R12(PREMIER LEAGUE)17.04.2026",
       "p1": "Tottenham (Liam)",
       "p2": "Arsenal (Juan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R12(PREMIER LEAGUE)17.04.2026",
       "p1": "Manchester City (Logan)",
       "p2": "Arsenal (Juan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R12(PREMIER LEAGUE)17.04.2026",
       "p1": "Tottenham (Liam)",
       "p2": "Liverpool (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -1839,8 +1839,8 @@
     },
     "FC26 R11(CHAMPIONS LEAGUE)16.04.2026": {
       "total": 20,
-      "finalizados": 16,
-      "agendados": 4
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R13(CHAMPIONS LEAGUE)16.04.2026": {
       "total": 8,
@@ -1854,8 +1854,8 @@
     },
     "FC26 R12(PREMIER LEAGUE)17.04.2026": {
       "total": 20,
-      "finalizados": 14,
-      "agendados": 6
+      "finalizados": 20,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -2482,123 +2482,123 @@
     "FC26 R11(CHAMPIONS LEAGUE)16.04.2026": [
       {
         "nome": "Borussia Dortmund (Adriano)",
-        "Pts": 18,
-        "J": 7,
-        "V": 6,
+        "Pts": 21,
+        "J": 8,
+        "V": 7,
         "E": 0,
         "D": 1,
-        "GP": 30,
-        "GC": 17,
-        "SG": 13,
+        "GP": 35,
+        "GC": 21,
+        "SG": 14,
         "pos": 1
       },
       {
         "nome": "Bayern M. (Maverick)",
+        "Pts": 15,
+        "J": 8,
+        "V": 5,
+        "E": 0,
+        "D": 3,
+        "GP": 38,
+        "GC": 31,
+        "SG": 7,
+        "pos": 2
+      },
+      {
+        "nome": "PSG (Donatello)",
         "Pts": 12,
-        "J": 6,
+        "J": 8,
         "V": 4,
         "E": 0,
-        "D": 2,
-        "GP": 28,
-        "GC": 23,
-        "SG": 5,
-        "pos": 2
+        "D": 4,
+        "GP": 21,
+        "GC": 24,
+        "SG": -3,
+        "pos": 3
       },
       {
         "nome": "Bayer Leverkusen (Oliver)",
         "Pts": 9,
-        "J": 6,
+        "J": 8,
         "V": 3,
         "E": 0,
-        "D": 3,
-        "GP": 24,
-        "GC": 19,
-        "SG": 5,
-        "pos": 3
-      },
-      {
-        "nome": "PSG (Donatello)",
-        "Pts": 9,
-        "J": 7,
-        "V": 3,
-        "E": 0,
-        "D": 4,
-        "GP": 18,
-        "GC": 23,
-        "SG": -5,
+        "D": 5,
+        "GP": 29,
+        "GC": 29,
+        "SG": 0,
         "pos": 4
       },
       {
         "nome": "Manchester City (Mateo)",
-        "Pts": 0,
-        "J": 6,
-        "V": 0,
+        "Pts": 3,
+        "J": 8,
+        "V": 1,
         "E": 0,
-        "D": 6,
-        "GP": 18,
-        "GC": 36,
+        "D": 7,
+        "GP": 23,
+        "GC": 41,
         "SG": -18,
         "pos": 5
       }
     ],
     "FC26 R12(PREMIER LEAGUE)17.04.2026": [
       {
-        "nome": "Arsenal (Juan)",
+        "nome": "Manchester City (Logan)",
         "Pts": 12,
-        "J": 5,
-        "V": 4,
-        "E": 0,
-        "D": 1,
-        "GP": 21,
-        "GC": 12,
-        "SG": 9,
+        "J": 8,
+        "V": 3,
+        "E": 3,
+        "D": 2,
+        "GP": 24,
+        "GC": 20,
+        "SG": 4,
         "pos": 1
       },
       {
-        "nome": "Manchester City (Logan)",
-        "Pts": 8,
-        "J": 6,
-        "V": 2,
-        "E": 2,
+        "nome": "Liverpool (Alexander)",
+        "Pts": 12,
+        "J": 8,
+        "V": 3,
+        "E": 3,
         "D": 2,
-        "GP": 17,
-        "GC": 16,
+        "GP": 32,
+        "GC": 31,
         "SG": 1,
         "pos": 2
       },
       {
-        "nome": "Tottenham (Liam)",
-        "Pts": 8,
-        "J": 6,
-        "V": 2,
-        "E": 2,
-        "D": 2,
-        "GP": 18,
-        "GC": 19,
-        "SG": -1,
+        "nome": "Arsenal (Juan)",
+        "Pts": 12,
+        "J": 8,
+        "V": 4,
+        "E": 0,
+        "D": 4,
+        "GP": 27,
+        "GC": 26,
+        "SG": 1,
         "pos": 3
       },
       {
-        "nome": "Liverpool (Alexander)",
-        "Pts": 7,
-        "J": 5,
-        "V": 2,
-        "E": 1,
+        "nome": "Tottenham (Liam)",
+        "Pts": 12,
+        "J": 8,
+        "V": 3,
+        "E": 3,
         "D": 2,
-        "GP": 19,
-        "GC": 21,
-        "SG": -2,
+        "GP": 26,
+        "GC": 25,
+        "SG": 1,
         "pos": 4
       },
       {
         "nome": "Newcastle U. (Dominic)",
-        "Pts": 4,
-        "J": 6,
+        "Pts": 6,
+        "J": 8,
         "V": 1,
-        "E": 1,
+        "E": 3,
         "D": 4,
-        "GP": 16,
-        "GC": 23,
+        "GP": 24,
+        "GC": 31,
         "SG": -7,
         "pos": 5
       }
