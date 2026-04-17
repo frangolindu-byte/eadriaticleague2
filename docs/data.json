@@ -1,9 +1,9 @@
 {
-  "updated_at": "17/04/2026 21:57:09",
+  "updated_at": "17/04/2026 22:42:07",
   "summary": {
     "total": 360,
-    "finalizados": 356,
-    "agendados": 4,
+    "finalizados": 360,
+    "agendados": 0,
     "ligas": 20
   },
   "jogos": [
@@ -2195,15 +2195,15 @@
       "liga": "FC26 R31(CHAMPIONS LEAGUE)17.04.2026",
       "p1": "Atletico Madrid (Odin)",
       "p2": "Real Madrid (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R31(CHAMPIONS LEAGUE)17.04.2026",
       "p1": "Liverpool (Eric)",
       "p2": "Manchester City (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R32(SERIA A)17.04.2026",
@@ -2237,15 +2237,15 @@
       "liga": "FC26 R32(SERIA A)17.04.2026",
       "p1": "Lazio (Alexander)",
       "p2": "Milan (Daniel)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R32(SERIA A)17.04.2026",
       "p1": "Udinese (Sebastian)",
       "p2": "Atalanta (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R22(PREMIER LEAGUE)17.04.2026",
@@ -2611,13 +2611,13 @@
     },
     "FC26 R31(CHAMPIONS LEAGUE)17.04.2026": {
       "total": 8,
-      "finalizados": 6,
-      "agendados": 2
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R32(SERIA A)17.04.2026": {
       "total": 6,
-      "finalizados": 4,
-      "agendados": 2
+      "finalizados": 6,
+      "agendados": 0
     },
     "FC26 R22(PREMIER LEAGUE)17.04.2026": {
       "total": 20,
@@ -3637,50 +3637,50 @@
         "pos": 1
       },
       {
-        "nome": "Real Madrid (Beckham)",
-        "Pts": 3,
+        "nome": "Atletico Madrid (Odin)",
+        "Pts": 6,
         "J": 3,
-        "V": 1,
+        "V": 2,
         "E": 0,
-        "D": 2,
-        "GP": 10,
-        "GC": 10,
-        "SG": 0,
+        "D": 1,
+        "GP": 14,
+        "GC": 9,
+        "SG": 5,
         "pos": 2
       },
       {
-        "nome": "Atletico Madrid (Odin)",
-        "Pts": 3,
-        "J": 2,
+        "nome": "Liverpool (Eric)",
+        "Pts": 4,
+        "J": 3,
         "V": 1,
-        "E": 0,
+        "E": 1,
         "D": 1,
-        "GP": 8,
-        "GC": 8,
-        "SG": 0,
+        "GP": 9,
+        "GC": 10,
+        "SG": -1,
         "pos": 3
       },
       {
-        "nome": "Liverpool (Eric)",
+        "nome": "Real Madrid (Beckham)",
         "Pts": 3,
-        "J": 2,
+        "J": 4,
         "V": 1,
         "E": 0,
-        "D": 1,
-        "GP": 6,
-        "GC": 7,
-        "SG": -1,
+        "D": 3,
+        "GP": 11,
+        "GC": 16,
+        "SG": -5,
         "pos": 4
       },
       {
         "nome": "Manchester City (Dexter)",
-        "Pts": 0,
-        "J": 2,
+        "Pts": 1,
+        "J": 3,
         "V": 0,
-        "E": 0,
+        "E": 1,
         "D": 2,
-        "GP": 4,
-        "GC": 10,
+        "GP": 7,
+        "GC": 13,
         "SG": -6,
         "pos": 5
       }
@@ -3688,14 +3688,14 @@
     "FC26 R32(SERIA A)17.04.2026": [
       {
         "nome": "Udinese (Sebastian)",
-        "Pts": 4,
-        "J": 2,
-        "V": 1,
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
         "E": 1,
         "D": 0,
-        "GP": 9,
-        "GC": 6,
-        "SG": 3,
+        "GP": 14,
+        "GC": 10,
+        "SG": 4,
         "pos": 1
       },
       {
@@ -3713,37 +3713,37 @@
       {
         "nome": "Milan (Daniel)",
         "Pts": 3,
-        "J": 1,
+        "J": 2,
         "V": 1,
         "E": 0,
-        "D": 0,
-        "GP": 3,
-        "GC": 2,
-        "SG": 1,
+        "D": 1,
+        "GP": 4,
+        "GC": 5,
+        "SG": -1,
         "pos": 3
+      },
+      {
+        "nome": "Lazio (Alexander)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 4,
+        "GC": 5,
+        "SG": -1,
+        "pos": 4
       },
       {
         "nome": "Atalanta (Kristof)",
         "Pts": 0,
-        "J": 2,
+        "J": 3,
         "V": 0,
         "E": 0,
-        "D": 2,
-        "GP": 3,
-        "GC": 6,
-        "SG": -3,
-        "pos": 4
-      },
-      {
-        "nome": "Lazio (Alexander)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
-        "E": 0,
-        "D": 1,
-        "GP": 1,
-        "GC": 4,
-        "SG": -3,
+        "D": 3,
+        "GP": 7,
+        "GC": 11,
+        "SG": -4,
         "pos": 5
       }
     ],
