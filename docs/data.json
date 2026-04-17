@@ -1,9 +1,9 @@
 {
-  "updated_at": "17/04/2026 09:46:54",
+  "updated_at": "17/04/2026 10:44:22",
   "summary": {
     "total": 360,
-    "finalizados": 174,
-    "agendados": 186,
+    "finalizados": 188,
+    "agendados": 172,
     "ligas": 20
   },
   "jogos": [
@@ -1145,43 +1145,43 @@
       "liga": "FC26 R21(INTERNATIONAL)17.04.2026",
       "p1": "France (Maverick)",
       "p2": "Argentina (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R21(INTERNATIONAL)17.04.2026",
       "p1": "Ghana (Panther)",
       "p2": "Morocco (Gabriel)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R21(INTERNATIONAL)17.04.2026",
       "p1": "Denmark (Bruno)",
       "p2": "Argentina (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R21(INTERNATIONAL)17.04.2026",
       "p1": "France (Maverick)",
       "p2": "Morocco (Gabriel)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R23(CHAMPIONS LEAGUE)17.04.2026",
       "p1": "Bayer Leverkusen (Panther)",
       "p2": "PSG (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R23(CHAMPIONS LEAGUE)17.04.2026",
       "p1": "Manchester City (Maverick)",
       "p2": "Bayern M. (Bruno)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R23(CHAMPIONS LEAGUE)17.04.2026",
@@ -2335,57 +2335,57 @@
       "liga": "FC26 R22(PREMIER LEAGUE)17.04.2026",
       "p1": "Liverpool (VanGogh)",
       "p2": "Arsenal (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R22(PREMIER LEAGUE)17.04.2026",
       "p1": "West Ham United (Dominic)",
       "p2": "Aston Villa (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R22(PREMIER LEAGUE)17.04.2026",
       "p1": "Liverpool (VanGogh)",
       "p2": "West Ham United (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R22(PREMIER LEAGUE)17.04.2026",
       "p1": "Newcastle U. (MisterX)",
       "p2": "Aston Villa (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R22(PREMIER LEAGUE)17.04.2026",
       "p1": "Arsenal (Liam)",
       "p2": "Newcastle U. (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R22(PREMIER LEAGUE)17.04.2026",
       "p1": "Liverpool (VanGogh)",
       "p2": "Aston Villa (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R22(PREMIER LEAGUE)17.04.2026",
       "p1": "Arsenal (Liam)",
       "p2": "Aston Villa (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R22(PREMIER LEAGUE)17.04.2026",
       "p1": "West Ham United (Dominic)",
       "p2": "Newcastle U. (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R24(SERIA A)17.04.2026",
@@ -2571,13 +2571,13 @@
     },
     "FC26 R21(INTERNATIONAL)17.04.2026": {
       "total": 20,
-      "finalizados": 16,
-      "agendados": 4
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R23(CHAMPIONS LEAGUE)17.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 2,
+      "agendados": 18
     },
     "FC26 R25(CHAMPIONS LEAGUE)17.04.2026": {
       "total": 20,
@@ -2621,8 +2621,8 @@
     },
     "FC26 R22(PREMIER LEAGUE)17.04.2026": {
       "total": 20,
-      "finalizados": 12,
-      "agendados": 8
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R24(SERIA A)17.04.2026": {
       "total": 20,
@@ -3130,124 +3130,174 @@
     "FC26 R21(INTERNATIONAL)17.04.2026": [
       {
         "nome": "Morocco (Gabriel)",
-        "Pts": 15,
-        "J": 6,
-        "V": 5,
+        "Pts": 18,
+        "J": 8,
+        "V": 6,
         "E": 0,
-        "D": 1,
-        "GP": 27,
-        "GC": 15,
-        "SG": 12,
+        "D": 2,
+        "GP": 36,
+        "GC": 25,
+        "SG": 11,
         "pos": 1
       },
       {
         "nome": "France (Maverick)",
-        "Pts": 9,
-        "J": 6,
-        "V": 3,
+        "Pts": 12,
+        "J": 8,
+        "V": 4,
         "E": 0,
-        "D": 3,
-        "GP": 26,
-        "GC": 21,
-        "SG": 5,
+        "D": 4,
+        "GP": 34,
+        "GC": 26,
+        "SG": 8,
         "pos": 2
       },
       {
         "nome": "Ghana (Panther)",
-        "Pts": 9,
-        "J": 7,
-        "V": 3,
+        "Pts": 12,
+        "J": 8,
+        "V": 4,
         "E": 0,
         "D": 4,
-        "GP": 28,
-        "GC": 29,
-        "SG": -1,
+        "GP": 35,
+        "GC": 34,
+        "SG": 1,
         "pos": 3
       },
       {
         "nome": "Denmark (Bruno)",
         "Pts": 9,
-        "J": 7,
+        "J": 8,
         "V": 3,
         "E": 0,
-        "D": 4,
-        "GP": 22,
-        "GC": 31,
-        "SG": -9,
+        "D": 5,
+        "GP": 24,
+        "GC": 34,
+        "SG": -10,
         "pos": 4
       },
       {
         "nome": "Argentina (Cleo)",
-        "Pts": 6,
-        "J": 6,
-        "V": 2,
+        "Pts": 9,
+        "J": 8,
+        "V": 3,
         "E": 0,
-        "D": 4,
-        "GP": 13,
-        "GC": 20,
-        "SG": -7,
+        "D": 5,
+        "GP": 17,
+        "GC": 27,
+        "SG": -10,
         "pos": 5
+      }
+    ],
+    "FC26 R23(CHAMPIONS LEAGUE)17.04.2026": [
+      {
+        "nome": "Manchester City (Maverick)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 2,
+        "GC": 2,
+        "SG": 0,
+        "pos": 1
+      },
+      {
+        "nome": "Bayern M. (Bruno)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 2,
+        "GC": 2,
+        "SG": 0,
+        "pos": 2
+      },
+      {
+        "nome": "Bayer Leverkusen (Panther)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 1,
+        "GC": 1,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "PSG (Cleo)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 1,
+        "GC": 1,
+        "SG": 0,
+        "pos": 4
       }
     ],
     "FC26 R22(PREMIER LEAGUE)17.04.2026": [
       {
         "nome": "Liverpool (VanGogh)",
-        "Pts": 12,
-        "J": 5,
-        "V": 4,
-        "E": 0,
-        "D": 1,
-        "GP": 20,
-        "GC": 11,
-        "SG": 9,
+        "Pts": 16,
+        "J": 8,
+        "V": 5,
+        "E": 1,
+        "D": 2,
+        "GP": 32,
+        "GC": 22,
+        "SG": 10,
         "pos": 1
       },
       {
         "nome": "Newcastle U. (MisterX)",
-        "Pts": 10,
-        "J": 5,
-        "V": 3,
+        "Pts": 13,
+        "J": 8,
+        "V": 4,
         "E": 1,
-        "D": 1,
-        "GP": 20,
-        "GC": 17,
-        "SG": 3,
+        "D": 3,
+        "GP": 29,
+        "GC": 33,
+        "SG": -4,
         "pos": 2
       },
       {
-        "nome": "Aston Villa (Oliver)",
-        "Pts": 7,
-        "J": 4,
-        "V": 2,
-        "E": 1,
-        "D": 1,
-        "GP": 25,
-        "GC": 20,
-        "SG": 5,
+        "nome": "Arsenal (Liam)",
+        "Pts": 11,
+        "J": 8,
+        "V": 3,
+        "E": 2,
+        "D": 3,
+        "GP": 27,
+        "GC": 24,
+        "SG": 3,
         "pos": 3
       },
       {
-        "nome": "Arsenal (Liam)",
-        "Pts": 4,
-        "J": 5,
-        "V": 1,
+        "nome": "Aston Villa (Oliver)",
+        "Pts": 10,
+        "J": 8,
+        "V": 3,
         "E": 1,
-        "D": 3,
-        "GP": 15,
-        "GC": 19,
-        "SG": -4,
+        "D": 4,
+        "GP": 41,
+        "GC": 39,
+        "SG": 2,
         "pos": 4
       },
       {
         "nome": "West Ham United (Dominic)",
-        "Pts": 1,
-        "J": 5,
-        "V": 0,
+        "Pts": 7,
+        "J": 8,
+        "V": 2,
         "E": 1,
-        "D": 4,
-        "GP": 12,
-        "GC": 25,
-        "SG": -13,
+        "D": 5,
+        "GP": 27,
+        "GC": 38,
+        "SG": -11,
         "pos": 5
       }
     ]
