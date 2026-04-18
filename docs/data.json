@@ -1,9 +1,9 @@
 {
-  "updated_at": "18/04/2026 17:55:11",
+  "updated_at": "18/04/2026 18:43:04",
   "summary": {
     "total": 300,
-    "finalizados": 262,
-    "agendados": 38,
+    "finalizados": 268,
+    "agendados": 32,
     "ligas": 17
   },
   "jogos": [
@@ -1845,43 +1845,43 @@
       "liga": "FC26 R44(INTERNATIONAL)18.04.2026",
       "p1": "Holland (MisterX)",
       "p2": "Spain (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R44(INTERNATIONAL)18.04.2026",
       "p1": "Portugal (Beckham)",
       "p2": "Argentina (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R44(INTERNATIONAL)18.04.2026",
       "p1": "France (Popeye)",
       "p2": "Spain (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R44(INTERNATIONAL)18.04.2026",
       "p1": "Holland (MisterX)",
       "p2": "Argentina (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R45(LA LIGA)18.04.2026",
       "p1": "Barcelona (MisterX)",
       "p2": "Real Madrid (Popeye)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R45(LA LIGA)18.04.2026",
       "p1": "Sevilla (Beckham)",
       "p2": "Real Sociedad (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R45(LA LIGA)18.04.2026",
@@ -2176,13 +2176,13 @@
     },
     "FC26 R44(INTERNATIONAL)18.04.2026": {
       "total": 20,
-      "finalizados": 16,
-      "agendados": 4
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R45(LA LIGA)18.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 2,
+      "agendados": 18
     },
     "FC26 R46(SERIA A)18.04.2026": {
       "total": 8,
@@ -3005,63 +3005,113 @@
     "FC26 R44(INTERNATIONAL)18.04.2026": [
       {
         "nome": "Argentina (Oliver)",
-        "Pts": 15,
-        "J": 6,
-        "V": 5,
+        "Pts": 18,
+        "J": 8,
+        "V": 6,
         "E": 0,
-        "D": 1,
-        "GP": 27,
-        "GC": 16,
-        "SG": 11,
+        "D": 2,
+        "GP": 36,
+        "GC": 23,
+        "SG": 13,
         "pos": 1
       },
       {
         "nome": "Portugal (Beckham)",
-        "Pts": 11,
-        "J": 7,
-        "V": 3,
+        "Pts": 14,
+        "J": 8,
+        "V": 4,
         "E": 2,
         "D": 2,
-        "GP": 31,
-        "GC": 29,
-        "SG": 2,
+        "GP": 36,
+        "GC": 33,
+        "SG": 3,
         "pos": 2
       },
       {
-        "nome": "Holland (MisterX)",
-        "Pts": 10,
-        "J": 6,
-        "V": 3,
-        "E": 1,
-        "D": 2,
+        "nome": "Spain (Lucas)",
+        "Pts": 12,
+        "J": 8,
+        "V": 4,
+        "E": 0,
+        "D": 4,
         "GP": 26,
         "GC": 26,
         "SG": 0,
         "pos": 3
       },
       {
-        "nome": "Spain (Lucas)",
-        "Pts": 6,
-        "J": 6,
-        "V": 2,
-        "E": 0,
+        "nome": "Holland (MisterX)",
+        "Pts": 10,
+        "J": 8,
+        "V": 3,
+        "E": 1,
         "D": 4,
-        "GP": 18,
-        "GC": 25,
+        "GP": 28,
+        "GC": 35,
         "SG": -7,
         "pos": 4
       },
       {
         "nome": "France (Popeye)",
         "Pts": 4,
-        "J": 7,
+        "J": 8,
         "V": 1,
         "E": 1,
-        "D": 5,
-        "GP": 29,
-        "GC": 35,
-        "SG": -6,
+        "D": 6,
+        "GP": 30,
+        "GC": 39,
+        "SG": -9,
         "pos": 5
+      }
+    ],
+    "FC26 R45(LA LIGA)18.04.2026": [
+      {
+        "nome": "Sevilla (Beckham)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 6,
+        "GC": 4,
+        "SG": 2,
+        "pos": 1
+      },
+      {
+        "nome": "Barcelona (MisterX)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 4,
+        "GC": 4,
+        "SG": 0,
+        "pos": 2
+      },
+      {
+        "nome": "Real Madrid (Popeye)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 4,
+        "GC": 4,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Real Sociedad (Lucas)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 4,
+        "GC": 6,
+        "SG": -2,
+        "pos": 4
       }
     ]
   }
