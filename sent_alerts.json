@@ -5811,7 +5811,10 @@
     ],
     "assertividade": 78.8,
     "key": "FC26 R33(INTERNATIONAL)18.04.2026|Norway (Gael)|Spain (Eric)",
-    "message_id": 873
+    "message_id": 873,
+    "result_checked": true,
+    "result_placar": "5-5",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R33(INTERNATIONAL)18.04.2026",
@@ -5862,7 +5865,10 @@
     ],
     "assertividade": 78.8,
     "key": "FC26 R33(INTERNATIONAL)18.04.2026|Norway (Gael)|Spain (Eric)",
-    "message_id": 875
+    "message_id": 875,
+    "result_checked": true,
+    "result_placar": "5-5",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R45(LA LIGA)18.04.2026",
@@ -5887,5 +5893,113 @@
     "assertividade": 76.2,
     "key": "FC26 R45(LA LIGA)18.04.2026|Real Madrid (Popeye)|Villarreal (Oliver)",
     "message_id": 876
+  },
+  {
+    "liga": "FC26 R34(CHAMPIONS LEAGUE)18.04.2026",
+    "p1": "Aston Villa (Kristof)",
+    "p2": "Real Madrid (Daniel)",
+    "w1": 45.5,
+    "w2": 12.5,
+    "j1": 22,
+    "j2": 8,
+    "o65": 56.25,
+    "btts": 95.45,
+    "avg_g": 6.52,
+    "f1": "W-W-L-W-L",
+    "f2": "W-L-D-L-L",
+    "fav": "Aston Villa (Kristof)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 56%",
+      "BTTS: 95%",
+      "Vitoria Aston Villa (Kristof) (WR 46%)"
+    ],
+    "assertividade": 62.3,
+    "key": "FC26 R34(CHAMPIONS LEAGUE)18.04.2026|Aston Villa (Kristof)|Real Madrid (Daniel)",
+    "message_id": 877,
+    "result_checked": true,
+    "result_placar": "3-4",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R34(CHAMPIONS LEAGUE)18.04.2026",
+    "p1": "Real Madrid (Daniel)",
+    "p2": "Borussia Dortmund (Juan)",
+    "w1": 12.5,
+    "w2": 62.5,
+    "j1": 8,
+    "j2": 8,
+    "o65": 50.0,
+    "btts": 100.0,
+    "avg_g": 6.25,
+    "f1": "W-L-D-L-L",
+    "f2": "W-L-W-W-L",
+    "fav": "Borussia Dortmund (Juan)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 50%",
+      "BTTS: 100%",
+      "Vitoria Borussia Dortmund (Juan) (WR 62%)"
+    ],
+    "assertividade": 66.9,
+    "key": "FC26 R34(CHAMPIONS LEAGUE)18.04.2026|Borussia Dortmund (Juan)|Real Madrid (Daniel)",
+    "message_id": 878,
+    "result_checked": true,
+    "result_placar": "4-2",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R34(CHAMPIONS LEAGUE)18.04.2026",
+    "p1": "Real Madrid (Daniel)",
+    "p2": "Aston Villa (Kristof)",
+    "w1": 12.5,
+    "w2": 45.5,
+    "j1": 8,
+    "j2": 22,
+    "o65": 56.25,
+    "btts": 95.45,
+    "avg_g": 6.52,
+    "f1": "W-L-D-L-L",
+    "f2": "W-W-L-W-L",
+    "fav": "Aston Villa (Kristof)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 56%",
+      "BTTS: 95%",
+      "Vitoria Aston Villa (Kristof) (WR 46%)"
+    ],
+    "assertividade": 62.3,
+    "key": "FC26 R34(CHAMPIONS LEAGUE)18.04.2026|Aston Villa (Kristof)|Real Madrid (Daniel)",
+    "message_id": 879,
+    "result_checked": true,
+    "result_placar": "3-4",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R34(CHAMPIONS LEAGUE)18.04.2026",
+    "p1": "Borussia Dortmund (Juan)",
+    "p2": "Real Madrid (Daniel)",
+    "w1": 62.5,
+    "w2": 12.5,
+    "j1": 8,
+    "j2": 8,
+    "o65": 50.0,
+    "btts": 100.0,
+    "avg_g": 6.25,
+    "f1": "W-L-W-W-L",
+    "f2": "W-L-D-L-L",
+    "fav": "Borussia Dortmund (Juan)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 50%",
+      "BTTS: 100%",
+      "Vitoria Borussia Dortmund (Juan) (WR 62%)"
+    ],
+    "assertividade": 66.9,
+    "key": "FC26 R34(CHAMPIONS LEAGUE)18.04.2026|Borussia Dortmund (Juan)|Real Madrid (Daniel)",
+    "message_id": 880,
+    "result_checked": true,
+    "result_placar": "4-2",
+    "result_status": "errou"
   }
 ]
