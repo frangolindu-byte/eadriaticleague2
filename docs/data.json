@@ -1,9 +1,9 @@
 {
-  "updated_at": "18/04/2026 20:51:18",
+  "updated_at": "18/04/2026 21:24:02",
   "summary": {
     "total": 300,
-    "finalizados": 286,
-    "agendados": 14,
+    "finalizados": 288,
+    "agendados": 12,
     "ligas": 17
   },
   "jogos": [
@@ -2013,15 +2013,15 @@
       "liga": "FC26 R46(SERIA A)18.04.2026",
       "p1": "Atalanta (Gael)",
       "p2": "Juventus (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R46(SERIA A)18.04.2026",
       "p1": "Inter (Eric)",
       "p2": "Napoli (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R46(SERIA A)18.04.2026",
@@ -2186,8 +2186,8 @@
     },
     "FC26 R46(SERIA A)18.04.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 2,
+      "agendados": 6
     },
     "FC26 R47(CHAMPIONS LEAGUE)18.04.2026": {
       "total": 6,
@@ -3124,6 +3124,56 @@
         "GC": 37,
         "SG": -10,
         "pos": 5
+      }
+    ],
+    "FC26 R46(SERIA A)18.04.2026": [
+      {
+        "nome": "Napoli (Conde)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 5,
+        "GC": 3,
+        "SG": 2,
+        "pos": 1
+      },
+      {
+        "nome": "Atalanta (Gael)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 3,
+        "GC": 3,
+        "SG": 0,
+        "pos": 2
+      },
+      {
+        "nome": "Juventus (Kai)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 3,
+        "GC": 3,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Inter (Eric)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 3,
+        "GC": 5,
+        "SG": -2,
+        "pos": 4
       }
     ]
   }
