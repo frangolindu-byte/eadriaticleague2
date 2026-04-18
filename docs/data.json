@@ -1,9 +1,9 @@
 {
-  "updated_at": "18/04/2026 20:03:48",
+  "updated_at": "18/04/2026 20:51:18",
   "summary": {
     "total": 300,
-    "finalizados": 280,
-    "agendados": 20,
+    "finalizados": 286,
+    "agendados": 14,
     "ligas": 17
   },
   "jogos": [
@@ -1971,43 +1971,43 @@
       "liga": "FC26 R45(LA LIGA)18.04.2026",
       "p1": "Real Sociedad (Lucas)",
       "p2": "Villarreal (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R45(LA LIGA)18.04.2026",
       "p1": "Sevilla (Beckham)",
       "p2": "Real Madrid (Popeye)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R45(LA LIGA)18.04.2026",
       "p1": "Barcelona (MisterX)",
       "p2": "Real Sociedad (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R45(LA LIGA)18.04.2026",
       "p1": "Sevilla (Beckham)",
       "p2": "Villarreal (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R45(LA LIGA)18.04.2026",
       "p1": "Barcelona (MisterX)",
       "p2": "Villarreal (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "8-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R45(LA LIGA)18.04.2026",
       "p1": "Real Madrid (Popeye)",
       "p2": "Real Sociedad (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R46(SERIA A)18.04.2026",
@@ -2075,7 +2075,7 @@
     {
       "liga": "FC26 R47(CHAMPIONS LEAGUE)18.04.2026",
       "p1": "Bayern M. (Daniel)",
-      "p2": "Monaco (Alexander)",
+      "p2": "Monaco (Kristof)",
       "placar": "vs",
       "status": "Agendado"
     },
@@ -2103,7 +2103,7 @@
     {
       "liga": "FC26 R47(CHAMPIONS LEAGUE)18.04.2026",
       "p1": "Real Madrid (George)",
-      "p2": "Monaco (Alexander)",
+      "p2": "Monaco (Kristof)",
       "placar": "vs",
       "status": "Agendado"
     }
@@ -2181,8 +2181,8 @@
     },
     "FC26 R45(LA LIGA)18.04.2026": {
       "total": 20,
-      "finalizados": 14,
-      "agendados": 6
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R46(SERIA A)18.04.2026": {
       "total": 8,
@@ -3067,62 +3067,62 @@
     "FC26 R45(LA LIGA)18.04.2026": [
       {
         "nome": "Villarreal (Oliver)",
-        "Pts": 15,
-        "J": 5,
+        "Pts": 16,
+        "J": 8,
         "V": 5,
-        "E": 0,
-        "D": 0,
-        "GP": 33,
-        "GC": 18,
-        "SG": 15,
+        "E": 1,
+        "D": 2,
+        "GP": 48,
+        "GC": 35,
+        "SG": 13,
         "pos": 1
       },
       {
         "nome": "Sevilla (Beckham)",
-        "Pts": 12,
-        "J": 6,
+        "Pts": 14,
+        "J": 8,
         "V": 4,
-        "E": 0,
+        "E": 2,
         "D": 2,
-        "GP": 28,
-        "GC": 22,
+        "GP": 36,
+        "GC": 30,
         "SG": 6,
         "pos": 2
       },
       {
         "nome": "Real Madrid (Popeye)",
-        "Pts": 7,
-        "J": 6,
-        "V": 2,
-        "E": 1,
+        "Pts": 11,
+        "J": 8,
+        "V": 3,
+        "E": 2,
         "D": 3,
-        "GP": 21,
-        "GC": 25,
-        "SG": -4,
+        "GP": 30,
+        "GC": 31,
+        "SG": -1,
         "pos": 3
       },
       {
         "nome": "Barcelona (MisterX)",
-        "Pts": 7,
-        "J": 6,
-        "V": 2,
-        "E": 1,
+        "Pts": 11,
+        "J": 8,
+        "V": 3,
+        "E": 2,
         "D": 3,
-        "GP": 22,
-        "GC": 31,
-        "SG": -9,
+        "GP": 34,
+        "GC": 42,
+        "SG": -8,
         "pos": 4
       },
       {
         "nome": "Real Sociedad (Lucas)",
-        "Pts": 0,
-        "J": 5,
-        "V": 0,
-        "E": 0,
-        "D": 5,
-        "GP": 16,
-        "GC": 24,
-        "SG": -8,
+        "Pts": 4,
+        "J": 8,
+        "V": 1,
+        "E": 1,
+        "D": 6,
+        "GP": 27,
+        "GC": 37,
+        "SG": -10,
         "pos": 5
       }
     ]
