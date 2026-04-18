@@ -1,9 +1,9 @@
 {
-  "updated_at": "18/04/2026 13:44:02",
+  "updated_at": "18/04/2026 14:28:09",
   "summary": {
     "total": 300,
-    "finalizados": 232,
-    "agendados": 68,
+    "finalizados": 238,
+    "agendados": 62,
     "ligas": 17
   },
   "jogos": [
@@ -1635,43 +1635,43 @@
       "liga": "FC26 R43(CHAMPIONS LEAGUE)18.04.2026",
       "p1": "Atletico Madrid (Oliver)",
       "p2": "Manchester City (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "8-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R43(CHAMPIONS LEAGUE)18.04.2026",
       "p1": "Liverpool (Lucas)",
       "p2": "Bayern M. (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R43(CHAMPIONS LEAGUE)18.04.2026",
       "p1": "Atletico Madrid (Oliver)",
       "p2": "Bayern M. (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R43(CHAMPIONS LEAGUE)18.04.2026",
       "p1": "Liverpool (Lucas)",
       "p2": "Real Madrid (Popeye)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R43(CHAMPIONS LEAGUE)18.04.2026",
       "p1": "Liverpool (Lucas)",
       "p2": "Manchester City (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R43(CHAMPIONS LEAGUE)18.04.2026",
       "p1": "Real Madrid (Popeye)",
       "p2": "Bayern M. (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R43(CHAMPIONS LEAGUE)18.04.2026",
@@ -2171,8 +2171,8 @@
     },
     "FC26 R43(CHAMPIONS LEAGUE)18.04.2026": {
       "total": 20,
-      "finalizados": 6,
-      "agendados": 14
+      "finalizados": 12,
+      "agendados": 8
     },
     "FC26 R44(INTERNATIONAL)18.04.2026": {
       "total": 20,
@@ -2943,62 +2943,62 @@
     "FC26 R43(CHAMPIONS LEAGUE)18.04.2026": [
       {
         "nome": "Bayern M. (MisterX)",
-        "Pts": 6,
-        "J": 2,
-        "V": 2,
-        "E": 0,
+        "Pts": 11,
+        "J": 5,
+        "V": 3,
+        "E": 2,
         "D": 0,
-        "GP": 11,
-        "GC": 7,
-        "SG": 4,
+        "GP": 20,
+        "GC": 14,
+        "SG": 6,
         "pos": 1
       },
       {
         "nome": "Manchester City (Beckham)",
-        "Pts": 6,
-        "J": 3,
-        "V": 2,
+        "Pts": 9,
+        "J": 5,
+        "V": 3,
         "E": 0,
-        "D": 1,
-        "GP": 9,
-        "GC": 10,
-        "SG": -1,
+        "D": 2,
+        "GP": 17,
+        "GC": 21,
+        "SG": -4,
         "pos": 2
       },
       {
         "nome": "Real Madrid (Popeye)",
-        "Pts": 3,
-        "J": 3,
-        "V": 1,
+        "Pts": 6,
+        "J": 5,
+        "V": 2,
         "E": 0,
-        "D": 2,
-        "GP": 9,
-        "GC": 10,
-        "SG": -1,
+        "D": 3,
+        "GP": 16,
+        "GC": 16,
+        "SG": 0,
         "pos": 3
       },
       {
         "nome": "Atletico Madrid (Oliver)",
-        "Pts": 1,
-        "J": 2,
-        "V": 0,
-        "E": 1,
+        "Pts": 5,
+        "J": 4,
+        "V": 1,
+        "E": 2,
         "D": 1,
-        "GP": 7,
-        "GC": 8,
-        "SG": -1,
+        "GP": 17,
+        "GC": 13,
+        "SG": 4,
         "pos": 4
       },
       {
         "nome": "Liverpool (Lucas)",
-        "Pts": 1,
-        "J": 2,
+        "Pts": 2,
+        "J": 5,
         "V": 0,
-        "E": 1,
-        "D": 1,
-        "GP": 5,
-        "GC": 6,
-        "SG": -1,
+        "E": 2,
+        "D": 3,
+        "GP": 11,
+        "GC": 17,
+        "SG": -6,
         "pos": 5
       }
     ]
