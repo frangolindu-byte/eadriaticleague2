@@ -1,9 +1,9 @@
 {
-  "updated_at": "18/04/2026 11:47:03",
+  "updated_at": "18/04/2026 12:29:11",
   "summary": {
     "total": 300,
-    "finalizados": 206,
-    "agendados": 94,
+    "finalizados": 218,
+    "agendados": 82,
     "ligas": 17
   },
   "jogos": [
@@ -1397,43 +1397,43 @@
       "liga": "FC26 R41(INTERNATIONAL)18.04.2026",
       "p1": "France (Bruno)",
       "p2": "Spain (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R41(INTERNATIONAL)18.04.2026",
       "p1": "Norway (Gabriel)",
       "p2": "Denmark (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R41(INTERNATIONAL)18.04.2026",
       "p1": "France (Bruno)",
       "p2": "Norway (Gabriel)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R41(INTERNATIONAL)18.04.2026",
       "p1": "Portugal (Cleo)",
       "p2": "Denmark (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R41(INTERNATIONAL)18.04.2026",
       "p1": "France (Bruno)",
       "p2": "Denmark (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R41(INTERNATIONAL)18.04.2026",
       "p1": "Spain (Adriano)",
       "p2": "Portugal (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R41(INTERNATIONAL)18.04.2026",
@@ -1509,43 +1509,43 @@
       "liga": "FC26 R42(CHAMPIONS LEAGUE)18.04.2026",
       "p1": "Manchester City (VanGogh)",
       "p2": "Bayer Leverkusen (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R42(CHAMPIONS LEAGUE)18.04.2026",
       "p1": "Real Madrid (Splinter)",
       "p2": "PSG (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R42(CHAMPIONS LEAGUE)18.04.2026",
       "p1": "Bayer Leverkusen (Donatello)",
       "p2": "PSG (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R42(CHAMPIONS LEAGUE)18.04.2026",
       "p1": "Manchester City (VanGogh)",
       "p2": "Borussia Dortmund (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R42(CHAMPIONS LEAGUE)18.04.2026",
       "p1": "Bayer Leverkusen (Donatello)",
       "p2": "Real Madrid (Splinter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R42(CHAMPIONS LEAGUE)18.04.2026",
       "p1": "Borussia Dortmund (Mateo)",
       "p2": "PSG (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R42(CHAMPIONS LEAGUE)18.04.2026",
@@ -2161,13 +2161,13 @@
     },
     "FC26 R41(INTERNATIONAL)18.04.2026": {
       "total": 20,
-      "finalizados": 12,
-      "agendados": 8
+      "finalizados": 18,
+      "agendados": 2
     },
     "FC26 R42(CHAMPIONS LEAGUE)18.04.2026": {
       "total": 20,
-      "finalizados": 8,
-      "agendados": 12
+      "finalizados": 14,
+      "agendados": 6
     },
     "FC26 R43(CHAMPIONS LEAGUE)18.04.2026": {
       "total": 20,
@@ -2819,124 +2819,124 @@
     "FC26 R41(INTERNATIONAL)18.04.2026": [
       {
         "nome": "France (Bruno)",
-        "Pts": 10,
-        "J": 5,
-        "V": 3,
+        "Pts": 16,
+        "J": 8,
+        "V": 5,
         "E": 1,
-        "D": 1,
-        "GP": 25,
-        "GC": 18,
+        "D": 2,
+        "GP": 40,
+        "GC": 33,
         "SG": 7,
         "pos": 1
       },
       {
-        "nome": "Denmark (Eduardo)",
-        "Pts": 10,
-        "J": 4,
-        "V": 3,
-        "E": 1,
-        "D": 0,
-        "GP": 13,
-        "GC": 8,
-        "SG": 5,
+        "nome": "Norway (Gabriel)",
+        "Pts": 12,
+        "J": 7,
+        "V": 4,
+        "E": 0,
+        "D": 3,
+        "GP": 25,
+        "GC": 21,
+        "SG": 4,
         "pos": 2
       },
       {
-        "nome": "Norway (Gabriel)",
-        "Pts": 6,
-        "J": 5,
-        "V": 2,
+        "nome": "Portugal (Cleo)",
+        "Pts": 12,
+        "J": 7,
+        "V": 4,
         "E": 0,
         "D": 3,
-        "GP": 15,
-        "GC": 17,
-        "SG": -2,
+        "GP": 20,
+        "GC": 21,
+        "SG": -1,
         "pos": 3
       },
       {
-        "nome": "Portugal (Cleo)",
-        "Pts": 6,
-        "J": 5,
-        "V": 2,
-        "E": 0,
+        "nome": "Denmark (Eduardo)",
+        "Pts": 10,
+        "J": 7,
+        "V": 3,
+        "E": 1,
         "D": 3,
-        "GP": 14,
-        "GC": 18,
-        "SG": -4,
+        "GP": 19,
+        "GC": 20,
+        "SG": -1,
         "pos": 4
       },
       {
         "nome": "Spain (Adriano)",
         "Pts": 3,
-        "J": 5,
+        "J": 7,
         "V": 1,
         "E": 0,
-        "D": 4,
-        "GP": 15,
-        "GC": 21,
-        "SG": -6,
+        "D": 6,
+        "GP": 22,
+        "GC": 31,
+        "SG": -9,
         "pos": 5
       }
     ],
     "FC26 R42(CHAMPIONS LEAGUE)18.04.2026": [
       {
-        "nome": "Manchester City (VanGogh)",
-        "Pts": 7,
-        "J": 3,
-        "V": 2,
+        "nome": "PSG (Andrew)",
+        "Pts": 13,
+        "J": 6,
+        "V": 4,
         "E": 1,
-        "D": 0,
-        "GP": 11,
-        "GC": 8,
-        "SG": 3,
+        "D": 1,
+        "GP": 24,
+        "GC": 14,
+        "SG": 10,
         "pos": 1
       },
       {
         "nome": "Bayer Leverkusen (Donatello)",
-        "Pts": 6,
-        "J": 3,
-        "V": 2,
+        "Pts": 12,
+        "J": 6,
+        "V": 4,
         "E": 0,
-        "D": 1,
-        "GP": 11,
-        "GC": 12,
-        "SG": -1,
+        "D": 2,
+        "GP": 24,
+        "GC": 21,
+        "SG": 3,
         "pos": 2
       },
       {
-        "nome": "PSG (Andrew)",
-        "Pts": 4,
-        "J": 3,
-        "V": 1,
+        "nome": "Manchester City (VanGogh)",
+        "Pts": 7,
+        "J": 5,
+        "V": 2,
         "E": 1,
-        "D": 1,
-        "GP": 9,
-        "GC": 6,
-        "SG": 3,
+        "D": 2,
+        "GP": 16,
+        "GC": 17,
+        "SG": -1,
         "pos": 3
       },
       {
         "nome": "Borussia Dortmund (Mateo)",
-        "Pts": 3,
-        "J": 4,
-        "V": 0,
+        "Pts": 6,
+        "J": 6,
+        "V": 1,
         "E": 3,
-        "D": 1,
-        "GP": 7,
-        "GC": 9,
+        "D": 2,
+        "GP": 13,
+        "GC": 15,
         "SG": -2,
         "pos": 4
       },
       {
         "nome": "Real Madrid (Splinter)",
         "Pts": 1,
-        "J": 3,
+        "J": 5,
         "V": 0,
         "E": 1,
-        "D": 2,
-        "GP": 10,
-        "GC": 13,
-        "SG": -3,
+        "D": 4,
+        "GP": 16,
+        "GC": 26,
+        "SG": -10,
         "pos": 5
       }
     ]
