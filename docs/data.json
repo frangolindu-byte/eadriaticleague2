@@ -1,9 +1,9 @@
 {
-  "updated_at": "18/04/2026 17:09:54",
+  "updated_at": "18/04/2026 17:55:11",
   "summary": {
     "total": 300,
-    "finalizados": 256,
-    "agendados": 44,
+    "finalizados": 262,
+    "agendados": 38,
     "ligas": 17
   },
   "jogos": [
@@ -1803,43 +1803,43 @@
       "liga": "FC26 R44(INTERNATIONAL)18.04.2026",
       "p1": "France (Popeye)",
       "p2": "Holland (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R44(INTERNATIONAL)18.04.2026",
       "p1": "Spain (Lucas)",
       "p2": "Portugal (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R44(INTERNATIONAL)18.04.2026",
       "p1": "France (Popeye)",
       "p2": "Argentina (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R44(INTERNATIONAL)18.04.2026",
       "p1": "Portugal (Beckham)",
       "p2": "Holland (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R44(INTERNATIONAL)18.04.2026",
       "p1": "Portugal (Beckham)",
       "p2": "France (Popeye)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R44(INTERNATIONAL)18.04.2026",
       "p1": "Spain (Lucas)",
       "p2": "Argentina (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R44(INTERNATIONAL)18.04.2026",
@@ -2176,8 +2176,8 @@
     },
     "FC26 R44(INTERNATIONAL)18.04.2026": {
       "total": 20,
-      "finalizados": 10,
-      "agendados": 10
+      "finalizados": 16,
+      "agendados": 4
     },
     "FC26 R45(LA LIGA)18.04.2026": {
       "total": 20,
@@ -3005,62 +3005,62 @@
     "FC26 R44(INTERNATIONAL)18.04.2026": [
       {
         "nome": "Argentina (Oliver)",
-        "Pts": 9,
-        "J": 4,
-        "V": 3,
+        "Pts": 15,
+        "J": 6,
+        "V": 5,
         "E": 0,
         "D": 1,
-        "GP": 19,
-        "GC": 11,
-        "SG": 8,
+        "GP": 27,
+        "GC": 16,
+        "SG": 11,
         "pos": 1
       },
       {
-        "nome": "Holland (MisterX)",
-        "Pts": 7,
-        "J": 4,
-        "V": 2,
-        "E": 1,
-        "D": 1,
-        "GP": 18,
-        "GC": 16,
+        "nome": "Portugal (Beckham)",
+        "Pts": 11,
+        "J": 7,
+        "V": 3,
+        "E": 2,
+        "D": 2,
+        "GP": 31,
+        "GC": 29,
         "SG": 2,
         "pos": 2
       },
       {
-        "nome": "Portugal (Beckham)",
-        "Pts": 5,
-        "J": 4,
-        "V": 1,
-        "E": 2,
-        "D": 1,
-        "GP": 15,
-        "GC": 17,
-        "SG": -2,
+        "nome": "Holland (MisterX)",
+        "Pts": 10,
+        "J": 6,
+        "V": 3,
+        "E": 1,
+        "D": 2,
+        "GP": 26,
+        "GC": 26,
+        "SG": 0,
         "pos": 3
+      },
+      {
+        "nome": "Spain (Lucas)",
+        "Pts": 6,
+        "J": 6,
+        "V": 2,
+        "E": 0,
+        "D": 4,
+        "GP": 18,
+        "GC": 25,
+        "SG": -7,
+        "pos": 4
       },
       {
         "nome": "France (Popeye)",
         "Pts": 4,
-        "J": 4,
+        "J": 7,
         "V": 1,
         "E": 1,
-        "D": 2,
-        "GP": 15,
-        "GC": 16,
-        "SG": -1,
-        "pos": 4
-      },
-      {
-        "nome": "Spain (Lucas)",
-        "Pts": 3,
-        "J": 4,
-        "V": 1,
-        "E": 0,
-        "D": 3,
-        "GP": 13,
-        "GC": 20,
-        "SG": -7,
+        "D": 5,
+        "GP": 29,
+        "GC": 35,
+        "SG": -6,
         "pos": 5
       }
     ]
