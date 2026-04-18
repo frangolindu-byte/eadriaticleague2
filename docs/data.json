@@ -1,9 +1,9 @@
 {
-  "updated_at": "18/04/2026 18:43:04",
+  "updated_at": "18/04/2026 19:30:40",
   "summary": {
     "total": 300,
-    "finalizados": 268,
-    "agendados": 32,
+    "finalizados": 274,
+    "agendados": 26,
     "ligas": 17
   },
   "jogos": [
@@ -1887,43 +1887,43 @@
       "liga": "FC26 R45(LA LIGA)18.04.2026",
       "p1": "Barcelona (MisterX)",
       "p2": "Sevilla (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R45(LA LIGA)18.04.2026",
       "p1": "Villarreal (Oliver)",
       "p2": "Real Madrid (Popeye)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R45(LA LIGA)18.04.2026",
       "p1": "Real Madrid (Popeye)",
       "p2": "Sevilla (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R45(LA LIGA)18.04.2026",
       "p1": "Villarreal (Oliver)",
       "p2": "Real Sociedad (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R45(LA LIGA)18.04.2026",
       "p1": "Real Sociedad (Lucas)",
       "p2": "Barcelona (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R45(LA LIGA)18.04.2026",
       "p1": "Villarreal (Oliver)",
       "p2": "Sevilla (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R45(LA LIGA)18.04.2026",
@@ -2181,8 +2181,8 @@
     },
     "FC26 R45(LA LIGA)18.04.2026": {
       "total": 20,
-      "finalizados": 2,
-      "agendados": 18
+      "finalizados": 8,
+      "agendados": 12
     },
     "FC26 R46(SERIA A)18.04.2026": {
       "total": 8,
@@ -3066,52 +3066,64 @@
     ],
     "FC26 R45(LA LIGA)18.04.2026": [
       {
-        "nome": "Sevilla (Beckham)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "nome": "Villarreal (Oliver)",
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
         "E": 0,
         "D": 0,
-        "GP": 6,
-        "GC": 4,
-        "SG": 2,
+        "GP": 19,
+        "GC": 14,
+        "SG": 5,
         "pos": 1
       },
       {
-        "nome": "Barcelona (MisterX)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
-        "E": 1,
-        "D": 0,
-        "GP": 4,
-        "GC": 4,
-        "SG": 0,
+        "nome": "Sevilla (Beckham)",
+        "Pts": 6,
+        "J": 4,
+        "V": 2,
+        "E": 0,
+        "D": 2,
+        "GP": 19,
+        "GC": 18,
+        "SG": 1,
         "pos": 2
       },
       {
-        "nome": "Real Madrid (Popeye)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
+        "nome": "Barcelona (MisterX)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
         "E": 1,
-        "D": 0,
-        "GP": 4,
-        "GC": 4,
+        "D": 1,
+        "GP": 12,
+        "GC": 12,
         "SG": 0,
         "pos": 3
       },
       {
+        "nome": "Real Madrid (Popeye)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 12,
+        "GC": 12,
+        "SG": 0,
+        "pos": 4
+      },
+      {
         "nome": "Real Sociedad (Lucas)",
         "Pts": 0,
-        "J": 1,
+        "J": 3,
         "V": 0,
         "E": 0,
-        "D": 1,
-        "GP": 4,
-        "GC": 6,
-        "SG": -2,
-        "pos": 4
+        "D": 3,
+        "GP": 11,
+        "GC": 17,
+        "SG": -6,
+        "pos": 5
       }
     ]
   }
