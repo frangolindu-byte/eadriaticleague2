@@ -1,9 +1,9 @@
 {
-  "updated_at": "19/04/2026 21:24:46",
+  "updated_at": "19/04/2026 21:58:11",
   "summary": {
     "total": 300,
-    "finalizados": 288,
-    "agendados": 12,
+    "finalizados": 296,
+    "agendados": 4,
     "ligas": 17
   },
   "jogos": [
@@ -2027,29 +2027,29 @@
       "liga": "FC26 R61(CHAMPIONS LEAGUE)19.04.2026",
       "p1": "Atletico Madrid (Odin)",
       "p2": "Barcelona (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R61(CHAMPIONS LEAGUE)19.04.2026",
       "p1": "Liverpool (Conde)",
       "p2": "Real Madrid (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R61(CHAMPIONS LEAGUE)19.04.2026",
       "p1": "Liverpool (Conde)",
       "p2": "Bayern M. (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R61(CHAMPIONS LEAGUE)19.04.2026",
       "p1": "Real Madrid (Kai)",
       "p2": "Barcelona (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R61(CHAMPIONS LEAGUE)19.04.2026",
@@ -2069,29 +2069,29 @@
       "liga": "FC26 R62(INTERNATIONAL)19.04.2026",
       "p1": "Ghana (Splinter)",
       "p2": "France (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R62(INTERNATIONAL)19.04.2026",
       "p1": "Italy (Eric)",
       "p2": "Denmark (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R62(INTERNATIONAL)19.04.2026",
       "p1": "Italy (Eric)",
       "p2": "Ghana (Splinter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R62(INTERNATIONAL)19.04.2026",
       "p1": "Morocco (Haidan)",
       "p2": "Denmark (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R62(INTERNATIONAL)19.04.2026",
@@ -2186,13 +2186,13 @@
     },
     "FC26 R61(CHAMPIONS LEAGUE)19.04.2026": {
       "total": 8,
-      "finalizados": 2,
-      "agendados": 6
+      "finalizados": 6,
+      "agendados": 2
     },
     "FC26 R62(INTERNATIONAL)19.04.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 4,
+      "agendados": 2
     }
   },
   "classificacao": {
@@ -3129,51 +3129,125 @@
     "FC26 R61(CHAMPIONS LEAGUE)19.04.2026": [
       {
         "nome": "Barcelona (Eduardo)",
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
+        "E": 0,
+        "D": 0,
+        "GP": 11,
+        "GC": 4,
+        "SG": 7,
+        "pos": 1
+      },
+      {
+        "nome": "Liverpool (Conde)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 5,
+        "GC": 3,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Atletico Madrid (Odin)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 6,
+        "GC": 5,
+        "SG": 1,
+        "pos": 3
+      },
+      {
+        "nome": "Real Madrid (Kai)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 6,
+        "GC": 10,
+        "SG": -4,
+        "pos": 4
+      },
+      {
+        "nome": "Bayern M. (Dexter)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 1,
+        "GC": 7,
+        "SG": -6,
+        "pos": 5
+      }
+    ],
+    "FC26 R62(INTERNATIONAL)19.04.2026": [
+      {
+        "nome": "Denmark (Felix)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 11,
+        "GC": 9,
+        "SG": 2,
+        "pos": 1
+      },
+      {
+        "nome": "Italy (Eric)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 10,
+        "GC": 8,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "France (George)",
         "Pts": 3,
         "J": 1,
         "V": 1,
         "E": 0,
         "D": 0,
         "GP": 3,
-        "GC": 0,
-        "SG": 3,
-        "pos": 1
-      },
-      {
-        "nome": "Atletico Madrid (Odin)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
-        "E": 0,
-        "D": 0,
-        "GP": 4,
         "GC": 2,
-        "SG": 2,
-        "pos": 2
-      },
-      {
-        "nome": "Real Madrid (Kai)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
-        "E": 0,
-        "D": 1,
-        "GP": 2,
-        "GC": 4,
-        "SG": -2,
+        "SG": 1,
         "pos": 3
       },
       {
-        "nome": "Bayern M. (Dexter)",
+        "nome": "Morocco (Haidan)",
         "Pts": 0,
         "J": 1,
         "V": 0,
         "E": 0,
         "D": 1,
-        "GP": 0,
-        "GC": 3,
-        "SG": -3,
+        "GP": 5,
+        "GC": 6,
+        "SG": -1,
         "pos": 4
+      },
+      {
+        "nome": "Ghana (Splinter)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 5,
+        "GC": 9,
+        "SG": -4,
+        "pos": 5
       }
     ]
   }
