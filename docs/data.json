@@ -1,9 +1,9 @@
 {
-  "updated_at": "19/04/2026 21:58:11",
+  "updated_at": "19/04/2026 22:42:20",
   "summary": {
     "total": 300,
-    "finalizados": 296,
-    "agendados": 4,
+    "finalizados": 300,
+    "agendados": 0,
     "ligas": 17
   },
   "jogos": [
@@ -2055,15 +2055,15 @@
       "liga": "FC26 R61(CHAMPIONS LEAGUE)19.04.2026",
       "p1": "Bayern M. (Dexter)",
       "p2": "Atletico Madrid (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R61(CHAMPIONS LEAGUE)19.04.2026",
       "p1": "Liverpool (Conde)",
       "p2": "Barcelona (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R62(INTERNATIONAL)19.04.2026",
@@ -2097,15 +2097,15 @@
       "liga": "FC26 R62(INTERNATIONAL)19.04.2026",
       "p1": "Denmark (Felix)",
       "p2": "Ghana (Splinter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R62(INTERNATIONAL)19.04.2026",
       "p1": "Morocco (Haidan)",
       "p2": "France (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-5",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2186,13 +2186,13 @@
     },
     "FC26 R61(CHAMPIONS LEAGUE)19.04.2026": {
       "total": 8,
-      "finalizados": 6,
-      "agendados": 2
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R62(INTERNATIONAL)19.04.2026": {
       "total": 6,
-      "finalizados": 4,
-      "agendados": 2
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3129,38 +3129,38 @@
     "FC26 R61(CHAMPIONS LEAGUE)19.04.2026": [
       {
         "nome": "Barcelona (Eduardo)",
-        "Pts": 9,
-        "J": 3,
-        "V": 3,
+        "Pts": 12,
+        "J": 4,
+        "V": 4,
         "E": 0,
         "D": 0,
-        "GP": 11,
-        "GC": 4,
-        "SG": 7,
+        "GP": 15,
+        "GC": 6,
+        "SG": 9,
         "pos": 1
       },
       {
-        "nome": "Liverpool (Conde)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
+        "nome": "Atletico Madrid (Odin)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
         "D": 1,
-        "GP": 5,
-        "GC": 3,
+        "GP": 9,
+        "GC": 7,
         "SG": 2,
         "pos": 2
       },
       {
-        "nome": "Atletico Madrid (Odin)",
+        "nome": "Liverpool (Conde)",
         "Pts": 3,
-        "J": 2,
+        "J": 3,
         "V": 1,
         "E": 0,
-        "D": 1,
-        "GP": 6,
-        "GC": 5,
-        "SG": 1,
+        "D": 2,
+        "GP": 7,
+        "GC": 7,
+        "SG": 0,
         "pos": 3
       },
       {
@@ -3178,27 +3178,27 @@
       {
         "nome": "Bayern M. (Dexter)",
         "Pts": 0,
-        "J": 2,
+        "J": 3,
         "V": 0,
         "E": 0,
-        "D": 2,
-        "GP": 1,
-        "GC": 7,
-        "SG": -6,
+        "D": 3,
+        "GP": 3,
+        "GC": 10,
+        "SG": -7,
         "pos": 5
       }
     ],
     "FC26 R62(INTERNATIONAL)19.04.2026": [
       {
         "nome": "Denmark (Felix)",
-        "Pts": 6,
-        "J": 2,
-        "V": 2,
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
         "E": 0,
         "D": 0,
-        "GP": 11,
+        "GP": 14,
         "GC": 9,
-        "SG": 2,
+        "SG": 5,
         "pos": 1
       },
       {
@@ -3214,39 +3214,39 @@
         "pos": 2
       },
       {
-        "nome": "France (George)",
+        "nome": "Morocco (Haidan)",
         "Pts": 3,
-        "J": 1,
+        "J": 2,
         "V": 1,
         "E": 0,
-        "D": 0,
-        "GP": 3,
-        "GC": 2,
-        "SG": 1,
+        "D": 1,
+        "GP": 11,
+        "GC": 11,
+        "SG": 0,
         "pos": 3
       },
       {
-        "nome": "Morocco (Haidan)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
+        "nome": "France (George)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
         "E": 0,
         "D": 1,
-        "GP": 5,
-        "GC": 6,
-        "SG": -1,
+        "GP": 8,
+        "GC": 8,
+        "SG": 0,
         "pos": 4
       },
       {
         "nome": "Ghana (Splinter)",
         "Pts": 0,
-        "J": 2,
+        "J": 3,
         "V": 0,
         "E": 0,
-        "D": 2,
+        "D": 3,
         "GP": 5,
-        "GC": 9,
-        "SG": -4,
+        "GC": 12,
+        "SG": -7,
         "pos": 5
       }
     ]
