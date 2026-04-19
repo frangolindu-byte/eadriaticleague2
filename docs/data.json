@@ -1,9 +1,9 @@
 {
-  "updated_at": "19/04/2026 23:22:34",
+  "updated_at": "19/04/2026 23:59:47",
   "summary": {
     "total": 360,
-    "finalizados": 20,
-    "agendados": 340,
+    "finalizados": 28,
+    "agendados": 332,
     "ligas": 20
   },
   "jogos": [
@@ -81,15 +81,15 @@
       "liga": "FC26 R61(CHAMPIONS LEAGUE)19.04.2026",
       "p1": "Atletico Madrid (Odin)",
       "p2": "Liverpool (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R61(CHAMPIONS LEAGUE)19.04.2026",
       "p1": "Real Madrid (Kai)",
       "p2": "Bayern M. (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R62(INTERNATIONAL)19.04.2026",
@@ -165,43 +165,43 @@
       "liga": "FC26 R62(INTERNATIONAL)19.04.2026",
       "p1": "Ghana (Splinter)",
       "p2": "Morocco (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R62(INTERNATIONAL)19.04.2026",
       "p1": "Italy (Eric)",
       "p2": "France (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R62(INTERNATIONAL)19.04.2026",
       "p1": "Denmark (Felix)",
       "p2": "France (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R62(INTERNATIONAL)19.04.2026",
       "p1": "Italy (Eric)",
       "p2": "Morocco (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R63(PREMIER LEAGUE)20.04.2026",
       "p1": "Aston Villa (Eduardo)",
       "p2": "Manchester City (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R63(PREMIER LEAGUE)20.04.2026",
       "p1": "West Ham United (Odin)",
       "p2": "Liverpool (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R63(PREMIER LEAGUE)20.04.2026",
@@ -2531,18 +2531,18 @@
   "resumo": {
     "FC26 R61(CHAMPIONS LEAGUE)19.04.2026": {
       "total": 12,
-      "finalizados": 10,
-      "agendados": 2
+      "finalizados": 12,
+      "agendados": 0
     },
     "FC26 R62(INTERNATIONAL)19.04.2026": {
       "total": 14,
-      "finalizados": 10,
-      "agendados": 4
+      "finalizados": 14,
+      "agendados": 0
     },
     "FC26 R63(PREMIER LEAGUE)20.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 2,
+      "agendados": 18
     },
     "FC26 R64(SERIA A)20.04.2026": {
       "total": 20,
@@ -2646,113 +2646,163 @@
       },
       {
         "nome": "Atletico Madrid (Odin)",
-        "Pts": 6,
-        "J": 4,
-        "V": 2,
+        "Pts": 9,
+        "J": 5,
+        "V": 3,
         "E": 0,
         "D": 2,
-        "GP": 9,
-        "GC": 5,
-        "SG": 4,
+        "GP": 15,
+        "GC": 7,
+        "SG": 8,
         "pos": 2
       },
       {
         "nome": "Bayern M. (Dexter)",
-        "Pts": 6,
-        "J": 4,
+        "Pts": 7,
+        "J": 5,
         "V": 2,
-        "E": 0,
+        "E": 1,
         "D": 2,
-        "GP": 10,
-        "GC": 7,
+        "GP": 12,
+        "GC": 9,
         "SG": 3,
         "pos": 3
       },
       {
         "nome": "Real Madrid (Kai)",
-        "Pts": 4,
-        "J": 4,
+        "Pts": 5,
+        "J": 5,
         "V": 1,
-        "E": 1,
+        "E": 2,
         "D": 2,
-        "GP": 10,
-        "GC": 12,
+        "GP": 12,
+        "GC": 14,
         "SG": -2,
         "pos": 4
       },
       {
         "nome": "Liverpool (Conde)",
         "Pts": 3,
-        "J": 4,
+        "J": 5,
         "V": 1,
         "E": 0,
-        "D": 3,
-        "GP": 6,
-        "GC": 16,
-        "SG": -10,
+        "D": 4,
+        "GP": 8,
+        "GC": 22,
+        "SG": -14,
         "pos": 5
       }
     ],
     "FC26 R62(INTERNATIONAL)19.04.2026": [
       {
-        "nome": "Morocco (Haidan)",
-        "Pts": 9,
-        "J": 4,
-        "V": 3,
+        "nome": "Italy (Eric)",
+        "Pts": 15,
+        "J": 6,
+        "V": 5,
         "E": 0,
         "D": 1,
-        "GP": 20,
-        "GC": 15,
+        "GP": 25,
+        "GC": 20,
         "SG": 5,
         "pos": 1
       },
       {
-        "nome": "Italy (Eric)",
-        "Pts": 9,
-        "J": 4,
+        "nome": "Morocco (Haidan)",
+        "Pts": 10,
+        "J": 6,
         "V": 3,
-        "E": 0,
-        "D": 1,
-        "GP": 14,
-        "GC": 11,
-        "SG": 3,
+        "E": 1,
+        "D": 2,
+        "GP": 30,
+        "GC": 26,
+        "SG": 4,
         "pos": 2
       },
       {
         "nome": "Denmark (Felix)",
-        "Pts": 4,
-        "J": 4,
+        "Pts": 5,
+        "J": 5,
         "V": 1,
-        "E": 1,
+        "E": 2,
         "D": 2,
-        "GP": 12,
-        "GC": 12,
+        "GP": 13,
+        "GC": 13,
         "SG": 0,
         "pos": 3
       },
       {
         "nome": "France (George)",
-        "Pts": 4,
-        "J": 4,
+        "Pts": 5,
+        "J": 6,
         "V": 1,
-        "E": 1,
-        "D": 2,
-        "GP": 9,
-        "GC": 12,
-        "SG": -3,
+        "E": 2,
+        "D": 3,
+        "GP": 14,
+        "GC": 18,
+        "SG": -4,
         "pos": 4
       },
       {
         "nome": "Ghana (Splinter)",
-        "Pts": 3,
-        "J": 4,
+        "Pts": 4,
+        "J": 5,
         "V": 1,
-        "E": 0,
+        "E": 1,
         "D": 3,
-        "GP": 8,
-        "GC": 13,
+        "GP": 13,
+        "GC": 18,
         "SG": -5,
         "pos": 5
+      }
+    ],
+    "FC26 R63(PREMIER LEAGUE)20.04.2026": [
+      {
+        "nome": "West Ham United (Odin)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 5,
+        "GC": 2,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "Aston Villa (Eduardo)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 3,
+        "GC": 1,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Manchester City (Dexter)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 1,
+        "GC": 3,
+        "SG": -2,
+        "pos": 3
+      },
+      {
+        "nome": "Liverpool (Kai)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 2,
+        "GC": 5,
+        "SG": -3,
+        "pos": 4
       }
     ]
   }
