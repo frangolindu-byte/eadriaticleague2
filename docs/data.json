@@ -1,9 +1,9 @@
 {
-  "updated_at": "19/04/2026 11:30:18",
+  "updated_at": "19/04/2026 12:01:45",
   "summary": {
     "total": 300,
-    "finalizados": 202,
-    "agendados": 98,
+    "finalizados": 210,
+    "agendados": 90,
     "ligas": 17
   },
   "jogos": [
@@ -1383,29 +1383,29 @@
       "liga": "FC26 R56(INTERNATIONAL)19.04.2026",
       "p1": "Holland (Noah)",
       "p2": "Portugal (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R56(INTERNATIONAL)19.04.2026",
       "p1": "Spain (Matrix)",
       "p2": "France (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R56(INTERNATIONAL)19.04.2026",
       "p1": "Portugal (Eduardo)",
       "p2": "France (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R56(INTERNATIONAL)19.04.2026",
       "p1": "Spain (Matrix)",
       "p2": "Argentina (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R56(INTERNATIONAL)19.04.2026",
@@ -1495,29 +1495,29 @@
       "liga": "FC26 R57(CHAMPIONS LEAGUE)19.04.2026",
       "p1": "Liverpool (Lucas)",
       "p2": "Bayern M. (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R57(CHAMPIONS LEAGUE)19.04.2026",
       "p1": "Manchester City (Nathan)",
       "p2": "Atletico Madrid (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R57(CHAMPIONS LEAGUE)19.04.2026",
       "p1": "Liverpool (Lucas)",
       "p2": "Atletico Madrid (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R57(CHAMPIONS LEAGUE)19.04.2026",
       "p1": "Manchester City (Nathan)",
       "p2": "Bayer Leverkusen (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R57(CHAMPIONS LEAGUE)19.04.2026",
@@ -2161,13 +2161,13 @@
     },
     "FC26 R56(INTERNATIONAL)19.04.2026": {
       "total": 20,
-      "finalizados": 10,
-      "agendados": 10
+      "finalizados": 14,
+      "agendados": 6
     },
     "FC26 R57(CHAMPIONS LEAGUE)19.04.2026": {
       "total": 20,
-      "finalizados": 6,
-      "agendados": 14
+      "finalizados": 10,
+      "agendados": 10
     },
     "FC26 R58(CHAMPIONS LEAGUE)19.04.2026": {
       "total": 20,
@@ -2819,124 +2819,124 @@
     "FC26 R56(INTERNATIONAL)19.04.2026": [
       {
         "nome": "Argentina (Alexis)",
-        "Pts": 12,
-        "J": 4,
-        "V": 4,
+        "Pts": 15,
+        "J": 5,
+        "V": 5,
         "E": 0,
         "D": 0,
-        "GP": 15,
-        "GC": 8,
-        "SG": 7,
+        "GP": 21,
+        "GC": 12,
+        "SG": 9,
         "pos": 1
       },
       {
+        "nome": "Portugal (Eduardo)",
+        "Pts": 7,
+        "J": 6,
+        "V": 2,
+        "E": 1,
+        "D": 3,
+        "GP": 14,
+        "GC": 14,
+        "SG": 0,
+        "pos": 2
+      },
+      {
         "nome": "Spain (Matrix)",
+        "Pts": 7,
+        "J": 6,
+        "V": 2,
+        "E": 1,
+        "D": 3,
+        "GP": 22,
+        "GC": 25,
+        "SG": -3,
+        "pos": 3
+      },
+      {
+        "nome": "Holland (Noah)",
+        "Pts": 6,
+        "J": 5,
+        "V": 2,
+        "E": 0,
+        "D": 3,
+        "GP": 13,
+        "GC": 17,
+        "SG": -4,
+        "pos": 4
+      },
+      {
+        "nome": "France (Adriano)",
+        "Pts": 5,
+        "J": 6,
+        "V": 1,
+        "E": 2,
+        "D": 3,
+        "GP": 22,
+        "GC": 24,
+        "SG": -2,
+        "pos": 5
+      }
+    ],
+    "FC26 R57(CHAMPIONS LEAGUE)19.04.2026": [
+      {
+        "nome": "Atletico Madrid (Mateo)",
+        "Pts": 9,
+        "J": 4,
+        "V": 3,
+        "E": 0,
+        "D": 1,
+        "GP": 14,
+        "GC": 11,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "Liverpool (Lucas)",
+        "Pts": 7,
+        "J": 4,
+        "V": 2,
+        "E": 1,
+        "D": 1,
+        "GP": 17,
+        "GC": 16,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Bayer Leverkusen (Dexter)",
         "Pts": 6,
         "J": 4,
         "V": 2,
         "E": 0,
         "D": 2,
         "GP": 13,
-        "GC": 14,
-        "SG": -1,
-        "pos": 2
-      },
-      {
-        "nome": "France (Adriano)",
-        "Pts": 4,
-        "J": 4,
-        "V": 1,
-        "E": 1,
-        "D": 2,
-        "GP": 16,
-        "GC": 16,
-        "SG": 0,
-        "pos": 3
-      },
-      {
-        "nome": "Portugal (Eduardo)",
-        "Pts": 4,
-        "J": 4,
-        "V": 1,
-        "E": 1,
-        "D": 2,
-        "GP": 9,
-        "GC": 10,
-        "SG": -1,
-        "pos": 4
-      },
-      {
-        "nome": "Holland (Noah)",
-        "Pts": 3,
-        "J": 4,
-        "V": 1,
-        "E": 0,
-        "D": 3,
-        "GP": 10,
-        "GC": 15,
-        "SG": -5,
-        "pos": 5
-      }
-    ],
-    "FC26 R57(CHAMPIONS LEAGUE)19.04.2026": [
-      {
-        "nome": "Bayer Leverkusen (Dexter)",
-        "Pts": 6,
-        "J": 3,
-        "V": 2,
-        "E": 0,
-        "D": 1,
-        "GP": 11,
-        "GC": 8,
-        "SG": 3,
-        "pos": 1
-      },
-      {
-        "nome": "Liverpool (Lucas)",
-        "Pts": 6,
-        "J": 2,
-        "V": 2,
-        "E": 0,
-        "D": 0,
-        "GP": 10,
-        "GC": 7,
-        "SG": 3,
-        "pos": 2
-      },
-      {
-        "nome": "Atletico Madrid (Mateo)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
-        "E": 0,
-        "D": 1,
-        "GP": 5,
-        "GC": 6,
-        "SG": -1,
+        "GC": 11,
+        "SG": 2,
         "pos": 3
       },
       {
         "nome": "Bayern M. (Arthur)",
-        "Pts": 3,
-        "J": 3,
+        "Pts": 4,
+        "J": 4,
         "V": 1,
-        "E": 0,
+        "E": 1,
         "D": 2,
-        "GP": 11,
-        "GC": 14,
+        "GP": 15,
+        "GC": 18,
         "SG": -3,
         "pos": 4
       },
       {
         "nome": "Manchester City (Nathan)",
-        "Pts": 0,
-        "J": 2,
-        "V": 0,
+        "Pts": 3,
+        "J": 4,
+        "V": 1,
         "E": 0,
-        "D": 2,
-        "GP": 8,
-        "GC": 10,
-        "SG": -2,
+        "D": 3,
+        "GP": 13,
+        "GC": 16,
+        "SG": -3,
         "pos": 5
       }
     ]
