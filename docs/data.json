@@ -1,9 +1,9 @@
 {
-  "updated_at": "19/04/2026 16:22:06",
+  "updated_at": "19/04/2026 17:02:46",
   "summary": {
     "total": 300,
-    "finalizados": 250,
-    "agendados": 50,
+    "finalizados": 256,
+    "agendados": 44,
     "ligas": 17
   },
   "jogos": [
@@ -1761,43 +1761,43 @@
       "liga": "FC26 R59(INTERNATIONAL)19.04.2026",
       "p1": "Denmark (Beckham)",
       "p2": "Portugal (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R59(INTERNATIONAL)19.04.2026",
       "p1": "France (Maverick)",
       "p2": "Norway (Juan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R59(INTERNATIONAL)19.04.2026",
       "p1": "France (Maverick)",
       "p2": "Portugal (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R59(INTERNATIONAL)19.04.2026",
       "p1": "Norway (Juan)",
       "p2": "Spain (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R59(INTERNATIONAL)19.04.2026",
       "p1": "France (Maverick)",
       "p2": "Spain (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R59(INTERNATIONAL)19.04.2026",
       "p1": "Norway (Juan)",
       "p2": "Denmark (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R59(INTERNATIONAL)19.04.2026",
@@ -2176,8 +2176,8 @@
     },
     "FC26 R59(INTERNATIONAL)19.04.2026": {
       "total": 20,
-      "finalizados": 4,
-      "agendados": 16
+      "finalizados": 10,
+      "agendados": 10
     },
     "FC26 R60(PREMIER LEAGUE)19.04.2026": {
       "total": 20,
@@ -3005,62 +3005,62 @@
     "FC26 R59(INTERNATIONAL)19.04.2026": [
       {
         "nome": "Spain (Cleo)",
-        "Pts": 6,
-        "J": 2,
-        "V": 2,
+        "Pts": 12,
+        "J": 4,
+        "V": 4,
         "E": 0,
         "D": 0,
-        "GP": 11,
-        "GC": 6,
-        "SG": 5,
+        "GP": 20,
+        "GC": 9,
+        "SG": 11,
         "pos": 1
       },
       {
         "nome": "France (Maverick)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "Pts": 9,
+        "J": 4,
+        "V": 3,
         "E": 0,
-        "D": 0,
-        "GP": 7,
-        "GC": 2,
-        "SG": 5,
+        "D": 1,
+        "GP": 19,
+        "GC": 12,
+        "SG": 7,
         "pos": 2
       },
       {
         "nome": "Norway (Juan)",
+        "Pts": 6,
+        "J": 4,
+        "V": 2,
+        "E": 0,
+        "D": 2,
+        "GP": 9,
+        "GC": 14,
+        "SG": -5,
+        "pos": 3
+      },
+      {
+        "nome": "Denmark (Beckham)",
         "Pts": 3,
-        "J": 1,
+        "J": 4,
         "V": 1,
         "E": 0,
-        "D": 0,
-        "GP": 4,
-        "GC": 3,
-        "SG": 1,
-        "pos": 3
+        "D": 3,
+        "GP": 11,
+        "GC": 19,
+        "SG": -8,
+        "pos": 4
       },
       {
         "nome": "Portugal (Alexander)",
         "Pts": 0,
-        "J": 2,
+        "J": 4,
         "V": 0,
         "E": 0,
-        "D": 2,
-        "GP": 7,
-        "GC": 9,
-        "SG": -2,
-        "pos": 4
-      },
-      {
-        "nome": "Denmark (Beckham)",
-        "Pts": 0,
-        "J": 2,
-        "V": 0,
-        "E": 0,
-        "D": 2,
-        "GP": 4,
-        "GC": 13,
-        "SG": -9,
+        "D": 4,
+        "GP": 13,
+        "GC": 18,
+        "SG": -5,
         "pos": 5
       }
     ]
