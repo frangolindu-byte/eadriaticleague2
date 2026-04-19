@@ -1,9 +1,9 @@
 {
-  "updated_at": "19/04/2026 20:51:39",
+  "updated_at": "19/04/2026 21:24:46",
   "summary": {
     "total": 300,
-    "finalizados": 286,
-    "agendados": 14,
+    "finalizados": 288,
+    "agendados": 12,
     "ligas": 17
   },
   "jogos": [
@@ -2013,15 +2013,15 @@
       "liga": "FC26 R61(CHAMPIONS LEAGUE)19.04.2026",
       "p1": "Atletico Madrid (Odin)",
       "p2": "Real Madrid (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R61(CHAMPIONS LEAGUE)19.04.2026",
       "p1": "Barcelona (Eduardo)",
       "p2": "Bayern M. (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R61(CHAMPIONS LEAGUE)19.04.2026",
@@ -2186,8 +2186,8 @@
     },
     "FC26 R61(CHAMPIONS LEAGUE)19.04.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 2,
+      "agendados": 6
     },
     "FC26 R62(INTERNATIONAL)19.04.2026": {
       "total": 6,
@@ -3124,6 +3124,56 @@
         "GC": 35,
         "SG": -15,
         "pos": 5
+      }
+    ],
+    "FC26 R61(CHAMPIONS LEAGUE)19.04.2026": [
+      {
+        "nome": "Barcelona (Eduardo)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 3,
+        "GC": 0,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "Atletico Madrid (Odin)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 4,
+        "GC": 2,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Real Madrid (Kai)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 2,
+        "GC": 4,
+        "SG": -2,
+        "pos": 3
+      },
+      {
+        "nome": "Bayern M. (Dexter)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 0,
+        "GC": 3,
+        "SG": -3,
+        "pos": 4
       }
     ]
   }
