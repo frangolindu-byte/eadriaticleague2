@@ -1,9 +1,9 @@
 {
-  "updated_at": "19/04/2026 15:42:28",
+  "updated_at": "19/04/2026 16:22:06",
   "summary": {
     "total": 300,
-    "finalizados": 246,
-    "agendados": 54,
+    "finalizados": 250,
+    "agendados": 50,
     "ligas": 17
   },
   "jogos": [
@@ -1733,29 +1733,29 @@
       "liga": "FC26 R59(INTERNATIONAL)19.04.2026",
       "p1": "Portugal (Alexander)",
       "p2": "Norway (Juan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R59(INTERNATIONAL)19.04.2026",
       "p1": "Spain (Cleo)",
       "p2": "Denmark (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R59(INTERNATIONAL)19.04.2026",
       "p1": "France (Maverick)",
       "p2": "Denmark (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R59(INTERNATIONAL)19.04.2026",
       "p1": "Spain (Cleo)",
       "p2": "Portugal (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R59(INTERNATIONAL)19.04.2026",
@@ -2176,8 +2176,8 @@
     },
     "FC26 R59(INTERNATIONAL)19.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 4,
+      "agendados": 16
     },
     "FC26 R60(PREMIER LEAGUE)19.04.2026": {
       "total": 20,
@@ -2999,6 +2999,68 @@
         "GP": 17,
         "GC": 23,
         "SG": -6,
+        "pos": 5
+      }
+    ],
+    "FC26 R59(INTERNATIONAL)19.04.2026": [
+      {
+        "nome": "Spain (Cleo)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 11,
+        "GC": 6,
+        "SG": 5,
+        "pos": 1
+      },
+      {
+        "nome": "France (Maverick)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 7,
+        "GC": 2,
+        "SG": 5,
+        "pos": 2
+      },
+      {
+        "nome": "Norway (Juan)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 4,
+        "GC": 3,
+        "SG": 1,
+        "pos": 3
+      },
+      {
+        "nome": "Portugal (Alexander)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 7,
+        "GC": 9,
+        "SG": -2,
+        "pos": 4
+      },
+      {
+        "nome": "Denmark (Beckham)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 4,
+        "GC": 13,
+        "SG": -9,
         "pos": 5
       }
     ]
