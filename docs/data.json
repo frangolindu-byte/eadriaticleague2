@@ -1,9 +1,9 @@
 {
-  "updated_at": "19/04/2026 20:01:46",
+  "updated_at": "19/04/2026 20:51:39",
   "summary": {
     "total": 300,
-    "finalizados": 280,
-    "agendados": 20,
+    "finalizados": 286,
+    "agendados": 14,
     "ligas": 17
   },
   "jogos": [
@@ -1971,43 +1971,43 @@
       "liga": "FC26 R60(PREMIER LEAGUE)19.04.2026",
       "p1": "Aston Villa (Juan)",
       "p2": "Arsenal (Maverick)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R60(PREMIER LEAGUE)19.04.2026",
       "p1": "West Ham United (Alexander)",
       "p2": "Liverpool (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R60(PREMIER LEAGUE)19.04.2026",
       "p1": "Newcastle U. (Cleo)",
       "p2": "Aston Villa (Juan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R60(PREMIER LEAGUE)19.04.2026",
       "p1": "West Ham United (Alexander)",
       "p2": "Arsenal (Maverick)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R60(PREMIER LEAGUE)19.04.2026",
       "p1": "Liverpool (Beckham)",
       "p2": "Aston Villa (Juan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R60(PREMIER LEAGUE)19.04.2026",
       "p1": "Newcastle U. (Cleo)",
       "p2": "Arsenal (Maverick)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R61(CHAMPIONS LEAGUE)19.04.2026",
@@ -2181,8 +2181,8 @@
     },
     "FC26 R60(PREMIER LEAGUE)19.04.2026": {
       "total": 20,
-      "finalizados": 14,
-      "agendados": 6
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R61(CHAMPIONS LEAGUE)19.04.2026": {
       "total": 8,
@@ -3067,62 +3067,62 @@
     "FC26 R60(PREMIER LEAGUE)19.04.2026": [
       {
         "nome": "Newcastle U. (Cleo)",
-        "Pts": 14,
-        "J": 6,
-        "V": 4,
+        "Pts": 17,
+        "J": 8,
+        "V": 5,
         "E": 2,
-        "D": 0,
-        "GP": 25,
-        "GC": 13,
-        "SG": 12,
+        "D": 1,
+        "GP": 33,
+        "GC": 18,
+        "SG": 15,
         "pos": 1
       },
       {
-        "nome": "Liverpool (Beckham)",
-        "Pts": 9,
-        "J": 6,
-        "V": 3,
-        "E": 0,
-        "D": 3,
-        "GP": 24,
-        "GC": 25,
-        "SG": -1,
+        "nome": "Arsenal (Maverick)",
+        "Pts": 16,
+        "J": 8,
+        "V": 5,
+        "E": 1,
+        "D": 2,
+        "GP": 37,
+        "GC": 30,
+        "SG": 7,
         "pos": 2
       },
       {
-        "nome": "Arsenal (Maverick)",
-        "Pts": 7,
-        "J": 5,
-        "V": 2,
+        "nome": "Liverpool (Beckham)",
+        "Pts": 13,
+        "J": 8,
+        "V": 4,
         "E": 1,
-        "D": 2,
-        "GP": 23,
-        "GC": 23,
+        "D": 3,
+        "GP": 32,
+        "GC": 32,
         "SG": 0,
         "pos": 3
       },
       {
         "nome": "West Ham United (Alexander)",
-        "Pts": 5,
-        "J": 6,
+        "Pts": 6,
+        "J": 8,
         "V": 1,
-        "E": 2,
-        "D": 3,
-        "GP": 18,
-        "GC": 24,
-        "SG": -6,
+        "E": 3,
+        "D": 4,
+        "GP": 26,
+        "GC": 33,
+        "SG": -7,
         "pos": 4
       },
       {
         "nome": "Aston Villa (Juan)",
         "Pts": 4,
-        "J": 5,
+        "J": 8,
         "V": 1,
         "E": 1,
-        "D": 3,
-        "GP": 15,
-        "GC": 20,
-        "SG": -5,
+        "D": 6,
+        "GP": 20,
+        "GC": 35,
+        "SG": -15,
         "pos": 5
       }
     ]
