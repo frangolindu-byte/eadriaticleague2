@@ -1,9 +1,9 @@
 {
-  "updated_at": "20/04/2026 21:09:54",
+  "updated_at": "20/04/2026 22:03:48",
   "summary": {
     "total": 360,
-    "finalizados": 346,
-    "agendados": 14,
+    "finalizados": 360,
+    "agendados": 0,
     "ligas": 20
   },
   "jogos": [
@@ -2433,99 +2433,99 @@
       "liga": "FC26 R79(CHAMPIONS LEAGUE)20.04.2026",
       "p1": "Bayern M. (Conde)",
       "p2": "Real Madrid (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R79(CHAMPIONS LEAGUE)20.04.2026",
       "p1": "Liverpool (Dexter)",
       "p2": "Borussia Dortmund (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R79(CHAMPIONS LEAGUE)20.04.2026",
       "p1": "Bayer Leverkusen (Matrix)",
       "p2": "Borussia Dortmund (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R79(CHAMPIONS LEAGUE)20.04.2026",
       "p1": "Liverpool (Dexter)",
       "p2": "Bayern M. (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R79(CHAMPIONS LEAGUE)20.04.2026",
       "p1": "Bayer Leverkusen (Matrix)",
       "p2": "Real Madrid (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R79(CHAMPIONS LEAGUE)20.04.2026",
       "p1": "Borussia Dortmund (Odin)",
       "p2": "Bayern M. (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R79(CHAMPIONS LEAGUE)20.04.2026",
       "p1": "Bayer Leverkusen (Matrix)",
       "p2": "Bayern M. (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R79(CHAMPIONS LEAGUE)20.04.2026",
       "p1": "Real Madrid (Arthur)",
       "p2": "Liverpool (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.04.2026",
       "p1": "Portugal (Sebastian)",
       "p2": "Holland (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.04.2026",
       "p1": "Spain (Eric)",
       "p2": "France (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.04.2026",
       "p1": "Argentina (Iron)",
       "p2": "France (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.04.2026",
       "p1": "Spain (Eric)",
       "p2": "Portugal (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.04.2026",
       "p1": "Argentina (Iron)",
       "p2": "Holland (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.04.2026",
       "p1": "France (Haidan)",
       "p2": "Portugal (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2621,13 +2621,13 @@
     },
     "FC26 R79(CHAMPIONS LEAGUE)20.04.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R80(INTERNATIONAL)20.04.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3744,6 +3744,130 @@
         "GP": 23,
         "GC": 31,
         "SG": -8,
+        "pos": 5
+      }
+    ],
+    "FC26 R79(CHAMPIONS LEAGUE)20.04.2026": [
+      {
+        "nome": "Real Madrid (Arthur)",
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
+        "E": 0,
+        "D": 0,
+        "GP": 13,
+        "GC": 7,
+        "SG": 6,
+        "pos": 1
+      },
+      {
+        "nome": "Liverpool (Dexter)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 6,
+        "GC": 6,
+        "SG": 0,
+        "pos": 2
+      },
+      {
+        "nome": "Bayer Leverkusen (Matrix)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 9,
+        "GC": 7,
+        "SG": 2,
+        "pos": 3
+      },
+      {
+        "nome": "Bayern M. (Conde)",
+        "Pts": 2,
+        "J": 4,
+        "V": 0,
+        "E": 2,
+        "D": 2,
+        "GP": 8,
+        "GC": 11,
+        "SG": -3,
+        "pos": 4
+      },
+      {
+        "nome": "Borussia Dortmund (Odin)",
+        "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 4,
+        "GC": 9,
+        "SG": -5,
+        "pos": 5
+      }
+    ],
+    "FC26 R80(INTERNATIONAL)20.04.2026": [
+      {
+        "nome": "Spain (Eric)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 9,
+        "GC": 4,
+        "SG": 5,
+        "pos": 1
+      },
+      {
+        "nome": "Argentina (Iron)",
+        "Pts": 4,
+        "J": 2,
+        "V": 1,
+        "E": 1,
+        "D": 0,
+        "GP": 6,
+        "GC": 4,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Portugal (Sebastian)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 7,
+        "GC": 7,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Holland (Felix)",
+        "Pts": 2,
+        "J": 2,
+        "V": 0,
+        "E": 2,
+        "D": 0,
+        "GP": 2,
+        "GC": 2,
+        "SG": 0,
+        "pos": 4
+      },
+      {
+        "nome": "France (Haidan)",
+        "Pts": 0,
+        "J": 3,
+        "V": 0,
+        "E": 0,
+        "D": 3,
+        "GP": 6,
+        "GC": 13,
+        "SG": -7,
         "pos": 5
       }
     ]
