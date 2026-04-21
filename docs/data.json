@@ -1,9 +1,9 @@
 {
-  "updated_at": "21/04/2026 21:00:19",
+  "updated_at": "21/04/2026 21:55:47",
   "summary": {
     "total": 466,
-    "finalizados": 450,
-    "agendados": 16,
+    "finalizados": 462,
+    "agendados": 4,
     "ligas": 21
   },
   "jogos": [
@@ -3161,57 +3161,57 @@
       "liga": "FC26 R96(SERIA A)21.04.2026",
       "p1": "Fiorentina (Noah)",
       "p2": "Lazio (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R96(SERIA A)21.04.2026",
       "p1": "Napoli (Liam)",
       "p2": "Milan (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R97(INTERNATIONAL)21.04.2026",
       "p1": "Argentina (Gael)",
       "p2": "Norway (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R97(INTERNATIONAL)21.04.2026",
       "p1": "France (Conde)",
       "p2": "Denmark (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R97(INTERNATIONAL)21.04.2026",
       "p1": "France (Conde)",
       "p2": "Argentina (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R97(INTERNATIONAL)21.04.2026",
       "p1": "Italy (Odin)",
       "p2": "Denmark (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R97(INTERNATIONAL)21.04.2026",
       "p1": "Denmark (Matrix)",
       "p2": "Argentina (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R97(INTERNATIONAL)21.04.2026",
       "p1": "Italy (Odin)",
       "p2": "Norway (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R97(INTERNATIONAL)21.04.2026",
@@ -3231,29 +3231,29 @@
       "liga": "FC26 R98(CHAMPIONS LEAGUE)21.04.2026",
       "p1": "Liverpool (Nathan)",
       "p2": "Bayern M. (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R98(CHAMPIONS LEAGUE)21.04.2026",
       "p1": "PSG (Sebastian)",
       "p2": "Real Madrid (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R98(CHAMPIONS LEAGUE)21.04.2026",
       "p1": "Barcelona (Iron)",
       "p2": "Real Madrid (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R98(CHAMPIONS LEAGUE)21.04.2026",
       "p1": "PSG (Sebastian)",
       "p2": "Liverpool (Nathan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R98(CHAMPIONS LEAGUE)21.04.2026",
@@ -3363,18 +3363,18 @@
     },
     "FC26 R96(SERIA A)21.04.2026": {
       "total": 20,
-      "finalizados": 18,
-      "agendados": 2
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R97(INTERNATIONAL)21.04.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 6,
+      "agendados": 2
     },
     "FC26 R98(CHAMPIONS LEAGUE)21.04.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 4,
+      "agendados": 2
     }
   },
   "classificacao": {
@@ -4568,51 +4568,175 @@
         "pos": 1
       },
       {
-        "nome": "Napoli (Liam)",
-        "Pts": 12,
-        "J": 7,
+        "nome": "Fiorentina (Noah)",
+        "Pts": 13,
+        "J": 8,
         "V": 4,
-        "E": 0,
+        "E": 1,
         "D": 3,
-        "GP": 19,
-        "GC": 18,
-        "SG": 1,
+        "GP": 31,
+        "GC": 27,
+        "SG": 4,
         "pos": 2
       },
       {
-        "nome": "Fiorentina (Noah)",
-        "Pts": 10,
-        "J": 7,
-        "V": 3,
-        "E": 1,
-        "D": 3,
-        "GP": 26,
-        "GC": 25,
-        "SG": 1,
+        "nome": "Napoli (Liam)",
+        "Pts": 12,
+        "J": 8,
+        "V": 4,
+        "E": 0,
+        "D": 4,
+        "GP": 20,
+        "GC": 22,
+        "SG": -2,
         "pos": 3
       },
       {
         "nome": "Lazio (Andrew)",
         "Pts": 10,
-        "J": 7,
+        "J": 8,
         "V": 3,
         "E": 1,
-        "D": 3,
-        "GP": 23,
-        "GC": 22,
-        "SG": 1,
+        "D": 4,
+        "GP": 25,
+        "GC": 27,
+        "SG": -2,
         "pos": 4
       },
       {
         "nome": "Milan (Haidan)",
-        "Pts": 6,
-        "J": 7,
-        "V": 2,
+        "Pts": 9,
+        "J": 8,
+        "V": 3,
         "E": 0,
         "D": 5,
-        "GP": 22,
-        "GC": 30,
-        "SG": -8,
+        "GP": 26,
+        "GC": 31,
+        "SG": -5,
+        "pos": 5
+      }
+    ],
+    "FC26 R97(INTERNATIONAL)21.04.2026": [
+      {
+        "nome": "Argentina (Gael)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 13,
+        "GC": 9,
+        "SG": 4,
+        "pos": 1
+      },
+      {
+        "nome": "Norway (Eduardo)",
+        "Pts": 4,
+        "J": 2,
+        "V": 1,
+        "E": 1,
+        "D": 0,
+        "GP": 5,
+        "GC": 4,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Italy (Odin)",
+        "Pts": 2,
+        "J": 2,
+        "V": 0,
+        "E": 2,
+        "D": 0,
+        "GP": 3,
+        "GC": 3,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Denmark (Matrix)",
+        "Pts": 2,
+        "J": 3,
+        "V": 0,
+        "E": 2,
+        "D": 1,
+        "GP": 5,
+        "GC": 7,
+        "SG": -2,
+        "pos": 4
+      },
+      {
+        "nome": "France (Conde)",
+        "Pts": 1,
+        "J": 2,
+        "V": 0,
+        "E": 1,
+        "D": 1,
+        "GP": 6,
+        "GC": 9,
+        "SG": -3,
+        "pos": 5
+      }
+    ],
+    "FC26 R98(CHAMPIONS LEAGUE)21.04.2026": [
+      {
+        "nome": "Liverpool (Nathan)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 8,
+        "GC": 6,
+        "SG": 2,
+        "pos": 1
+      },
+      {
+        "nome": "Real Madrid (Kristof)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 8,
+        "GC": 6,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Bayern M. (Arthur)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 3,
+        "GC": 2,
+        "SG": 1,
+        "pos": 3
+      },
+      {
+        "nome": "PSG (Sebastian)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 8,
+        "GC": 10,
+        "SG": -2,
+        "pos": 4
+      },
+      {
+        "nome": "Barcelona (Iron)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 1,
+        "GC": 4,
+        "SG": -3,
         "pos": 5
       }
     ]
