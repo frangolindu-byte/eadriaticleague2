@@ -1,9 +1,9 @@
 {
-  "updated_at": "21/04/2026 23:22:32",
+  "updated_at": "21/04/2026 23:58:37",
   "summary": {
     "total": 360,
-    "finalizados": 20,
-    "agendados": 340,
+    "finalizados": 26,
+    "agendados": 334,
     "ligas": 20
   },
   "jogos": [
@@ -81,15 +81,15 @@
       "liga": "FC26 R97(INTERNATIONAL)21.04.2026",
       "p1": "Denmark (Matrix)",
       "p2": "Norway (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R97(INTERNATIONAL)21.04.2026",
       "p1": "France (Conde)",
       "p2": "Italy (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R98(CHAMPIONS LEAGUE)21.04.2026",
@@ -165,29 +165,29 @@
       "liga": "FC26 R98(CHAMPIONS LEAGUE)21.04.2026",
       "p1": "Liverpool (Nathan)",
       "p2": "Barcelona (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R98(CHAMPIONS LEAGUE)21.04.2026",
       "p1": "PSG (Sebastian)",
       "p2": "Bayern M. (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R98(CHAMPIONS LEAGUE)21.04.2026",
       "p1": "PSG (Sebastian)",
       "p2": "Barcelona (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R98(CHAMPIONS LEAGUE)21.04.2026",
       "p1": "Real Madrid (Kristof)",
       "p2": "Bayern M. (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R99(COPA LIBERTADORES)22.04.2026",
@@ -2531,13 +2531,13 @@
   "resumo": {
     "FC26 R97(INTERNATIONAL)21.04.2026": {
       "total": 12,
-      "finalizados": 10,
-      "agendados": 2
+      "finalizados": 12,
+      "agendados": 0
     },
     "FC26 R98(CHAMPIONS LEAGUE)21.04.2026": {
       "total": 14,
-      "finalizados": 10,
-      "agendados": 4
+      "finalizados": 14,
+      "agendados": 0
     },
     "FC26 R99(COPA LIBERTADORES)22.04.2026": {
       "total": 20,
@@ -2635,37 +2635,37 @@
       {
         "nome": "Denmark (Matrix)",
         "Pts": 12,
-        "J": 4,
+        "J": 5,
         "V": 4,
         "E": 0,
-        "D": 0,
+        "D": 1,
         "GP": 19,
-        "GC": 10,
-        "SG": 9,
+        "GC": 13,
+        "SG": 6,
         "pos": 1
       },
       {
         "nome": "Italy (Odin)",
-        "Pts": 9,
-        "J": 4,
-        "V": 3,
+        "Pts": 12,
+        "J": 5,
+        "V": 4,
         "E": 0,
         "D": 1,
-        "GP": 17,
-        "GC": 15,
-        "SG": 2,
+        "GP": 21,
+        "GC": 18,
+        "SG": 3,
         "pos": 2
       },
       {
         "nome": "Norway (Eduardo)",
-        "Pts": 6,
-        "J": 4,
-        "V": 2,
+        "Pts": 9,
+        "J": 5,
+        "V": 3,
         "E": 0,
         "D": 2,
-        "GP": 13,
+        "GP": 16,
         "GC": 12,
-        "SG": 1,
+        "SG": 4,
         "pos": 3
       },
       {
@@ -2683,75 +2683,75 @@
       {
         "nome": "France (Conde)",
         "Pts": 0,
-        "J": 4,
+        "J": 5,
         "V": 0,
         "E": 0,
-        "D": 4,
-        "GP": 14,
-        "GC": 22,
-        "SG": -8,
+        "D": 5,
+        "GP": 17,
+        "GC": 26,
+        "SG": -9,
         "pos": 5
       }
     ],
     "FC26 R98(CHAMPIONS LEAGUE)21.04.2026": [
       {
-        "nome": "Liverpool (Nathan)",
-        "Pts": 9,
-        "J": 4,
-        "V": 3,
-        "E": 0,
+        "nome": "Barcelona (Iron)",
+        "Pts": 13,
+        "J": 6,
+        "V": 4,
+        "E": 1,
         "D": 1,
-        "GP": 14,
-        "GC": 9,
+        "GP": 23,
+        "GC": 18,
         "SG": 5,
         "pos": 1
       },
       {
-        "nome": "Barcelona (Iron)",
-        "Pts": 7,
-        "J": 4,
-        "V": 2,
-        "E": 1,
-        "D": 1,
-        "GP": 16,
-        "GC": 14,
-        "SG": 2,
+        "nome": "Bayern M. (Arthur)",
+        "Pts": 12,
+        "J": 6,
+        "V": 4,
+        "E": 0,
+        "D": 2,
+        "GP": 26,
+        "GC": 16,
+        "SG": 10,
         "pos": 2
       },
       {
-        "nome": "Bayern M. (Arthur)",
-        "Pts": 6,
-        "J": 4,
-        "V": 2,
+        "nome": "Liverpool (Nathan)",
+        "Pts": 9,
+        "J": 5,
+        "V": 3,
         "E": 0,
         "D": 2,
-        "GP": 17,
-        "GC": 14,
-        "SG": 3,
+        "GP": 16,
+        "GC": 12,
+        "SG": 4,
         "pos": 3
       },
       {
         "nome": "Real Madrid (Kristof)",
         "Pts": 6,
-        "J": 4,
+        "J": 5,
         "V": 2,
         "E": 0,
-        "D": 2,
-        "GP": 14,
-        "GC": 16,
-        "SG": -2,
+        "D": 3,
+        "GP": 15,
+        "GC": 20,
+        "SG": -5,
         "pos": 4
       },
       {
         "nome": "PSG (Sebastian)",
         "Pts": 1,
-        "J": 4,
+        "J": 6,
         "V": 0,
         "E": 1,
-        "D": 3,
-        "GP": 12,
-        "GC": 20,
-        "SG": -8,
+        "D": 5,
+        "GP": 15,
+        "GC": 29,
+        "SG": -14,
         "pos": 5
       }
     ]
