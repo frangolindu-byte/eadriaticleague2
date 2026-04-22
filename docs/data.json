@@ -1,9 +1,9 @@
 {
-  "updated_at": "22/04/2026 21:05:51",
+  "updated_at": "22/04/2026 22:02:00",
   "summary": {
     "total": 466,
-    "finalizados": 452,
-    "agendados": 14,
+    "finalizados": 464,
+    "agendados": 2,
     "ligas": 21
   },
   "jogos": [
@@ -3175,85 +3175,85 @@
       "liga": "FC26 R115(CHAMPIONS LEAGUE)22.04.2026",
       "p1": "Bayern M. (Eric)",
       "p2": "PSG (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R115(CHAMPIONS LEAGUE)22.04.2026",
       "p1": "Real Madrid (Gael)",
       "p2": "Barcelona (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R115(CHAMPIONS LEAGUE)22.04.2026",
       "p1": "Bayern M. (Eric)",
       "p2": "Real Madrid (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R115(CHAMPIONS LEAGUE)22.04.2026",
       "p1": "Manchester City (Dexter)",
       "p2": "PSG (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R115(CHAMPIONS LEAGUE)22.04.2026",
       "p1": "Manchester City (Dexter)",
       "p2": "Barcelona (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R115(CHAMPIONS LEAGUE)22.04.2026",
       "p1": "PSG (Odin)",
       "p2": "Real Madrid (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R115(CHAMPIONS LEAGUE)22.04.2026",
       "p1": "Barcelona (Matrix)",
       "p2": "Bayern M. (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R115(CHAMPIONS LEAGUE)22.04.2026",
       "p1": "Manchester City (Dexter)",
       "p2": "Real Madrid (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R116(INTERNATIONAL)22.04.2026",
       "p1": "Norway (Arthur)",
       "p2": "Denmark (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R116(INTERNATIONAL)22.04.2026",
       "p1": "Spain (Nathan)",
       "p2": "Holland (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R116(INTERNATIONAL)22.04.2026",
       "p1": "Portugal (Iron)",
       "p2": "Holland (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R116(INTERNATIONAL)22.04.2026",
       "p1": "Spain (Nathan)",
       "p2": "Norway (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R116(INTERNATIONAL)22.04.2026",
@@ -3368,13 +3368,13 @@
     },
     "FC26 R115(CHAMPIONS LEAGUE)22.04.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R116(INTERNATIONAL)22.04.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 4,
+      "agendados": 2
     }
   },
   "classificacao": {
@@ -4613,6 +4613,130 @@
         "GP": 24,
         "GC": 29,
         "SG": -5,
+        "pos": 5
+      }
+    ],
+    "FC26 R115(CHAMPIONS LEAGUE)22.04.2026": [
+      {
+        "nome": "Barcelona (Matrix)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 13,
+        "GC": 9,
+        "SG": 4,
+        "pos": 1
+      },
+      {
+        "nome": "PSG (Odin)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 11,
+        "GC": 7,
+        "SG": 4,
+        "pos": 2
+      },
+      {
+        "nome": "Manchester City (Dexter)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 13,
+        "GC": 13,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Real Madrid (Gael)",
+        "Pts": 3,
+        "J": 4,
+        "V": 1,
+        "E": 0,
+        "D": 3,
+        "GP": 11,
+        "GC": 15,
+        "SG": -4,
+        "pos": 4
+      },
+      {
+        "nome": "Bayern M. (Eric)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 6,
+        "GC": 10,
+        "SG": -4,
+        "pos": 5
+      }
+    ],
+    "FC26 R116(INTERNATIONAL)22.04.2026": [
+      {
+        "nome": "Holland (Kristof)",
+        "Pts": 4,
+        "J": 2,
+        "V": 1,
+        "E": 1,
+        "D": 0,
+        "GP": 7,
+        "GC": 5,
+        "SG": 2,
+        "pos": 1
+      },
+      {
+        "nome": "Norway (Arthur)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 6,
+        "GC": 6,
+        "SG": 0,
+        "pos": 2
+      },
+      {
+        "nome": "Spain (Nathan)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 5,
+        "GC": 5,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Portugal (Iron)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 4,
+        "GC": 4,
+        "SG": 0,
+        "pos": 4
+      },
+      {
+        "nome": "Denmark (Sebastian)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 2,
+        "GC": 4,
+        "SG": -2,
         "pos": 5
       }
     ]
