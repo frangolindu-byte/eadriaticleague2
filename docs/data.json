@@ -1,9 +1,9 @@
 {
-  "updated_at": "22/04/2026 22:02:00",
+  "updated_at": "22/04/2026 23:00:45",
   "summary": {
     "total": 466,
-    "finalizados": 464,
-    "agendados": 2,
+    "finalizados": 466,
+    "agendados": 0,
     "ligas": 21
   },
   "jogos": [
@@ -3259,15 +3259,15 @@
       "liga": "FC26 R116(INTERNATIONAL)22.04.2026",
       "p1": "Holland (Kristof)",
       "p2": "Norway (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R116(INTERNATIONAL)22.04.2026",
       "p1": "Portugal (Iron)",
       "p2": "Denmark (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -3373,8 +3373,8 @@
     },
     "FC26 R116(INTERNATIONAL)22.04.2026": {
       "total": 6,
-      "finalizados": 4,
-      "agendados": 2
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -4680,28 +4680,40 @@
     ],
     "FC26 R116(INTERNATIONAL)22.04.2026": [
       {
-        "nome": "Holland (Kristof)",
+        "nome": "Norway (Arthur)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 12,
+        "GC": 8,
+        "SG": 4,
+        "pos": 1
+      },
+      {
+        "nome": "Portugal (Iron)",
         "Pts": 4,
         "J": 2,
         "V": 1,
         "E": 1,
         "D": 0,
-        "GP": 7,
-        "GC": 5,
-        "SG": 2,
-        "pos": 1
+        "GP": 9,
+        "GC": 6,
+        "SG": 3,
+        "pos": 2
       },
       {
-        "nome": "Norway (Arthur)",
-        "Pts": 3,
-        "J": 2,
+        "nome": "Holland (Kristof)",
+        "Pts": 4,
+        "J": 3,
         "V": 1,
-        "E": 0,
+        "E": 1,
         "D": 1,
-        "GP": 6,
-        "GC": 6,
-        "SG": 0,
-        "pos": 2
+        "GP": 9,
+        "GC": 11,
+        "SG": -2,
+        "pos": 3
       },
       {
         "nome": "Spain (Nathan)",
@@ -4713,30 +4725,18 @@
         "GP": 5,
         "GC": 5,
         "SG": 0,
-        "pos": 3
-      },
-      {
-        "nome": "Portugal (Iron)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
-        "E": 1,
-        "D": 0,
-        "GP": 4,
-        "GC": 4,
-        "SG": 0,
         "pos": 4
       },
       {
         "nome": "Denmark (Sebastian)",
         "Pts": 0,
-        "J": 1,
+        "J": 2,
         "V": 0,
         "E": 0,
-        "D": 1,
-        "GP": 2,
-        "GC": 4,
-        "SG": -2,
+        "D": 2,
+        "GP": 4,
+        "GC": 9,
+        "SG": -5,
         "pos": 5
       }
     ]
