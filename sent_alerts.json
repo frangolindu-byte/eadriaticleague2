@@ -7482,7 +7482,10 @@
     ],
     "assertividade": 73.7,
     "key": "FC26 R112(INTERNATIONAL)22.04.2026|Holland (Haidan)|Italy (Liam)",
-    "message_id": 935
+    "message_id": 935,
+    "result_checked": true,
+    "result_placar": "5-5",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R112(INTERNATIONAL)22.04.2026",
@@ -7506,7 +7509,10 @@
     ],
     "assertividade": 73.7,
     "key": "FC26 R112(INTERNATIONAL)22.04.2026|Holland (Haidan)|Italy (Liam)",
-    "message_id": 936
+    "message_id": 936,
+    "result_checked": true,
+    "result_placar": "5-5",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R112(INTERNATIONAL)22.04.2026",
@@ -7530,6 +7536,90 @@
     ],
     "assertividade": 73.7,
     "key": "FC26 R112(INTERNATIONAL)22.04.2026|Holland (Haidan)|Italy (Liam)",
-    "message_id": 937
+    "message_id": 937,
+    "result_checked": true,
+    "result_placar": "5-5",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R100(PREMIER LEAGUE)22.04.2026",
+    "p1": "Arsenal (Nathan)",
+    "p2": "Manchester City (Arthur)",
+    "w1": 50.0,
+    "w2": 16.7,
+    "j1": 8,
+    "j2": 24,
+    "o65": 60.4,
+    "btts": 97.9,
+    "avg_g": 7.295,
+    "f1": "L-W-L-L-W",
+    "f2": "L-L-L-L-L",
+    "fav": "Arsenal (Nathan)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 60%",
+      "BTTS: 98%",
+      "Vitoria Arsenal (Nathan) (WR 50%)"
+    ],
+    "assertividade": 66.1,
+    "key": "FC26 R100(PREMIER LEAGUE)22.04.2026|Arsenal (Nathan)|Manchester City (Arthur)",
+    "message_id": 938,
+    "result_checked": true,
+    "result_placar": "3-4",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R100(PREMIER LEAGUE)22.04.2026",
+    "p1": "Aston Villa (Iron)",
+    "p2": "Manchester City (Arthur)",
+    "w1": 62.5,
+    "w2": 16.7,
+    "j1": 8,
+    "j2": 24,
+    "o65": 60.4,
+    "btts": 97.9,
+    "avg_g": 7.73,
+    "f1": "W-W-W-L-L",
+    "f2": "L-L-L-L-L",
+    "fav": "Aston Villa (Iron)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 60%",
+      "BTTS: 98%",
+      "Vitoria Aston Villa (Iron) (WR 62%)"
+    ],
+    "assertividade": 70.5,
+    "key": "FC26 R100(PREMIER LEAGUE)22.04.2026|Aston Villa (Iron)|Manchester City (Arthur)",
+    "message_id": 939,
+    "result_checked": true,
+    "result_placar": "1-4",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R100(PREMIER LEAGUE)22.04.2026",
+    "p1": "Manchester City (Arthur)",
+    "p2": "Arsenal (Nathan)",
+    "w1": 16.7,
+    "w2": 50.0,
+    "j1": 24,
+    "j2": 8,
+    "o65": 60.4,
+    "btts": 97.9,
+    "avg_g": 7.295,
+    "f1": "L-L-L-L-L",
+    "f2": "L-W-L-L-W",
+    "fav": "Arsenal (Nathan)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 60%",
+      "BTTS: 98%",
+      "Vitoria Arsenal (Nathan) (WR 50%)"
+    ],
+    "assertividade": 66.1,
+    "key": "FC26 R100(PREMIER LEAGUE)22.04.2026|Arsenal (Nathan)|Manchester City (Arthur)",
+    "message_id": 940,
+    "result_checked": true,
+    "result_placar": "3-4",
+    "result_status": "errou"
   }
 ]
