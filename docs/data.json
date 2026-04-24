@@ -1,9 +1,9 @@
 {
-  "updated_at": "24/04/2026 21:57:58",
+  "updated_at": "24/04/2026 22:43:35",
   "summary": {
     "total": 466,
-    "finalizados": 462,
-    "agendados": 4,
+    "finalizados": 466,
+    "agendados": 0,
     "ligas": 21
   },
   "jogos": [
@@ -3217,15 +3217,15 @@
       "liga": "FC26 R151(INTERNATIONAL)24.04.2026",
       "p1": "France (Odin)",
       "p2": "Italy (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R151(INTERNATIONAL)24.04.2026",
       "p1": "Norway (Gael)",
       "p2": "Spain (Nathan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R152(CHAMPIONS LEAGUE)24.04.2026",
@@ -3259,15 +3259,15 @@
       "liga": "FC26 R152(CHAMPIONS LEAGUE)24.04.2026",
       "p1": "Barcelona (Kristof)",
       "p2": "PSG (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R152(CHAMPIONS LEAGUE)24.04.2026",
       "p1": "Manchester City (Iron)",
       "p2": "Atletico Madrid (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -3368,13 +3368,13 @@
     },
     "FC26 R151(INTERNATIONAL)24.04.2026": {
       "total": 8,
-      "finalizados": 6,
-      "agendados": 2
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R152(CHAMPIONS LEAGUE)24.04.2026": {
       "total": 6,
-      "finalizados": 4,
-      "agendados": 2
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -4619,51 +4619,39 @@
     "FC26 R151(INTERNATIONAL)24.04.2026": [
       {
         "nome": "Spain (Nathan)",
-        "Pts": 4,
-        "J": 2,
-        "V": 1,
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
         "E": 1,
         "D": 0,
-        "GP": 4,
-        "GC": 2,
-        "SG": 2,
+        "GP": 10,
+        "GC": 6,
+        "SG": 4,
         "pos": 1
       },
       {
         "nome": "Italy (Eric)",
-        "Pts": 4,
-        "J": 3,
-        "V": 1,
+        "Pts": 7,
+        "J": 4,
+        "V": 2,
         "E": 1,
         "D": 1,
-        "GP": 5,
-        "GC": 5,
-        "SG": 0,
+        "GP": 9,
+        "GC": 7,
+        "SG": 2,
         "pos": 2
       },
       {
         "nome": "Norway (Gael)",
         "Pts": 3,
-        "J": 2,
+        "J": 3,
         "V": 1,
         "E": 0,
-        "D": 1,
-        "GP": 5,
-        "GC": 4,
-        "SG": 1,
-        "pos": 3
-      },
-      {
-        "nome": "France (Odin)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
-        "E": 0,
-        "D": 1,
-        "GP": 7,
-        "GC": 8,
+        "D": 2,
+        "GP": 9,
+        "GC": 10,
         "SG": -1,
-        "pos": 4
+        "pos": 3
       },
       {
         "nome": "Denmark (Arthur)",
@@ -4675,32 +4663,44 @@
         "GP": 8,
         "GC": 10,
         "SG": -2,
+        "pos": 4
+      },
+      {
+        "nome": "France (Odin)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 9,
+        "GC": 12,
+        "SG": -3,
         "pos": 5
       }
     ],
     "FC26 R152(CHAMPIONS LEAGUE)24.04.2026": [
       {
         "nome": "Barcelona (Kristof)",
-        "Pts": 6,
-        "J": 2,
-        "V": 2,
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
         "E": 0,
         "D": 0,
-        "GP": 7,
-        "GC": 3,
-        "SG": 4,
+        "GP": 10,
+        "GC": 5,
+        "SG": 5,
         "pos": 1
       },
       {
         "nome": "PSG (Conde)",
         "Pts": 3,
-        "J": 2,
+        "J": 3,
         "V": 1,
         "E": 0,
-        "D": 1,
-        "GP": 4,
-        "GC": 1,
-        "SG": 3,
+        "D": 2,
+        "GP": 6,
+        "GC": 4,
+        "SG": 2,
         "pos": 2
       },
       {
@@ -4717,25 +4717,25 @@
       },
       {
         "nome": "Manchester City (Iron)",
-        "Pts": 0,
-        "J": 1,
+        "Pts": 1,
+        "J": 2,
         "V": 0,
-        "E": 0,
+        "E": 1,
         "D": 1,
-        "GP": 3,
-        "GC": 4,
+        "GP": 5,
+        "GC": 6,
         "SG": -1,
         "pos": 4
       },
       {
         "nome": "Atletico Madrid (Sebastian)",
-        "Pts": 0,
-        "J": 1,
+        "Pts": 1,
+        "J": 2,
         "V": 0,
-        "E": 0,
+        "E": 1,
         "D": 1,
-        "GP": 0,
-        "GC": 4,
+        "GP": 2,
+        "GC": 6,
         "SG": -4,
         "pos": 5
       }
