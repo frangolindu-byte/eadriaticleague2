@@ -1,9 +1,9 @@
 {
-  "updated_at": "23/04/2026 23:08:19",
+  "updated_at": "24/04/2026 00:01:52",
   "summary": {
     "total": 360,
-    "finalizados": 16,
-    "agendados": 344,
+    "finalizados": 28,
+    "agendados": 332,
     "ligas": 20
   },
   "jogos": [
@@ -67,29 +67,29 @@
       "liga": "FC26 R133(INTERNATIONAL)23.04.2026",
       "p1": "Argentina (Gael)",
       "p2": "Morocco (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R133(INTERNATIONAL)23.04.2026",
       "p1": "Ghana (Odin)",
       "p2": "Italy (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R133(INTERNATIONAL)23.04.2026",
       "p1": "Argentina (Gael)",
       "p2": "Italy (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R133(INTERNATIONAL)23.04.2026",
       "p1": "Holland (Eric)",
       "p2": "Morocco (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R134(CHAMPIONS LEAGUE)23.04.2026",
@@ -151,57 +151,57 @@
       "liga": "FC26 R134(CHAMPIONS LEAGUE)23.04.2026",
       "p1": "Manchester City (Kristof)",
       "p2": "Barcelona (Nathan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R134(CHAMPIONS LEAGUE)23.04.2026",
       "p1": "PSG (Sebastian)",
       "p2": "Bayer Leverkusen (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R134(CHAMPIONS LEAGUE)23.04.2026",
       "p1": "Bayern M. (Arthur)",
       "p2": "Manchester City (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R134(CHAMPIONS LEAGUE)23.04.2026",
       "p1": "PSG (Sebastian)",
       "p2": "Barcelona (Nathan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R134(CHAMPIONS LEAGUE)23.04.2026",
       "p1": "Bayer Leverkusen (Iron)",
       "p2": "Manchester City (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R134(CHAMPIONS LEAGUE)23.04.2026",
       "p1": "Bayern M. (Arthur)",
       "p2": "Barcelona (Nathan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R135(SERIA A)24.04.2026",
       "p1": "Lazio (Gael)",
       "p2": "Milan (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R135(SERIA A)24.04.2026",
       "p1": "Napoli (Odin)",
       "p2": "Fiorentina (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R135(SERIA A)24.04.2026",
@@ -2531,18 +2531,18 @@
   "resumo": {
     "FC26 R133(INTERNATIONAL)23.04.2026": {
       "total": 12,
-      "finalizados": 8,
-      "agendados": 4
+      "finalizados": 12,
+      "agendados": 0
     },
     "FC26 R134(CHAMPIONS LEAGUE)23.04.2026": {
       "total": 14,
-      "finalizados": 8,
-      "agendados": 6
+      "finalizados": 14,
+      "agendados": 0
     },
     "FC26 R135(SERIA A)24.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 2,
+      "agendados": 18
     },
     "FC26 R136(COPA LIBERTADORES)24.04.2026": {
       "total": 20,
@@ -2634,61 +2634,61 @@
     "FC26 R133(INTERNATIONAL)23.04.2026": [
       {
         "nome": "Morocco (Matrix)",
-        "Pts": 9,
-        "J": 3,
-        "V": 3,
-        "E": 0,
+        "Pts": 13,
+        "J": 5,
+        "V": 4,
+        "E": 1,
         "D": 0,
-        "GP": 12,
-        "GC": 4,
-        "SG": 8,
+        "GP": 19,
+        "GC": 9,
+        "SG": 10,
         "pos": 1
       },
       {
         "nome": "Holland (Eric)",
+        "Pts": 6,
+        "J": 5,
+        "V": 1,
+        "E": 3,
+        "D": 1,
+        "GP": 11,
+        "GC": 12,
+        "SG": -1,
+        "pos": 2
+      },
+      {
+        "nome": "Ghana (Odin)",
         "Pts": 5,
         "J": 4,
         "V": 1,
         "E": 2,
         "D": 1,
         "GP": 9,
-        "GC": 10,
-        "SG": -1,
-        "pos": 2
-      },
-      {
-        "nome": "Ghana (Odin)",
-        "Pts": 4,
-        "J": 3,
-        "V": 1,
-        "E": 1,
-        "D": 1,
-        "GP": 7,
-        "GC": 7,
+        "GC": 9,
         "SG": 0,
         "pos": 3
       },
       {
         "nome": "Italy (Dexter)",
-        "Pts": 4,
-        "J": 3,
+        "Pts": 5,
+        "J": 5,
         "V": 1,
-        "E": 1,
-        "D": 1,
-        "GP": 6,
-        "GC": 8,
-        "SG": -2,
+        "E": 2,
+        "D": 2,
+        "GP": 11,
+        "GC": 15,
+        "SG": -4,
         "pos": 4
       },
       {
         "nome": "Argentina (Gael)",
-        "Pts": 0,
-        "J": 3,
-        "V": 0,
+        "Pts": 3,
+        "J": 5,
+        "V": 1,
         "E": 0,
-        "D": 3,
-        "GP": 7,
-        "GC": 12,
+        "D": 4,
+        "GP": 15,
+        "GC": 20,
         "SG": -5,
         "pos": 5
       }
@@ -2696,63 +2696,113 @@
     "FC26 R134(CHAMPIONS LEAGUE)23.04.2026": [
       {
         "nome": "Bayern M. (Arthur)",
-        "Pts": 6,
-        "J": 4,
-        "V": 2,
+        "Pts": 12,
+        "J": 6,
+        "V": 4,
         "E": 0,
         "D": 2,
-        "GP": 12,
-        "GC": 11,
-        "SG": 1,
+        "GP": 21,
+        "GC": 13,
+        "SG": 8,
         "pos": 1
       },
       {
-        "nome": "Barcelona (Nathan)",
-        "Pts": 6,
-        "J": 3,
-        "V": 2,
-        "E": 0,
+        "nome": "PSG (Sebastian)",
+        "Pts": 10,
+        "J": 5,
+        "V": 3,
+        "E": 1,
         "D": 1,
-        "GP": 11,
-        "GC": 10,
-        "SG": 1,
+        "GP": 19,
+        "GC": 15,
+        "SG": 4,
         "pos": 2
       },
       {
-        "nome": "PSG (Sebastian)",
+        "nome": "Barcelona (Nathan)",
+        "Pts": 10,
+        "J": 6,
+        "V": 3,
+        "E": 1,
+        "D": 2,
+        "GP": 23,
+        "GC": 20,
+        "SG": 3,
+        "pos": 3
+      },
+      {
+        "nome": "Bayer Leverkusen (Iron)",
         "Pts": 6,
-        "J": 3,
+        "J": 5,
         "V": 2,
         "E": 0,
-        "D": 1,
-        "GP": 9,
-        "GC": 8,
-        "SG": 1,
-        "pos": 3
+        "D": 3,
+        "GP": 15,
+        "GC": 18,
+        "SG": -3,
+        "pos": 4
       },
       {
         "nome": "Manchester City (Kristof)",
         "Pts": 3,
-        "J": 3,
+        "J": 6,
         "V": 1,
         "E": 0,
-        "D": 2,
+        "D": 5,
         "GP": 12,
-        "GC": 11,
-        "SG": 1,
-        "pos": 4
+        "GC": 24,
+        "SG": -12,
+        "pos": 5
+      }
+    ],
+    "FC26 R135(SERIA A)24.04.2026": [
+      {
+        "nome": "Lazio (Gael)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 4,
+        "GC": 1,
+        "SG": 3,
+        "pos": 1
       },
       {
-        "nome": "Bayer Leverkusen (Iron)",
-        "Pts": 3,
-        "J": 3,
-        "V": 1,
+        "nome": "Napoli (Odin)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 4,
+        "GC": 4,
+        "SG": 0,
+        "pos": 2
+      },
+      {
+        "nome": "Fiorentina (Matrix)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 4,
+        "GC": 4,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Milan (Eric)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
         "E": 0,
-        "D": 2,
-        "GP": 9,
-        "GC": 13,
-        "SG": -4,
-        "pos": 5
+        "D": 1,
+        "GP": 1,
+        "GC": 4,
+        "SG": -3,
+        "pos": 4
       }
     ]
   }
