@@ -1,9 +1,9 @@
 {
-  "updated_at": "25/04/2026 13:48:27",
+  "updated_at": "25/04/2026 14:33:42",
   "summary": {
     "total": 300,
-    "finalizados": 232,
-    "agendados": 68,
+    "finalizados": 238,
+    "agendados": 62,
     "ligas": 17
   },
   "jogos": [
@@ -1635,43 +1635,43 @@
       "liga": "FC26 R163(INTERNATIONAL)25.04.2026",
       "p1": "Ghana (Alexis)",
       "p2": "Spain (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R163(INTERNATIONAL)25.04.2026",
       "p1": "Italy (Conde)",
       "p2": "Holland (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R163(INTERNATIONAL)25.04.2026",
       "p1": "Ghana (Alexis)",
       "p2": "Holland (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R163(INTERNATIONAL)25.04.2026",
       "p1": "Italy (Conde)",
       "p2": "Norway (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R163(INTERNATIONAL)25.04.2026",
       "p1": "Italy (Conde)",
       "p2": "Spain (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R163(INTERNATIONAL)25.04.2026",
       "p1": "Norway (Donatello)",
       "p2": "Holland (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R163(INTERNATIONAL)25.04.2026",
@@ -2171,8 +2171,8 @@
     },
     "FC26 R163(INTERNATIONAL)25.04.2026": {
       "total": 20,
-      "finalizados": 6,
-      "agendados": 14
+      "finalizados": 12,
+      "agendados": 8
     },
     "FC26 R164(PREMIER LEAGUE)25.04.2026": {
       "total": 20,
@@ -2943,62 +2943,62 @@
     "FC26 R163(INTERNATIONAL)25.04.2026": [
       {
         "nome": "Ghana (Alexis)",
-        "Pts": 4,
-        "J": 2,
-        "V": 1,
+        "Pts": 10,
+        "J": 4,
+        "V": 3,
         "E": 1,
         "D": 0,
-        "GP": 7,
-        "GC": 3,
-        "SG": 4,
+        "GP": 17,
+        "GC": 6,
+        "SG": 11,
         "pos": 1
       },
       {
-        "nome": "Norway (Donatello)",
-        "Pts": 4,
-        "J": 3,
-        "V": 1,
+        "nome": "Italy (Conde)",
+        "Pts": 10,
+        "J": 5,
+        "V": 3,
         "E": 1,
         "D": 1,
-        "GP": 9,
-        "GC": 10,
-        "SG": -1,
+        "GP": 13,
+        "GC": 9,
+        "SG": 4,
         "pos": 2
       },
       {
-        "nome": "Holland (VanGogh)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
-        "E": 0,
-        "D": 1,
-        "GP": 9,
-        "GC": 8,
-        "SG": 1,
+        "nome": "Norway (Donatello)",
+        "Pts": 7,
+        "J": 5,
+        "V": 2,
+        "E": 1,
+        "D": 2,
+        "GP": 14,
+        "GC": 17,
+        "SG": -3,
         "pos": 3
+      },
+      {
+        "nome": "Holland (VanGogh)",
+        "Pts": 4,
+        "J": 5,
+        "V": 1,
+        "E": 1,
+        "D": 3,
+        "GP": 14,
+        "GC": 17,
+        "SG": -3,
+        "pos": 4
       },
       {
         "nome": "Spain (MisterX)",
         "Pts": 3,
-        "J": 3,
+        "J": 5,
         "V": 1,
         "E": 0,
-        "D": 2,
-        "GP": 8,
-        "GC": 10,
-        "SG": -2,
-        "pos": 4
-      },
-      {
-        "nome": "Italy (Conde)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
-        "E": 0,
-        "D": 1,
-        "GP": 4,
-        "GC": 6,
-        "SG": -2,
+        "D": 4,
+        "GP": 10,
+        "GC": 19,
+        "SG": -9,
         "pos": 5
       }
     ]
