@@ -1,9 +1,9 @@
 {
-  "updated_at": "25/04/2026 20:55:26",
+  "updated_at": "25/04/2026 21:36:08",
   "summary": {
     "total": 300,
-    "finalizados": 286,
-    "agendados": 14,
+    "finalizados": 292,
+    "agendados": 8,
     "ligas": 17
   },
   "jogos": [
@@ -2013,29 +2013,29 @@
       "liga": "FC26 R166(SERIA A)25.04.2026",
       "p1": "Fiorentina (Odin)",
       "p2": "Inter (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R166(SERIA A)25.04.2026",
       "p1": "Milan (Arthur)",
       "p2": "Napoli (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R166(SERIA A)25.04.2026",
       "p1": "Milan (Arthur)",
       "p2": "Fiorentina (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R166(SERIA A)25.04.2026",
       "p1": "Roma (Gael)",
       "p2": "Napoli (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R166(SERIA A)25.04.2026",
@@ -2069,15 +2069,15 @@
       "liga": "FC26 R167(INTERNATIONAL)25.04.2026",
       "p1": "Denmark (Juan)",
       "p2": "Holland (Daniel)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R167(INTERNATIONAL)25.04.2026",
       "p1": "France (George)",
       "p2": "Argentina (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R167(INTERNATIONAL)25.04.2026",
@@ -2186,13 +2186,13 @@
     },
     "FC26 R166(SERIA A)25.04.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 4,
+      "agendados": 4
     },
     "FC26 R167(INTERNATIONAL)25.04.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 2,
+      "agendados": 4
     }
   },
   "classificacao": {
@@ -3124,6 +3124,118 @@
         "GC": 30,
         "SG": -7,
         "pos": 5
+      }
+    ],
+    "FC26 R166(SERIA A)25.04.2026": [
+      {
+        "nome": "Fiorentina (Odin)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 7,
+        "GC": 1,
+        "SG": 6,
+        "pos": 1
+      },
+      {
+        "nome": "Roma (Gael)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 6,
+        "GC": 5,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Milan (Arthur)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 4,
+        "GC": 7,
+        "SG": -3,
+        "pos": 3
+      },
+      {
+        "nome": "Napoli (Sebastian)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 8,
+        "GC": 10,
+        "SG": -2,
+        "pos": 4
+      },
+      {
+        "nome": "Inter (Eric)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 1,
+        "GC": 3,
+        "SG": -2,
+        "pos": 5
+      }
+    ],
+    "FC26 R167(INTERNATIONAL)25.04.2026": [
+      {
+        "nome": "France (George)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 3,
+        "GC": 2,
+        "SG": 1,
+        "pos": 1
+      },
+      {
+        "nome": "Holland (Daniel)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 1,
+        "GC": 0,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Argentina (Kristof)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 2,
+        "GC": 3,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Denmark (Juan)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 0,
+        "GC": 1,
+        "SG": -1,
+        "pos": 4
       }
     ]
   }
