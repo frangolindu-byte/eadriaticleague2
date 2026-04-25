@@ -1,9 +1,9 @@
 {
-  "updated_at": "25/04/2026 11:48:21",
+  "updated_at": "25/04/2026 12:32:16",
   "summary": {
     "total": 300,
-    "finalizados": 206,
-    "agendados": 94,
+    "finalizados": 218,
+    "agendados": 82,
     "ligas": 17
   },
   "jogos": [
@@ -1397,43 +1397,43 @@
       "liga": "FC26 R161(CHAMPIONS LEAGUE)25.04.2026",
       "p1": "Atletico Madrid (Gabriel)",
       "p2": "Bayern M. (Bruno)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R161(CHAMPIONS LEAGUE)25.04.2026",
       "p1": "Real Madrid (Andrew)",
       "p2": "Manchester City (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R161(CHAMPIONS LEAGUE)25.04.2026",
       "p1": "Atletico Madrid (Gabriel)",
       "p2": "Real Madrid (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R161(CHAMPIONS LEAGUE)25.04.2026",
       "p1": "Barcelona (Matrix)",
       "p2": "Manchester City (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R161(CHAMPIONS LEAGUE)25.04.2026",
       "p1": "Atletico Madrid (Gabriel)",
       "p2": "Manchester City (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R161(CHAMPIONS LEAGUE)25.04.2026",
       "p1": "Bayern M. (Bruno)",
       "p2": "Barcelona (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R161(CHAMPIONS LEAGUE)25.04.2026",
@@ -1509,43 +1509,43 @@
       "liga": "FC26 R162(INTERNATIONAL)25.04.2026",
       "p1": "Denmark (Mateo)",
       "p2": "Spain (Luigi)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R162(INTERNATIONAL)25.04.2026",
       "p1": "Italy (Kai)",
       "p2": "Argentina (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R162(INTERNATIONAL)25.04.2026",
       "p1": "Argentina (Beckham)",
       "p2": "Spain (Luigi)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R162(INTERNATIONAL)25.04.2026",
       "p1": "Italy (Kai)",
       "p2": "France (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R162(INTERNATIONAL)25.04.2026",
       "p1": "Argentina (Beckham)",
       "p2": "Denmark (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R162(INTERNATIONAL)25.04.2026",
       "p1": "France (Alexander)",
       "p2": "Spain (Luigi)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R162(INTERNATIONAL)25.04.2026",
@@ -2161,13 +2161,13 @@
     },
     "FC26 R161(CHAMPIONS LEAGUE)25.04.2026": {
       "total": 20,
-      "finalizados": 12,
-      "agendados": 8
+      "finalizados": 18,
+      "agendados": 2
     },
     "FC26 R162(INTERNATIONAL)25.04.2026": {
       "total": 20,
-      "finalizados": 8,
-      "agendados": 12
+      "finalizados": 14,
+      "agendados": 6
     },
     "FC26 R163(INTERNATIONAL)25.04.2026": {
       "total": 20,
@@ -2819,124 +2819,124 @@
     "FC26 R161(CHAMPIONS LEAGUE)25.04.2026": [
       {
         "nome": "Atletico Madrid (Gabriel)",
-        "Pts": 12,
-        "J": 5,
-        "V": 4,
-        "E": 0,
+        "Pts": 19,
+        "J": 8,
+        "V": 6,
+        "E": 1,
         "D": 1,
-        "GP": 17,
-        "GC": 10,
-        "SG": 7,
+        "GP": 24,
+        "GC": 14,
+        "SG": 10,
         "pos": 1
       },
       {
-        "nome": "Bayern M. (Bruno)",
-        "Pts": 9,
-        "J": 5,
+        "nome": "Barcelona (Matrix)",
+        "Pts": 11,
+        "J": 7,
         "V": 3,
-        "E": 0,
+        "E": 2,
         "D": 2,
-        "GP": 21,
-        "GC": 18,
+        "GP": 19,
+        "GC": 16,
         "SG": 3,
         "pos": 2
       },
       {
-        "nome": "Barcelona (Matrix)",
-        "Pts": 7,
-        "J": 5,
-        "V": 2,
+        "nome": "Bayern M. (Bruno)",
+        "Pts": 10,
+        "J": 7,
+        "V": 3,
         "E": 1,
-        "D": 2,
-        "GP": 12,
-        "GC": 11,
-        "SG": 1,
+        "D": 3,
+        "GP": 25,
+        "GC": 23,
+        "SG": 2,
         "pos": 3
       },
       {
         "nome": "Manchester City (Adriano)",
-        "Pts": 5,
-        "J": 4,
+        "Pts": 6,
+        "J": 7,
         "V": 1,
-        "E": 2,
-        "D": 1,
-        "GP": 12,
-        "GC": 13,
-        "SG": -1,
+        "E": 3,
+        "D": 3,
+        "GP": 17,
+        "GC": 21,
+        "SG": -4,
         "pos": 4
       },
       {
         "nome": "Real Madrid (Andrew)",
-        "Pts": 1,
-        "J": 5,
-        "V": 0,
+        "Pts": 4,
+        "J": 7,
+        "V": 1,
         "E": 1,
-        "D": 4,
-        "GP": 12,
-        "GC": 22,
-        "SG": -10,
+        "D": 5,
+        "GP": 15,
+        "GC": 26,
+        "SG": -11,
         "pos": 5
       }
     ],
     "FC26 R162(INTERNATIONAL)25.04.2026": [
       {
-        "nome": "Argentina (Beckham)",
-        "Pts": 7,
-        "J": 3,
-        "V": 2,
-        "E": 1,
-        "D": 0,
-        "GP": 13,
-        "GC": 7,
-        "SG": 6,
+        "nome": "Spain (Luigi)",
+        "Pts": 12,
+        "J": 6,
+        "V": 4,
+        "E": 0,
+        "D": 2,
+        "GP": 22,
+        "GC": 18,
+        "SG": 4,
         "pos": 1
       },
       {
-        "nome": "Italy (Kai)",
-        "Pts": 6,
-        "J": 3,
-        "V": 2,
-        "E": 0,
-        "D": 1,
-        "GP": 10,
-        "GC": 8,
+        "nome": "Argentina (Beckham)",
+        "Pts": 10,
+        "J": 6,
+        "V": 3,
+        "E": 1,
+        "D": 2,
+        "GP": 22,
+        "GC": 20,
         "SG": 2,
         "pos": 2
       },
       {
-        "nome": "France (Alexander)",
-        "Pts": 4,
-        "J": 4,
-        "V": 1,
-        "E": 1,
+        "nome": "Italy (Kai)",
+        "Pts": 9,
+        "J": 5,
+        "V": 3,
+        "E": 0,
         "D": 2,
-        "GP": 13,
-        "GC": 15,
-        "SG": -2,
+        "GP": 16,
+        "GC": 10,
+        "SG": 6,
         "pos": 3
       },
       {
-        "nome": "Spain (Luigi)",
-        "Pts": 3,
-        "J": 3,
-        "V": 1,
-        "E": 0,
-        "D": 2,
-        "GP": 9,
-        "GC": 11,
-        "SG": -2,
+        "nome": "France (Alexander)",
+        "Pts": 7,
+        "J": 6,
+        "V": 2,
+        "E": 1,
+        "D": 3,
+        "GP": 16,
+        "GC": 19,
+        "SG": -3,
         "pos": 4
       },
       {
         "nome": "Denmark (Mateo)",
         "Pts": 3,
-        "J": 3,
+        "J": 5,
         "V": 1,
         "E": 0,
-        "D": 2,
-        "GP": 7,
-        "GC": 11,
-        "SG": -4,
+        "D": 4,
+        "GP": 12,
+        "GC": 21,
+        "SG": -9,
         "pos": 5
       }
     ]
