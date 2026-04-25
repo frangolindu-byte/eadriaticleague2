@@ -1,9 +1,9 @@
 {
-  "updated_at": "25/04/2026 18:31:32",
+  "updated_at": "25/04/2026 19:30:25",
   "summary": {
     "total": 300,
-    "finalizados": 268,
-    "agendados": 32,
+    "finalizados": 276,
+    "agendados": 24,
     "ligas": 17
   },
   "jogos": [
@@ -1887,57 +1887,57 @@
       "liga": "FC26 R165(CHAMPIONS LEAGUE)25.04.2026",
       "p1": "Bayer Leverkusen (Alexis)",
       "p2": "Atletico Madrid (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R165(CHAMPIONS LEAGUE)25.04.2026",
       "p1": "Bayern M. (VanGogh)",
       "p2": "Liverpool (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R165(CHAMPIONS LEAGUE)25.04.2026",
       "p1": "Atletico Madrid (Donatello)",
       "p2": "Liverpool (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R165(CHAMPIONS LEAGUE)25.04.2026",
       "p1": "Bayer Leverkusen (Alexis)",
       "p2": "Manchester City (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R165(CHAMPIONS LEAGUE)25.04.2026",
       "p1": "Bayer Leverkusen (Alexis)",
       "p2": "Liverpool (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R165(CHAMPIONS LEAGUE)25.04.2026",
       "p1": "Manchester City (Conde)",
       "p2": "Bayern M. (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R165(CHAMPIONS LEAGUE)25.04.2026",
       "p1": "Bayer Leverkusen (Alexis)",
       "p2": "Bayern M. (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R165(CHAMPIONS LEAGUE)25.04.2026",
       "p1": "Manchester City (Conde)",
       "p2": "Atletico Madrid (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R165(CHAMPIONS LEAGUE)25.04.2026",
@@ -2181,8 +2181,8 @@
     },
     "FC26 R165(CHAMPIONS LEAGUE)25.04.2026": {
       "total": 20,
-      "finalizados": 2,
-      "agendados": 18
+      "finalizados": 10,
+      "agendados": 10
     },
     "FC26 R166(SERIA A)25.04.2026": {
       "total": 8,
@@ -3066,52 +3066,64 @@
     ],
     "FC26 R165(CHAMPIONS LEAGUE)25.04.2026": [
       {
-        "nome": "Atletico Madrid (Donatello)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
-        "E": 0,
+        "nome": "Manchester City (Conde)",
+        "Pts": 10,
+        "J": 4,
+        "V": 3,
+        "E": 1,
         "D": 0,
-        "GP": 4,
-        "GC": 3,
-        "SG": 1,
+        "GP": 17,
+        "GC": 10,
+        "SG": 7,
         "pos": 1
       },
       {
-        "nome": "Liverpool (MisterX)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
+        "nome": "Bayer Leverkusen (Alexis)",
+        "Pts": 7,
+        "J": 4,
+        "V": 2,
         "E": 1,
-        "D": 0,
-        "GP": 3,
-        "GC": 3,
-        "SG": 0,
+        "D": 1,
+        "GP": 19,
+        "GC": 13,
+        "SG": 6,
         "pos": 2
       },
       {
-        "nome": "Manchester City (Conde)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
+        "nome": "Atletico Madrid (Donatello)",
+        "Pts": 4,
+        "J": 4,
+        "V": 1,
         "E": 1,
-        "D": 0,
-        "GP": 3,
-        "GC": 3,
-        "SG": 0,
+        "D": 2,
+        "GP": 8,
+        "GC": 13,
+        "SG": -5,
         "pos": 3
       },
       {
-        "nome": "Bayern M. (VanGogh)",
-        "Pts": 0,
-        "J": 1,
+        "nome": "Liverpool (MisterX)",
+        "Pts": 3,
+        "J": 4,
         "V": 0,
-        "E": 0,
+        "E": 3,
         "D": 1,
-        "GP": 3,
-        "GC": 4,
-        "SG": -1,
+        "GP": 11,
+        "GC": 14,
+        "SG": -3,
         "pos": 4
+      },
+      {
+        "nome": "Bayern M. (VanGogh)",
+        "Pts": 2,
+        "J": 4,
+        "V": 0,
+        "E": 2,
+        "D": 2,
+        "GP": 8,
+        "GC": 13,
+        "SG": -5,
+        "pos": 5
       }
     ]
   }
