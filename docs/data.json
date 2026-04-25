@@ -1,9 +1,9 @@
 {
-  "updated_at": "25/04/2026 17:49:22",
+  "updated_at": "25/04/2026 18:31:32",
   "summary": {
     "total": 300,
-    "finalizados": 260,
-    "agendados": 40,
+    "finalizados": 268,
+    "agendados": 32,
     "ligas": 17
   },
   "jogos": [
@@ -1831,57 +1831,57 @@
       "liga": "FC26 R164(PREMIER LEAGUE)25.04.2026",
       "p1": "Arsenal (MisterX)",
       "p2": "Chelsea FC (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R164(PREMIER LEAGUE)25.04.2026",
       "p1": "West Ham United (Conde)",
       "p2": "Everton (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R164(PREMIER LEAGUE)25.04.2026",
       "p1": "Arsenal (MisterX)",
       "p2": "Everton (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R164(PREMIER LEAGUE)25.04.2026",
       "p1": "Liverpool (VanGogh)",
       "p2": "West Ham United (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R164(PREMIER LEAGUE)25.04.2026",
       "p1": "Chelsea FC (Donatello)",
       "p2": "West Ham United (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R164(PREMIER LEAGUE)25.04.2026",
       "p1": "Liverpool (VanGogh)",
       "p2": "Everton (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R165(CHAMPIONS LEAGUE)25.04.2026",
       "p1": "Bayern M. (VanGogh)",
       "p2": "Atletico Madrid (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R165(CHAMPIONS LEAGUE)25.04.2026",
       "p1": "Liverpool (MisterX)",
       "p2": "Manchester City (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R165(CHAMPIONS LEAGUE)25.04.2026",
@@ -2176,13 +2176,13 @@
     },
     "FC26 R164(PREMIER LEAGUE)25.04.2026": {
       "total": 20,
-      "finalizados": 14,
-      "agendados": 6
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R165(CHAMPIONS LEAGUE)25.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 2,
+      "agendados": 18
     },
     "FC26 R166(SERIA A)25.04.2026": {
       "total": 8,
@@ -3005,63 +3005,113 @@
     "FC26 R164(PREMIER LEAGUE)25.04.2026": [
       {
         "nome": "Everton (Alexis)",
-        "Pts": 11,
-        "J": 5,
-        "V": 3,
-        "E": 2,
+        "Pts": 18,
+        "J": 8,
+        "V": 5,
+        "E": 3,
         "D": 0,
-        "GP": 20,
-        "GC": 12,
-        "SG": 8,
+        "GP": 34,
+        "GC": 19,
+        "SG": 15,
         "pos": 1
       },
       {
         "nome": "Chelsea FC (Donatello)",
-        "Pts": 11,
-        "J": 6,
-        "V": 3,
+        "Pts": 14,
+        "J": 8,
+        "V": 4,
         "E": 2,
-        "D": 1,
-        "GP": 22,
-        "GC": 17,
-        "SG": 5,
+        "D": 2,
+        "GP": 31,
+        "GC": 25,
+        "SG": 6,
         "pos": 2
+      },
+      {
+        "nome": "Liverpool (VanGogh)",
+        "Pts": 10,
+        "J": 8,
+        "V": 3,
+        "E": 1,
+        "D": 4,
+        "GP": 26,
+        "GC": 24,
+        "SG": 2,
+        "pos": 3
       },
       {
         "nome": "West Ham United (Conde)",
         "Pts": 9,
-        "J": 5,
+        "J": 8,
         "V": 3,
         "E": 0,
-        "D": 2,
-        "GP": 17,
-        "GC": 18,
-        "SG": -1,
-        "pos": 3
-      },
-      {
-        "nome": "Liverpool (VanGogh)",
-        "Pts": 7,
-        "J": 6,
-        "V": 2,
-        "E": 1,
-        "D": 3,
-        "GP": 19,
-        "GC": 17,
-        "SG": 2,
+        "D": 5,
+        "GP": 24,
+        "GC": 34,
+        "SG": -10,
         "pos": 4
       },
       {
         "nome": "Arsenal (MisterX)",
+        "Pts": 5,
+        "J": 8,
+        "V": 1,
+        "E": 2,
+        "D": 5,
+        "GP": 21,
+        "GC": 34,
+        "SG": -13,
+        "pos": 5
+      }
+    ],
+    "FC26 R165(CHAMPIONS LEAGUE)25.04.2026": [
+      {
+        "nome": "Atletico Madrid (Donatello)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 4,
+        "GC": 3,
+        "SG": 1,
+        "pos": 1
+      },
+      {
+        "nome": "Liverpool (MisterX)",
         "Pts": 1,
-        "J": 6,
+        "J": 1,
         "V": 0,
         "E": 1,
-        "D": 5,
-        "GP": 13,
-        "GC": 27,
-        "SG": -14,
-        "pos": 5
+        "D": 0,
+        "GP": 3,
+        "GC": 3,
+        "SG": 0,
+        "pos": 2
+      },
+      {
+        "nome": "Manchester City (Conde)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 3,
+        "GC": 3,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Bayern M. (VanGogh)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 3,
+        "GC": 4,
+        "SG": -1,
+        "pos": 4
       }
     ]
   }
