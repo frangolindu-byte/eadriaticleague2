@@ -1,9 +1,9 @@
 {
-  "updated_at": "26/04/2026 17:02:22",
+  "updated_at": "26/04/2026 17:53:42",
   "summary": {
     "total": 300,
-    "finalizados": 256,
-    "agendados": 44,
+    "finalizados": 262,
+    "agendados": 38,
     "ligas": 17
   },
   "jogos": [
@@ -1803,43 +1803,43 @@
       "liga": "FC26 R179(INTERNATIONAL)26.04.2026",
       "p1": "Holland (Lucas)",
       "p2": "Portugal (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R179(INTERNATIONAL)26.04.2026",
       "p1": "Morocco (Cleo)",
       "p2": "France (Juan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R179(INTERNATIONAL)26.04.2026",
       "p1": "Morocco (Cleo)",
       "p2": "Ghana (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R179(INTERNATIONAL)26.04.2026",
       "p1": "Portugal (Dominic)",
       "p2": "France (Juan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R179(INTERNATIONAL)26.04.2026",
       "p1": "Holland (Lucas)",
       "p2": "Ghana (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R179(INTERNATIONAL)26.04.2026",
       "p1": "Portugal (Dominic)",
       "p2": "Morocco (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R179(INTERNATIONAL)26.04.2026",
@@ -2176,8 +2176,8 @@
     },
     "FC26 R179(INTERNATIONAL)26.04.2026": {
       "total": 20,
-      "finalizados": 10,
-      "agendados": 10
+      "finalizados": 16,
+      "agendados": 4
     },
     "FC26 R180(CHAMPIONS LEAGUE)26.04.2026": {
       "total": 20,
@@ -3004,63 +3004,63 @@
     ],
     "FC26 R179(INTERNATIONAL)26.04.2026": [
       {
-        "nome": "Portugal (Dominic)",
-        "Pts": 10,
-        "J": 4,
-        "V": 3,
+        "nome": "Morocco (Cleo)",
+        "Pts": 13,
+        "J": 7,
+        "V": 4,
         "E": 1,
-        "D": 0,
-        "GP": 14,
-        "GC": 10,
-        "SG": 4,
+        "D": 2,
+        "GP": 27,
+        "GC": 17,
+        "SG": 10,
         "pos": 1
       },
       {
-        "nome": "Holland (Lucas)",
-        "Pts": 9,
-        "J": 4,
-        "V": 3,
-        "E": 0,
-        "D": 1,
-        "GP": 4,
-        "GC": 2,
-        "SG": 2,
+        "nome": "Portugal (Dominic)",
+        "Pts": 13,
+        "J": 7,
+        "V": 4,
+        "E": 1,
+        "D": 2,
+        "GP": 23,
+        "GC": 18,
+        "SG": 5,
         "pos": 2
       },
       {
-        "nome": "Morocco (Cleo)",
-        "Pts": 7,
-        "J": 4,
-        "V": 2,
-        "E": 1,
-        "D": 1,
-        "GP": 17,
-        "GC": 11,
-        "SG": 6,
+        "nome": "Holland (Lucas)",
+        "Pts": 12,
+        "J": 6,
+        "V": 4,
+        "E": 0,
+        "D": 2,
+        "GP": 9,
+        "GC": 6,
+        "SG": 3,
         "pos": 3
       },
       {
         "nome": "Ghana (Noah)",
-        "Pts": 3,
-        "J": 4,
-        "V": 1,
+        "Pts": 9,
+        "J": 6,
+        "V": 3,
         "E": 0,
         "D": 3,
-        "GP": 15,
-        "GC": 16,
-        "SG": -1,
+        "GP": 20,
+        "GC": 19,
+        "SG": 1,
         "pos": 4
       },
       {
         "nome": "France (Juan)",
         "Pts": 0,
-        "J": 4,
+        "J": 6,
         "V": 0,
         "E": 0,
-        "D": 4,
-        "GP": 5,
-        "GC": 16,
-        "SG": -11,
+        "D": 6,
+        "GP": 10,
+        "GC": 29,
+        "SG": -19,
         "pos": 5
       }
     ]
