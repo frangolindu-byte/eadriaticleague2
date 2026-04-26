@@ -1,9 +1,9 @@
 {
-  "updated_at": "26/04/2026 11:51:53",
+  "updated_at": "26/04/2026 12:37:23",
   "summary": {
     "total": 300,
-    "finalizados": 208,
-    "agendados": 92,
+    "finalizados": 220,
+    "agendados": 80,
     "ligas": 17
   },
   "jogos": [
@@ -1397,43 +1397,43 @@
       "liga": "FC26 R176(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Atletico Madrid (Matrix)",
       "p2": "PSG (Gabriel)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R176(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Real Madrid (Donatello)",
       "p2": "Liverpool (Bruno)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R176(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Barcelona (Logan)",
       "p2": "PSG (Gabriel)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R176(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Real Madrid (Donatello)",
       "p2": "Atletico Madrid (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R176(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Liverpool (Bruno)",
       "p2": "Barcelona (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R176(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Real Madrid (Donatello)",
       "p2": "PSG (Gabriel)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R176(CHAMPIONS LEAGUE)26.04.2026",
@@ -1523,43 +1523,43 @@
       "liga": "FC26 R177(INTERNATIONAL)26.04.2026",
       "p1": "Argentina (Nathan)",
       "p2": "Holland (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R177(INTERNATIONAL)26.04.2026",
       "p1": "Portugal (VanGogh)",
       "p2": "Denmark (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R177(INTERNATIONAL)26.04.2026",
       "p1": "Argentina (Nathan)",
       "p2": "Norway (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R177(INTERNATIONAL)26.04.2026",
       "p1": "Denmark (Kai)",
       "p2": "Holland (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R177(INTERNATIONAL)26.04.2026",
       "p1": "Denmark (Kai)",
       "p2": "Argentina (Nathan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R177(INTERNATIONAL)26.04.2026",
       "p1": "Portugal (VanGogh)",
       "p2": "Norway (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R177(INTERNATIONAL)26.04.2026",
@@ -2161,13 +2161,13 @@
     },
     "FC26 R176(CHAMPIONS LEAGUE)26.04.2026": {
       "total": 20,
-      "finalizados": 12,
-      "agendados": 8
+      "finalizados": 18,
+      "agendados": 2
     },
     "FC26 R177(INTERNATIONAL)26.04.2026": {
       "total": 20,
-      "finalizados": 10,
-      "agendados": 10
+      "finalizados": 16,
+      "agendados": 4
     },
     "FC26 R178(PREMIER LEAGUE)26.04.2026": {
       "total": 20,
@@ -2820,123 +2820,123 @@
       {
         "nome": "Liverpool (Bruno)",
         "Pts": 13,
-        "J": 5,
+        "J": 7,
         "V": 4,
         "E": 1,
-        "D": 0,
-        "GP": 18,
-        "GC": 11,
-        "SG": 7,
+        "D": 2,
+        "GP": 21,
+        "GC": 18,
+        "SG": 3,
         "pos": 1
       },
       {
         "nome": "Real Madrid (Donatello)",
-        "Pts": 9,
-        "J": 5,
-        "V": 3,
+        "Pts": 12,
+        "J": 8,
+        "V": 4,
         "E": 0,
-        "D": 2,
-        "GP": 22,
-        "GC": 15,
-        "SG": 7,
+        "D": 4,
+        "GP": 31,
+        "GC": 28,
+        "SG": 3,
         "pos": 2
       },
       {
         "nome": "Barcelona (Logan)",
-        "Pts": 5,
-        "J": 5,
-        "V": 1,
+        "Pts": 11,
+        "J": 7,
+        "V": 3,
         "E": 2,
         "D": 2,
-        "GP": 12,
-        "GC": 17,
-        "SG": -5,
+        "GP": 20,
+        "GC": 21,
+        "SG": -1,
         "pos": 3
       },
       {
-        "nome": "Atletico Madrid (Matrix)",
-        "Pts": 4,
-        "J": 5,
-        "V": 1,
-        "E": 1,
-        "D": 3,
-        "GP": 14,
-        "GC": 21,
-        "SG": -7,
+        "nome": "PSG (Gabriel)",
+        "Pts": 9,
+        "J": 7,
+        "V": 3,
+        "E": 0,
+        "D": 4,
+        "GP": 25,
+        "GC": 22,
+        "SG": 3,
         "pos": 4
       },
       {
-        "nome": "PSG (Gabriel)",
-        "Pts": 3,
-        "J": 4,
-        "V": 1,
-        "E": 0,
-        "D": 3,
-        "GP": 12,
-        "GC": 14,
-        "SG": -2,
+        "nome": "Atletico Madrid (Matrix)",
+        "Pts": 7,
+        "J": 7,
+        "V": 2,
+        "E": 1,
+        "D": 4,
+        "GP": 22,
+        "GC": 30,
+        "SG": -8,
         "pos": 5
       }
     ],
     "FC26 R177(INTERNATIONAL)26.04.2026": [
       {
         "nome": "Portugal (VanGogh)",
-        "Pts": 10,
-        "J": 4,
-        "V": 3,
-        "E": 1,
+        "Pts": 14,
+        "J": 6,
+        "V": 4,
+        "E": 2,
         "D": 0,
-        "GP": 16,
-        "GC": 11,
-        "SG": 5,
+        "GP": 22,
+        "GC": 14,
+        "SG": 8,
         "pos": 1
       },
       {
         "nome": "Denmark (Kai)",
-        "Pts": 8,
-        "J": 4,
-        "V": 2,
+        "Pts": 11,
+        "J": 7,
+        "V": 3,
         "E": 2,
-        "D": 0,
-        "GP": 12,
-        "GC": 7,
-        "SG": 5,
+        "D": 2,
+        "GP": 19,
+        "GC": 16,
+        "SG": 3,
         "pos": 2
       },
       {
-        "nome": "Argentina (Nathan)",
-        "Pts": 4,
-        "J": 4,
+        "nome": "Norway (Beckham)",
+        "Pts": 6,
+        "J": 6,
         "V": 1,
-        "E": 1,
+        "E": 3,
         "D": 2,
-        "GP": 10,
-        "GC": 10,
-        "SG": 0,
+        "GP": 22,
+        "GC": 26,
+        "SG": -4,
         "pos": 3
       },
       {
-        "nome": "Norway (Beckham)",
-        "Pts": 4,
-        "J": 4,
+        "nome": "Argentina (Nathan)",
+        "Pts": 6,
+        "J": 7,
         "V": 1,
-        "E": 1,
-        "D": 2,
-        "GP": 16,
-        "GC": 20,
+        "E": 3,
+        "D": 3,
+        "GP": 19,
+        "GC": 23,
         "SG": -4,
         "pos": 4
       },
       {
         "nome": "Holland (Alexander)",
-        "Pts": 1,
-        "J": 4,
-        "V": 0,
-        "E": 1,
+        "Pts": 5,
+        "J": 6,
+        "V": 1,
+        "E": 2,
         "D": 3,
-        "GP": 9,
-        "GC": 15,
-        "SG": -6,
+        "GP": 17,
+        "GC": 20,
+        "SG": -3,
         "pos": 5
       }
     ]
