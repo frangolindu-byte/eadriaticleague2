@@ -1,9 +1,9 @@
 {
-  "updated_at": "26/04/2026 18:41:48",
+  "updated_at": "26/04/2026 19:36:28",
   "summary": {
     "total": 300,
-    "finalizados": 268,
-    "agendados": 32,
+    "finalizados": 276,
+    "agendados": 24,
     "ligas": 17
   },
   "jogos": [
@@ -1887,57 +1887,57 @@
       "liga": "FC26 R180(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Borussia Dortmund (Noah)",
       "p2": "Bayer Leverkusen (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R180(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Real Madrid (Juan)",
       "p2": "PSG (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R180(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Bayer Leverkusen (Cleo)",
       "p2": "PSG (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R180(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Borussia Dortmund (Noah)",
       "p2": "Bayern M. (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R180(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Bayern M. (Lucas)",
       "p2": "Real Madrid (Juan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R180(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Borussia Dortmund (Noah)",
       "p2": "PSG (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R180(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Bayern M. (Lucas)",
       "p2": "Bayer Leverkusen (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R180(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Borussia Dortmund (Noah)",
       "p2": "Real Madrid (Juan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R180(CHAMPIONS LEAGUE)26.04.2026",
@@ -2181,8 +2181,8 @@
     },
     "FC26 R180(CHAMPIONS LEAGUE)26.04.2026": {
       "total": 20,
-      "finalizados": 2,
-      "agendados": 18
+      "finalizados": 10,
+      "agendados": 10
     },
     "FC26 R181(INTERNATIONAL)26.04.2026": {
       "total": 8,
@@ -3066,52 +3066,64 @@
     ],
     "FC26 R180(CHAMPIONS LEAGUE)26.04.2026": [
       {
-        "nome": "PSG (Dominic)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "nome": "Borussia Dortmund (Noah)",
+        "Pts": 12,
+        "J": 4,
+        "V": 4,
         "E": 0,
         "D": 0,
-        "GP": 6,
-        "GC": 1,
-        "SG": 5,
+        "GP": 19,
+        "GC": 10,
+        "SG": 9,
         "pos": 1
       },
       {
         "nome": "Bayer Leverkusen (Cleo)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "Pts": 9,
+        "J": 4,
+        "V": 3,
         "E": 0,
-        "D": 0,
-        "GP": 4,
-        "GC": 2,
-        "SG": 2,
+        "D": 1,
+        "GP": 14,
+        "GC": 7,
+        "SG": 7,
         "pos": 2
       },
       {
-        "nome": "Real Madrid (Juan)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
+        "nome": "PSG (Dominic)",
+        "Pts": 6,
+        "J": 4,
+        "V": 2,
         "E": 0,
-        "D": 1,
-        "GP": 2,
-        "GC": 4,
-        "SG": -2,
+        "D": 2,
+        "GP": 14,
+        "GC": 11,
+        "SG": 3,
         "pos": 3
       },
       {
         "nome": "Bayern M. (Lucas)",
+        "Pts": 3,
+        "J": 4,
+        "V": 1,
+        "E": 0,
+        "D": 3,
+        "GP": 6,
+        "GC": 13,
+        "SG": -7,
+        "pos": 4
+      },
+      {
+        "nome": "Real Madrid (Juan)",
         "Pts": 0,
-        "J": 1,
+        "J": 4,
         "V": 0,
         "E": 0,
-        "D": 1,
-        "GP": 1,
-        "GC": 6,
-        "SG": -5,
-        "pos": 4
+        "D": 4,
+        "GP": 6,
+        "GC": 18,
+        "SG": -12,
+        "pos": 5
       }
     ]
   }
