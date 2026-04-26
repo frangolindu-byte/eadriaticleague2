@@ -1,9 +1,9 @@
 {
-  "updated_at": "26/04/2026 12:37:23",
+  "updated_at": "26/04/2026 13:52:41",
   "summary": {
     "total": 300,
-    "finalizados": 220,
-    "agendados": 80,
+    "finalizados": 232,
+    "agendados": 68,
     "ligas": 17
   },
   "jogos": [
@@ -1439,15 +1439,15 @@
       "liga": "FC26 R176(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Atletico Madrid (Matrix)",
       "p2": "Barcelona (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R176(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Liverpool (Bruno)",
       "p2": "PSG (Gabriel)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R177(INTERNATIONAL)26.04.2026",
@@ -1565,71 +1565,71 @@
       "liga": "FC26 R177(INTERNATIONAL)26.04.2026",
       "p1": "Denmark (Kai)",
       "p2": "Norway (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R177(INTERNATIONAL)26.04.2026",
       "p1": "Holland (Alexander)",
       "p2": "Portugal (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R177(INTERNATIONAL)26.04.2026",
       "p1": "Argentina (Nathan)",
       "p2": "Portugal (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R177(INTERNATIONAL)26.04.2026",
       "p1": "Holland (Alexander)",
       "p2": "Norway (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R178(PREMIER LEAGUE)26.04.2026",
       "p1": "Manchester City (Juan)",
       "p2": "Everton (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R178(PREMIER LEAGUE)26.04.2026",
       "p1": "Newcastle U. (Dominic)",
       "p2": "Liverpool (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R178(PREMIER LEAGUE)26.04.2026",
       "p1": "Manchester City (Juan)",
       "p2": "Newcastle U. (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R178(PREMIER LEAGUE)26.04.2026",
       "p1": "Manchester Utd. (Noah)",
       "p2": "Everton (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R178(PREMIER LEAGUE)26.04.2026",
       "p1": "Everton (Cleo)",
       "p2": "Newcastle U. (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R178(PREMIER LEAGUE)26.04.2026",
       "p1": "Manchester Utd. (Noah)",
       "p2": "Liverpool (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R178(PREMIER LEAGUE)26.04.2026",
@@ -2161,18 +2161,18 @@
     },
     "FC26 R176(CHAMPIONS LEAGUE)26.04.2026": {
       "total": 20,
-      "finalizados": 18,
-      "agendados": 2
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R177(INTERNATIONAL)26.04.2026": {
       "total": 20,
-      "finalizados": 16,
-      "agendados": 4
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R178(PREMIER LEAGUE)26.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 6,
+      "agendados": 14
     },
     "FC26 R179(INTERNATIONAL)26.04.2026": {
       "total": 20,
@@ -2820,14 +2820,26 @@
       {
         "nome": "Liverpool (Bruno)",
         "Pts": 13,
-        "J": 7,
+        "J": 8,
         "V": 4,
         "E": 1,
-        "D": 2,
-        "GP": 21,
-        "GC": 18,
-        "SG": 3,
+        "D": 3,
+        "GP": 25,
+        "GC": 24,
+        "SG": 1,
         "pos": 1
+      },
+      {
+        "nome": "PSG (Gabriel)",
+        "Pts": 12,
+        "J": 8,
+        "V": 4,
+        "E": 0,
+        "D": 4,
+        "GP": 31,
+        "GC": 26,
+        "SG": 5,
+        "pos": 2
       },
       {
         "nome": "Real Madrid (Donatello)",
@@ -2839,42 +2851,30 @@
         "GP": 31,
         "GC": 28,
         "SG": 3,
-        "pos": 2
+        "pos": 3
       },
       {
         "nome": "Barcelona (Logan)",
         "Pts": 11,
-        "J": 7,
+        "J": 8,
         "V": 3,
         "E": 2,
-        "D": 2,
-        "GP": 20,
-        "GC": 21,
-        "SG": -1,
-        "pos": 3
-      },
-      {
-        "nome": "PSG (Gabriel)",
-        "Pts": 9,
-        "J": 7,
-        "V": 3,
-        "E": 0,
-        "D": 4,
-        "GP": 25,
-        "GC": 22,
-        "SG": 3,
+        "D": 3,
+        "GP": 21,
+        "GC": 24,
+        "SG": -3,
         "pos": 4
       },
       {
         "nome": "Atletico Madrid (Matrix)",
-        "Pts": 7,
-        "J": 7,
-        "V": 2,
+        "Pts": 10,
+        "J": 8,
+        "V": 3,
         "E": 1,
         "D": 4,
-        "GP": 22,
-        "GC": 30,
-        "SG": -8,
+        "GP": 25,
+        "GC": 31,
+        "SG": -6,
         "pos": 5
       }
     ],
@@ -2882,61 +2882,123 @@
       {
         "nome": "Portugal (VanGogh)",
         "Pts": 14,
-        "J": 6,
+        "J": 8,
         "V": 4,
         "E": 2,
-        "D": 0,
-        "GP": 22,
-        "GC": 14,
-        "SG": 8,
+        "D": 2,
+        "GP": 26,
+        "GC": 22,
+        "SG": 4,
         "pos": 1
       },
       {
         "nome": "Denmark (Kai)",
         "Pts": 11,
-        "J": 7,
+        "J": 8,
         "V": 3,
         "E": 2,
-        "D": 2,
-        "GP": 19,
-        "GC": 16,
-        "SG": 3,
+        "D": 3,
+        "GP": 21,
+        "GC": 20,
+        "SG": 1,
         "pos": 2
       },
       {
-        "nome": "Norway (Beckham)",
-        "Pts": 6,
-        "J": 6,
-        "V": 1,
-        "E": 3,
-        "D": 2,
-        "GP": 22,
-        "GC": 26,
-        "SG": -4,
+        "nome": "Holland (Alexander)",
+        "Pts": 11,
+        "J": 8,
+        "V": 3,
+        "E": 2,
+        "D": 3,
+        "GP": 23,
+        "GC": 24,
+        "SG": -1,
         "pos": 3
       },
       {
         "nome": "Argentina (Nathan)",
-        "Pts": 6,
-        "J": 7,
-        "V": 1,
+        "Pts": 9,
+        "J": 8,
+        "V": 2,
         "E": 3,
         "D": 3,
-        "GP": 19,
-        "GC": 23,
-        "SG": -4,
+        "GP": 24,
+        "GC": 25,
+        "SG": -1,
         "pos": 4
       },
       {
-        "nome": "Holland (Alexander)",
-        "Pts": 5,
-        "J": 6,
-        "V": 1,
-        "E": 2,
+        "nome": "Norway (Beckham)",
+        "Pts": 9,
+        "J": 8,
+        "V": 2,
+        "E": 3,
         "D": 3,
-        "GP": 17,
-        "GC": 20,
+        "GP": 28,
+        "GC": 31,
         "SG": -3,
+        "pos": 5
+      }
+    ],
+    "FC26 R178(PREMIER LEAGUE)26.04.2026": [
+      {
+        "nome": "Everton (Cleo)",
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
+        "E": 0,
+        "D": 0,
+        "GP": 10,
+        "GC": 3,
+        "SG": 7,
+        "pos": 1
+      },
+      {
+        "nome": "Manchester Utd. (Noah)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 6,
+        "GC": 5,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Manchester City (Juan)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 5,
+        "GC": 6,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Liverpool (Lucas)",
+        "Pts": 1,
+        "J": 2,
+        "V": 0,
+        "E": 1,
+        "D": 1,
+        "GP": 4,
+        "GC": 7,
+        "SG": -3,
+        "pos": 4
+      },
+      {
+        "nome": "Newcastle U. (Dominic)",
+        "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 7,
+        "GC": 11,
+        "SG": -4,
         "pos": 5
       }
     ]
