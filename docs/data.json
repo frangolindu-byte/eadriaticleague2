@@ -1,9 +1,9 @@
 {
-  "updated_at": "26/04/2026 17:53:42",
+  "updated_at": "26/04/2026 18:41:48",
   "summary": {
     "total": 300,
-    "finalizados": 262,
-    "agendados": 38,
+    "finalizados": 268,
+    "agendados": 32,
     "ligas": 17
   },
   "jogos": [
@@ -1845,43 +1845,43 @@
       "liga": "FC26 R179(INTERNATIONAL)26.04.2026",
       "p1": "France (Juan)",
       "p2": "Holland (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R179(INTERNATIONAL)26.04.2026",
       "p1": "Portugal (Dominic)",
       "p2": "Ghana (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R179(INTERNATIONAL)26.04.2026",
       "p1": "France (Juan)",
       "p2": "Ghana (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R179(INTERNATIONAL)26.04.2026",
       "p1": "Morocco (Cleo)",
       "p2": "Holland (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R180(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "PSG (Dominic)",
       "p2": "Bayern M. (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R180(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Real Madrid (Juan)",
       "p2": "Bayer Leverkusen (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R180(CHAMPIONS LEAGUE)26.04.2026",
@@ -2176,13 +2176,13 @@
     },
     "FC26 R179(INTERNATIONAL)26.04.2026": {
       "total": 20,
-      "finalizados": 16,
-      "agendados": 4
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R180(CHAMPIONS LEAGUE)26.04.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 2,
+      "agendados": 18
     },
     "FC26 R181(INTERNATIONAL)26.04.2026": {
       "total": 8,
@@ -3004,64 +3004,114 @@
     ],
     "FC26 R179(INTERNATIONAL)26.04.2026": [
       {
+        "nome": "Ghana (Noah)",
+        "Pts": 15,
+        "J": 8,
+        "V": 5,
+        "E": 0,
+        "D": 3,
+        "GP": 33,
+        "GC": 24,
+        "SG": 9,
+        "pos": 1
+      },
+      {
+        "nome": "Holland (Lucas)",
+        "Pts": 15,
+        "J": 8,
+        "V": 5,
+        "E": 0,
+        "D": 3,
+        "GP": 15,
+        "GC": 11,
+        "SG": 4,
+        "pos": 2
+      },
+      {
         "nome": "Morocco (Cleo)",
         "Pts": 13,
-        "J": 7,
+        "J": 8,
         "V": 4,
         "E": 1,
-        "D": 2,
-        "GP": 27,
-        "GC": 17,
-        "SG": 10,
-        "pos": 1
+        "D": 3,
+        "GP": 29,
+        "GC": 23,
+        "SG": 6,
+        "pos": 3
       },
       {
         "nome": "Portugal (Dominic)",
         "Pts": 13,
-        "J": 7,
+        "J": 8,
         "V": 4,
         "E": 1,
-        "D": 2,
-        "GP": 23,
-        "GC": 18,
-        "SG": 5,
-        "pos": 2
-      },
-      {
-        "nome": "Holland (Lucas)",
-        "Pts": 12,
-        "J": 6,
-        "V": 4,
-        "E": 0,
-        "D": 2,
-        "GP": 9,
-        "GC": 6,
-        "SG": 3,
-        "pos": 3
-      },
-      {
-        "nome": "Ghana (Noah)",
-        "Pts": 9,
-        "J": 6,
-        "V": 3,
-        "E": 0,
         "D": 3,
-        "GP": 20,
-        "GC": 19,
-        "SG": 1,
+        "GP": 26,
+        "GC": 24,
+        "SG": 2,
         "pos": 4
       },
       {
         "nome": "France (Juan)",
+        "Pts": 3,
+        "J": 8,
+        "V": 1,
+        "E": 0,
+        "D": 7,
+        "GP": 15,
+        "GC": 36,
+        "SG": -21,
+        "pos": 5
+      }
+    ],
+    "FC26 R180(CHAMPIONS LEAGUE)26.04.2026": [
+      {
+        "nome": "PSG (Dominic)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 6,
+        "GC": 1,
+        "SG": 5,
+        "pos": 1
+      },
+      {
+        "nome": "Bayer Leverkusen (Cleo)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 4,
+        "GC": 2,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Real Madrid (Juan)",
         "Pts": 0,
-        "J": 6,
+        "J": 1,
         "V": 0,
         "E": 0,
-        "D": 6,
-        "GP": 10,
-        "GC": 29,
-        "SG": -19,
-        "pos": 5
+        "D": 1,
+        "GP": 2,
+        "GC": 4,
+        "SG": -2,
+        "pos": 3
+      },
+      {
+        "nome": "Bayern M. (Lucas)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 1,
+        "GC": 6,
+        "SG": -5,
+        "pos": 4
       }
     ]
   }
