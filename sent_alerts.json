@@ -8697,7 +8697,10 @@
     ],
     "assertividade": 68.3,
     "key": "FC26 R170(INTERNATIONAL)26.04.2026|France (Eric)|Holland (Arthur)",
-    "message_id": 980
+    "message_id": 980,
+    "result_checked": true,
+    "result_placar": "3-1",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R170(INTERNATIONAL)26.04.2026",
@@ -8721,6 +8724,63 @@
     ],
     "assertividade": 68.3,
     "key": "FC26 R170(INTERNATIONAL)26.04.2026|France (Eric)|Holland (Arthur)",
-    "message_id": 981
+    "message_id": 981,
+    "result_checked": true,
+    "result_placar": "3-1",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R170(INTERNATIONAL)26.04.2026",
+    "p1": "France (Eric)",
+    "p2": "Portugal (Sebastian)",
+    "w1": 65.5,
+    "w2": 34.2,
+    "j1": 29,
+    "j2": 38,
+    "o65": 61.0,
+    "btts": 95.65,
+    "avg_g": 7.039999999999999,
+    "f1": "W-W-D-W-L",
+    "f2": "L-L-W-L-L",
+    "fav": "France (Eric)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 61%",
+      "BTTS: 96%",
+      "Vitoria France (Eric) (WR 66%)"
+    ],
+    "assertividade": 71.2,
+    "key": "FC26 R170(INTERNATIONAL)26.04.2026|France (Eric)|Portugal (Sebastian)",
+    "message_id": 982,
+    "result_checked": true,
+    "result_placar": "5-4",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R170(INTERNATIONAL)26.04.2026",
+    "p1": "Portugal (Sebastian)",
+    "p2": "France (Eric)",
+    "w1": 34.2,
+    "w2": 65.5,
+    "j1": 38,
+    "j2": 29,
+    "o65": 61.0,
+    "btts": 95.65,
+    "avg_g": 7.04,
+    "f1": "L-L-W-L-L",
+    "f2": "W-W-D-W-L",
+    "fav": "France (Eric)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 61%",
+      "BTTS: 96%",
+      "Vitoria France (Eric) (WR 66%)"
+    ],
+    "assertividade": 71.2,
+    "key": "FC26 R170(INTERNATIONAL)26.04.2026|France (Eric)|Portugal (Sebastian)",
+    "message_id": 983,
+    "result_checked": true,
+    "result_placar": "5-4",
+    "result_status": "bateu"
   }
 ]
