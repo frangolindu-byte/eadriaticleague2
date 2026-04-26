@@ -1,9 +1,9 @@
 {
-  "updated_at": "26/04/2026 23:04:30",
+  "updated_at": "26/04/2026 23:54:43",
   "summary": {
     "total": 360,
-    "finalizados": 16,
-    "agendados": 344,
+    "finalizados": 26,
+    "agendados": 334,
     "ligas": 20
   },
   "jogos": [
@@ -67,29 +67,29 @@
       "liga": "FC26 R181(INTERNATIONAL)26.04.2026",
       "p1": "Denmark (Dexter)",
       "p2": "Holland (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R181(INTERNATIONAL)26.04.2026",
       "p1": "Italy (Gael)",
       "p2": "Spain (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R181(INTERNATIONAL)26.04.2026",
       "p1": "Denmark (Dexter)",
       "p2": "Spain (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R181(INTERNATIONAL)26.04.2026",
       "p1": "Norway (Odin)",
       "p2": "Holland (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R182(CHAMPIONS LEAGUE)26.04.2026",
@@ -151,43 +151,43 @@
       "liga": "FC26 R182(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Bayern M. (Arthur)",
       "p2": "Atletico Madrid (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R182(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Real Madrid (Splinter)",
       "p2": "Barcelona (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R182(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Bayern M. (Arthur)",
       "p2": "Barcelona (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R182(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Liverpool (Sebastian)",
       "p2": "Real Madrid (Splinter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R182(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Atletico Madrid (MisterX)",
       "p2": "Real Madrid (Splinter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R182(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Liverpool (Sebastian)",
       "p2": "Barcelona (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R183(LA LIGA)27.04.2026",
@@ -2531,13 +2531,13 @@
   "resumo": {
     "FC26 R181(INTERNATIONAL)26.04.2026": {
       "total": 12,
-      "finalizados": 8,
-      "agendados": 4
+      "finalizados": 12,
+      "agendados": 0
     },
     "FC26 R182(CHAMPIONS LEAGUE)26.04.2026": {
       "total": 14,
-      "finalizados": 8,
-      "agendados": 6
+      "finalizados": 14,
+      "agendados": 0
     },
     "FC26 R183(LA LIGA)27.04.2026": {
       "total": 20,
@@ -2633,125 +2633,125 @@
   "classificacao": {
     "FC26 R181(INTERNATIONAL)26.04.2026": [
       {
-        "nome": "Norway (Odin)",
-        "Pts": 6,
-        "J": 4,
-        "V": 2,
-        "E": 0,
-        "D": 2,
-        "GP": 14,
-        "GC": 12,
-        "SG": 2,
+        "nome": "Spain (Conde)",
+        "Pts": 10,
+        "J": 5,
+        "V": 3,
+        "E": 1,
+        "D": 1,
+        "GP": 19,
+        "GC": 16,
+        "SG": 3,
         "pos": 1
       },
       {
         "nome": "Holland (Eric)",
-        "Pts": 6,
-        "J": 3,
+        "Pts": 8,
+        "J": 5,
         "V": 2,
-        "E": 0,
+        "E": 2,
         "D": 1,
-        "GP": 10,
-        "GC": 11,
+        "GP": 12,
+        "GC": 13,
         "SG": -1,
         "pos": 2
       },
       {
-        "nome": "Spain (Conde)",
-        "Pts": 4,
-        "J": 3,
-        "V": 1,
+        "nome": "Norway (Odin)",
+        "Pts": 7,
+        "J": 5,
+        "V": 2,
         "E": 1,
-        "D": 1,
-        "GP": 12,
-        "GC": 11,
-        "SG": 1,
+        "D": 2,
+        "GP": 15,
+        "GC": 13,
+        "SG": 2,
         "pos": 3
       },
       {
         "nome": "Italy (Gael)",
         "Pts": 4,
-        "J": 3,
+        "J": 4,
         "V": 1,
         "E": 1,
-        "D": 1,
-        "GP": 9,
-        "GC": 9,
-        "SG": 0,
+        "D": 2,
+        "GP": 11,
+        "GC": 12,
+        "SG": -1,
         "pos": 4
       },
       {
         "nome": "Denmark (Dexter)",
-        "Pts": 2,
-        "J": 3,
+        "Pts": 3,
+        "J": 5,
         "V": 0,
-        "E": 2,
-        "D": 1,
-        "GP": 9,
-        "GC": 11,
-        "SG": -2,
+        "E": 3,
+        "D": 2,
+        "GP": 13,
+        "GC": 16,
+        "SG": -3,
         "pos": 5
       }
     ],
     "FC26 R182(CHAMPIONS LEAGUE)26.04.2026": [
       {
-        "nome": "Atletico Madrid (MisterX)",
-        "Pts": 6,
-        "J": 3,
-        "V": 2,
+        "nome": "Bayern M. (Arthur)",
+        "Pts": 12,
+        "J": 5,
+        "V": 4,
         "E": 0,
         "D": 1,
-        "GP": 13,
-        "GC": 11,
-        "SG": 2,
+        "GP": 18,
+        "GC": 9,
+        "SG": 9,
         "pos": 1
       },
       {
-        "nome": "Bayern M. (Arthur)",
-        "Pts": 6,
-        "J": 3,
-        "V": 2,
+        "nome": "Atletico Madrid (MisterX)",
+        "Pts": 9,
+        "J": 5,
+        "V": 3,
         "E": 0,
-        "D": 1,
-        "GP": 9,
-        "GC": 8,
+        "D": 2,
+        "GP": 19,
+        "GC": 18,
         "SG": 1,
         "pos": 2
       },
       {
         "nome": "Liverpool (Sebastian)",
-        "Pts": 5,
-        "J": 4,
-        "V": 1,
+        "Pts": 8,
+        "J": 6,
+        "V": 2,
         "E": 2,
-        "D": 1,
-        "GP": 15,
-        "GC": 15,
-        "SG": 0,
+        "D": 2,
+        "GP": 20,
+        "GC": 19,
+        "SG": 1,
         "pos": 3
+      },
+      {
+        "nome": "Barcelona (Iron)",
+        "Pts": 7,
+        "J": 6,
+        "V": 2,
+        "E": 1,
+        "D": 3,
+        "GP": 19,
+        "GC": 27,
+        "SG": -8,
+        "pos": 4
       },
       {
         "nome": "Real Madrid (Splinter)",
         "Pts": 4,
-        "J": 3,
+        "J": 6,
         "V": 1,
         "E": 1,
-        "D": 1,
-        "GP": 8,
-        "GC": 7,
-        "SG": 1,
-        "pos": 4
-      },
-      {
-        "nome": "Barcelona (Iron)",
-        "Pts": 1,
-        "J": 3,
-        "V": 0,
-        "E": 1,
-        "D": 2,
-        "GP": 10,
-        "GC": 14,
-        "SG": -4,
+        "D": 4,
+        "GP": 18,
+        "GC": 21,
+        "SG": -3,
         "pos": 5
       }
     ]
