@@ -1,9 +1,9 @@
 {
-  "updated_at": "26/04/2026 20:57:54",
+  "updated_at": "26/04/2026 21:43:48",
   "summary": {
     "total": 300,
-    "finalizados": 286,
-    "agendados": 14,
+    "finalizados": 292,
+    "agendados": 8,
     "ligas": 17
   },
   "jogos": [
@@ -2013,29 +2013,29 @@
       "liga": "FC26 R181(INTERNATIONAL)26.04.2026",
       "p1": "Denmark (Dexter)",
       "p2": "Norway (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R181(INTERNATIONAL)26.04.2026",
       "p1": "Italy (Gael)",
       "p2": "Holland (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R181(INTERNATIONAL)26.04.2026",
       "p1": "Denmark (Dexter)",
       "p2": "Italy (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R181(INTERNATIONAL)26.04.2026",
       "p1": "Spain (Conde)",
       "p2": "Norway (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R181(INTERNATIONAL)26.04.2026",
@@ -2069,15 +2069,15 @@
       "liga": "FC26 R182(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Bayern M. (Arthur)",
       "p2": "Real Madrid (Splinter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R182(CHAMPIONS LEAGUE)26.04.2026",
       "p1": "Liverpool (Sebastian)",
       "p2": "Atletico Madrid (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R182(CHAMPIONS LEAGUE)26.04.2026",
@@ -2186,13 +2186,13 @@
     },
     "FC26 R181(INTERNATIONAL)26.04.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 4,
+      "agendados": 4
     },
     "FC26 R182(CHAMPIONS LEAGUE)26.04.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 2,
+      "agendados": 4
     }
   },
   "classificacao": {
@@ -3124,6 +3124,118 @@
         "GC": 29,
         "SG": -15,
         "pos": 5
+      }
+    ],
+    "FC26 R181(INTERNATIONAL)26.04.2026": [
+      {
+        "nome": "Norway (Odin)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 8,
+        "GC": 5,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "Denmark (Dexter)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 7,
+        "GC": 5,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Italy (Gael)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 5,
+        "GC": 7,
+        "SG": -2,
+        "pos": 3
+      },
+      {
+        "nome": "Holland (Eric)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 3,
+        "GC": 4,
+        "SG": -1,
+        "pos": 4
+      },
+      {
+        "nome": "Spain (Conde)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 2,
+        "GC": 4,
+        "SG": -2,
+        "pos": 5
+      }
+    ],
+    "FC26 R182(CHAMPIONS LEAGUE)26.04.2026": [
+      {
+        "nome": "Atletico Madrid (MisterX)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 7,
+        "GC": 3,
+        "SG": 4,
+        "pos": 1
+      },
+      {
+        "nome": "Bayern M. (Arthur)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 3,
+        "GC": 1,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Real Madrid (Splinter)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 1,
+        "GC": 3,
+        "SG": -2,
+        "pos": 3
+      },
+      {
+        "nome": "Liverpool (Sebastian)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 3,
+        "GC": 7,
+        "SG": -4,
+        "pos": 4
       }
     ]
   }
