@@ -8805,7 +8805,10 @@
     ],
     "assertividade": 61.3,
     "key": "FC26 R194(CHAMPIONS LEAGUE)27.04.2026|Atletico Madrid (Liam)|Manchester City (Haidan)",
-    "message_id": 984
+    "message_id": 984,
+    "result_checked": true,
+    "result_placar": "5-4",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R194(CHAMPIONS LEAGUE)27.04.2026",
@@ -8829,7 +8832,10 @@
     ],
     "assertividade": 61.5,
     "key": "FC26 R194(CHAMPIONS LEAGUE)27.04.2026|Atletico Madrid (Liam)|Barcelona (Conde)",
-    "message_id": 985
+    "message_id": 985,
+    "result_checked": true,
+    "result_placar": "6-4",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R194(CHAMPIONS LEAGUE)27.04.2026",
@@ -8877,7 +8883,10 @@
     ],
     "assertividade": 61.3,
     "key": "FC26 R194(CHAMPIONS LEAGUE)27.04.2026|Atletico Madrid (Liam)|Manchester City (Haidan)",
-    "message_id": 987
+    "message_id": 987,
+    "result_checked": true,
+    "result_placar": "5-4",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R194(CHAMPIONS LEAGUE)27.04.2026",
@@ -8901,6 +8910,144 @@
     ],
     "assertividade": 61.5,
     "key": "FC26 R194(CHAMPIONS LEAGUE)27.04.2026|Atletico Madrid (Liam)|Barcelona (Conde)",
-    "message_id": 988
+    "message_id": 988,
+    "result_checked": true,
+    "result_placar": "6-4",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R183(LA LIGA)27.04.2026",
+    "p1": "Real Sociedad (Conde)",
+    "p2": "Villarreal (Odin)",
+    "w1": 29.2,
+    "w2": 66.7,
+    "j1": 24,
+    "j2": 24,
+    "o65": 60.4,
+    "btts": 93.75,
+    "avg_g": 6.525,
+    "f1": "D-L-L-L-D",
+    "f2": "W-L-W-L-L",
+    "fav": "Villarreal (Odin)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 60%",
+      "BTTS: 94%",
+      "Vitoria Villarreal (Odin) (WR 67%)"
+    ],
+    "assertividade": 70.9,
+    "key": "FC26 R183(LA LIGA)27.04.2026|Real Sociedad (Conde)|Villarreal (Odin)",
+    "message_id": 989,
+    "result_checked": true,
+    "result_placar": "4-3",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R183(LA LIGA)27.04.2026",
+    "p1": "Villarreal (Odin)",
+    "p2": "Real Sociedad (Conde)",
+    "w1": 66.7,
+    "w2": 29.2,
+    "j1": 24,
+    "j2": 24,
+    "o65": 60.4,
+    "btts": 93.75,
+    "avg_g": 6.525,
+    "f1": "W-L-W-L-L",
+    "f2": "D-L-L-L-D",
+    "fav": "Villarreal (Odin)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 60%",
+      "BTTS: 94%",
+      "Vitoria Villarreal (Odin) (WR 67%)"
+    ],
+    "assertividade": 70.9,
+    "key": "FC26 R183(LA LIGA)27.04.2026|Real Sociedad (Conde)|Villarreal (Odin)",
+    "message_id": 990,
+    "result_checked": true,
+    "result_placar": "4-3",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R194(CHAMPIONS LEAGUE)27.04.2026",
+    "p1": "Atletico Madrid (Liam)",
+    "p2": "PSG (Andrew)",
+    "w1": 9.1,
+    "w2": 54.5,
+    "j1": 11,
+    "j2": 11,
+    "o65": 54.55,
+    "btts": 100.0,
+    "avg_g": 6.775,
+    "f1": "L-L-D-W-L",
+    "f2": "L-L-D-W-W",
+    "fav": "PSG (Andrew)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 55%",
+      "BTTS: 100%",
+      "Vitoria PSG (Andrew) (WR 54%)"
+    ],
+    "assertividade": 65.9,
+    "key": "FC26 R194(CHAMPIONS LEAGUE)27.04.2026|Atletico Madrid (Liam)|PSG (Andrew)",
+    "message_id": 991,
+    "result_checked": true,
+    "result_placar": "3-3",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R194(CHAMPIONS LEAGUE)27.04.2026",
+    "p1": "PSG (Andrew)",
+    "p2": "Atletico Madrid (Liam)",
+    "w1": 54.5,
+    "w2": 9.1,
+    "j1": 11,
+    "j2": 11,
+    "o65": 54.55,
+    "btts": 100.0,
+    "avg_g": 6.775,
+    "f1": "L-L-D-W-W",
+    "f2": "L-L-D-W-L",
+    "fav": "PSG (Andrew)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 55%",
+      "BTTS: 100%",
+      "Vitoria PSG (Andrew) (WR 54%)"
+    ],
+    "assertividade": 65.9,
+    "key": "FC26 R194(CHAMPIONS LEAGUE)27.04.2026|Atletico Madrid (Liam)|PSG (Andrew)",
+    "message_id": 992,
+    "result_checked": true,
+    "result_placar": "3-3",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R194(CHAMPIONS LEAGUE)27.04.2026",
+    "p1": "Atletico Madrid (Liam)",
+    "p2": "PSG (Andrew)",
+    "w1": 9.1,
+    "w2": 54.5,
+    "j1": 11,
+    "j2": 11,
+    "o65": 54.55,
+    "btts": 100.0,
+    "avg_g": 6.775,
+    "f1": "L-L-D-W-L",
+    "f2": "L-L-D-W-W",
+    "fav": "PSG (Andrew)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 55%",
+      "BTTS: 100%",
+      "Vitoria PSG (Andrew) (WR 54%)"
+    ],
+    "assertividade": 65.9,
+    "key": "FC26 R194(CHAMPIONS LEAGUE)27.04.2026|Atletico Madrid (Liam)|PSG (Andrew)",
+    "message_id": 993,
+    "result_checked": true,
+    "result_placar": "3-3",
+    "result_status": "errou"
   }
 ]
