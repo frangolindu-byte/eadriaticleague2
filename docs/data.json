@@ -1,9 +1,9 @@
 {
-  "updated_at": "28/04/2026 21:35:05",
+  "updated_at": "28/04/2026 22:36:59",
   "summary": {
     "total": 466,
-    "finalizados": 457,
-    "agendados": 9,
+    "finalizados": 465,
+    "agendados": 1,
     "ligas": 21
   },
   "jogos": [
@@ -3203,29 +3203,29 @@
       "liga": "FC26 R217(CHAMPIONS LEAGUE)28.04.2026",
       "p1": "Atletico Madrid (Odin)",
       "p2": "Bayern M. (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R217(CHAMPIONS LEAGUE)28.04.2026",
       "p1": "Barcelona (Gael)",
       "p2": "PSG (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R217(CHAMPIONS LEAGUE)28.04.2026",
       "p1": "Barcelona (Gael)",
       "p2": "Bayern M. (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R217(CHAMPIONS LEAGUE)28.04.2026",
       "p1": "PSG (Eduardo)",
       "p2": "Liverpool (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R218(INTERNATIONAL)28.04.2026",
@@ -3245,29 +3245,29 @@
       "liga": "FC26 R218(INTERNATIONAL)28.04.2026",
       "p1": "Holland (Iron)",
       "p2": "Spain (Nathan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R218(INTERNATIONAL)28.04.2026",
       "p1": "Portugal (Pascal)",
       "p2": "Norway (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R218(INTERNATIONAL)28.04.2026",
       "p1": "Holland (Iron)",
       "p2": "Denmark (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R218(INTERNATIONAL)28.04.2026",
       "p1": "Spain (Nathan)",
       "p2": "Norway (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -3368,13 +3368,13 @@
     },
     "FC26 R217(CHAMPIONS LEAGUE)28.04.2026": {
       "total": 8,
-      "finalizados": 4,
-      "agendados": 4
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R218(INTERNATIONAL)28.04.2026": {
       "total": 6,
-      "finalizados": 2,
-      "agendados": 4
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -4618,114 +4618,126 @@
     ],
     "FC26 R217(CHAMPIONS LEAGUE)28.04.2026": [
       {
-        "nome": "Barcelona (Gael)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "nome": "PSG (Eduardo)",
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
         "E": 0,
         "D": 0,
-        "GP": 6,
+        "GP": 11,
         "GC": 3,
-        "SG": 3,
+        "SG": 8,
         "pos": 1
       },
       {
-        "nome": "PSG (Eduardo)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "nome": "Bayern M. (Cleo)",
+        "Pts": 6,
+        "J": 4,
+        "V": 2,
         "E": 0,
-        "D": 0,
-        "GP": 4,
-        "GC": 2,
-        "SG": 2,
+        "D": 2,
+        "GP": 11,
+        "GC": 11,
+        "SG": 0,
         "pos": 2
       },
       {
         "nome": "Atletico Madrid (Odin)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
         "D": 1,
-        "GP": 7,
-        "GC": 8,
-        "SG": -1,
+        "GP": 10,
+        "GC": 10,
+        "SG": 0,
         "pos": 3
       },
       {
-        "nome": "Bayern M. (Cleo)",
+        "nome": "Barcelona (Gael)",
         "Pts": 3,
-        "J": 2,
+        "J": 3,
         "V": 1,
         "E": 0,
-        "D": 1,
-        "GP": 5,
-        "GC": 6,
-        "SG": -1,
+        "D": 2,
+        "GP": 9,
+        "GC": 11,
+        "SG": -2,
         "pos": 4
       },
       {
         "nome": "Liverpool (Eric)",
         "Pts": 0,
-        "J": 2,
+        "J": 3,
         "V": 0,
         "E": 0,
-        "D": 2,
+        "D": 3,
         "GP": 4,
-        "GC": 7,
-        "SG": -3,
+        "GC": 10,
+        "SG": -6,
         "pos": 5
       }
     ],
     "FC26 R218(INTERNATIONAL)28.04.2026": [
       {
         "nome": "Spain (Nathan)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
-        "D": 0,
-        "GP": 6,
-        "GC": 2,
+        "D": 1,
+        "GP": 13,
+        "GC": 9,
         "SG": 4,
         "pos": 1
       },
       {
         "nome": "Norway (Arthur)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
         "E": 1,
-        "D": 0,
-        "GP": 3,
-        "GC": 3,
-        "SG": 0,
+        "D": 1,
+        "GP": 9,
+        "GC": 11,
+        "SG": -2,
         "pos": 2
       },
       {
-        "nome": "Denmark (Felix)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
-        "E": 1,
-        "D": 0,
-        "GP": 3,
-        "GC": 3,
-        "SG": 0,
+        "nome": "Holland (Iron)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 6,
+        "GC": 5,
+        "SG": 1,
         "pos": 3
       },
       {
         "nome": "Portugal (Pascal)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
         "E": 0,
         "D": 1,
-        "GP": 2,
-        "GC": 6,
-        "SG": -4,
+        "GP": 6,
+        "GC": 7,
+        "SG": -1,
         "pos": 4
+      },
+      {
+        "nome": "Denmark (Felix)",
+        "Pts": 1,
+        "J": 2,
+        "V": 0,
+        "E": 1,
+        "D": 1,
+        "GP": 5,
+        "GC": 7,
+        "SG": -2,
+        "pos": 5
       }
     ]
   }
