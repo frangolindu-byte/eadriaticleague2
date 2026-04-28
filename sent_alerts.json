@@ -9237,7 +9237,10 @@
     ],
     "assertividade": 71.4,
     "key": "FC26 R202(INTERNATIONAL)28.04.2026|Italy (Sebastian)|Portugal (MisterX)",
-    "message_id": 1000
+    "message_id": 1000,
+    "result_checked": true,
+    "result_placar": "5-5",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R202(INTERNATIONAL)28.04.2026",
@@ -9261,7 +9264,10 @@
     ],
     "assertividade": 91.2,
     "key": "FC26 R202(INTERNATIONAL)28.04.2026|Italy (Sebastian)|Spain (Pascal)",
-    "message_id": 1001
+    "message_id": 1001,
+    "result_checked": true,
+    "result_placar": "6-4",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R202(INTERNATIONAL)28.04.2026",
@@ -9285,7 +9291,10 @@
     ],
     "assertividade": 71.4,
     "key": "FC26 R202(INTERNATIONAL)28.04.2026|Italy (Sebastian)|Portugal (MisterX)",
-    "message_id": 1002
+    "message_id": 1002,
+    "result_checked": true,
+    "result_placar": "5-5",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R202(INTERNATIONAL)28.04.2026",
@@ -9309,7 +9318,10 @@
     ],
     "assertividade": 91.2,
     "key": "FC26 R202(INTERNATIONAL)28.04.2026|Italy (Sebastian)|Spain (Pascal)",
-    "message_id": 1003
+    "message_id": 1003,
+    "result_checked": true,
+    "result_placar": "6-4",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R202(INTERNATIONAL)28.04.2026",
@@ -9333,6 +9345,57 @@
     ],
     "assertividade": 71.4,
     "key": "FC26 R202(INTERNATIONAL)28.04.2026|Italy (Sebastian)|Portugal (MisterX)",
-    "message_id": 1004
+    "message_id": 1004,
+    "result_checked": true,
+    "result_placar": "5-5",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R206(CHAMPIONS LEAGUE)28.04.2026",
+    "p1": "Atletico Madrid (Oliver)",
+    "p2": "Manchester City (Alexis)",
+    "w1": 31.2,
+    "w2": 66.7,
+    "j1": 16,
+    "j2": 12,
+    "o65": 72.9,
+    "btts": 100.0,
+    "avg_g": 8.015,
+    "f1": "D-L-W-L-D",
+    "f2": "W-L-W-W-W",
+    "fav": "Manchester City (Alexis)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 73%",
+      "BTTS: 100%",
+      "Vitoria Manchester City (Alexis) (WR 67%)"
+    ],
+    "assertividade": 77.5,
+    "key": "FC26 R206(CHAMPIONS LEAGUE)28.04.2026|Atletico Madrid (Oliver)|Manchester City (Alexis)",
+    "message_id": 1005
+  },
+  {
+    "liga": "FC26 R206(CHAMPIONS LEAGUE)28.04.2026",
+    "p1": "Manchester City (Alexis)",
+    "p2": "Atletico Madrid (Oliver)",
+    "w1": 66.7,
+    "w2": 31.2,
+    "j1": 12,
+    "j2": 16,
+    "o65": 72.9,
+    "btts": 100.0,
+    "avg_g": 8.015,
+    "f1": "W-L-W-W-W",
+    "f2": "D-L-W-L-D",
+    "fav": "Manchester City (Alexis)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 73%",
+      "BTTS: 100%",
+      "Vitoria Manchester City (Alexis) (WR 67%)"
+    ],
+    "assertividade": 77.5,
+    "key": "FC26 R206(CHAMPIONS LEAGUE)28.04.2026|Atletico Madrid (Oliver)|Manchester City (Alexis)",
+    "message_id": 1006
   }
 ]
