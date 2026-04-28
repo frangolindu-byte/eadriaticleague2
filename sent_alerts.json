@@ -9372,7 +9372,10 @@
     ],
     "assertividade": 77.5,
     "key": "FC26 R206(CHAMPIONS LEAGUE)28.04.2026|Atletico Madrid (Oliver)|Manchester City (Alexis)",
-    "message_id": 1005
+    "message_id": 1005,
+    "result_checked": true,
+    "result_placar": "1-5",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R206(CHAMPIONS LEAGUE)28.04.2026",
@@ -9396,6 +9399,36 @@
     ],
     "assertividade": 77.5,
     "key": "FC26 R206(CHAMPIONS LEAGUE)28.04.2026|Atletico Madrid (Oliver)|Manchester City (Alexis)",
-    "message_id": 1006
+    "message_id": 1006,
+    "result_checked": true,
+    "result_placar": "1-5",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R201(PREMIER LEAGUE)28.04.2026",
+    "p1": "Manchester City (Odin)",
+    "p2": "Aston Villa (Gael)",
+    "w1": 64.3,
+    "w2": 12.5,
+    "j1": 28,
+    "j2": 16,
+    "o65": 50.0,
+    "btts": 96.9,
+    "avg_g": 6.245,
+    "f1": "W-W-W-D-L",
+    "f2": "L-D-D-L-D",
+    "fav": "Manchester City (Odin)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 50%",
+      "BTTS: 97%",
+      "Vitoria Manchester City (Odin) (WR 64%)"
+    ],
+    "assertividade": 66.7,
+    "key": "FC26 R201(PREMIER LEAGUE)28.04.2026|Aston Villa (Gael)|Manchester City (Odin)",
+    "message_id": 1007,
+    "result_checked": true,
+    "result_placar": "4-4",
+    "result_status": "errou"
   }
 ]
