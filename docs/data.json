@@ -1,9 +1,9 @@
 {
-  "updated_at": "29/04/2026 21:09:44",
+  "updated_at": "29/04/2026 22:13:03",
   "summary": {
     "total": 360,
-    "finalizados": 346,
-    "agendados": 14,
+    "finalizados": 360,
+    "agendados": 0,
     "ligas": 20
   },
   "jogos": [
@@ -2433,99 +2433,99 @@
       "liga": "FC26 R235(INTERNATIONAL)29.04.2026",
       "p1": "Morocco (Cleo)",
       "p2": "Argentina (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R235(INTERNATIONAL)29.04.2026",
       "p1": "Spain (Pascal)",
       "p2": "Ghana (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R235(INTERNATIONAL)29.04.2026",
       "p1": "Holland (Eric)",
       "p2": "Ghana (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R235(INTERNATIONAL)29.04.2026",
       "p1": "Spain (Pascal)",
       "p2": "Morocco (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R235(INTERNATIONAL)29.04.2026",
       "p1": "Ghana (Gael)",
       "p2": "Morocco (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R235(INTERNATIONAL)29.04.2026",
       "p1": "Holland (Eric)",
       "p2": "Argentina (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R235(INTERNATIONAL)29.04.2026",
       "p1": "Argentina (Dexter)",
       "p2": "Spain (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R235(INTERNATIONAL)29.04.2026",
       "p1": "Holland (Eric)",
       "p2": "Morocco (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R236(CHAMPIONS LEAGUE)29.04.2026",
       "p1": "Atletico Madrid (Felix)",
       "p2": "Liverpool (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R236(CHAMPIONS LEAGUE)29.04.2026",
       "p1": "Manchester City (Nathan)",
       "p2": "Barcelona (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R236(CHAMPIONS LEAGUE)29.04.2026",
       "p1": "Bayern M. (Iron)",
       "p2": "Barcelona (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R236(CHAMPIONS LEAGUE)29.04.2026",
       "p1": "Manchester City (Nathan)",
       "p2": "Atletico Madrid (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R236(CHAMPIONS LEAGUE)29.04.2026",
       "p1": "Barcelona (Arthur)",
       "p2": "Atletico Madrid (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R236(CHAMPIONS LEAGUE)29.04.2026",
       "p1": "Bayern M. (Iron)",
       "p2": "Liverpool (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-2",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2621,13 +2621,13 @@
     },
     "FC26 R235(INTERNATIONAL)29.04.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R236(CHAMPIONS LEAGUE)29.04.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3744,6 +3744,130 @@
         "GP": 16,
         "GC": 28,
         "SG": -12,
+        "pos": 5
+      }
+    ],
+    "FC26 R235(INTERNATIONAL)29.04.2026": [
+      {
+        "nome": "Morocco (Cleo)",
+        "Pts": 9,
+        "J": 4,
+        "V": 3,
+        "E": 0,
+        "D": 1,
+        "GP": 11,
+        "GC": 5,
+        "SG": 6,
+        "pos": 1
+      },
+      {
+        "nome": "Spain (Pascal)",
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
+        "E": 1,
+        "D": 0,
+        "GP": 11,
+        "GC": 6,
+        "SG": 5,
+        "pos": 2
+      },
+      {
+        "nome": "Holland (Eric)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 9,
+        "GC": 7,
+        "SG": 2,
+        "pos": 3
+      },
+      {
+        "nome": "Argentina (Dexter)",
+        "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 6,
+        "GC": 10,
+        "SG": -4,
+        "pos": 4
+      },
+      {
+        "nome": "Ghana (Gael)",
+        "Pts": 0,
+        "J": 3,
+        "V": 0,
+        "E": 0,
+        "D": 3,
+        "GP": 6,
+        "GC": 15,
+        "SG": -9,
+        "pos": 5
+      }
+    ],
+    "FC26 R236(CHAMPIONS LEAGUE)29.04.2026": [
+      {
+        "nome": "Atletico Madrid (Felix)",
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
+        "E": 1,
+        "D": 0,
+        "GP": 8,
+        "GC": 6,
+        "SG": 2,
+        "pos": 1
+      },
+      {
+        "nome": "Barcelona (Arthur)",
+        "Pts": 5,
+        "J": 3,
+        "V": 1,
+        "E": 2,
+        "D": 0,
+        "GP": 10,
+        "GC": 9,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Bayern M. (Iron)",
+        "Pts": 4,
+        "J": 2,
+        "V": 1,
+        "E": 1,
+        "D": 0,
+        "GP": 11,
+        "GC": 7,
+        "SG": 4,
+        "pos": 3
+      },
+      {
+        "nome": "Manchester City (Nathan)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 3,
+        "GC": 5,
+        "SG": -2,
+        "pos": 4
+      },
+      {
+        "nome": "Liverpool (Kristof)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 5,
+        "GC": 10,
+        "SG": -5,
         "pos": 5
       }
     ]
