@@ -9831,7 +9831,10 @@
     ],
     "assertividade": 82.9,
     "key": "FC26 R249(SERIA A)30.04.2026|Fiorentina (Alexis)|Juventus (Adriano)",
-    "message_id": 1022
+    "message_id": 1022,
+    "result_checked": true,
+    "result_placar": "4-2",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R240(LA LIGA)30.04.2026",
@@ -9858,6 +9861,60 @@
     "message_id": 1023,
     "result_checked": true,
     "result_placar": "5-4",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R250(PREMIER LEAGUE)30.04.2026",
+    "p1": "Liverpool (Pascal)",
+    "p2": "Aston Villa (Liam)",
+    "w1": 8.3,
+    "w2": 46.2,
+    "j1": 12,
+    "j2": 13,
+    "o65": 60.6,
+    "btts": 96.15,
+    "avg_g": 6.819999999999999,
+    "f1": "L-L-L-L-W",
+    "f2": "W-W-W-W-L",
+    "fav": "Aston Villa (Liam)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 61%",
+      "BTTS: 96%",
+      "Vitoria Aston Villa (Liam) (WR 46%)"
+    ],
+    "assertividade": 64.4,
+    "key": "FC26 R250(PREMIER LEAGUE)30.04.2026|Aston Villa (Liam)|Liverpool (Pascal)",
+    "message_id": 1024,
+    "result_checked": true,
+    "result_placar": "3-5",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R250(PREMIER LEAGUE)30.04.2026",
+    "p1": "Aston Villa (Liam)",
+    "p2": "Liverpool (Pascal)",
+    "w1": 46.2,
+    "w2": 8.3,
+    "j1": 13,
+    "j2": 12,
+    "o65": 60.6,
+    "btts": 96.15,
+    "avg_g": 6.819999999999999,
+    "f1": "W-W-W-W-L",
+    "f2": "L-L-L-L-W",
+    "fav": "Aston Villa (Liam)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 61%",
+      "BTTS: 96%",
+      "Vitoria Aston Villa (Liam) (WR 46%)"
+    ],
+    "assertividade": 64.4,
+    "key": "FC26 R250(PREMIER LEAGUE)30.04.2026|Aston Villa (Liam)|Liverpool (Pascal)",
+    "message_id": 1025,
+    "result_checked": true,
+    "result_placar": "3-5",
     "result_status": "errou"
   }
 ]
