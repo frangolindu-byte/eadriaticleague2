@@ -1,9 +1,9 @@
 {
-  "updated_at": "30/04/2026 21:18:08",
+  "updated_at": "30/04/2026 22:15:49",
   "summary": {
     "total": 360,
-    "finalizados": 348,
-    "agendados": 12,
+    "finalizados": 360,
+    "agendados": 0,
     "ligas": 20
   },
   "jogos": [
@@ -2447,85 +2447,85 @@
       "liga": "FC26 R253(INTERNATIONAL)30.04.2026",
       "p1": "Italy (Cleo)",
       "p2": "Argentina (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R253(INTERNATIONAL)30.04.2026",
       "p1": "Norway (Gael)",
       "p2": "Croatia (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R253(INTERNATIONAL)30.04.2026",
       "p1": "Argentina (Arthur)",
       "p2": "Croatia (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R253(INTERNATIONAL)30.04.2026",
       "p1": "Italy (Cleo)",
       "p2": "Denmark (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R253(INTERNATIONAL)30.04.2026",
       "p1": "Denmark (Eric)",
       "p2": "Norway (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R253(INTERNATIONAL)30.04.2026",
       "p1": "Italy (Cleo)",
       "p2": "Croatia (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R254(CHAMPIONS LEAGUE)30.04.2026",
       "p1": "Barcelona (Kristof)",
       "p2": "Manchester City (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R254(CHAMPIONS LEAGUE)30.04.2026",
       "p1": "PSG (Felix)",
       "p2": "Real Madrid (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R254(CHAMPIONS LEAGUE)30.04.2026",
       "p1": "Bayern M. (Sebastian)",
       "p2": "Real Madrid (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R254(CHAMPIONS LEAGUE)30.04.2026",
       "p1": "PSG (Felix)",
       "p2": "Barcelona (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R254(CHAMPIONS LEAGUE)30.04.2026",
       "p1": "Bayern M. (Sebastian)",
       "p2": "Manchester City (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R254(CHAMPIONS LEAGUE)30.04.2026",
       "p1": "Real Madrid (Iron)",
       "p2": "Barcelona (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2621,13 +2621,13 @@
     },
     "FC26 R253(INTERNATIONAL)30.04.2026": {
       "total": 8,
-      "finalizados": 2,
-      "agendados": 6
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R254(CHAMPIONS LEAGUE)30.04.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3749,52 +3749,126 @@
     ],
     "FC26 R253(INTERNATIONAL)30.04.2026": [
       {
-        "nome": "Norway (Gael)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
-        "E": 0,
+        "nome": "Croatia (Odin)",
+        "Pts": 10,
+        "J": 4,
+        "V": 3,
+        "E": 1,
         "D": 0,
-        "GP": 6,
-        "GC": 4,
-        "SG": 2,
+        "GP": 12,
+        "GC": 7,
+        "SG": 5,
         "pos": 1
       },
       {
-        "nome": "Croatia (Odin)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "nome": "Norway (Gael)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
-        "D": 0,
-        "GP": 2,
-        "GC": 1,
-        "SG": 1,
+        "D": 1,
+        "GP": 13,
+        "GC": 10,
+        "SG": 3,
         "pos": 2
       },
       {
-        "nome": "Denmark (Eric)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
-        "E": 0,
-        "D": 1,
-        "GP": 1,
-        "GC": 2,
-        "SG": -1,
+        "nome": "Italy (Cleo)",
+        "Pts": 5,
+        "J": 3,
+        "V": 1,
+        "E": 2,
+        "D": 0,
+        "GP": 7,
+        "GC": 5,
+        "SG": 2,
         "pos": 3
+      },
+      {
+        "nome": "Denmark (Eric)",
+        "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 5,
+        "GC": 8,
+        "SG": -3,
+        "pos": 4
       },
       {
         "nome": "Argentina (Arthur)",
         "Pts": 0,
-        "J": 1,
+        "J": 3,
         "V": 0,
         "E": 0,
-        "D": 1,
-        "GP": 4,
+        "D": 3,
+        "GP": 6,
+        "GC": 13,
+        "SG": -7,
+        "pos": 5
+      }
+    ],
+    "FC26 R254(CHAMPIONS LEAGUE)30.04.2026": [
+      {
+        "nome": "Bayern M. (Sebastian)",
+        "Pts": 4,
+        "J": 2,
+        "V": 1,
+        "E": 1,
+        "D": 0,
+        "GP": 7,
         "GC": 6,
-        "SG": -2,
+        "SG": 1,
+        "pos": 1
+      },
+      {
+        "nome": "Barcelona (Kristof)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 8,
+        "GC": 8,
+        "SG": 0,
+        "pos": 2
+      },
+      {
+        "nome": "PSG (Felix)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 8,
+        "GC": 6,
+        "SG": 2,
+        "pos": 3
+      },
+      {
+        "nome": "Real Madrid (Iron)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 9,
+        "GC": 12,
+        "SG": -3,
         "pos": 4
+      },
+      {
+        "nome": "Manchester City (Alexander)",
+        "Pts": 2,
+        "J": 2,
+        "V": 0,
+        "E": 2,
+        "D": 0,
+        "GP": 6,
+        "GC": 6,
+        "SG": 0,
+        "pos": 5
       }
     ]
   }
