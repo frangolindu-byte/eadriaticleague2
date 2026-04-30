@@ -1,9 +1,9 @@
 {
-  "updated_at": "30/04/2026 20:15:52",
+  "updated_at": "30/04/2026 21:18:08",
   "summary": {
     "total": 360,
-    "finalizados": 334,
-    "agendados": 26,
+    "finalizados": 348,
+    "agendados": 12,
     "ligas": 20
   },
   "jogos": [
@@ -2265,29 +2265,29 @@
       "liga": "FC26 R251(CHAMPIONS LEAGUE)30.04.2026",
       "p1": "Bayern M. (Adriano)",
       "p2": "Atletico Madrid (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R251(CHAMPIONS LEAGUE)30.04.2026",
       "p1": "PSG (Alexis)",
       "p2": "Real Madrid (Maverick)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R251(CHAMPIONS LEAGUE)30.04.2026",
       "p1": "Bayern M. (Adriano)",
       "p2": "Real Madrid (Maverick)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R251(CHAMPIONS LEAGUE)30.04.2026",
       "p1": "Manchester City (Noah)",
       "p2": "Atletico Madrid (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R252(LA LIGA)30.04.2026",
@@ -2377,71 +2377,71 @@
       "liga": "FC26 R252(LA LIGA)30.04.2026",
       "p1": "Sevilla (Conde)",
       "p2": "Valencia (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R252(LA LIGA)30.04.2026",
       "p1": "Villarreal (Liam)",
       "p2": "Real Madrid (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R252(LA LIGA)30.04.2026",
       "p1": "Barcelona (Logan)",
       "p2": "Real Madrid (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R252(LA LIGA)30.04.2026",
       "p1": "Sevilla (Conde)",
       "p2": "Villarreal (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R252(LA LIGA)30.04.2026",
       "p1": "Sevilla (Conde)",
       "p2": "Real Madrid (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R252(LA LIGA)30.04.2026",
       "p1": "Valencia (Beckham)",
       "p2": "Barcelona (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R252(LA LIGA)30.04.2026",
       "p1": "Valencia (Beckham)",
       "p2": "Real Madrid (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R252(LA LIGA)30.04.2026",
       "p1": "Villarreal (Liam)",
       "p2": "Barcelona (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R253(INTERNATIONAL)30.04.2026",
       "p1": "Croatia (Odin)",
       "p2": "Denmark (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R253(INTERNATIONAL)30.04.2026",
       "p1": "Norway (Gael)",
       "p2": "Argentina (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R253(INTERNATIONAL)30.04.2026",
@@ -2611,18 +2611,18 @@
     },
     "FC26 R251(CHAMPIONS LEAGUE)30.04.2026": {
       "total": 20,
-      "finalizados": 16,
-      "agendados": 4
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R252(LA LIGA)30.04.2026": {
       "total": 20,
-      "finalizados": 12,
-      "agendados": 8
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R253(INTERNATIONAL)30.04.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 2,
+      "agendados": 6
     },
     "FC26 R254(CHAMPIONS LEAGUE)30.04.2026": {
       "total": 6,
@@ -3627,124 +3627,174 @@
       {
         "nome": "PSG (Alexis)",
         "Pts": 21,
-        "J": 7,
+        "J": 8,
         "V": 7,
         "E": 0,
-        "D": 0,
-        "GP": 43,
-        "GC": 21,
-        "SG": 22,
+        "D": 1,
+        "GP": 46,
+        "GC": 25,
+        "SG": 21,
         "pos": 1
       },
       {
         "nome": "Bayern M. (Adriano)",
-        "Pts": 7,
-        "J": 6,
-        "V": 2,
+        "Pts": 13,
+        "J": 8,
+        "V": 4,
         "E": 1,
         "D": 3,
-        "GP": 16,
-        "GC": 18,
-        "SG": -2,
+        "GP": 23,
+        "GC": 21,
+        "SG": 2,
         "pos": 2
       },
       {
         "nome": "Manchester City (Noah)",
-        "Pts": 7,
-        "J": 7,
+        "Pts": 8,
+        "J": 8,
         "V": 2,
-        "E": 1,
+        "E": 2,
         "D": 4,
-        "GP": 19,
-        "GC": 25,
+        "GP": 21,
+        "GC": 27,
         "SG": -6,
         "pos": 3
       },
       {
         "nome": "Atletico Madrid (Donatello)",
-        "Pts": 7,
-        "J": 6,
+        "Pts": 8,
+        "J": 8,
         "V": 2,
-        "E": 1,
-        "D": 3,
-        "GP": 16,
-        "GC": 24,
-        "SG": -8,
+        "E": 2,
+        "D": 4,
+        "GP": 19,
+        "GC": 29,
+        "SG": -10,
         "pos": 4
       },
       {
         "nome": "Real Madrid (Maverick)",
-        "Pts": 4,
-        "J": 6,
-        "V": 1,
+        "Pts": 7,
+        "J": 8,
+        "V": 2,
         "E": 1,
-        "D": 4,
-        "GP": 24,
-        "GC": 30,
-        "SG": -6,
+        "D": 5,
+        "GP": 30,
+        "GC": 37,
+        "SG": -7,
         "pos": 5
       }
     ],
     "FC26 R252(LA LIGA)30.04.2026": [
       {
-        "nome": "Barcelona (Logan)",
-        "Pts": 15,
-        "J": 5,
-        "V": 5,
+        "nome": "Valencia (Beckham)",
+        "Pts": 18,
+        "J": 8,
+        "V": 6,
         "E": 0,
-        "D": 0,
-        "GP": 20,
-        "GC": 11,
-        "SG": 9,
+        "D": 2,
+        "GP": 34,
+        "GC": 26,
+        "SG": 8,
         "pos": 1
       },
       {
-        "nome": "Valencia (Beckham)",
-        "Pts": 9,
-        "J": 5,
-        "V": 3,
-        "E": 0,
+        "nome": "Barcelona (Logan)",
+        "Pts": 16,
+        "J": 8,
+        "V": 5,
+        "E": 1,
         "D": 2,
-        "GP": 21,
-        "GC": 20,
-        "SG": 1,
+        "GP": 25,
+        "GC": 22,
+        "SG": 3,
         "pos": 2
       },
       {
-        "nome": "Sevilla (Conde)",
-        "Pts": 6,
-        "J": 5,
-        "V": 2,
+        "nome": "Real Madrid (Pascal)",
+        "Pts": 12,
+        "J": 8,
+        "V": 4,
         "E": 0,
-        "D": 3,
-        "GP": 16,
-        "GC": 16,
-        "SG": 0,
+        "D": 4,
+        "GP": 34,
+        "GC": 33,
+        "SG": 1,
         "pos": 3
       },
       {
-        "nome": "Real Madrid (Pascal)",
-        "Pts": 3,
-        "J": 4,
-        "V": 1,
+        "nome": "Sevilla (Conde)",
+        "Pts": 9,
+        "J": 8,
+        "V": 3,
         "E": 0,
-        "D": 3,
-        "GP": 16,
-        "GC": 20,
-        "SG": -4,
+        "D": 5,
+        "GP": 27,
+        "GC": 29,
+        "SG": -2,
         "pos": 4
       },
       {
         "nome": "Villarreal (Liam)",
+        "Pts": 4,
+        "J": 8,
+        "V": 1,
+        "E": 1,
+        "D": 6,
+        "GP": 23,
+        "GC": 33,
+        "SG": -10,
+        "pos": 5
+      }
+    ],
+    "FC26 R253(INTERNATIONAL)30.04.2026": [
+      {
+        "nome": "Norway (Gael)",
         "Pts": 3,
-        "J": 5,
+        "J": 1,
         "V": 1,
         "E": 0,
-        "D": 4,
-        "GP": 17,
-        "GC": 23,
-        "SG": -6,
-        "pos": 5
+        "D": 0,
+        "GP": 6,
+        "GC": 4,
+        "SG": 2,
+        "pos": 1
+      },
+      {
+        "nome": "Croatia (Odin)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 2,
+        "GC": 1,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Denmark (Eric)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 1,
+        "GC": 2,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Argentina (Arthur)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 4,
+        "GC": 6,
+        "SG": -2,
+        "pos": 4
       }
     ]
   }
