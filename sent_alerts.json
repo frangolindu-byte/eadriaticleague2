@@ -9993,7 +9993,10 @@
     ],
     "assertividade": 69.5,
     "key": "FC26 R262(SERIA A)01.05.2026|Fiorentina (Oliver)|Juventus (Andrew)",
-    "message_id": 1028
+    "message_id": 1028,
+    "result_checked": true,
+    "result_placar": "5-3",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R262(SERIA A)01.05.2026",
@@ -10017,7 +10020,10 @@
     ],
     "assertividade": 69.5,
     "key": "FC26 R262(SERIA A)01.05.2026|Fiorentina (Oliver)|Juventus (Andrew)",
-    "message_id": 1029
+    "message_id": 1029,
+    "result_checked": true,
+    "result_placar": "5-3",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R264(INTERNATIONAL)01.05.2026",
@@ -10096,5 +10102,29 @@
     "result_checked": true,
     "result_placar": "3-4",
     "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R268(PREMIER LEAGUE)01.05.2026",
+    "p1": "Arsenal (Pascal)",
+    "p2": "Newcastle U. (Conde)",
+    "w1": 12.5,
+    "w2": 47.6,
+    "j1": 8,
+    "j2": 21,
+    "o65": 52.7,
+    "btts": 95.25,
+    "avg_g": 6.46,
+    "f1": "L-L-L-L-L",
+    "f2": "W-W-D-W-W",
+    "fav": "Newcastle U. (Conde)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 53%",
+      "BTTS: 95%",
+      "Vitoria Newcastle U. (Conde) (WR 48%)"
+    ],
+    "assertividade": 61.6,
+    "key": "FC26 R268(PREMIER LEAGUE)01.05.2026|Arsenal (Pascal)|Newcastle U. (Conde)",
+    "message_id": 1033
   }
 ]
