@@ -1,9 +1,9 @@
 {
-  "updated_at": "01/05/2026 18:16:04",
+  "updated_at": "01/05/2026 19:42:34",
   "summary": {
     "total": 300,
-    "finalizados": 266,
-    "agendados": 34,
+    "finalizados": 276,
+    "agendados": 24,
     "ligas": 17
   },
   "jogos": [
@@ -1873,71 +1873,71 @@
       "liga": "FC26 R267(CHAMPIONS LEAGUE)01.05.2026",
       "p1": "PSG (Logan)",
       "p2": "Atletico Madrid (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R267(CHAMPIONS LEAGUE)01.05.2026",
       "p1": "Real Madrid (Beckham)",
       "p2": "Barcelona (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R267(CHAMPIONS LEAGUE)01.05.2026",
       "p1": "Liverpool (Nathan)",
       "p2": "Atletico Madrid (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R267(CHAMPIONS LEAGUE)01.05.2026",
       "p1": "PSG (Logan)",
       "p2": "Real Madrid (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R267(CHAMPIONS LEAGUE)01.05.2026",
       "p1": "Atletico Madrid (Noah)",
       "p2": "Real Madrid (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R267(CHAMPIONS LEAGUE)01.05.2026",
       "p1": "Liverpool (Nathan)",
       "p2": "Barcelona (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R267(CHAMPIONS LEAGUE)01.05.2026",
       "p1": "Barcelona (Dominic)",
       "p2": "PSG (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R267(CHAMPIONS LEAGUE)01.05.2026",
       "p1": "Liverpool (Nathan)",
       "p2": "Real Madrid (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R267(CHAMPIONS LEAGUE)01.05.2026",
       "p1": "Barcelona (Dominic)",
       "p2": "Atletico Madrid (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R267(CHAMPIONS LEAGUE)01.05.2026",
       "p1": "Liverpool (Nathan)",
       "p2": "PSG (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R267(CHAMPIONS LEAGUE)01.05.2026",
@@ -2181,8 +2181,8 @@
     },
     "FC26 R267(CHAMPIONS LEAGUE)01.05.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 10,
+      "agendados": 10
     },
     "FC26 R268(PREMIER LEAGUE)01.05.2026": {
       "total": 8,
@@ -3061,6 +3061,68 @@
         "GP": 19,
         "GC": 32,
         "SG": -13,
+        "pos": 5
+      }
+    ],
+    "FC26 R267(CHAMPIONS LEAGUE)01.05.2026": [
+      {
+        "nome": "PSG (Logan)",
+        "Pts": 8,
+        "J": 4,
+        "V": 2,
+        "E": 2,
+        "D": 0,
+        "GP": 10,
+        "GC": 7,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "Real Madrid (Beckham)",
+        "Pts": 6,
+        "J": 4,
+        "V": 2,
+        "E": 0,
+        "D": 2,
+        "GP": 14,
+        "GC": 14,
+        "SG": 0,
+        "pos": 2
+      },
+      {
+        "nome": "Barcelona (Dominic)",
+        "Pts": 5,
+        "J": 4,
+        "V": 1,
+        "E": 2,
+        "D": 1,
+        "GP": 8,
+        "GC": 9,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Atletico Madrid (Noah)",
+        "Pts": 4,
+        "J": 4,
+        "V": 1,
+        "E": 1,
+        "D": 2,
+        "GP": 14,
+        "GC": 14,
+        "SG": 0,
+        "pos": 4
+      },
+      {
+        "nome": "Liverpool (Nathan)",
+        "Pts": 4,
+        "J": 4,
+        "V": 1,
+        "E": 1,
+        "D": 2,
+        "GP": 11,
+        "GC": 13,
+        "SG": -2,
         "pos": 5
       }
     ]
