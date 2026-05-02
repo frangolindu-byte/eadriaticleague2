@@ -1,9 +1,9 @@
 {
-  "updated_at": "02/05/2026 18:02:27",
+  "updated_at": "02/05/2026 19:15:51",
   "summary": {
     "total": 300,
-    "finalizados": 264,
-    "agendados": 36,
+    "finalizados": 274,
+    "agendados": 26,
     "ligas": 17
   },
   "jogos": [
@@ -1719,71 +1719,71 @@
       "liga": "FC26 R281(INTERNATIONAL)02.05.2026",
       "p1": "Holland (Cleo)",
       "p2": "Portugal (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R281(INTERNATIONAL)02.05.2026",
       "p1": "Norway (Liam)",
       "p2": "Spain (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R282(CHAMPIONS LEAGUE)02.05.2026",
       "p1": "PSG (Cleo)",
       "p2": "Atletico Madrid (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R282(CHAMPIONS LEAGUE)02.05.2026",
       "p1": "Real Madrid (VanGogh)",
       "p2": "Bayern M. (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R282(CHAMPIONS LEAGUE)02.05.2026",
       "p1": "Manchester City (Donatello)",
       "p2": "Atletico Madrid (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R282(CHAMPIONS LEAGUE)02.05.2026",
       "p1": "PSG (Cleo)",
       "p2": "Real Madrid (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R282(CHAMPIONS LEAGUE)02.05.2026",
       "p1": "Atletico Madrid (Liam)",
       "p2": "Real Madrid (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R282(CHAMPIONS LEAGUE)02.05.2026",
       "p1": "Manchester City (Donatello)",
       "p2": "Bayern M. (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R282(CHAMPIONS LEAGUE)02.05.2026",
       "p1": "Bayern M. (Andrew)",
       "p2": "PSG (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R282(CHAMPIONS LEAGUE)02.05.2026",
       "p1": "Manchester City (Donatello)",
       "p2": "Real Madrid (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R282(CHAMPIONS LEAGUE)02.05.2026",
@@ -2171,13 +2171,13 @@
     },
     "FC26 R281(INTERNATIONAL)02.05.2026": {
       "total": 20,
-      "finalizados": 18,
-      "agendados": 2
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R282(CHAMPIONS LEAGUE)02.05.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 8,
+      "agendados": 12
     },
     "FC26 R283(INTERNATIONAL)02.05.2026": {
       "total": 8,
@@ -2943,50 +2943,50 @@
     "FC26 R281(INTERNATIONAL)02.05.2026": [
       {
         "nome": "Portugal (Donatello)",
-        "Pts": 16,
-        "J": 7,
+        "Pts": 17,
+        "J": 8,
         "V": 5,
-        "E": 1,
+        "E": 2,
         "D": 1,
-        "GP": 22,
-        "GC": 14,
+        "GP": 24,
+        "GC": 16,
         "SG": 8,
         "pos": 1
       },
       {
         "nome": "Norway (Liam)",
-        "Pts": 11,
-        "J": 7,
-        "V": 3,
+        "Pts": 14,
+        "J": 8,
+        "V": 4,
         "E": 2,
         "D": 2,
-        "GP": 16,
-        "GC": 14,
-        "SG": 2,
+        "GP": 19,
+        "GC": 16,
+        "SG": 3,
         "pos": 2
       },
       {
         "nome": "Holland (Cleo)",
-        "Pts": 10,
-        "J": 7,
+        "Pts": 11,
+        "J": 8,
         "V": 3,
-        "E": 1,
+        "E": 2,
         "D": 3,
-        "GP": 13,
-        "GC": 15,
+        "GP": 15,
+        "GC": 17,
         "SG": -2,
         "pos": 3
       },
       {
         "nome": "Spain (Andrew)",
         "Pts": 8,
-        "J": 7,
+        "J": 8,
         "V": 2,
         "E": 2,
-        "D": 3,
-        "GP": 14,
-        "GC": 17,
-        "SG": -3,
+        "D": 4,
+        "GP": 16,
+        "GC": 20,
+        "SG": -4,
         "pos": 4
       },
       {
@@ -2999,6 +2999,68 @@
         "GP": 18,
         "GC": 23,
         "SG": -5,
+        "pos": 5
+      }
+    ],
+    "FC26 R282(CHAMPIONS LEAGUE)02.05.2026": [
+      {
+        "nome": "Real Madrid (VanGogh)",
+        "Pts": 6,
+        "J": 4,
+        "V": 2,
+        "E": 0,
+        "D": 2,
+        "GP": 12,
+        "GC": 14,
+        "SG": -2,
+        "pos": 1
+      },
+      {
+        "nome": "PSG (Cleo)",
+        "Pts": 5,
+        "J": 3,
+        "V": 1,
+        "E": 2,
+        "D": 0,
+        "GP": 11,
+        "GC": 7,
+        "SG": 4,
+        "pos": 2
+      },
+      {
+        "nome": "Atletico Madrid (Liam)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 12,
+        "GC": 11,
+        "SG": 1,
+        "pos": 3
+      },
+      {
+        "nome": "Bayern M. (Andrew)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 9,
+        "GC": 11,
+        "SG": -2,
+        "pos": 4
+      },
+      {
+        "nome": "Manchester City (Donatello)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 9,
+        "GC": 10,
+        "SG": -1,
         "pos": 5
       }
     ],
