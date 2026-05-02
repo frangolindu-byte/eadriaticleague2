@@ -1,9 +1,9 @@
 {
-  "updated_at": "02/05/2026 15:30:05",
+  "updated_at": "02/05/2026 16:13:26",
   "summary": {
     "total": 300,
-    "finalizados": 246,
-    "agendados": 54,
+    "finalizados": 248,
+    "agendados": 52,
     "ligas": 17
   },
   "jogos": [
@@ -1593,15 +1593,15 @@
       "liga": "FC26 R281(INTERNATIONAL)02.05.2026",
       "p1": "Holland (Cleo)",
       "p2": "Norway (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R281(INTERNATIONAL)02.05.2026",
       "p1": "Italy (VanGogh)",
       "p2": "Spain (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R281(INTERNATIONAL)02.05.2026",
@@ -2171,8 +2171,8 @@
     },
     "FC26 R281(INTERNATIONAL)02.05.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 2,
+      "agendados": 18
     },
     "FC26 R282(CHAMPIONS LEAGUE)02.05.2026": {
       "total": 20,
@@ -2938,6 +2938,56 @@
         "GC": 27,
         "SG": -8,
         "pos": 5
+      }
+    ],
+    "FC26 R281(INTERNATIONAL)02.05.2026": [
+      {
+        "nome": "Spain (Andrew)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 5,
+        "GC": 3,
+        "SG": 2,
+        "pos": 1
+      },
+      {
+        "nome": "Holland (Cleo)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 2,
+        "GC": 2,
+        "SG": 0,
+        "pos": 2
+      },
+      {
+        "nome": "Norway (Liam)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 2,
+        "GC": 2,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Italy (VanGogh)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 3,
+        "GC": 5,
+        "SG": -2,
+        "pos": 4
       }
     ],
     "FC26 R278(LA LIGA)02.05.2026": [
