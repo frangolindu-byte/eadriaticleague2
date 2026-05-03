@@ -1,9 +1,9 @@
 {
-  "updated_at": "03/05/2026 20:59:29",
+  "updated_at": "03/05/2026 21:55:39",
   "summary": {
     "total": 300,
-    "finalizados": 286,
-    "agendados": 14,
+    "finalizados": 296,
+    "agendados": 4,
     "ligas": 17
   },
   "jogos": [
@@ -2013,43 +2013,43 @@
       "liga": "FC26 R298(SERIA A)03.05.2026",
       "p1": "Inter (Gael)",
       "p2": "Atalanta (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R298(SERIA A)03.05.2026",
       "p1": "Napoli (Odin)",
       "p2": "Lazio (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R298(SERIA A)03.05.2026",
       "p1": "Inter (Gael)",
       "p2": "Napoli (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R298(SERIA A)03.05.2026",
       "p1": "Juventus (Dexter)",
       "p2": "Atalanta (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R298(SERIA A)03.05.2026",
       "p1": "Atalanta (Alexis)",
       "p2": "Napoli (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R298(SERIA A)03.05.2026",
       "p1": "Juventus (Dexter)",
       "p2": "Lazio (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R298(SERIA A)03.05.2026",
@@ -2069,29 +2069,29 @@
       "liga": "FC26 R299(PREMIER LEAGUE)03.05.2026",
       "p1": "Newcastle U. (Pascal)",
       "p2": "Manchester City (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R299(PREMIER LEAGUE)03.05.2026",
       "p1": "West Ham United (Felix)",
       "p2": "Arsenal (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R299(PREMIER LEAGUE)03.05.2026",
       "p1": "Liverpool (Sebastian)",
       "p2": "Arsenal (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R299(PREMIER LEAGUE)03.05.2026",
       "p1": "West Ham United (Felix)",
       "p2": "Newcastle U. (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R299(PREMIER LEAGUE)03.05.2026",
@@ -2186,13 +2186,13 @@
     },
     "FC26 R298(SERIA A)03.05.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 6,
+      "agendados": 2
     },
     "FC26 R299(PREMIER LEAGUE)03.05.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 4,
+      "agendados": 2
     }
   },
   "classificacao": {
@@ -3123,6 +3123,130 @@
         "GP": 37,
         "GC": 44,
         "SG": -7,
+        "pos": 5
+      }
+    ],
+    "FC26 R298(SERIA A)03.05.2026": [
+      {
+        "nome": "Atalanta (Alexis)",
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
+        "E": 0,
+        "D": 0,
+        "GP": 13,
+        "GC": 4,
+        "SG": 9,
+        "pos": 1
+      },
+      {
+        "nome": "Napoli (Odin)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 5,
+        "GC": 6,
+        "SG": -1,
+        "pos": 2
+      },
+      {
+        "nome": "Lazio (Eduardo)",
+        "Pts": 1,
+        "J": 2,
+        "V": 0,
+        "E": 1,
+        "D": 1,
+        "GP": 3,
+        "GC": 4,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Juventus (Dexter)",
+        "Pts": 1,
+        "J": 2,
+        "V": 0,
+        "E": 1,
+        "D": 1,
+        "GP": 4,
+        "GC": 7,
+        "SG": -3,
+        "pos": 4
+      },
+      {
+        "nome": "Inter (Gael)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 2,
+        "GC": 6,
+        "SG": -4,
+        "pos": 5
+      }
+    ],
+    "FC26 R299(PREMIER LEAGUE)03.05.2026": [
+      {
+        "nome": "Arsenal (Eric)",
+        "Pts": 4,
+        "J": 2,
+        "V": 1,
+        "E": 1,
+        "D": 0,
+        "GP": 7,
+        "GC": 6,
+        "SG": 1,
+        "pos": 1
+      },
+      {
+        "nome": "Manchester City (Conde)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 5,
+        "GC": 3,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Newcastle U. (Pascal)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 6,
+        "GC": 7,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "West Ham United (Felix)",
+        "Pts": 1,
+        "J": 2,
+        "V": 0,
+        "E": 1,
+        "D": 1,
+        "GP": 5,
+        "GC": 6,
+        "SG": -1,
+        "pos": 4
+      },
+      {
+        "nome": "Liverpool (Sebastian)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 3,
+        "GC": 4,
+        "SG": -1,
         "pos": 5
       }
     ]
