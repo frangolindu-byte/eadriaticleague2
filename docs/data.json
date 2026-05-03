@@ -1,9 +1,9 @@
 {
-  "updated_at": "03/05/2026 15:30:21",
+  "updated_at": "03/05/2026 16:25:52",
   "summary": {
     "total": 300,
-    "finalizados": 246,
-    "agendados": 54,
+    "finalizados": 250,
+    "agendados": 50,
     "ligas": 17
   },
   "jogos": [
@@ -1733,29 +1733,29 @@
       "liga": "FC26 R296(CHAMPIONS LEAGUE)03.05.2026",
       "p1": "Barcelona (Liam)",
       "p2": "PSG (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R296(CHAMPIONS LEAGUE)03.05.2026",
       "p1": "Manchester City (MisterX)",
       "p2": "Bayern M. (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R296(CHAMPIONS LEAGUE)03.05.2026",
       "p1": "Barcelona (Liam)",
       "p2": "Manchester City (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R296(CHAMPIONS LEAGUE)03.05.2026",
       "p1": "Liverpool (Maverick)",
       "p2": "PSG (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R296(CHAMPIONS LEAGUE)03.05.2026",
@@ -2176,8 +2176,8 @@
     },
     "FC26 R296(CHAMPIONS LEAGUE)03.05.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 4,
+      "agendados": 16
     },
     "FC26 R297(INTERNATIONAL)03.05.2026": {
       "total": 20,
@@ -2999,6 +2999,68 @@
         "GP": 15,
         "GC": 24,
         "SG": -9,
+        "pos": 5
+      }
+    ],
+    "FC26 R296(CHAMPIONS LEAGUE)03.05.2026": [
+      {
+        "nome": "Barcelona (Liam)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 13,
+        "GC": 5,
+        "SG": 8,
+        "pos": 1
+      },
+      {
+        "nome": "Manchester City (MisterX)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 5,
+        "GC": 7,
+        "SG": -2,
+        "pos": 2
+      },
+      {
+        "nome": "PSG (Noah)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 7,
+        "GC": 10,
+        "SG": -3,
+        "pos": 3
+      },
+      {
+        "nome": "Liverpool (Maverick)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 3,
+        "GC": 4,
+        "SG": -1,
+        "pos": 4
+      },
+      {
+        "nome": "Bayern M. (Donatello)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 1,
+        "GC": 3,
+        "SG": -2,
         "pos": 5
       }
     ]
