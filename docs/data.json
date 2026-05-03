@@ -1,9 +1,9 @@
 {
-  "updated_at": "02/05/2026 23:10:09",
+  "updated_at": "03/05/2026 00:00:48",
   "summary": {
     "total": 300,
-    "finalizados": 16,
-    "agendados": 284,
+    "finalizados": 28,
+    "agendados": 272,
     "ligas": 17
   },
   "jogos": [
@@ -67,29 +67,29 @@
       "liga": "FC26 R283(INTERNATIONAL)02.05.2026",
       "p1": "Mexico (Gael)",
       "p2": "Sweden (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R283(INTERNATIONAL)02.05.2026",
       "p1": "Portugal (MisterX)",
       "p2": "Denmark (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R283(INTERNATIONAL)02.05.2026",
       "p1": "France (Eric)",
       "p2": "Denmark (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R283(INTERNATIONAL)02.05.2026",
       "p1": "Portugal (MisterX)",
       "p2": "Sweden (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R284(CHAMPIONS LEAGUE)02.05.2026",
@@ -151,57 +151,57 @@
       "liga": "FC26 R284(CHAMPIONS LEAGUE)02.05.2026",
       "p1": "Barcelona (George)",
       "p2": "Liverpool (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R284(CHAMPIONS LEAGUE)02.05.2026",
       "p1": "Bayern M. (Kristof)",
       "p2": "Manchester City (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R284(CHAMPIONS LEAGUE)02.05.2026",
       "p1": "Atletico Madrid (Sebastian)",
       "p2": "Barcelona (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R284(CHAMPIONS LEAGUE)02.05.2026",
       "p1": "Bayern M. (Kristof)",
       "p2": "Liverpool (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R284(CHAMPIONS LEAGUE)02.05.2026",
       "p1": "Atletico Madrid (Sebastian)",
       "p2": "Liverpool (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R284(CHAMPIONS LEAGUE)02.05.2026",
       "p1": "Manchester City (Arthur)",
       "p2": "Barcelona (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R285(SERIA A)03.05.2026",
       "p1": "Fiorentina (MisterX)",
       "p2": "Lazio (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R285(SERIA A)03.05.2026",
       "p1": "Napoli (Gael)",
       "p2": "Milan (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R285(SERIA A)03.05.2026",
@@ -2111,18 +2111,18 @@
   "resumo": {
     "FC26 R283(INTERNATIONAL)02.05.2026": {
       "total": 12,
-      "finalizados": 8,
-      "agendados": 4
+      "finalizados": 12,
+      "agendados": 0
     },
     "FC26 R284(CHAMPIONS LEAGUE)02.05.2026": {
       "total": 14,
-      "finalizados": 8,
-      "agendados": 6
+      "finalizados": 14,
+      "agendados": 0
     },
     "FC26 R285(SERIA A)03.05.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 2,
+      "agendados": 18
     },
     "FC26 R286(PREMIER LEAGUE)03.05.2026": {
       "total": 20,
@@ -2199,21 +2199,21 @@
     "FC26 R283(INTERNATIONAL)02.05.2026": [
       {
         "nome": "Sweden (Alexis)",
-        "Pts": 9,
-        "J": 3,
-        "V": 3,
-        "E": 0,
+        "Pts": 13,
+        "J": 5,
+        "V": 4,
+        "E": 1,
         "D": 0,
-        "GP": 12,
-        "GC": 4,
-        "SG": 8,
+        "GP": 18,
+        "GC": 7,
+        "SG": 11,
         "pos": 1
       },
       {
-        "nome": "France (Eric)",
-        "Pts": 6,
-        "J": 4,
-        "V": 2,
+        "nome": "Denmark (Odin)",
+        "Pts": 9,
+        "J": 5,
+        "V": 3,
         "E": 0,
         "D": 2,
         "GP": 10,
@@ -2222,102 +2222,152 @@
         "pos": 2
       },
       {
-        "nome": "Mexico (Gael)",
-        "Pts": 4,
-        "J": 3,
-        "V": 1,
-        "E": 1,
-        "D": 1,
-        "GP": 7,
-        "GC": 8,
-        "SG": -1,
+        "nome": "France (Eric)",
+        "Pts": 6,
+        "J": 5,
+        "V": 2,
+        "E": 0,
+        "D": 3,
+        "GP": 12,
+        "GC": 12,
+        "SG": 0,
         "pos": 3
       },
       {
-        "nome": "Denmark (Odin)",
-        "Pts": 3,
-        "J": 3,
+        "nome": "Mexico (Gael)",
+        "Pts": 5,
+        "J": 4,
         "V": 1,
-        "E": 0,
-        "D": 2,
-        "GP": 4,
-        "GC": 7,
-        "SG": -3,
+        "E": 2,
+        "D": 1,
+        "GP": 9,
+        "GC": 10,
+        "SG": -1,
         "pos": 4
       },
       {
         "nome": "Portugal (MisterX)",
         "Pts": 1,
-        "J": 3,
+        "J": 5,
         "V": 0,
         "E": 1,
-        "D": 2,
-        "GP": 8,
-        "GC": 13,
-        "SG": -5,
+        "D": 4,
+        "GP": 9,
+        "GC": 20,
+        "SG": -11,
         "pos": 5
       }
     ],
     "FC26 R284(CHAMPIONS LEAGUE)02.05.2026": [
       {
         "nome": "Liverpool (Conde)",
-        "Pts": 9,
-        "J": 3,
-        "V": 3,
+        "Pts": 18,
+        "J": 6,
+        "V": 6,
         "E": 0,
         "D": 0,
-        "GP": 16,
-        "GC": 10,
-        "SG": 6,
+        "GP": 29,
+        "GC": 18,
+        "SG": 11,
         "pos": 1
       },
       {
-        "nome": "Manchester City (Arthur)",
-        "Pts": 4,
-        "J": 3,
-        "V": 1,
+        "nome": "Barcelona (George)",
+        "Pts": 10,
+        "J": 6,
+        "V": 3,
         "E": 1,
-        "D": 1,
-        "GP": 13,
-        "GC": 11,
+        "D": 2,
+        "GP": 14,
+        "GC": 12,
         "SG": 2,
         "pos": 2
       },
       {
-        "nome": "Barcelona (George)",
-        "Pts": 4,
-        "J": 3,
-        "V": 1,
+        "nome": "Manchester City (Arthur)",
+        "Pts": 7,
+        "J": 5,
+        "V": 2,
         "E": 1,
-        "D": 1,
-        "GP": 9,
-        "GC": 8,
-        "SG": 1,
+        "D": 2,
+        "GP": 19,
+        "GC": 16,
+        "SG": 3,
         "pos": 3
       },
       {
         "nome": "Atletico Madrid (Sebastian)",
         "Pts": 4,
-        "J": 4,
+        "J": 6,
         "V": 1,
         "E": 1,
-        "D": 2,
-        "GP": 9,
-        "GC": 15,
-        "SG": -6,
+        "D": 4,
+        "GP": 13,
+        "GC": 23,
+        "SG": -10,
         "pos": 4
       },
       {
         "nome": "Bayern M. (Kristof)",
         "Pts": 1,
-        "J": 3,
+        "J": 5,
         "V": 0,
         "E": 1,
-        "D": 2,
-        "GP": 10,
-        "GC": 13,
-        "SG": -3,
+        "D": 4,
+        "GP": 17,
+        "GC": 23,
+        "SG": -6,
         "pos": 5
+      }
+    ],
+    "FC26 R285(SERIA A)03.05.2026": [
+      {
+        "nome": "Fiorentina (MisterX)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 5,
+        "GC": 2,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "Napoli (Gael)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 5,
+        "GC": 4,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Milan (Odin)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 4,
+        "GC": 5,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Lazio (Eric)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 2,
+        "GC": 5,
+        "SG": -3,
+        "pos": 4
       }
     ]
   }
