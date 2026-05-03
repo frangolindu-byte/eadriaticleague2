@@ -1,9 +1,9 @@
 {
-  "updated_at": "03/05/2026 19:19:53",
+  "updated_at": "03/05/2026 20:04:21",
   "summary": {
     "total": 300,
-    "finalizados": 274,
-    "agendados": 26,
+    "finalizados": 280,
+    "agendados": 20,
     "ligas": 17
   },
   "jogos": [
@@ -1929,43 +1929,43 @@
       "liga": "FC26 R297(INTERNATIONAL)03.05.2026",
       "p1": "Holland (Maverick)",
       "p2": "Portugal (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-8",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R297(INTERNATIONAL)03.05.2026",
       "p1": "Spain (Donatello)",
       "p2": "Argentina (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R297(INTERNATIONAL)03.05.2026",
       "p1": "Argentina (Noah)",
       "p2": "Portugal (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R297(INTERNATIONAL)03.05.2026",
       "p1": "Spain (Donatello)",
       "p2": "Italy (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R297(INTERNATIONAL)03.05.2026",
       "p1": "Argentina (Noah)",
       "p2": "Holland (Maverick)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R297(INTERNATIONAL)03.05.2026",
       "p1": "Italy (MisterX)",
       "p2": "Portugal (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R297(INTERNATIONAL)03.05.2026",
@@ -2181,8 +2181,8 @@
     },
     "FC26 R297(INTERNATIONAL)03.05.2026": {
       "total": 20,
-      "finalizados": 8,
-      "agendados": 12
+      "finalizados": 14,
+      "agendados": 6
     },
     "FC26 R298(SERIA A)03.05.2026": {
       "total": 8,
@@ -3067,62 +3067,62 @@
     "FC26 R297(INTERNATIONAL)03.05.2026": [
       {
         "nome": "Portugal (Liam)",
-        "Pts": 7,
-        "J": 3,
-        "V": 2,
-        "E": 1,
-        "D": 0,
-        "GP": 12,
-        "GC": 8,
-        "SG": 4,
+        "Pts": 11,
+        "J": 6,
+        "V": 3,
+        "E": 2,
+        "D": 1,
+        "GP": 23,
+        "GC": 18,
+        "SG": 5,
         "pos": 1
       },
       {
-        "nome": "Spain (Donatello)",
-        "Pts": 6,
-        "J": 3,
-        "V": 2,
+        "nome": "Argentina (Noah)",
+        "Pts": 9,
+        "J": 6,
+        "V": 3,
         "E": 0,
-        "D": 1,
-        "GP": 13,
-        "GC": 13,
-        "SG": 0,
+        "D": 3,
+        "GP": 23,
+        "GC": 20,
+        "SG": 3,
         "pos": 2
       },
       {
-        "nome": "Italy (MisterX)",
-        "Pts": 4,
-        "J": 4,
-        "V": 1,
-        "E": 1,
+        "nome": "Spain (Donatello)",
+        "Pts": 9,
+        "J": 5,
+        "V": 3,
+        "E": 0,
         "D": 2,
-        "GP": 13,
-        "GC": 15,
-        "SG": -2,
+        "GP": 20,
+        "GC": 20,
+        "SG": 0,
         "pos": 3
       },
       {
-        "nome": "Argentina (Noah)",
-        "Pts": 3,
-        "J": 3,
-        "V": 1,
-        "E": 0,
+        "nome": "Italy (MisterX)",
+        "Pts": 8,
+        "J": 6,
+        "V": 2,
+        "E": 2,
         "D": 2,
-        "GP": 10,
-        "GC": 10,
-        "SG": 0,
+        "GP": 18,
+        "GC": 19,
+        "SG": -1,
         "pos": 4
       },
       {
         "nome": "Holland (Maverick)",
         "Pts": 3,
-        "J": 3,
+        "J": 5,
         "V": 1,
         "E": 0,
-        "D": 2,
-        "GP": 17,
-        "GC": 19,
-        "SG": -2,
+        "D": 4,
+        "GP": 25,
+        "GC": 32,
+        "SG": -7,
         "pos": 5
       }
     ]
