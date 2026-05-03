@@ -1,9 +1,9 @@
 {
-  "updated_at": "03/05/2026 09:46:24",
+  "updated_at": "03/05/2026 10:40:28",
   "summary": {
     "total": 300,
-    "finalizados": 174,
-    "agendados": 126,
+    "finalizados": 188,
+    "agendados": 112,
     "ligas": 17
   },
   "jogos": [
@@ -1145,29 +1145,29 @@
       "liga": "FC26 R291(SERIA A)03.05.2026",
       "p1": "Juventus (Cleo)",
       "p2": "Lazio (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R291(SERIA A)03.05.2026",
       "p1": "Milan (Andrew)",
       "p2": "Napoli (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R291(SERIA A)03.05.2026",
       "p1": "Fiorentina (Gabriel)",
       "p2": "Lazio (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R291(SERIA A)03.05.2026",
       "p1": "Juventus (Cleo)",
       "p2": "Napoli (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R292(LA LIGA)03.05.2026",
@@ -1257,71 +1257,71 @@
       "liga": "FC26 R292(LA LIGA)03.05.2026",
       "p1": "Atletico Madrid (VanGogh)",
       "p2": "Real Sociedad (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R292(LA LIGA)03.05.2026",
       "p1": "Barcelona (Beckham)",
       "p2": "Sevilla (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R292(LA LIGA)03.05.2026",
       "p1": "Barcelona (Beckham)",
       "p2": "Atletico Madrid (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R292(LA LIGA)03.05.2026",
       "p1": "Real Betis (Nathan)",
       "p2": "Real Sociedad (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R292(LA LIGA)03.05.2026",
       "p1": "Barcelona (Beckham)",
       "p2": "Real Sociedad (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R292(LA LIGA)03.05.2026",
       "p1": "Sevilla (Mateo)",
       "p2": "Real Betis (Nathan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R292(LA LIGA)03.05.2026",
       "p1": "Atletico Madrid (VanGogh)",
       "p2": "Real Betis (Nathan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R292(LA LIGA)03.05.2026",
       "p1": "Sevilla (Mateo)",
       "p2": "Real Sociedad (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R293(INTERNATIONAL)03.05.2026",
       "p1": "Holland (Andrew)",
       "p2": "Norway (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R293(INTERNATIONAL)03.05.2026",
       "p1": "Portugal (Cleo)",
       "p2": "Denmark (Gabriel)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R293(INTERNATIONAL)03.05.2026",
@@ -2151,18 +2151,18 @@
     },
     "FC26 R291(SERIA A)03.05.2026": {
       "total": 20,
-      "finalizados": 16,
-      "agendados": 4
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R292(LA LIGA)03.05.2026": {
       "total": 20,
-      "finalizados": 12,
-      "agendados": 8
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R293(INTERNATIONAL)03.05.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 2,
+      "agendados": 18
     },
     "FC26 R294(CHAMPIONS LEAGUE)03.05.2026": {
       "total": 20,
@@ -2695,125 +2695,175 @@
     "FC26 R291(SERIA A)03.05.2026": [
       {
         "nome": "Lazio (Matrix)",
-        "Pts": 16,
-        "J": 6,
-        "V": 5,
+        "Pts": 19,
+        "J": 8,
+        "V": 6,
         "E": 1,
-        "D": 0,
-        "GP": 26,
-        "GC": 11,
-        "SG": 15,
+        "D": 1,
+        "GP": 33,
+        "GC": 19,
+        "SG": 14,
         "pos": 1
       },
       {
         "nome": "Fiorentina (Gabriel)",
-        "Pts": 15,
-        "J": 7,
-        "V": 5,
+        "Pts": 18,
+        "J": 8,
+        "V": 6,
         "E": 0,
         "D": 2,
-        "GP": 29,
-        "GC": 19,
-        "SG": 10,
+        "GP": 33,
+        "GC": 20,
+        "SG": 13,
         "pos": 2
       },
       {
         "nome": "Napoli (Adriano)",
-        "Pts": 7,
-        "J": 6,
-        "V": 2,
+        "Pts": 10,
+        "J": 8,
+        "V": 3,
         "E": 1,
-        "D": 3,
-        "GP": 18,
-        "GC": 20,
+        "D": 4,
+        "GP": 22,
+        "GC": 24,
         "SG": -2,
         "pos": 3
       },
       {
-        "nome": "Milan (Andrew)",
+        "nome": "Juventus (Cleo)",
         "Pts": 6,
-        "J": 7,
+        "J": 8,
         "V": 2,
         "E": 0,
-        "D": 5,
-        "GP": 18,
-        "GC": 29,
+        "D": 6,
+        "GP": 20,
+        "GC": 31,
         "SG": -11,
         "pos": 4
       },
       {
-        "nome": "Juventus (Cleo)",
-        "Pts": 3,
-        "J": 6,
-        "V": 1,
+        "nome": "Milan (Andrew)",
+        "Pts": 6,
+        "J": 8,
+        "V": 2,
         "E": 0,
-        "D": 5,
-        "GP": 12,
-        "GC": 24,
-        "SG": -12,
+        "D": 6,
+        "GP": 18,
+        "GC": 32,
+        "SG": -14,
         "pos": 5
       }
     ],
     "FC26 R292(LA LIGA)03.05.2026": [
       {
-        "nome": "Real Betis (Nathan)",
-        "Pts": 9,
-        "J": 5,
-        "V": 3,
+        "nome": "Barcelona (Beckham)",
+        "Pts": 15,
+        "J": 8,
+        "V": 5,
         "E": 0,
-        "D": 2,
-        "GP": 14,
-        "GC": 10,
-        "SG": 4,
+        "D": 3,
+        "GP": 30,
+        "GC": 24,
+        "SG": 6,
         "pos": 1
       },
       {
-        "nome": "Barcelona (Beckham)",
-        "Pts": 9,
-        "J": 5,
-        "V": 3,
-        "E": 0,
-        "D": 2,
-        "GP": 16,
-        "GC": 13,
-        "SG": 3,
+        "nome": "Sevilla (Mateo)",
+        "Pts": 13,
+        "J": 8,
+        "V": 4,
+        "E": 1,
+        "D": 3,
+        "GP": 21,
+        "GC": 23,
+        "SG": -2,
         "pos": 2
       },
       {
-        "nome": "Sevilla (Mateo)",
-        "Pts": 9,
-        "J": 5,
+        "nome": "Real Betis (Nathan)",
+        "Pts": 12,
+        "J": 8,
         "V": 3,
-        "E": 0,
+        "E": 3,
         "D": 2,
-        "GP": 14,
-        "GC": 13,
-        "SG": 1,
+        "GP": 24,
+        "GC": 20,
+        "SG": 4,
         "pos": 3
       },
       {
         "nome": "Atletico Madrid (VanGogh)",
-        "Pts": 6,
-        "J": 5,
-        "V": 2,
-        "E": 0,
-        "D": 3,
-        "GP": 8,
-        "GC": 13,
-        "SG": -5,
+        "Pts": 10,
+        "J": 8,
+        "V": 3,
+        "E": 1,
+        "D": 4,
+        "GP": 21,
+        "GC": 24,
+        "SG": -3,
         "pos": 4
       },
       {
         "nome": "Real Sociedad (Alexander)",
+        "Pts": 7,
+        "J": 8,
+        "V": 2,
+        "E": 1,
+        "D": 5,
+        "GP": 23,
+        "GC": 28,
+        "SG": -5,
+        "pos": 5
+      }
+    ],
+    "FC26 R293(INTERNATIONAL)03.05.2026": [
+      {
+        "nome": "Norway (Matrix)",
         "Pts": 3,
-        "J": 4,
+        "J": 1,
         "V": 1,
         "E": 0,
-        "D": 3,
-        "GP": 8,
-        "GC": 11,
+        "D": 0,
+        "GP": 6,
+        "GC": 3,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "Portugal (Cleo)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 2,
+        "GC": 1,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Denmark (Gabriel)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 1,
+        "GC": 2,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Holland (Andrew)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 3,
+        "GC": 6,
         "SG": -3,
-        "pos": 5
+        "pos": 4
       }
     ]
   }
