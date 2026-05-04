@@ -1,9 +1,9 @@
 {
-  "updated_at": "04/05/2026 21:21:55",
+  "updated_at": "04/05/2026 22:31:46",
   "summary": {
     "total": 360,
-    "finalizados": 348,
-    "agendados": 12,
+    "finalizados": 360,
+    "agendados": 0,
     "ligas": 20
   },
   "jogos": [
@@ -2447,85 +2447,85 @@
       "liga": "FC26 R316(INTERNATIONAL)04.05.2026",
       "p1": "Argentina (Cleo)",
       "p2": "Ghana (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R316(INTERNATIONAL)04.05.2026",
       "p1": "Morocco (Eduardo)",
       "p2": "Italy (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R316(INTERNATIONAL)04.05.2026",
       "p1": "Argentina (Cleo)",
       "p2": "Spain (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R316(INTERNATIONAL)04.05.2026",
       "p1": "Ghana (Odin)",
       "p2": "Italy (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R316(INTERNATIONAL)04.05.2026",
       "p1": "Argentina (Cleo)",
       "p2": "Italy (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R316(INTERNATIONAL)04.05.2026",
       "p1": "Spain (Adriano)",
       "p2": "Morocco (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R317(CHAMPIONS LEAGUE)04.05.2026",
       "p1": "Bayern M. (Arthur)",
       "p2": "Atletico Madrid (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R317(CHAMPIONS LEAGUE)04.05.2026",
       "p1": "Manchester City (Eric)",
       "p2": "Barcelona (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R317(CHAMPIONS LEAGUE)04.05.2026",
       "p1": "Bayern M. (Arthur)",
       "p2": "Manchester City (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R317(CHAMPIONS LEAGUE)04.05.2026",
       "p1": "Liverpool (MisterX)",
       "p2": "Atletico Madrid (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R317(CHAMPIONS LEAGUE)04.05.2026",
       "p1": "Atletico Madrid (Dexter)",
       "p2": "Manchester City (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R317(CHAMPIONS LEAGUE)04.05.2026",
       "p1": "Liverpool (MisterX)",
       "p2": "Barcelona (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2621,13 +2621,13 @@
     },
     "FC26 R316(INTERNATIONAL)04.05.2026": {
       "total": 8,
-      "finalizados": 2,
-      "agendados": 6
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R317(CHAMPIONS LEAGUE)04.05.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3749,52 +3749,126 @@
     ],
     "FC26 R316(INTERNATIONAL)04.05.2026": [
       {
-        "nome": "Morocco (Eduardo)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "nome": "Spain (Adriano)",
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
         "E": 0,
         "D": 0,
-        "GP": 3,
-        "GC": 2,
-        "SG": 1,
+        "GP": 10,
+        "GC": 5,
+        "SG": 5,
         "pos": 1
       },
       {
-        "nome": "Spain (Adriano)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "nome": "Ghana (Odin)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
-        "D": 0,
-        "GP": 2,
-        "GC": 1,
-        "SG": 1,
+        "D": 1,
+        "GP": 9,
+        "GC": 4,
+        "SG": 5,
         "pos": 2
       },
       {
-        "nome": "Ghana (Odin)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
+        "nome": "Morocco (Eduardo)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
         "D": 1,
-        "GP": 2,
-        "GC": 3,
-        "SG": -1,
+        "GP": 6,
+        "GC": 5,
+        "SG": 1,
         "pos": 3
+      },
+      {
+        "nome": "Argentina (Cleo)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 8,
+        "GC": 10,
+        "SG": -2,
+        "pos": 4
       },
       {
         "nome": "Italy (Gael)",
         "Pts": 0,
-        "J": 1,
+        "J": 4,
         "V": 0,
         "E": 0,
+        "D": 4,
+        "GP": 4,
+        "GC": 13,
+        "SG": -9,
+        "pos": 5
+      }
+    ],
+    "FC26 R317(CHAMPIONS LEAGUE)04.05.2026": [
+      {
+        "nome": "Liverpool (MisterX)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 7,
+        "GC": 4,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "Bayern M. (Arthur)",
+        "Pts": 4,
+        "J": 2,
+        "V": 1,
+        "E": 1,
+        "D": 0,
+        "GP": 7,
+        "GC": 5,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Manchester City (Eric)",
+        "Pts": 3,
+        "J": 3,
+        "V": 0,
+        "E": 3,
+        "D": 0,
+        "GP": 8,
+        "GC": 8,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Barcelona (Felix)",
+        "Pts": 1,
+        "J": 2,
+        "V": 0,
+        "E": 1,
         "D": 1,
-        "GP": 1,
-        "GC": 2,
-        "SG": -1,
+        "GP": 3,
+        "GC": 5,
+        "SG": -2,
         "pos": 4
+      },
+      {
+        "nome": "Atletico Madrid (Dexter)",
+        "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 8,
+        "GC": 11,
+        "SG": -3,
+        "pos": 5
       }
     ]
   }
