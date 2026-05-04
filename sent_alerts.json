@@ -10720,7 +10720,10 @@
     ],
     "assertividade": 70.6,
     "key": "FC26 R308(CHAMPIONS LEAGUE)04.05.2026|Atletico Madrid (Gabriel)|Manchester City (Leonardo)",
-    "message_id": 1055
+    "message_id": 1055,
+    "result_checked": true,
+    "result_placar": "4-2",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R308(CHAMPIONS LEAGUE)04.05.2026",
@@ -10744,7 +10747,10 @@
     ],
     "assertividade": 70.6,
     "key": "FC26 R308(CHAMPIONS LEAGUE)04.05.2026|Atletico Madrid (Gabriel)|Manchester City (Leonardo)",
-    "message_id": 1056
+    "message_id": 1056,
+    "result_checked": true,
+    "result_placar": "4-2",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R309(SERIA A)04.05.2026",
@@ -10768,7 +10774,10 @@
     ],
     "assertividade": 63.8,
     "key": "FC26 R309(SERIA A)04.05.2026|Atalanta (George)|Napoli (Iron)",
-    "message_id": 1057
+    "message_id": 1057,
+    "result_checked": true,
+    "result_placar": "6-2",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R309(SERIA A)04.05.2026",
@@ -10792,7 +10801,10 @@
     ],
     "assertividade": 63.8,
     "key": "FC26 R309(SERIA A)04.05.2026|Atalanta (George)|Napoli (Iron)",
-    "message_id": 1058
+    "message_id": 1058,
+    "result_checked": true,
+    "result_placar": "6-2",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R310(CHAMPIONS LEAGUE)04.05.2026",
@@ -10817,5 +10829,59 @@
     "assertividade": 75.3,
     "key": "FC26 R310(CHAMPIONS LEAGUE)04.05.2026|Barcelona (Alexis)|Manchester City (Oliver)",
     "message_id": 1059
+  },
+  {
+    "liga": "FC26 R314(INTERNATIONAL)04.05.2026",
+    "p1": "Italy (Alexis)",
+    "p2": "Argentina (Matrix)",
+    "w1": 64.7,
+    "w2": 25.0,
+    "j1": 17,
+    "j2": 24,
+    "o65": 61.5,
+    "btts": 92.9,
+    "avg_g": 7.215,
+    "f1": "D-W-L-W-W",
+    "f2": "D-D-L-L-L",
+    "fav": "Italy (Alexis)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 62%",
+      "BTTS: 93%",
+      "Vitoria Italy (Alexis) (WR 65%)"
+    ],
+    "assertividade": 70.5,
+    "key": "FC26 R314(INTERNATIONAL)04.05.2026|Argentina (Matrix)|Italy (Alexis)",
+    "message_id": 1060,
+    "result_checked": true,
+    "result_placar": "3-5",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R314(INTERNATIONAL)04.05.2026",
+    "p1": "Argentina (Matrix)",
+    "p2": "Italy (Alexis)",
+    "w1": 25.0,
+    "w2": 64.7,
+    "j1": 24,
+    "j2": 17,
+    "o65": 61.5,
+    "btts": 92.9,
+    "avg_g": 7.215,
+    "f1": "D-D-L-L-L",
+    "f2": "D-W-L-W-W",
+    "fav": "Italy (Alexis)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 62%",
+      "BTTS: 93%",
+      "Vitoria Italy (Alexis) (WR 65%)"
+    ],
+    "assertividade": 70.5,
+    "key": "FC26 R314(INTERNATIONAL)04.05.2026|Argentina (Matrix)|Italy (Alexis)",
+    "message_id": 1061,
+    "result_checked": true,
+    "result_placar": "3-5",
+    "result_status": "bateu"
   }
 ]
