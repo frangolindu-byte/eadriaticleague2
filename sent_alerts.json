@@ -11017,7 +11017,10 @@
     ],
     "assertividade": 66.3,
     "key": "FC26 R333(LA LIGA)05.05.2026|Barcelona (Haidan)|Real Betis (MisterX)",
-    "message_id": 1066
+    "message_id": 1066,
+    "result_checked": true,
+    "result_placar": "2-3",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R333(LA LIGA)05.05.2026",
@@ -11041,7 +11044,10 @@
     ],
     "assertividade": 66.3,
     "key": "FC26 R333(LA LIGA)05.05.2026|Barcelona (Haidan)|Real Betis (MisterX)",
-    "message_id": 1067
+    "message_id": 1067,
+    "result_checked": true,
+    "result_placar": "2-3",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R333(LA LIGA)05.05.2026",
@@ -11065,7 +11071,10 @@
     ],
     "assertividade": 66.3,
     "key": "FC26 R333(LA LIGA)05.05.2026|Barcelona (Haidan)|Real Betis (MisterX)",
-    "message_id": 1068
+    "message_id": 1068,
+    "result_checked": true,
+    "result_placar": "2-3",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R333(LA LIGA)05.05.2026",
@@ -11089,7 +11098,10 @@
     ],
     "assertividade": 66.3,
     "key": "FC26 R333(LA LIGA)05.05.2026|Barcelona (Haidan)|Real Betis (MisterX)",
-    "message_id": 1069
+    "message_id": 1069,
+    "result_checked": true,
+    "result_placar": "2-3",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R322(CHAMPIONS LEAGUE)05.05.2026",
@@ -11143,6 +11155,87 @@
     "message_id": 1071,
     "result_checked": true,
     "result_placar": "4-5",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R326(INTERNATIONAL)05.05.2026",
+    "p1": "France (Oliver)",
+    "p2": "Portugal (Maverick)",
+    "w1": 12.5,
+    "w2": 45.2,
+    "j1": 8,
+    "j2": 31,
+    "o65": 57.25,
+    "btts": 96.75,
+    "avg_g": 7.26,
+    "f1": "L-L-L-L-L",
+    "f2": "L-D-W-L-L",
+    "fav": "Portugal (Maverick)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 57%",
+      "BTTS: 97%",
+      "Vitoria Portugal (Maverick) (WR 45%)"
+    ],
+    "assertividade": 62.9,
+    "key": "FC26 R326(INTERNATIONAL)05.05.2026|France (Oliver)|Portugal (Maverick)",
+    "message_id": 1072,
+    "result_checked": true,
+    "result_placar": "7-3",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R326(INTERNATIONAL)05.05.2026",
+    "p1": "Norway (Panther)",
+    "p2": "France (Oliver)",
+    "w1": 56.5,
+    "w2": 12.5,
+    "j1": 23,
+    "j2": 8,
+    "o65": 51.1,
+    "btts": 100.0,
+    "avg_g": 6.739999999999999,
+    "f1": "L-D-D-W-W",
+    "f2": "L-L-L-L-L",
+    "fav": "Norway (Panther)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 51%",
+      "BTTS: 100%",
+      "Vitoria Norway (Panther) (WR 56%)"
+    ],
+    "assertividade": 65.2,
+    "key": "FC26 R326(INTERNATIONAL)05.05.2026|France (Oliver)|Norway (Panther)",
+    "message_id": 1073,
+    "result_checked": true,
+    "result_placar": "2-5",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R326(INTERNATIONAL)05.05.2026",
+    "p1": "Portugal (Maverick)",
+    "p2": "France (Oliver)",
+    "w1": 45.2,
+    "w2": 12.5,
+    "j1": 31,
+    "j2": 8,
+    "o65": 57.25,
+    "btts": 96.75,
+    "avg_g": 7.260000000000001,
+    "f1": "L-D-W-L-L",
+    "f2": "L-L-L-L-L",
+    "fav": "Portugal (Maverick)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 57%",
+      "BTTS: 97%",
+      "Vitoria Portugal (Maverick) (WR 45%)"
+    ],
+    "assertividade": 62.9,
+    "key": "FC26 R326(INTERNATIONAL)05.05.2026|France (Oliver)|Portugal (Maverick)",
+    "message_id": 1074,
+    "result_checked": true,
+    "result_placar": "7-3",
     "result_status": "errou"
   }
 ]
