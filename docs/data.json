@@ -1,9 +1,9 @@
 {
-  "updated_at": "06/05/2026 21:42:23",
+  "updated_at": "06/05/2026 22:33:02",
   "summary": {
     "total": 466,
-    "finalizados": 458,
-    "agendados": 8,
+    "finalizados": 466,
+    "agendados": 0,
     "ligas": 21
   },
   "jogos": [
@@ -3203,29 +3203,29 @@
       "liga": "FC26 R352(CHAMPIONS LEAGUE)06.05.2026",
       "p1": "Bayern M. (Eric)",
       "p2": "Barcelona (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R352(CHAMPIONS LEAGUE)06.05.2026",
       "p1": "Manchester City (Dexter)",
       "p2": "Real Madrid (Luigi)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R352(CHAMPIONS LEAGUE)06.05.2026",
       "p1": "Barcelona (Adriano)",
       "p2": "Bayer Leverkusen (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R352(CHAMPIONS LEAGUE)06.05.2026",
       "p1": "Bayern M. (Eric)",
       "p2": "Real Madrid (Luigi)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R353(INTERNATIONAL)06.05.2026",
@@ -3245,29 +3245,29 @@
       "liga": "FC26 R353(INTERNATIONAL)06.05.2026",
       "p1": "Argentina (Felix)",
       "p2": "France (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R353(INTERNATIONAL)06.05.2026",
       "p1": "Holland (Nathan)",
       "p2": "Denmark (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R353(INTERNATIONAL)06.05.2026",
       "p1": "Denmark (Iron)",
       "p2": "France (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R353(INTERNATIONAL)06.05.2026",
       "p1": "Holland (Nathan)",
       "p2": "Spain (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-6",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -3368,13 +3368,13 @@
     },
     "FC26 R352(CHAMPIONS LEAGUE)06.05.2026": {
       "total": 8,
-      "finalizados": 4,
-      "agendados": 4
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R353(INTERNATIONAL)06.05.2026": {
       "total": 6,
-      "finalizados": 2,
-      "agendados": 4
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -4619,113 +4619,125 @@
     "FC26 R352(CHAMPIONS LEAGUE)06.05.2026": [
       {
         "nome": "Bayer Leverkusen (Odin)",
-        "Pts": 4,
-        "J": 2,
-        "V": 1,
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
         "E": 1,
         "D": 0,
-        "GP": 8,
+        "GP": 9,
         "GC": 6,
-        "SG": 2,
+        "SG": 3,
         "pos": 1
       },
       {
-        "nome": "Manchester City (Dexter)",
+        "nome": "Barcelona (Adriano)",
         "Pts": 4,
-        "J": 2,
+        "J": 3,
         "V": 1,
         "E": 1,
-        "D": 0,
-        "GP": 6,
-        "GC": 5,
+        "D": 1,
+        "GP": 8,
+        "GC": 7,
         "SG": 1,
         "pos": 2
       },
       {
-        "nome": "Barcelona (Adriano)",
-        "Pts": 3,
-        "J": 1,
+        "nome": "Bayern M. (Eric)",
+        "Pts": 4,
+        "J": 3,
         "V": 1,
-        "E": 0,
-        "D": 0,
-        "GP": 5,
-        "GC": 3,
-        "SG": 2,
+        "E": 1,
+        "D": 1,
+        "GP": 8,
+        "GC": 7,
+        "SG": 1,
         "pos": 3
       },
       {
-        "nome": "Bayern M. (Eric)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
-        "E": 0,
+        "nome": "Manchester City (Dexter)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
         "D": 1,
-        "GP": 1,
-        "GC": 2,
-        "SG": -1,
+        "GP": 9,
+        "GC": 9,
+        "SG": 0,
         "pos": 4
       },
       {
         "nome": "Real Madrid (Luigi)",
-        "Pts": 0,
-        "J": 2,
-        "V": 0,
+        "Pts": 3,
+        "J": 4,
+        "V": 1,
         "E": 0,
-        "D": 2,
-        "GP": 5,
-        "GC": 9,
-        "SG": -4,
+        "D": 3,
+        "GP": 11,
+        "GC": 16,
+        "SG": -5,
         "pos": 5
       }
     ],
     "FC26 R353(INTERNATIONAL)06.05.2026": [
       {
         "nome": "Spain (Arthur)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
         "E": 0,
         "D": 0,
-        "GP": 6,
-        "GC": 4,
-        "SG": 2,
+        "GP": 12,
+        "GC": 7,
+        "SG": 5,
         "pos": 1
       },
       {
         "nome": "Denmark (Iron)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
-        "D": 0,
-        "GP": 4,
-        "GC": 2,
-        "SG": 2,
+        "D": 1,
+        "GP": 8,
+        "GC": 8,
+        "SG": 0,
         "pos": 2
       },
       {
         "nome": "France (Sebastian)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
-        "E": 0,
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
         "D": 1,
-        "GP": 4,
-        "GC": 6,
-        "SG": -2,
+        "GP": 9,
+        "GC": 8,
+        "SG": 1,
         "pos": 3
       },
       {
         "nome": "Argentina (Felix)",
-        "Pts": 0,
-        "J": 1,
+        "Pts": 1,
+        "J": 2,
         "V": 0,
-        "E": 0,
+        "E": 1,
         "D": 1,
-        "GP": 2,
-        "GC": 4,
+        "GP": 4,
+        "GC": 6,
         "SG": -2,
         "pos": 4
+      },
+      {
+        "nome": "Holland (Nathan)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 6,
+        "GC": 10,
+        "SG": -4,
+        "pos": 5
       }
     ]
   }
