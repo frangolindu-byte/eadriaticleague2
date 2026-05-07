@@ -11529,7 +11529,10 @@
     ],
     "assertividade": 67.2,
     "key": "FC26 R357(SERIA A)07.05.2026|Juventus (Arthur)|Napoli (Felix)",
-    "message_id": 1085
+    "message_id": 1085,
+    "result_checked": true,
+    "result_placar": "4-2",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R357(SERIA A)07.05.2026",
@@ -11552,7 +11555,10 @@
     ],
     "assertividade": 67.2,
     "key": "FC26 R357(SERIA A)07.05.2026|Juventus (Arthur)|Napoli (Felix)",
-    "message_id": 1086
+    "message_id": 1086,
+    "result_checked": true,
+    "result_placar": "4-2",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R365(INTERNATIONAL)07.05.2026",
@@ -11623,6 +11629,36 @@
     ],
     "assertividade": 67.2,
     "key": "FC26 R357(SERIA A)07.05.2026|Juventus (Arthur)|Napoli (Felix)",
-    "message_id": 1089
+    "message_id": 1089,
+    "result_checked": true,
+    "result_placar": "4-2",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R360(SERIA A)07.05.2026",
+    "p1": "Lazio (Gabriel)",
+    "p2": "Inter (Maverick)",
+    "w1": 75.0,
+    "w2": 27.8,
+    "j1": 40,
+    "j2": 18,
+    "o65": 56.1,
+    "btts": 94.7,
+    "avg_g": 7.24,
+    "f1": "W-W-W-W-L",
+    "f2": "L-L-L-L-L",
+    "fav": "Lazio (Gabriel)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 56%",
+      "BTTS: 95%",
+      "Vitoria Lazio (Gabriel) (WR 75%)"
+    ],
+    "assertividade": 72.4,
+    "key": "FC26 R360(SERIA A)07.05.2026|Inter (Maverick)|Lazio (Gabriel)",
+    "message_id": 1090,
+    "result_checked": true,
+    "result_placar": "4-7",
+    "result_status": "bateu"
   }
 ]
