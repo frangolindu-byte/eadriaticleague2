@@ -11770,7 +11770,10 @@
     ],
     "assertividade": 83.2,
     "key": "FC26 R380(INTERNATIONAL)08.05.2026|France (Liam)|Holland (Leonardo)",
-    "message_id": 1094
+    "message_id": 1094,
+    "result_checked": true,
+    "result_placar": "3-2",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R380(INTERNATIONAL)08.05.2026",
@@ -11794,7 +11797,10 @@
     ],
     "assertividade": 83.2,
     "key": "FC26 R380(INTERNATIONAL)08.05.2026|France (Liam)|Holland (Leonardo)",
-    "message_id": 1095
+    "message_id": 1095,
+    "result_checked": true,
+    "result_placar": "3-2",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R380(INTERNATIONAL)08.05.2026",
@@ -11818,7 +11824,10 @@
     ],
     "assertividade": 83.2,
     "key": "FC26 R380(INTERNATIONAL)08.05.2026|France (Liam)|Holland (Leonardo)",
-    "message_id": 1096
+    "message_id": 1096,
+    "result_checked": true,
+    "result_placar": "3-2",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R380(INTERNATIONAL)08.05.2026",
@@ -11842,7 +11851,10 @@
     ],
     "assertividade": 83.2,
     "key": "FC26 R380(INTERNATIONAL)08.05.2026|France (Liam)|Holland (Leonardo)",
-    "message_id": 1097
+    "message_id": 1097,
+    "result_checked": true,
+    "result_placar": "3-2",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R380(INTERNATIONAL)08.05.2026",
@@ -11870,5 +11882,86 @@
     "result_checked": true,
     "result_placar": "6-4",
     "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R380(INTERNATIONAL)08.05.2026",
+    "p1": "Norway (Matrix)",
+    "p2": "France (Liam)",
+    "w1": 46.2,
+    "w2": 76.9,
+    "j1": 52,
+    "j2": 13,
+    "o65": 63.45,
+    "btts": 93.25,
+    "avg_g": 6.925000000000001,
+    "f1": "W-W-W-W-D",
+    "f2": "W-L-W-L-W",
+    "fav": "France (Liam)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 63%",
+      "BTTS: 93%",
+      "Vitoria France (Liam) (WR 77%)"
+    ],
+    "assertividade": 75.6,
+    "key": "FC26 R380(INTERNATIONAL)08.05.2026|France (Liam)|Norway (Matrix)",
+    "message_id": 1099,
+    "result_checked": true,
+    "result_placar": "5-3",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R380(INTERNATIONAL)08.05.2026",
+    "p1": "France (Liam)",
+    "p2": "Portugal (Flash)",
+    "w1": 76.9,
+    "w2": 40.0,
+    "j1": 13,
+    "j2": 5,
+    "o65": 68.45,
+    "btts": 96.15,
+    "avg_g": 7.155,
+    "f1": "W-L-W-L-W",
+    "f2": "L-L-W-W-L",
+    "fav": "France (Liam)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 68%",
+      "BTTS: 96%",
+      "Vitoria France (Liam) (WR 77%)"
+    ],
+    "assertividade": 78.3,
+    "key": "FC26 R380(INTERNATIONAL)08.05.2026|France (Liam)|Portugal (Flash)",
+    "message_id": 1100,
+    "result_checked": true,
+    "result_placar": "3-4",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R380(INTERNATIONAL)08.05.2026",
+    "p1": "France (Liam)",
+    "p2": "Norway (Matrix)",
+    "w1": 76.9,
+    "w2": 46.2,
+    "j1": 13,
+    "j2": 52,
+    "o65": 63.45,
+    "btts": 93.25,
+    "avg_g": 6.925,
+    "f1": "W-L-W-L-W",
+    "f2": "W-W-W-W-D",
+    "fav": "France (Liam)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 63%",
+      "BTTS: 93%",
+      "Vitoria France (Liam) (WR 77%)"
+    ],
+    "assertividade": 75.6,
+    "key": "FC26 R380(INTERNATIONAL)08.05.2026|France (Liam)|Norway (Matrix)",
+    "message_id": 1101,
+    "result_checked": true,
+    "result_placar": "5-3",
+    "result_status": "bateu"
   }
 ]
