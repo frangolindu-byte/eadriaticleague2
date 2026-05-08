@@ -1,9 +1,9 @@
 {
-  "updated_at": "08/05/2026 20:15:37",
+  "updated_at": "08/05/2026 21:19:15",
   "summary": {
     "total": 360,
-    "finalizados": 334,
-    "agendados": 26,
+    "finalizados": 348,
+    "agendados": 12,
     "ligas": 20
   },
   "jogos": [
@@ -2265,29 +2265,29 @@
       "liga": "FC26 R386(LA LIGA)08.05.2026",
       "p1": "Barcelona (Cleo)",
       "p2": "Athletic Bilbao (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R386(LA LIGA)08.05.2026",
       "p1": "Sevilla (Bruno)",
       "p2": "Real Betis (Maverick)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-8",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R386(LA LIGA)08.05.2026",
       "p1": "Sevilla (Bruno)",
       "p2": "Athletic Bilbao (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R386(LA LIGA)08.05.2026",
       "p1": "Villarreal (Andrew)",
       "p2": "Real Betis (Maverick)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R387(CHAMPIONS LEAGUE)08.05.2026",
@@ -2377,71 +2377,71 @@
       "liga": "FC26 R387(CHAMPIONS LEAGUE)08.05.2026",
       "p1": "Atletico Madrid (Oliver)",
       "p2": "Bayern M. (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R387(CHAMPIONS LEAGUE)08.05.2026",
       "p1": "Real Madrid (Kai)",
       "p2": "PSG (Beckham)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R387(CHAMPIONS LEAGUE)08.05.2026",
       "p1": "Liverpool (Pascal)",
       "p2": "Bayern M. (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R387(CHAMPIONS LEAGUE)08.05.2026",
       "p1": "Real Madrid (Kai)",
       "p2": "Atletico Madrid (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R387(CHAMPIONS LEAGUE)08.05.2026",
       "p1": "PSG (Beckham)",
       "p2": "Liverpool (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R387(CHAMPIONS LEAGUE)08.05.2026",
       "p1": "Real Madrid (Kai)",
       "p2": "Bayern M. (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R387(CHAMPIONS LEAGUE)08.05.2026",
       "p1": "Atletico Madrid (Oliver)",
       "p2": "Liverpool (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R387(CHAMPIONS LEAGUE)08.05.2026",
       "p1": "PSG (Beckham)",
       "p2": "Bayern M. (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R388(CHAMPIONS LEAGUE)08.05.2026",
       "p1": "Liverpool (Eric)",
       "p2": "Bayern M. (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R388(CHAMPIONS LEAGUE)08.05.2026",
       "p1": "Real Madrid (Dexter)",
       "p2": "Atletico Madrid (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R388(CHAMPIONS LEAGUE)08.05.2026",
@@ -2611,18 +2611,18 @@
     },
     "FC26 R386(LA LIGA)08.05.2026": {
       "total": 20,
-      "finalizados": 16,
-      "agendados": 4
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R387(CHAMPIONS LEAGUE)08.05.2026": {
       "total": 20,
-      "finalizados": 12,
-      "agendados": 8
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R388(CHAMPIONS LEAGUE)08.05.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 2,
+      "agendados": 6
     },
     "FC26 R389(INTERNATIONAL)08.05.2026": {
       "total": 6,
@@ -3626,125 +3626,175 @@
     "FC26 R386(LA LIGA)08.05.2026": [
       {
         "nome": "Athletic Bilbao (Alexis)",
-        "Pts": 16,
-        "J": 6,
-        "V": 5,
-        "E": 1,
+        "Pts": 20,
+        "J": 8,
+        "V": 6,
+        "E": 2,
         "D": 0,
-        "GP": 25,
-        "GC": 15,
-        "SG": 10,
+        "GP": 32,
+        "GC": 19,
+        "SG": 13,
         "pos": 1
       },
       {
         "nome": "Sevilla (Bruno)",
-        "Pts": 11,
-        "J": 6,
+        "Pts": 12,
+        "J": 8,
         "V": 3,
-        "E": 2,
-        "D": 1,
-        "GP": 20,
-        "GC": 17,
-        "SG": 3,
+        "E": 3,
+        "D": 2,
+        "GP": 27,
+        "GC": 28,
+        "SG": -1,
         "pos": 2
+      },
+      {
+        "nome": "Real Betis (Maverick)",
+        "Pts": 10,
+        "J": 8,
+        "V": 2,
+        "E": 4,
+        "D": 2,
+        "GP": 28,
+        "GC": 27,
+        "SG": 1,
+        "pos": 3
       },
       {
         "nome": "Barcelona (Cleo)",
         "Pts": 7,
-        "J": 7,
+        "J": 8,
         "V": 2,
         "E": 1,
-        "D": 4,
-        "GP": 16,
-        "GC": 17,
-        "SG": -1,
-        "pos": 3
-      },
-      {
-        "nome": "Real Betis (Maverick)",
-        "Pts": 6,
-        "J": 6,
-        "V": 1,
-        "E": 3,
-        "D": 2,
-        "GP": 18,
+        "D": 5,
+        "GP": 17,
         "GC": 21,
-        "SG": -3,
+        "SG": -4,
         "pos": 4
       },
       {
         "nome": "Villarreal (Andrew)",
-        "Pts": 4,
-        "J": 7,
+        "Pts": 5,
+        "J": 8,
         "V": 1,
-        "E": 1,
+        "E": 2,
         "D": 5,
-        "GP": 14,
-        "GC": 23,
+        "GP": 16,
+        "GC": 25,
         "SG": -9,
         "pos": 5
       }
     ],
     "FC26 R387(CHAMPIONS LEAGUE)08.05.2026": [
       {
-        "nome": "PSG (Beckham)",
-        "Pts": 10,
-        "J": 5,
-        "V": 3,
+        "nome": "Bayern M. (Logan)",
+        "Pts": 13,
+        "J": 8,
+        "V": 4,
         "E": 1,
-        "D": 1,
-        "GP": 24,
-        "GC": 20,
-        "SG": 4,
+        "D": 3,
+        "GP": 26,
+        "GC": 21,
+        "SG": 5,
         "pos": 1
       },
       {
-        "nome": "Atletico Madrid (Oliver)",
-        "Pts": 10,
-        "J": 5,
-        "V": 3,
+        "nome": "PSG (Beckham)",
+        "Pts": 13,
+        "J": 8,
+        "V": 4,
         "E": 1,
-        "D": 1,
-        "GP": 22,
-        "GC": 18,
-        "SG": 4,
+        "D": 3,
+        "GP": 30,
+        "GC": 30,
+        "SG": 0,
         "pos": 2
       },
       {
-        "nome": "Bayern M. (Logan)",
-        "Pts": 7,
-        "J": 4,
-        "V": 2,
+        "nome": "Atletico Madrid (Oliver)",
+        "Pts": 13,
+        "J": 8,
+        "V": 4,
         "E": 1,
-        "D": 1,
-        "GP": 15,
-        "GC": 12,
-        "SG": 3,
+        "D": 3,
+        "GP": 31,
+        "GC": 32,
+        "SG": -1,
         "pos": 3
       },
       {
         "nome": "Liverpool (Pascal)",
-        "Pts": 4,
-        "J": 5,
-        "V": 1,
+        "Pts": 10,
+        "J": 8,
+        "V": 3,
         "E": 1,
-        "D": 3,
-        "GP": 15,
-        "GC": 20,
-        "SG": -5,
+        "D": 4,
+        "GP": 29,
+        "GC": 29,
+        "SG": 0,
         "pos": 4
       },
       {
         "nome": "Real Madrid (Kai)",
-        "Pts": 2,
-        "J": 5,
-        "V": 0,
+        "Pts": 8,
+        "J": 8,
+        "V": 2,
         "E": 2,
-        "D": 3,
-        "GP": 10,
-        "GC": 16,
-        "SG": -6,
+        "D": 4,
+        "GP": 21,
+        "GC": 25,
+        "SG": -4,
         "pos": 5
+      }
+    ],
+    "FC26 R388(CHAMPIONS LEAGUE)08.05.2026": [
+      {
+        "nome": "Liverpool (Eric)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 4,
+        "GC": 2,
+        "SG": 2,
+        "pos": 1
+      },
+      {
+        "nome": "Atletico Madrid (Odin)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 3,
+        "GC": 2,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Real Madrid (Dexter)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 2,
+        "GC": 3,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Bayern M. (Mateo)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 2,
+        "GC": 4,
+        "SG": -2,
+        "pos": 4
       }
     ]
   }
