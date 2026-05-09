@@ -12202,7 +12202,10 @@
     ],
     "assertividade": 70.8,
     "key": "FC26 R397(SERIA A)09.05.2026|Juventus (Haidan)|Lazio (MisterX)",
-    "message_id": 1110
+    "message_id": 1110,
+    "result_checked": true,
+    "result_placar": "4-7",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R397(SERIA A)09.05.2026",
@@ -12226,7 +12229,10 @@
     ],
     "assertividade": 70.8,
     "key": "FC26 R397(SERIA A)09.05.2026|Juventus (Haidan)|Lazio (MisterX)",
-    "message_id": 1111
+    "message_id": 1111,
+    "result_checked": true,
+    "result_placar": "4-7",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R397(SERIA A)09.05.2026",
@@ -12250,7 +12256,10 @@
     ],
     "assertividade": 70.8,
     "key": "FC26 R397(SERIA A)09.05.2026|Juventus (Haidan)|Lazio (MisterX)",
-    "message_id": 1112
+    "message_id": 1112,
+    "result_checked": true,
+    "result_placar": "4-7",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R397(SERIA A)09.05.2026",
@@ -12274,7 +12283,10 @@
     ],
     "assertividade": 70.8,
     "key": "FC26 R397(SERIA A)09.05.2026|Juventus (Haidan)|Lazio (MisterX)",
-    "message_id": 1113
+    "message_id": 1113,
+    "result_checked": true,
+    "result_placar": "4-7",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R397(SERIA A)09.05.2026",
@@ -12298,7 +12310,10 @@
     ],
     "assertividade": 67.1,
     "key": "FC26 R397(SERIA A)09.05.2026|Juventus (Haidan)|Napoli (VanGogh)",
-    "message_id": 1114
+    "message_id": 1114,
+    "result_checked": true,
+    "result_placar": "2-4",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R391(COPA LIBERTADORES)09.05.2026",
@@ -12326,5 +12341,140 @@
     "result_checked": true,
     "result_placar": "3-6",
     "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R397(SERIA A)09.05.2026",
+    "p1": "Inter (Pascal)",
+    "p2": "Napoli (VanGogh)",
+    "w1": 0.0,
+    "w2": 47.6,
+    "j1": 5,
+    "j2": 21,
+    "o65": 78.55,
+    "btts": 97.6,
+    "avg_g": 8.530000000000001,
+    "f1": "L-L-L-L-L",
+    "f2": "W-W-L-L-W",
+    "fav": "Napoli (VanGogh)",
+    "score": 95,
+    "reasons": [
+      "Over 6.5: 79%",
+      "BTTS: 98%",
+      "Vitoria Napoli (VanGogh) (WR 48%)"
+    ],
+    "assertividade": 72.5,
+    "key": "FC26 R397(SERIA A)09.05.2026|Inter (Pascal)|Napoli (VanGogh)",
+    "message_id": 1116,
+    "result_checked": true,
+    "result_placar": "6-3",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R397(SERIA A)09.05.2026",
+    "p1": "Inter (Pascal)",
+    "p2": "Milan (Beckham)",
+    "w1": 0.0,
+    "w2": 30.8,
+    "j1": 5,
+    "j2": 13,
+    "o65": 88.45,
+    "btts": 96.15,
+    "avg_g": 9.135000000000002,
+    "f1": "L-L-L-L-L",
+    "f2": "L-W-W-L-L",
+    "fav": "Milan (Beckham)",
+    "score": 95,
+    "reasons": [
+      "Over 6.5: 88%",
+      "BTTS: 96%",
+      "Vitoria Milan (Beckham) (WR 31%)"
+    ],
+    "assertividade": 70.2,
+    "key": "FC26 R397(SERIA A)09.05.2026|Inter (Pascal)|Milan (Beckham)",
+    "message_id": 1117,
+    "result_checked": true,
+    "result_placar": "4-7",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R397(SERIA A)09.05.2026",
+    "p1": "Lazio (MisterX)",
+    "p2": "Inter (Pascal)",
+    "w1": 57.1,
+    "w2": 0.0,
+    "j1": 21,
+    "j2": 5,
+    "o65": 85.7,
+    "btts": 97.6,
+    "avg_g": 9.025,
+    "f1": "W-W-W-W-W",
+    "f2": "L-L-L-L-L",
+    "fav": "Lazio (MisterX)",
+    "score": 95,
+    "reasons": [
+      "Over 6.5: 86%",
+      "BTTS: 98%",
+      "Vitoria Lazio (MisterX) (WR 57%)"
+    ],
+    "assertividade": 78.7,
+    "key": "FC26 R397(SERIA A)09.05.2026|Inter (Pascal)|Lazio (MisterX)",
+    "message_id": 1118,
+    "result_checked": true,
+    "result_placar": "7-5",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R397(SERIA A)09.05.2026",
+    "p1": "Napoli (VanGogh)",
+    "p2": "Inter (Pascal)",
+    "w1": 47.6,
+    "w2": 0.0,
+    "j1": 21,
+    "j2": 5,
+    "o65": 78.55,
+    "btts": 97.6,
+    "avg_g": 8.530000000000001,
+    "f1": "W-W-L-L-W",
+    "f2": "L-L-L-L-L",
+    "fav": "Napoli (VanGogh)",
+    "score": 95,
+    "reasons": [
+      "Over 6.5: 79%",
+      "BTTS: 98%",
+      "Vitoria Napoli (VanGogh) (WR 48%)"
+    ],
+    "assertividade": 72.5,
+    "key": "FC26 R397(SERIA A)09.05.2026|Inter (Pascal)|Napoli (VanGogh)",
+    "message_id": 1119,
+    "result_checked": true,
+    "result_placar": "6-3",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R397(SERIA A)09.05.2026",
+    "p1": "Milan (Beckham)",
+    "p2": "Inter (Pascal)",
+    "w1": 30.8,
+    "w2": 0.0,
+    "j1": 13,
+    "j2": 5,
+    "o65": 88.45,
+    "btts": 96.15,
+    "avg_g": 9.135000000000002,
+    "f1": "L-W-W-L-L",
+    "f2": "L-L-L-L-L",
+    "fav": "Milan (Beckham)",
+    "score": 95,
+    "reasons": [
+      "Over 6.5: 88%",
+      "BTTS: 96%",
+      "Vitoria Milan (Beckham) (WR 31%)"
+    ],
+    "assertividade": 70.2,
+    "key": "FC26 R397(SERIA A)09.05.2026|Inter (Pascal)|Milan (Beckham)",
+    "message_id": 1120,
+    "result_checked": true,
+    "result_placar": "4-7",
+    "result_status": "bateu"
   }
 ]
