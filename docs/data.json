@@ -1,9 +1,9 @@
 {
-  "updated_at": "08/05/2026 23:14:28",
+  "updated_at": "09/05/2026 00:13:54",
   "summary": {
     "total": 300,
-    "finalizados": 18,
-    "agendados": 282,
+    "finalizados": 28,
+    "agendados": 272,
     "ligas": 17
   },
   "jogos": [
@@ -81,15 +81,15 @@
       "liga": "FC26 R388(CHAMPIONS LEAGUE)08.05.2026",
       "p1": "Bayern M. (Mateo)",
       "p2": "Atletico Madrid (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R388(CHAMPIONS LEAGUE)08.05.2026",
       "p1": "Liverpool (Eric)",
       "p2": "Manchester City (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R389(INTERNATIONAL)08.05.2026",
@@ -151,57 +151,57 @@
       "liga": "FC26 R389(INTERNATIONAL)08.05.2026",
       "p1": "France (Sebastian)",
       "p2": "Holland (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R389(INTERNATIONAL)08.05.2026",
       "p1": "Portugal (Kristof)",
       "p2": "Italy (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R389(INTERNATIONAL)08.05.2026",
       "p1": "France (Sebastian)",
       "p2": "Italy (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R389(INTERNATIONAL)08.05.2026",
       "p1": "Spain (Arthur)",
       "p2": "Portugal (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R389(INTERNATIONAL)08.05.2026",
       "p1": "Holland (Alexander)",
       "p2": "Portugal (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R389(INTERNATIONAL)08.05.2026",
       "p1": "Spain (Arthur)",
       "p2": "Italy (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R390(PREMIER LEAGUE)09.05.2026",
       "p1": "Arsenal (Eric)",
       "p2": "Liverpool (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R390(PREMIER LEAGUE)09.05.2026",
       "p1": "Manchester City (Dexter)",
       "p2": "Chelsea (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R390(PREMIER LEAGUE)09.05.2026",
@@ -2111,18 +2111,18 @@
   "resumo": {
     "FC26 R388(CHAMPIONS LEAGUE)08.05.2026": {
       "total": 12,
-      "finalizados": 10,
-      "agendados": 2
+      "finalizados": 12,
+      "agendados": 0
     },
     "FC26 R389(INTERNATIONAL)08.05.2026": {
       "total": 14,
-      "finalizados": 8,
-      "agendados": 6
+      "finalizados": 14,
+      "agendados": 0
     },
     "FC26 R390(PREMIER LEAGUE)09.05.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 2,
+      "agendados": 18
     },
     "FC26 R391(COPA LIBERTADORES)09.05.2026": {
       "total": 20,
@@ -2200,38 +2200,50 @@
       {
         "nome": "Manchester City (Adriano)",
         "Pts": 10,
-        "J": 4,
+        "J": 5,
         "V": 3,
         "E": 1,
-        "D": 0,
-        "GP": 10,
-        "GC": 7,
-        "SG": 3,
+        "D": 1,
+        "GP": 12,
+        "GC": 12,
+        "SG": 0,
         "pos": 1
+      },
+      {
+        "nome": "Atletico Madrid (Odin)",
+        "Pts": 8,
+        "J": 5,
+        "V": 2,
+        "E": 2,
+        "D": 1,
+        "GP": 15,
+        "GC": 10,
+        "SG": 5,
+        "pos": 2
+      },
+      {
+        "nome": "Liverpool (Eric)",
+        "Pts": 6,
+        "J": 5,
+        "V": 2,
+        "E": 0,
+        "D": 3,
+        "GP": 13,
+        "GC": 15,
+        "SG": -2,
+        "pos": 3
       },
       {
         "nome": "Bayern M. (Mateo)",
         "Pts": 5,
-        "J": 4,
+        "J": 5,
         "V": 1,
         "E": 2,
-        "D": 1,
-        "GP": 11,
-        "GC": 9,
-        "SG": 2,
-        "pos": 2
-      },
-      {
-        "nome": "Atletico Madrid (Odin)",
-        "Pts": 5,
-        "J": 4,
-        "V": 1,
-        "E": 2,
-        "D": 1,
-        "GP": 10,
-        "GC": 8,
-        "SG": 2,
-        "pos": 3
+        "D": 2,
+        "GP": 13,
+        "GC": 14,
+        "SG": -1,
+        "pos": 4
       },
       {
         "nome": "Real Madrid (Dexter)",
@@ -2243,81 +2255,119 @@
         "GP": 7,
         "GC": 9,
         "SG": -2,
-        "pos": 4
-      },
-      {
-        "nome": "Liverpool (Eric)",
-        "Pts": 3,
-        "J": 4,
-        "V": 1,
-        "E": 0,
-        "D": 3,
-        "GP": 8,
-        "GC": 13,
-        "SG": -5,
         "pos": 5
       }
     ],
     "FC26 R389(INTERNATIONAL)08.05.2026": [
       {
-        "nome": "Spain (Arthur)",
-        "Pts": 6,
-        "J": 4,
-        "V": 2,
-        "E": 0,
+        "nome": "Italy (Iron)",
+        "Pts": 10,
+        "J": 6,
+        "V": 3,
+        "E": 1,
         "D": 2,
-        "GP": 14,
-        "GC": 10,
-        "SG": 4,
+        "GP": 25,
+        "GC": 23,
+        "SG": 2,
         "pos": 1
       },
       {
         "nome": "Portugal (Kristof)",
-        "Pts": 6,
-        "J": 3,
-        "V": 2,
-        "E": 0,
-        "D": 1,
-        "GP": 9,
-        "GC": 8,
-        "SG": 1,
+        "Pts": 10,
+        "J": 6,
+        "V": 3,
+        "E": 1,
+        "D": 2,
+        "GP": 17,
+        "GC": 17,
+        "SG": 0,
         "pos": 2
+      },
+      {
+        "nome": "Spain (Arthur)",
+        "Pts": 9,
+        "J": 6,
+        "V": 3,
+        "E": 0,
+        "D": 3,
+        "GP": 24,
+        "GC": 17,
+        "SG": 7,
+        "pos": 3
       },
       {
         "nome": "France (Sebastian)",
         "Pts": 6,
-        "J": 3,
+        "J": 5,
         "V": 2,
         "E": 0,
-        "D": 1,
-        "GP": 11,
-        "GC": 11,
-        "SG": 0,
-        "pos": 3
-      },
-      {
-        "nome": "Italy (Iron)",
-        "Pts": 3,
-        "J": 3,
-        "V": 1,
-        "E": 0,
-        "D": 2,
-        "GP": 11,
-        "GC": 13,
-        "SG": -2,
+        "D": 3,
+        "GP": 18,
+        "GC": 22,
+        "SG": -4,
         "pos": 4
       },
       {
         "nome": "Holland (Alexander)",
+        "Pts": 6,
+        "J": 5,
+        "V": 2,
+        "E": 0,
+        "D": 3,
+        "GP": 13,
+        "GC": 18,
+        "SG": -5,
+        "pos": 5
+      }
+    ],
+    "FC26 R390(PREMIER LEAGUE)09.05.2026": [
+      {
+        "nome": "Chelsea (Odin)",
         "Pts": 3,
-        "J": 3,
+        "J": 1,
         "V": 1,
         "E": 0,
-        "D": 2,
+        "D": 0,
+        "GP": 5,
+        "GC": 2,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "Liverpool (Mateo)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
         "GP": 6,
-        "GC": 9,
+        "GC": 4,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Arsenal (Eric)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 4,
+        "GC": 6,
+        "SG": -2,
+        "pos": 3
+      },
+      {
+        "nome": "Manchester City (Dexter)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 2,
+        "GC": 5,
         "SG": -3,
-        "pos": 5
+        "pos": 4
       }
     ]
   }
