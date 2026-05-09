@@ -1,9 +1,9 @@
 {
-  "updated_at": "09/05/2026 20:06:48",
+  "updated_at": "09/05/2026 21:01:03",
   "summary": {
     "total": 300,
-    "finalizados": 280,
-    "agendados": 20,
+    "finalizados": 286,
+    "agendados": 14,
     "ligas": 17
   },
   "jogos": [
@@ -1971,43 +1971,43 @@
       "liga": "FC26 R402(INTERNATIONAL)09.05.2026",
       "p1": "Holland (Kai)",
       "p2": "Argentina (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R402(INTERNATIONAL)09.05.2026",
       "p1": "Spain (Alexander)",
       "p2": "Italy (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R402(INTERNATIONAL)09.05.2026",
       "p1": "Holland (Kai)",
       "p2": "Italy (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R402(INTERNATIONAL)09.05.2026",
       "p1": "Portugal (Lucas)",
       "p2": "Spain (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R402(INTERNATIONAL)09.05.2026",
       "p1": "Argentina (Noah)",
       "p2": "Spain (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R402(INTERNATIONAL)09.05.2026",
       "p1": "Portugal (Lucas)",
       "p2": "Italy (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R403(CHAMPIONS LEAGUE)09.05.2026",
@@ -2181,8 +2181,8 @@
     },
     "FC26 R402(INTERNATIONAL)09.05.2026": {
       "total": 20,
-      "finalizados": 14,
-      "agendados": 6
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R403(CHAMPIONS LEAGUE)09.05.2026": {
       "total": 8,
@@ -3067,62 +3067,62 @@
     "FC26 R402(INTERNATIONAL)09.05.2026": [
       {
         "nome": "Argentina (Noah)",
-        "Pts": 16,
-        "J": 6,
-        "V": 5,
+        "Pts": 19,
+        "J": 8,
+        "V": 6,
         "E": 1,
-        "D": 0,
-        "GP": 22,
-        "GC": 13,
-        "SG": 9,
+        "D": 1,
+        "GP": 28,
+        "GC": 18,
+        "SG": 10,
         "pos": 1
       },
       {
-        "nome": "Holland (Kai)",
-        "Pts": 7,
-        "J": 6,
-        "V": 2,
-        "E": 1,
+        "nome": "Portugal (Lucas)",
+        "Pts": 11,
+        "J": 8,
+        "V": 3,
+        "E": 2,
         "D": 3,
-        "GP": 15,
-        "GC": 15,
-        "SG": 0,
+        "GP": 25,
+        "GC": 22,
+        "SG": 3,
         "pos": 2
       },
       {
-        "nome": "Italy (Conde)",
-        "Pts": 7,
-        "J": 5,
-        "V": 2,
-        "E": 1,
-        "D": 2,
-        "GP": 17,
-        "GC": 18,
-        "SG": -1,
+        "nome": "Holland (Kai)",
+        "Pts": 11,
+        "J": 8,
+        "V": 3,
+        "E": 2,
+        "D": 3,
+        "GP": 22,
+        "GC": 20,
+        "SG": 2,
         "pos": 3
       },
       {
-        "nome": "Portugal (Lucas)",
-        "Pts": 5,
-        "J": 6,
-        "V": 1,
+        "nome": "Italy (Conde)",
+        "Pts": 11,
+        "J": 8,
+        "V": 3,
         "E": 2,
         "D": 3,
-        "GP": 16,
-        "GC": 18,
+        "GP": 27,
+        "GC": 29,
         "SG": -2,
         "pos": 4
       },
       {
         "nome": "Spain (Alexander)",
         "Pts": 4,
-        "J": 5,
+        "J": 8,
         "V": 1,
         "E": 1,
-        "D": 3,
-        "GP": 9,
-        "GC": 15,
-        "SG": -6,
+        "D": 6,
+        "GP": 16,
+        "GC": 29,
+        "SG": -13,
         "pos": 5
       }
     ]
