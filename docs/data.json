@@ -1,9 +1,9 @@
 {
-  "updated_at": "10/05/2026 14:08:11",
+  "updated_at": "10/05/2026 15:13:21",
   "summary": {
     "total": 300,
-    "finalizados": 234,
-    "agendados": 66,
+    "finalizados": 242,
+    "agendados": 58,
     "ligas": 17
   },
   "jogos": [
@@ -1649,57 +1649,57 @@
       "liga": "FC26 R415(PREMIER LEAGUE)10.05.2026",
       "p1": "Chelsea (Alexis)",
       "p2": "Manchester City (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R415(PREMIER LEAGUE)10.05.2026",
       "p1": "West Ham United (Cleo)",
       "p2": "Liverpool (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R415(PREMIER LEAGUE)10.05.2026",
       "p1": "Liverpool (Lucas)",
       "p2": "Manchester City (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R415(PREMIER LEAGUE)10.05.2026",
       "p1": "West Ham United (Cleo)",
       "p2": "Aston Villa (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R415(PREMIER LEAGUE)10.05.2026",
       "p1": "Aston Villa (Noah)",
       "p2": "Manchester City (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R415(PREMIER LEAGUE)10.05.2026",
       "p1": "Liverpool (Lucas)",
       "p2": "Chelsea (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R415(PREMIER LEAGUE)10.05.2026",
       "p1": "Aston Villa (Noah)",
       "p2": "Liverpool (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R415(PREMIER LEAGUE)10.05.2026",
       "p1": "West Ham United (Cleo)",
       "p2": "Chelsea (Alexis)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R415(PREMIER LEAGUE)10.05.2026",
@@ -2171,8 +2171,8 @@
     },
     "FC26 R415(PREMIER LEAGUE)10.05.2026": {
       "total": 20,
-      "finalizados": 8,
-      "agendados": 12
+      "finalizados": 16,
+      "agendados": 4
     },
     "FC26 R416(INTERNATIONAL)10.05.2026": {
       "total": 20,
@@ -2943,62 +2943,62 @@
     "FC26 R415(PREMIER LEAGUE)10.05.2026": [
       {
         "nome": "Chelsea (Alexis)",
-        "Pts": 9,
-        "J": 3,
-        "V": 3,
-        "E": 0,
+        "Pts": 16,
+        "J": 6,
+        "V": 5,
+        "E": 1,
         "D": 0,
-        "GP": 14,
-        "GC": 7,
-        "SG": 7,
+        "GP": 27,
+        "GC": 14,
+        "SG": 13,
         "pos": 1
       },
       {
         "nome": "Aston Villa (Noah)",
-        "Pts": 9,
-        "J": 4,
-        "V": 3,
-        "E": 0,
+        "Pts": 16,
+        "J": 7,
+        "V": 5,
+        "E": 1,
         "D": 1,
-        "GP": 14,
-        "GC": 12,
-        "SG": 2,
+        "GP": 24,
+        "GC": 17,
+        "SG": 7,
         "pos": 2
       },
       {
-        "nome": "West Ham United (Cleo)",
-        "Pts": 3,
-        "J": 3,
-        "V": 1,
-        "E": 0,
-        "D": 2,
-        "GP": 9,
-        "GC": 8,
-        "SG": 1,
+        "nome": "Liverpool (Lucas)",
+        "Pts": 8,
+        "J": 7,
+        "V": 2,
+        "E": 2,
+        "D": 3,
+        "GP": 13,
+        "GC": 17,
+        "SG": -4,
         "pos": 3
       },
       {
-        "nome": "Liverpool (Lucas)",
-        "Pts": 3,
-        "J": 3,
+        "nome": "West Ham United (Cleo)",
+        "Pts": 4,
+        "J": 6,
         "V": 1,
-        "E": 0,
-        "D": 2,
-        "GP": 5,
-        "GC": 10,
+        "E": 1,
+        "D": 4,
+        "GP": 13,
+        "GC": 18,
         "SG": -5,
         "pos": 4
       },
       {
         "nome": "Manchester City (Liam)",
-        "Pts": 0,
-        "J": 3,
+        "Pts": 1,
+        "J": 6,
         "V": 0,
-        "E": 0,
-        "D": 3,
-        "GP": 7,
-        "GC": 12,
-        "SG": -5,
+        "E": 1,
+        "D": 5,
+        "GP": 12,
+        "GC": 23,
+        "SG": -11,
         "pos": 5
       }
     ]
