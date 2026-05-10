@@ -1,9 +1,9 @@
 {
-  "updated_at": "10/05/2026 22:02:07",
+  "updated_at": "10/05/2026 23:01:24",
   "summary": {
     "total": 300,
-    "finalizados": 298,
-    "agendados": 2,
+    "finalizados": 300,
+    "agendados": 0,
     "ligas": 17
   },
   "jogos": [
@@ -2097,15 +2097,15 @@
       "liga": "FC26 R419(INTERNATIONAL)10.05.2026",
       "p1": "France (Splinter)",
       "p2": "Italy (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R419(INTERNATIONAL)10.05.2026",
       "p1": "Holland (Iron)",
       "p2": "Spain (Mateo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-6",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2191,8 +2191,8 @@
     },
     "FC26 R419(INTERNATIONAL)10.05.2026": {
       "total": 6,
-      "finalizados": 4,
-      "agendados": 2
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3190,28 +3190,40 @@
     ],
     "FC26 R419(INTERNATIONAL)10.05.2026": [
       {
-        "nome": "France (Splinter)",
-        "Pts": 4,
+        "nome": "Spain (Mateo)",
+        "Pts": 6,
         "J": 2,
-        "V": 1,
-        "E": 1,
+        "V": 2,
+        "E": 0,
         "D": 0,
-        "GP": 9,
-        "GC": 8,
-        "SG": 1,
+        "GP": 12,
+        "GC": 7,
+        "SG": 5,
         "pos": 1
       },
       {
-        "nome": "Spain (Mateo)",
-        "Pts": 3,
-        "J": 1,
+        "nome": "France (Splinter)",
+        "Pts": 4,
+        "J": 3,
         "V": 1,
-        "E": 0,
-        "D": 0,
-        "GP": 6,
-        "GC": 3,
-        "SG": 3,
+        "E": 1,
+        "D": 1,
+        "GP": 13,
+        "GC": 13,
+        "SG": 0,
         "pos": 2
+      },
+      {
+        "nome": "Italy (Dexter)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 9,
+        "GC": 11,
+        "SG": -2,
+        "pos": 3
       },
       {
         "nome": "Denmark (Felix)",
@@ -3223,30 +3235,18 @@
         "GP": 5,
         "GC": 5,
         "SG": 0,
-        "pos": 3
-      },
-      {
-        "nome": "Italy (Dexter)",
-        "Pts": 1,
-        "J": 2,
-        "V": 0,
-        "E": 1,
-        "D": 1,
-        "GP": 4,
-        "GC": 7,
-        "SG": -3,
         "pos": 4
       },
       {
         "nome": "Holland (Iron)",
         "Pts": 0,
-        "J": 1,
+        "J": 2,
         "V": 0,
         "E": 0,
-        "D": 1,
-        "GP": 4,
-        "GC": 5,
-        "SG": -1,
+        "D": 2,
+        "GP": 8,
+        "GC": 11,
+        "SG": -3,
         "pos": 5
       }
     ]
