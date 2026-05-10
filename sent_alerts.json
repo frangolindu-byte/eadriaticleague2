@@ -12499,7 +12499,10 @@
     ],
     "assertividade": 73.9,
     "key": "FC26 R409(SERIA A)10.05.2026|Juventus (MisterX)|Milan (Pascal)",
-    "message_id": 1121
+    "message_id": 1121,
+    "result_checked": true,
+    "result_placar": "5-3",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R409(SERIA A)10.05.2026",
@@ -12523,7 +12526,10 @@
     ],
     "assertividade": 73.9,
     "key": "FC26 R409(SERIA A)10.05.2026|Juventus (MisterX)|Milan (Pascal)",
-    "message_id": 1122
+    "message_id": 1122,
+    "result_checked": true,
+    "result_placar": "5-3",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R409(SERIA A)10.05.2026",
@@ -12547,7 +12553,10 @@
     ],
     "assertividade": 73.9,
     "key": "FC26 R409(SERIA A)10.05.2026|Juventus (MisterX)|Milan (Pascal)",
-    "message_id": 1123
+    "message_id": 1123,
+    "result_checked": true,
+    "result_placar": "5-3",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R409(SERIA A)10.05.2026",
@@ -12571,7 +12580,10 @@
     ],
     "assertividade": 73.9,
     "key": "FC26 R409(SERIA A)10.05.2026|Juventus (MisterX)|Milan (Pascal)",
-    "message_id": 1124
+    "message_id": 1124,
+    "result_checked": true,
+    "result_placar": "5-3",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R409(SERIA A)10.05.2026",
@@ -12595,6 +12607,63 @@
     ],
     "assertividade": 71.1,
     "key": "FC26 R409(SERIA A)10.05.2026|Juventus (MisterX)|Lazio (Bruno)",
-    "message_id": 1125
+    "message_id": 1125,
+    "result_checked": true,
+    "result_placar": "3-1",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R409(SERIA A)10.05.2026",
+    "p1": "Juventus (MisterX)",
+    "p2": "Napoli (Matrix)",
+    "w1": 12.5,
+    "w2": 55.4,
+    "j1": 16,
+    "j2": 56,
+    "o65": 61.150000000000006,
+    "btts": 95.55,
+    "avg_g": 7.109999999999999,
+    "f1": "L-L-L-D-L",
+    "f2": "D-W-W-L-W",
+    "fav": "Napoli (Matrix)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 61%",
+      "BTTS: 96%",
+      "Vitoria Napoli (Matrix) (WR 55%)"
+    ],
+    "assertividade": 67.7,
+    "key": "FC26 R409(SERIA A)10.05.2026|Juventus (MisterX)|Napoli (Matrix)",
+    "message_id": 1126,
+    "result_checked": true,
+    "result_placar": "6-3",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R409(SERIA A)10.05.2026",
+    "p1": "Napoli (Matrix)",
+    "p2": "Juventus (MisterX)",
+    "w1": 55.4,
+    "w2": 12.5,
+    "j1": 56,
+    "j2": 16,
+    "o65": 61.150000000000006,
+    "btts": 95.55,
+    "avg_g": 7.109999999999999,
+    "f1": "D-W-W-L-W",
+    "f2": "L-L-L-D-L",
+    "fav": "Napoli (Matrix)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 61%",
+      "BTTS: 96%",
+      "Vitoria Napoli (Matrix) (WR 55%)"
+    ],
+    "assertividade": 67.7,
+    "key": "FC26 R409(SERIA A)10.05.2026|Juventus (MisterX)|Napoli (Matrix)",
+    "message_id": 1127,
+    "result_checked": true,
+    "result_placar": "6-3",
+    "result_status": "errou"
   }
 ]
