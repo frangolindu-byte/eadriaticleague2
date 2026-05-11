@@ -12736,7 +12736,10 @@
     ],
     "assertividade": 65.6,
     "key": "FC26 R424(CHAMPIONS LEAGUE)11.05.2026|Atletico Madrid (Gabriel)|Real Madrid (Leonardo)",
-    "message_id": 1130
+    "message_id": 1130,
+    "result_checked": true,
+    "result_placar": "3-4",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R424(CHAMPIONS LEAGUE)11.05.2026",
@@ -12760,7 +12763,10 @@
     ],
     "assertividade": 65.6,
     "key": "FC26 R424(CHAMPIONS LEAGUE)11.05.2026|Atletico Madrid (Gabriel)|Real Madrid (Leonardo)",
-    "message_id": 1131
+    "message_id": 1131,
+    "result_checked": true,
+    "result_placar": "3-4",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R425(INTERNATIONAL)11.05.2026",
@@ -12784,6 +12790,63 @@
     ],
     "assertividade": 66.1,
     "key": "FC26 R425(INTERNATIONAL)11.05.2026|Holland (Nathan)|Norway (Pascal)",
-    "message_id": 1132
+    "message_id": 1132,
+    "result_checked": true,
+    "result_placar": "5-6",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R423(COPA LIBERTADORES)11.05.2026",
+    "p1": "Penarol (Felix)",
+    "p2": "River Plate (Splinter)",
+    "w1": 62.5,
+    "w2": 25.0,
+    "j1": 8,
+    "j2": 8,
+    "o65": 50.0,
+    "btts": 93.75,
+    "avg_g": 6.375,
+    "f1": "W-D-L-W-W",
+    "f2": "L-D-L-W-L",
+    "fav": "Penarol (Felix)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 50%",
+      "BTTS: 94%",
+      "Vitoria Penarol (Felix) (WR 62%)"
+    ],
+    "assertividade": 65.3,
+    "key": "FC26 R423(COPA LIBERTADORES)11.05.2026|Penarol (Felix)|River Plate (Splinter)",
+    "message_id": 1133,
+    "result_checked": true,
+    "result_placar": "4-4",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R423(COPA LIBERTADORES)11.05.2026",
+    "p1": "River Plate (Splinter)",
+    "p2": "Penarol (Felix)",
+    "w1": 25.0,
+    "w2": 62.5,
+    "j1": 8,
+    "j2": 8,
+    "o65": 50.0,
+    "btts": 93.75,
+    "avg_g": 6.375,
+    "f1": "L-D-L-W-L",
+    "f2": "W-D-L-W-W",
+    "fav": "Penarol (Felix)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 50%",
+      "BTTS: 94%",
+      "Vitoria Penarol (Felix) (WR 62%)"
+    ],
+    "assertividade": 65.3,
+    "key": "FC26 R423(COPA LIBERTADORES)11.05.2026|Penarol (Felix)|River Plate (Splinter)",
+    "message_id": 1134,
+    "result_checked": true,
+    "result_placar": "4-4",
+    "result_status": "errou"
   }
 ]
