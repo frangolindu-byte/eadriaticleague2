@@ -1,12 +1,754 @@
 {
-  "updated_at": "12/05/2026 05:02:36",
+  "updated_at": "12/05/2026 07:53:00",
   "summary": {
-    "total": 360,
-    "finalizados": 104,
-    "agendados": 256,
-    "ligas": 20
+    "total": 466,
+    "finalizados": 252,
+    "agendados": 214,
+    "ligas": 21
   },
   "jogos": [
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eduardo (Modrica esport)",
+      "p2": "Dexter (Eadriatic esport)",
+      "placar": "3-0",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Odin (L&A esport)",
+      "p2": "Adriano (Cybersharks esport)",
+      "placar": "3-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Arthur (Cybersharks esport)",
+      "p2": "Kai (Modrica esport)",
+      "placar": "5-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Felix (Modrica esport)",
+      "p2": "Eric (Cybersharks esport)",
+      "placar": "7-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Dexter (Eadriatic esport)",
+      "p2": "Adriano (Cybersharks esport)",
+      "placar": "1-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eduardo (Modrica esport)",
+      "p2": "Alexis (Cybersharks esport)",
+      "placar": "1-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Arthur (Cybersharks esport)",
+      "p2": "Gael (Cyber esport)",
+      "placar": "5-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Felix (Modrica esport)",
+      "p2": "Kai (Modrica esport)",
+      "placar": "3-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Alexis (Cybersharks esport)",
+      "p2": "Adriano (Cybersharks esport)",
+      "placar": "3-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Dexter (Eadriatic esport)",
+      "p2": "Odin (L&A esport)",
+      "placar": "3-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Arthur (Cybersharks esport)",
+      "p2": "Eric (Cybersharks esport)",
+      "placar": "3-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Gael (Cyber esport)",
+      "p2": "Kai (Modrica esport)",
+      "placar": "0-0",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Alexis (Cybersharks esport)",
+      "p2": "Dexter (Eadriatic esport)",
+      "placar": "1-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eduardo (Modrica esport)",
+      "p2": "Odin (L&A esport)",
+      "placar": "4-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eric (Cybersharks esport)",
+      "p2": "Kai (Modrica esport)",
+      "placar": "2-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Gael (Cyber esport)",
+      "p2": "Felix (Modrica esport)",
+      "placar": "2-5",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Adriano (Cybersharks esport)",
+      "p2": "Eduardo (Modrica esport)",
+      "placar": "2-0",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Alexis (Cybersharks esport)",
+      "p2": "Odin (L&A esport)",
+      "placar": "2-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Arthur (Cybersharks esport)",
+      "p2": "Felix (Modrica esport)",
+      "placar": "3-5",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eric (Cybersharks esport)",
+      "p2": "Gael (Cyber esport)",
+      "placar": "4-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Adriano (Cybersharks esport)",
+      "p2": "Odin (L&A esport)",
+      "placar": "2-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Dexter (Eadriatic esport)",
+      "p2": "Eduardo (Modrica esport)",
+      "placar": "3-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eric (Cybersharks esport)",
+      "p2": "Felix (Modrica esport)",
+      "placar": "4-0",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Kai (Modrica esport)",
+      "p2": "Arthur (Cybersharks esport)",
+      "placar": "4-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Gael (Cyber esport)",
+      "p2": "Arthur (Cybersharks esport)",
+      "placar": "7-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Kai (Modrica esport)",
+      "p2": "Felix (Modrica esport)",
+      "placar": "1-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Adriano (Cybersharks esport)",
+      "p2": "Dexter (Eadriatic esport)",
+      "placar": "3-0",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Alexis (Cybersharks esport)",
+      "p2": "Eduardo (Modrica esport)",
+      "placar": "2-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Adriano (Cybersharks esport)",
+      "p2": "Alexis (Cybersharks esport)",
+      "placar": "3-5",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Odin (L&A esport)",
+      "p2": "Dexter (Eadriatic esport)",
+      "placar": "6-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eric (Cybersharks esport)",
+      "p2": "Arthur (Cybersharks esport)",
+      "placar": "4-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Kai (Modrica esport)",
+      "p2": "Gael (Cyber esport)",
+      "placar": "2-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Dexter (Eadriatic esport)",
+      "p2": "Alexis (Cybersharks esport)",
+      "placar": "1-5",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Odin (L&A esport)",
+      "p2": "Eduardo (Modrica esport)",
+      "placar": "2-0",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Felix (Modrica esport)",
+      "p2": "Gael (Cyber esport)",
+      "placar": "3-5",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Kai (Modrica esport)",
+      "p2": "Eric (Cybersharks esport)",
+      "placar": "3-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eduardo (Modrica esport)",
+      "p2": "Adriano (Cybersharks esport)",
+      "placar": "3-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Odin (L&A esport)",
+      "p2": "Alexis (Cybersharks esport)",
+      "placar": "1-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Felix (Modrica esport)",
+      "p2": "Arthur (Cybersharks esport)",
+      "placar": "4-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Gael (Cyber esport)",
+      "p2": "Eric (Cybersharks esport)",
+      "placar": "4-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eduardo (Modrica esport)",
+      "p2": "Dexter (Eadriatic esport)",
+      "placar": "2-0",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Odin (L&A esport)",
+      "p2": "Adriano (Cybersharks esport)",
+      "placar": "0-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Arthur (Cybersharks esport)",
+      "p2": "Kai (Modrica esport)",
+      "placar": "3-5",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Felix (Modrica esport)",
+      "p2": "Eric (Cybersharks esport)",
+      "placar": "2-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Dexter (Eadriatic esport)",
+      "p2": "Adriano (Cybersharks esport)",
+      "placar": "3-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eduardo (Modrica esport)",
+      "p2": "Alexis (Cybersharks esport)",
+      "placar": "2-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Arthur (Cybersharks esport)",
+      "p2": "Gael (Cyber esport)",
+      "placar": "2-5",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Felix (Modrica esport)",
+      "p2": "Kai (Modrica esport)",
+      "placar": "4-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Alexis (Cybersharks esport)",
+      "p2": "Adriano (Cybersharks esport)",
+      "placar": "4-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Dexter (Eadriatic esport)",
+      "p2": "Odin (L&A esport)",
+      "placar": "1-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Arthur (Cybersharks esport)",
+      "p2": "Eric (Cybersharks esport)",
+      "placar": "3-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Gael (Cyber esport)",
+      "p2": "Kai (Modrica esport)",
+      "placar": "1-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Alexis (Cybersharks esport)",
+      "p2": "Dexter (Eadriatic esport)",
+      "placar": "5-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eduardo (Modrica esport)",
+      "p2": "Odin (L&A esport)",
+      "placar": "3-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eric (Cybersharks esport)",
+      "p2": "Kai (Modrica esport)",
+      "placar": "4-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Gael (Cyber esport)",
+      "p2": "Felix (Modrica esport)",
+      "placar": "6-7",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Adriano (Cybersharks esport)",
+      "p2": "Eduardo (Modrica esport)",
+      "placar": "2-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Alexis (Cybersharks esport)",
+      "p2": "Odin (L&A esport)",
+      "placar": "1-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Arthur (Cybersharks esport)",
+      "p2": "Felix (Modrica esport)",
+      "placar": "4-7",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eric (Cybersharks esport)",
+      "p2": "Gael (Cyber esport)",
+      "placar": "5-5",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Adriano (Cybersharks esport)",
+      "p2": "Odin (L&A esport)",
+      "placar": "2-0",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Dexter (Eadriatic esport)",
+      "p2": "Eduardo (Modrica esport)",
+      "placar": "3-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eric (Cybersharks esport)",
+      "p2": "Felix (Modrica esport)",
+      "placar": "4-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Kai (Modrica esport)",
+      "p2": "Arthur (Cybersharks esport)",
+      "placar": "3-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Adriano (Cybersharks esport)",
+      "p2": "Dexter (Eadriatic esport)",
+      "placar": "4-6",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Alexis (Cybersharks esport)",
+      "p2": "Eduardo (Modrica esport)",
+      "placar": "3-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Gael (Cyber esport)",
+      "p2": "Arthur (Cybersharks esport)",
+      "placar": "6-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Kai (Modrica esport)",
+      "p2": "Felix (Modrica esport)",
+      "placar": "5-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Adriano (Cybersharks esport)",
+      "p2": "Alexis (Cybersharks esport)",
+      "placar": "3-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Odin (L&A esport)",
+      "p2": "Dexter (Eadriatic esport)",
+      "placar": "4-6",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eric (Cybersharks esport)",
+      "p2": "Arthur (Cybersharks esport)",
+      "placar": "4-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Kai (Modrica esport)",
+      "p2": "Gael (Cyber esport)",
+      "placar": "2-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Dexter (Eadriatic esport)",
+      "p2": "Alexis (Cybersharks esport)",
+      "placar": "2-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Odin (L&A esport)",
+      "p2": "Eduardo (Modrica esport)",
+      "placar": "3-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Felix (Modrica esport)",
+      "p2": "Gael (Cyber esport)",
+      "placar": "4-7",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Kai (Modrica esport)",
+      "p2": "Eric (Cybersharks esport)",
+      "placar": "1-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eduardo (Modrica esport)",
+      "p2": "Adriano (Cybersharks esport)",
+      "placar": "3-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Odin (L&A esport)",
+      "p2": "Alexis (Cybersharks esport)",
+      "placar": "4-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Felix (Modrica esport)",
+      "p2": "Arthur (Cybersharks esport)",
+      "placar": "7-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Gael (Cyber esport)",
+      "p2": "Eric (Cybersharks esport)",
+      "placar": "4-6",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eduardo (Modrica esport)",
+      "p2": "Dexter (Eadriatic esport)",
+      "placar": "3-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Odin (L&A esport)",
+      "p2": "Adriano (Cybersharks esport)",
+      "placar": "1-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Arthur (Cybersharks esport)",
+      "p2": "Kai (Modrica esport)",
+      "placar": "1-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Felix (Modrica esport)",
+      "p2": "Eric (Cybersharks esport)",
+      "placar": "3-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Dexter (Eadriatic esport)",
+      "p2": "Adriano (Cybersharks esport)",
+      "placar": "1-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eduardo (Modrica esport)",
+      "p2": "Alexis (Cybersharks esport)",
+      "placar": "1-0",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Arthur (Cybersharks esport)",
+      "p2": "Gael (Cyber esport)",
+      "placar": "3-5",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Felix (Modrica esport)",
+      "p2": "Kai (Modrica esport)",
+      "placar": "0-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Alexis (Cybersharks esport)",
+      "p2": "Adriano (Cybersharks esport)",
+      "placar": "5-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Dexter (Eadriatic esport)",
+      "p2": "Odin (L&A esport)",
+      "placar": "1-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Arthur (Cybersharks esport)",
+      "p2": "Eric (Cybersharks esport)",
+      "placar": "3-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Gael (Cyber esport)",
+      "p2": "Kai (Modrica esport)",
+      "placar": "4-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Alexis (Cybersharks esport)",
+      "p2": "Dexter (Eadriatic esport)",
+      "placar": "5-0",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eduardo (Modrica esport)",
+      "p2": "Odin (L&A esport)",
+      "placar": "3-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eric (Cybersharks esport)",
+      "p2": "Kai (Modrica esport)",
+      "placar": "4-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Gael (Cyber esport)",
+      "p2": "Felix (Modrica esport)",
+      "placar": "5-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Adriano (Cybersharks esport)",
+      "p2": "Eduardo (Modrica esport)",
+      "placar": "3-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Alexis (Cybersharks esport)",
+      "p2": "Odin (L&A esport)",
+      "placar": "1-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Arthur (Cybersharks esport)",
+      "p2": "Felix (Modrica esport)",
+      "placar": "1-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eric (Cybersharks esport)",
+      "p2": "Gael (Cyber esport)",
+      "placar": "4-6",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Adriano (Cybersharks esport)",
+      "p2": "Odin (L&A esport)",
+      "placar": "0-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Dexter (Eadriatic esport)",
+      "p2": "Eduardo (Modrica esport)",
+      "placar": "2-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Eric (Cybersharks esport)",
+      "p2": "Felix (Modrica esport)",
+      "placar": "4-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Kai (Modrica esport)",
+      "p2": "Arthur (Cybersharks esport)",
+      "placar": "4-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Gael (Cyber esport)",
+      "p2": "Arthur (Cybersharks esport)",
+      "placar": "3-5",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 SEASON 6",
+      "p1": "Kai (Modrica esport)",
+      "p2": "Felix (Modrica esport)",
+      "placar": "1-1",
+      "status": "Finalizado"
+    },
     {
       "liga": "FC26 R436(CHAMPIONS LEAGUE)11.05.2026",
       "p1": "Atletico Madrid (Odin)",
@@ -739,295 +1481,295 @@
       "liga": "FC26 R441(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "Liverpool (Kai)",
       "p2": "Real Madrid (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R441(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "PSG (Gael)",
       "p2": "Bayern M. (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "Liverpool (Oliver)",
       "p2": "Barcelona (Gabriel)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "Real Madrid (Bruno)",
       "p2": "PSG (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "Atletico Madrid (Flash)",
       "p2": "Barcelona (Gabriel)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "Liverpool (Oliver)",
       "p2": "Real Madrid (Bruno)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "Atletico Madrid (Flash)",
       "p2": "PSG (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "Barcelona (Gabriel)",
       "p2": "Real Madrid (Bruno)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "Atletico Madrid (Flash)",
       "p2": "Real Madrid (Bruno)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "PSG (Matrix)",
       "p2": "Liverpool (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "Atletico Madrid (Flash)",
       "p2": "Liverpool (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "PSG (Matrix)",
       "p2": "Barcelona (Gabriel)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "Barcelona (Gabriel)",
       "p2": "Liverpool (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "PSG (Matrix)",
       "p2": "Real Madrid (Bruno)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "Barcelona (Gabriel)",
       "p2": "Atletico Madrid (Flash)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "Real Madrid (Bruno)",
       "p2": "Liverpool (Oliver)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "PSG (Matrix)",
       "p2": "Atletico Madrid (Flash)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "Real Madrid (Bruno)",
       "p2": "Barcelona (Gabriel)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "Liverpool (Oliver)",
       "p2": "PSG (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "Real Madrid (Bruno)",
       "p2": "Atletico Madrid (Flash)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "Barcelona (Gabriel)",
       "p2": "PSG (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R442(CHAMPIONS LEAGUE)12.05.2026",
       "p1": "Liverpool (Oliver)",
       "p2": "Atletico Madrid (Flash)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "Holland (Haidan)",
       "p2": "France (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "Italy (MisterX)",
       "p2": "Argentina (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "Italy (MisterX)",
       "p2": "Holland (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "Spain (VanGogh)",
       "p2": "Argentina (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "Argentina (Pascal)",
       "p2": "Holland (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "Spain (VanGogh)",
       "p2": "France (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "France (George)",
       "p2": "Italy (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "Spain (VanGogh)",
       "p2": "Holland (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "France (George)",
       "p2": "Argentina (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "Spain (VanGogh)",
       "p2": "Italy (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "Argentina (Pascal)",
       "p2": "Italy (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "France (George)",
       "p2": "Holland (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "Argentina (Pascal)",
       "p2": "Spain (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "Holland (Haidan)",
       "p2": "Italy (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "France (George)",
       "p2": "Spain (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "Holland (Haidan)",
       "p2": "Argentina (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "Holland (Haidan)",
       "p2": "Spain (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "Italy (MisterX)",
       "p2": "France (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "Argentina (Pascal)",
       "p2": "France (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R443(INTERNATIONAL)12.05.2026",
       "p1": "Italy (MisterX)",
       "p2": "Spain (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R444(PREMIER LEAGUE)12.05.2026",
@@ -2529,6 +3271,11 @@
     }
   ],
   "resumo": {
+    "FC26 SEASON 6": {
+      "total": 106,
+      "finalizados": 106,
+      "agendados": 0
+    },
     "FC26 R436(CHAMPIONS LEAGUE)11.05.2026": {
       "total": 12,
       "finalizados": 12,
@@ -2556,18 +3303,18 @@
     },
     "FC26 R441(CHAMPIONS LEAGUE)12.05.2026": {
       "total": 20,
-      "finalizados": 18,
-      "agendados": 2
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R442(CHAMPIONS LEAGUE)12.05.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R443(INTERNATIONAL)12.05.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R444(PREMIER LEAGUE)12.05.2026": {
       "total": 20,
@@ -2631,6 +3378,128 @@
     }
   },
   "classificacao": {
+    "FC26 SEASON 6": [
+      {
+        "nome": "Eric (Cybersharks esport)",
+        "Pts": 37,
+        "J": 21,
+        "V": 11,
+        "E": 4,
+        "D": 6,
+        "GP": 69,
+        "GC": 57,
+        "SG": 12,
+        "pos": 1
+      },
+      {
+        "nome": "Gael (Cyber esport)",
+        "Pts": 36,
+        "J": 21,
+        "V": 11,
+        "E": 3,
+        "D": 7,
+        "GP": 88,
+        "GC": 74,
+        "SG": 14,
+        "pos": 2
+      },
+      {
+        "nome": "Odin (L&A esport)",
+        "Pts": 36,
+        "J": 21,
+        "V": 10,
+        "E": 6,
+        "D": 5,
+        "GP": 53,
+        "GC": 44,
+        "SG": 9,
+        "pos": 3
+      },
+      {
+        "nome": "Felix (Modrica esport)",
+        "Pts": 33,
+        "J": 22,
+        "V": 10,
+        "E": 3,
+        "D": 9,
+        "GP": 76,
+        "GC": 74,
+        "SG": 2,
+        "pos": 4
+      },
+      {
+        "nome": "Alexis (Cybersharks esport)",
+        "Pts": 32,
+        "J": 20,
+        "V": 9,
+        "E": 5,
+        "D": 6,
+        "GP": 58,
+        "GC": 39,
+        "SG": 19,
+        "pos": 5
+      },
+      {
+        "nome": "Eduardo (Modrica esport)",
+        "Pts": 29,
+        "J": 21,
+        "V": 8,
+        "E": 5,
+        "D": 8,
+        "GP": 46,
+        "GC": 45,
+        "SG": 1,
+        "pos": 6
+      },
+      {
+        "nome": "Kai (Modrica esport)",
+        "Pts": 28,
+        "J": 22,
+        "V": 7,
+        "E": 7,
+        "D": 8,
+        "GP": 56,
+        "GC": 57,
+        "SG": -1,
+        "pos": 7
+      },
+      {
+        "nome": "Adriano (Cybersharks esport)",
+        "Pts": 23,
+        "J": 21,
+        "V": 6,
+        "E": 5,
+        "D": 10,
+        "GP": 42,
+        "GC": 49,
+        "SG": -7,
+        "pos": 8
+      },
+      {
+        "nome": "Dexter (Eadriatic esport)",
+        "Pts": 23,
+        "J": 21,
+        "V": 6,
+        "E": 5,
+        "D": 10,
+        "GP": 42,
+        "GC": 64,
+        "SG": -22,
+        "pos": 9
+      },
+      {
+        "nome": "Arthur (Cybersharks esport)",
+        "Pts": 18,
+        "J": 22,
+        "V": 5,
+        "E": 3,
+        "D": 14,
+        "GP": 65,
+        "GC": 92,
+        "SG": -27,
+        "pos": 10
+      }
+    ],
     "FC26 R436(CHAMPIONS LEAGUE)11.05.2026": [
       {
         "nome": "Atletico Madrid (Odin)",
@@ -2945,13 +3814,13 @@
       {
         "nome": "PSG (Gael)",
         "Pts": 16,
-        "J": 7,
+        "J": 8,
         "V": 5,
         "E": 1,
-        "D": 1,
-        "GP": 33,
-        "GC": 23,
-        "SG": 10,
+        "D": 2,
+        "GP": 36,
+        "GC": 28,
+        "SG": 8,
         "pos": 1
       },
       {
@@ -2968,37 +3837,161 @@
       },
       {
         "nome": "Liverpool (Kai)",
-        "Pts": 9,
-        "J": 7,
+        "Pts": 10,
+        "J": 8,
         "V": 2,
-        "E": 3,
+        "E": 4,
         "D": 2,
-        "GP": 19,
-        "GC": 16,
+        "GP": 20,
+        "GC": 17,
         "SG": 3,
         "pos": 3
       },
       {
         "nome": "Real Madrid (Felix)",
-        "Pts": 7,
-        "J": 7,
+        "Pts": 8,
+        "J": 8,
         "V": 2,
-        "E": 1,
+        "E": 2,
         "D": 4,
-        "GP": 19,
-        "GC": 27,
+        "GP": 20,
+        "GC": 28,
         "SG": -8,
         "pos": 4
       },
       {
         "nome": "Bayern M. (Arthur)",
-        "Pts": 4,
-        "J": 7,
-        "V": 1,
+        "Pts": 7,
+        "J": 8,
+        "V": 2,
         "E": 1,
         "D": 5,
-        "GP": 17,
-        "GC": 27,
+        "GP": 22,
+        "GC": 30,
+        "SG": -8,
+        "pos": 5
+      }
+    ],
+    "FC26 R442(CHAMPIONS LEAGUE)12.05.2026": [
+      {
+        "nome": "Barcelona (Gabriel)",
+        "Pts": 19,
+        "J": 8,
+        "V": 6,
+        "E": 1,
+        "D": 1,
+        "GP": 26,
+        "GC": 15,
+        "SG": 11,
+        "pos": 1
+      },
+      {
+        "nome": "Atletico Madrid (Flash)",
+        "Pts": 12,
+        "J": 8,
+        "V": 3,
+        "E": 3,
+        "D": 2,
+        "GP": 22,
+        "GC": 23,
+        "SG": -1,
+        "pos": 2
+      },
+      {
+        "nome": "Real Madrid (Bruno)",
+        "Pts": 10,
+        "J": 8,
+        "V": 3,
+        "E": 1,
+        "D": 4,
+        "GP": 21,
+        "GC": 19,
+        "SG": 2,
+        "pos": 3
+      },
+      {
+        "nome": "Liverpool (Oliver)",
+        "Pts": 9,
+        "J": 8,
+        "V": 3,
+        "E": 0,
+        "D": 5,
+        "GP": 30,
+        "GC": 35,
+        "SG": -5,
+        "pos": 4
+      },
+      {
+        "nome": "PSG (Matrix)",
+        "Pts": 7,
+        "J": 8,
+        "V": 2,
+        "E": 1,
+        "D": 5,
+        "GP": 22,
+        "GC": 29,
+        "SG": -7,
+        "pos": 5
+      }
+    ],
+    "FC26 R443(INTERNATIONAL)12.05.2026": [
+      {
+        "nome": "Italy (MisterX)",
+        "Pts": 16,
+        "J": 8,
+        "V": 5,
+        "E": 1,
+        "D": 2,
+        "GP": 35,
+        "GC": 23,
+        "SG": 12,
+        "pos": 1
+      },
+      {
+        "nome": "Spain (VanGogh)",
+        "Pts": 15,
+        "J": 8,
+        "V": 5,
+        "E": 0,
+        "D": 3,
+        "GP": 28,
+        "GC": 22,
+        "SG": 6,
+        "pos": 2
+      },
+      {
+        "nome": "Argentina (Pascal)",
+        "Pts": 13,
+        "J": 8,
+        "V": 4,
+        "E": 1,
+        "D": 3,
+        "GP": 30,
+        "GC": 28,
+        "SG": 2,
+        "pos": 3
+      },
+      {
+        "nome": "Holland (Haidan)",
+        "Pts": 7,
+        "J": 8,
+        "V": 2,
+        "E": 1,
+        "D": 5,
+        "GP": 23,
+        "GC": 33,
+        "SG": -10,
+        "pos": 4
+      },
+      {
+        "nome": "France (George)",
+        "Pts": 7,
+        "J": 8,
+        "V": 2,
+        "E": 1,
+        "D": 5,
+        "GP": 21,
+        "GC": 31,
         "SG": -10,
         "pos": 5
       }
