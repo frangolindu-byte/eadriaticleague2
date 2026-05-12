@@ -13012,7 +13012,10 @@
     ],
     "assertividade": 71.9,
     "key": "FC26 R444(PREMIER LEAGUE)12.05.2026|Arsenal (Oliver)|Chelsea (Flash)",
-    "message_id": 1140
+    "message_id": 1140,
+    "result_checked": true,
+    "result_placar": "3-1",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R444(PREMIER LEAGUE)12.05.2026",
@@ -13036,7 +13039,10 @@
     ],
     "assertividade": 71.9,
     "key": "FC26 R444(PREMIER LEAGUE)12.05.2026|Arsenal (Oliver)|Chelsea (Flash)",
-    "message_id": 1141
+    "message_id": 1141,
+    "result_checked": true,
+    "result_placar": "3-1",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R444(PREMIER LEAGUE)12.05.2026",
@@ -13060,7 +13066,10 @@
     ],
     "assertividade": 71.9,
     "key": "FC26 R444(PREMIER LEAGUE)12.05.2026|Arsenal (Oliver)|Chelsea (Flash)",
-    "message_id": 1142
+    "message_id": 1142,
+    "result_checked": true,
+    "result_placar": "3-1",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R444(PREMIER LEAGUE)12.05.2026",
@@ -13084,7 +13093,10 @@
     ],
     "assertividade": 71.9,
     "key": "FC26 R444(PREMIER LEAGUE)12.05.2026|Arsenal (Oliver)|Chelsea (Flash)",
-    "message_id": 1143
+    "message_id": 1143,
+    "result_checked": true,
+    "result_placar": "3-1",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R444(PREMIER LEAGUE)12.05.2026",
@@ -13108,6 +13120,117 @@
     ],
     "assertividade": 66.6,
     "key": "FC26 R444(PREMIER LEAGUE)12.05.2026|Chelsea (Flash)|West Ham United (Matrix)",
-    "message_id": 1144
+    "message_id": 1144,
+    "result_checked": true,
+    "result_placar": "5-2",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R445(LA LIGA)12.05.2026",
+    "p1": "Villareal (MisterX)",
+    "p2": "Sevilla (Haidan)",
+    "w1": 57.1,
+    "w2": 25.0,
+    "j1": 7,
+    "j2": 8,
+    "o65": 80.35,
+    "btts": 100.0,
+    "avg_g": 9.43,
+    "f1": "L-D-L-W-W",
+    "f2": "L-W-L-L-W",
+    "fav": "Villareal (MisterX)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 80%",
+      "BTTS: 100%",
+      "Vitoria Villareal (MisterX) (WR 57%)"
+    ],
+    "assertividade": 77.1,
+    "key": "FC26 R445(LA LIGA)12.05.2026|Sevilla (Haidan)|Villareal (MisterX)",
+    "message_id": 1145,
+    "result_checked": true,
+    "result_placar": "6-7",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R445(LA LIGA)12.05.2026",
+    "p1": "Sevilla (Haidan)",
+    "p2": "Villareal (MisterX)",
+    "w1": 25.0,
+    "w2": 57.1,
+    "j1": 8,
+    "j2": 7,
+    "o65": 80.35,
+    "btts": 100.0,
+    "avg_g": 9.43,
+    "f1": "L-W-L-L-W",
+    "f2": "L-D-L-W-W",
+    "fav": "Villareal (MisterX)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 80%",
+      "BTTS: 100%",
+      "Vitoria Villareal (MisterX) (WR 57%)"
+    ],
+    "assertividade": 77.1,
+    "key": "FC26 R445(LA LIGA)12.05.2026|Sevilla (Haidan)|Villareal (MisterX)",
+    "message_id": 1146,
+    "result_checked": true,
+    "result_placar": "6-7",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R445(LA LIGA)12.05.2026",
+    "p1": "Villareal (MisterX)",
+    "p2": "Sevilla (Haidan)",
+    "w1": 57.1,
+    "w2": 25.0,
+    "j1": 7,
+    "j2": 8,
+    "o65": 80.35,
+    "btts": 100.0,
+    "avg_g": 9.43,
+    "f1": "L-D-L-W-W",
+    "f2": "L-W-L-L-W",
+    "fav": "Villareal (MisterX)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 80%",
+      "BTTS: 100%",
+      "Vitoria Villareal (MisterX) (WR 57%)"
+    ],
+    "assertividade": 77.1,
+    "key": "FC26 R445(LA LIGA)12.05.2026|Sevilla (Haidan)|Villareal (MisterX)",
+    "message_id": 1147,
+    "result_checked": true,
+    "result_placar": "6-7",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R445(LA LIGA)12.05.2026",
+    "p1": "Sevilla (Haidan)",
+    "p2": "Villareal (MisterX)",
+    "w1": 25.0,
+    "w2": 57.1,
+    "j1": 8,
+    "j2": 7,
+    "o65": 80.35,
+    "btts": 100.0,
+    "avg_g": 9.43,
+    "f1": "L-W-L-L-W",
+    "f2": "L-D-L-W-W",
+    "fav": "Villareal (MisterX)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 80%",
+      "BTTS: 100%",
+      "Vitoria Villareal (MisterX) (WR 57%)"
+    ],
+    "assertividade": 77.1,
+    "key": "FC26 R445(LA LIGA)12.05.2026|Sevilla (Haidan)|Villareal (MisterX)",
+    "message_id": 1148,
+    "result_checked": true,
+    "result_placar": "6-7",
+    "result_status": "bateu"
   }
 ]
