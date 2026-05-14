@@ -1,9 +1,9 @@
 {
-  "updated_at": "14/05/2026 21:43:07",
+  "updated_at": "14/05/2026 22:42:58",
   "summary": {
     "total": 466,
-    "finalizados": 458,
-    "agendados": 8,
+    "finalizados": 466,
+    "agendados": 0,
     "ligas": 21
   },
   "jogos": [
@@ -3203,29 +3203,29 @@
       "liga": "FC26 R490(CHAMPIONS LEAGUE)14.05.2026",
       "p1": "Barcelona (Gael)",
       "p2": "Liverpool (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R490(CHAMPIONS LEAGUE)14.05.2026",
       "p1": "Real Madrid (Adriano)",
       "p2": "Manchester City (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R490(CHAMPIONS LEAGUE)14.05.2026",
       "p1": "Manchester City (Eric)",
       "p2": "Atletico Madrid (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R490(CHAMPIONS LEAGUE)14.05.2026",
       "p1": "Real Madrid (Adriano)",
       "p2": "Liverpool (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R491(SERIA A)14.05.2026",
@@ -3245,29 +3245,29 @@
       "liga": "FC26 R491(SERIA A)14.05.2026",
       "p1": "Inter (Felix)",
       "p2": "Napoli (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R491(SERIA A)14.05.2026",
       "p1": "Milan (Iron)",
       "p2": "Atalanta (Jason)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R491(SERIA A)14.05.2026",
       "p1": "Atalanta (Jason)",
       "p2": "Napoli (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R491(SERIA A)14.05.2026",
       "p1": "Milan (Iron)",
       "p2": "Fiorentina (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -3368,13 +3368,13 @@
     },
     "FC26 R490(CHAMPIONS LEAGUE)14.05.2026": {
       "total": 8,
-      "finalizados": 4,
-      "agendados": 4
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R491(SERIA A)14.05.2026": {
       "total": 6,
-      "finalizados": 2,
-      "agendados": 4
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -4618,114 +4618,126 @@
     ],
     "FC26 R490(CHAMPIONS LEAGUE)14.05.2026": [
       {
-        "nome": "Atletico Madrid (Odin)",
-        "Pts": 6,
-        "J": 2,
+        "nome": "Real Madrid (Adriano)",
+        "Pts": 7,
+        "J": 3,
         "V": 2,
-        "E": 0,
+        "E": 1,
         "D": 0,
-        "GP": 7,
-        "GC": 3,
-        "SG": 4,
+        "GP": 8,
+        "GC": 5,
+        "SG": 3,
         "pos": 1
       },
       {
-        "nome": "Liverpool (Dexter)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
+        "nome": "Atletico Madrid (Odin)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
         "D": 1,
-        "GP": 3,
+        "GP": 8,
         "GC": 5,
-        "SG": -2,
+        "SG": 3,
         "pos": 2
       },
       {
-        "nome": "Real Madrid (Adriano)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
-        "E": 1,
-        "D": 0,
-        "GP": 2,
-        "GC": 2,
-        "SG": 0,
+        "nome": "Liverpool (Dexter)",
+        "Pts": 6,
+        "J": 4,
+        "V": 2,
+        "E": 0,
+        "D": 2,
+        "GP": 9,
+        "GC": 11,
+        "SG": -2,
         "pos": 3
+      },
+      {
+        "nome": "Manchester City (Eric)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 4,
+        "GC": 6,
+        "SG": -2,
+        "pos": 4
       },
       {
         "nome": "Barcelona (Gael)",
         "Pts": 1,
-        "J": 2,
+        "J": 3,
         "V": 0,
         "E": 1,
-        "D": 1,
-        "GP": 4,
-        "GC": 5,
-        "SG": -1,
-        "pos": 4
-      },
-      {
-        "nome": "Manchester City (Eric)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
-        "E": 0,
-        "D": 1,
-        "GP": 1,
-        "GC": 2,
-        "SG": -1,
+        "D": 2,
+        "GP": 7,
+        "GC": 9,
+        "SG": -2,
         "pos": 5
       }
     ],
     "FC26 R491(SERIA A)14.05.2026": [
       {
-        "nome": "Inter (Felix)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
-        "E": 0,
+        "nome": "Napoli (Sebastian)",
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
+        "E": 1,
         "D": 0,
-        "GP": 3,
-        "GC": 2,
-        "SG": 1,
+        "GP": 12,
+        "GC": 10,
+        "SG": 2,
         "pos": 1
       },
       {
-        "nome": "Napoli (Sebastian)",
-        "Pts": 3,
-        "J": 1,
+        "nome": "Inter (Felix)",
+        "Pts": 4,
+        "J": 2,
         "V": 1,
-        "E": 0,
+        "E": 1,
         "D": 0,
-        "GP": 3,
-        "GC": 2,
+        "GP": 7,
+        "GC": 6,
         "SG": 1,
         "pos": 2
       },
       {
         "nome": "Atalanta (Jason)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 12,
+        "GC": 10,
+        "SG": 2,
+        "pos": 3
+      },
+      {
+        "nome": "Milan (Iron)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
         "E": 0,
         "D": 1,
-        "GP": 2,
-        "GC": 3,
+        "GP": 7,
+        "GC": 8,
         "SG": -1,
-        "pos": 3
+        "pos": 4
       },
       {
         "nome": "Fiorentina (Arthur)",
         "Pts": 0,
-        "J": 1,
+        "J": 2,
         "V": 0,
         "E": 0,
-        "D": 1,
-        "GP": 2,
-        "GC": 3,
-        "SG": -1,
-        "pos": 4
+        "D": 2,
+        "GP": 4,
+        "GC": 8,
+        "SG": -4,
+        "pos": 5
       }
     ]
   }
