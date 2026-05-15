@@ -1,9 +1,9 @@
 {
-  "updated_at": "15/05/2026 21:21:03",
+  "updated_at": "15/05/2026 22:16:12",
   "summary": {
     "total": 359,
-    "finalizados": 347,
-    "agendados": 12,
+    "finalizados": 359,
+    "agendados": 0,
     "ligas": 20
   },
   "jogos": [
@@ -2440,85 +2440,85 @@
       "liga": "FC26 R508(CHAMPIONS LEAGUE)15.05.2026",
       "p1": "Atletico Madrid (Eduardo)",
       "p2": "Liverpool (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R508(CHAMPIONS LEAGUE)15.05.2026",
       "p1": "PSG (Adriano)",
       "p2": "Manchester City (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R508(CHAMPIONS LEAGUE)15.05.2026",
       "p1": "Atletico Madrid (Eduardo)",
       "p2": "Bayern M. (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R508(CHAMPIONS LEAGUE)15.05.2026",
       "p1": "Liverpool (Gael)",
       "p2": "Manchester City (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R508(CHAMPIONS LEAGUE)15.05.2026",
       "p1": "Atletico Madrid (Eduardo)",
       "p2": "Manchester City (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R508(CHAMPIONS LEAGUE)15.05.2026",
       "p1": "Bayern M. (Arthur)",
       "p2": "PSG (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R509(INTERNATIONAL)15.05.2026",
       "p1": "Portugal (Sebastian)",
       "p2": "Argentina (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R509(INTERNATIONAL)15.05.2026",
       "p1": "Spain (Jason)",
       "p2": "Holland (William)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R509(INTERNATIONAL)15.05.2026",
       "p1": "Italy (Splinter)",
       "p2": "Holland (William)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R509(INTERNATIONAL)15.05.2026",
       "p1": "Spain (Jason)",
       "p2": "Portugal (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R509(INTERNATIONAL)15.05.2026",
       "p1": "Holland (William)",
       "p2": "Portugal (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R509(INTERNATIONAL)15.05.2026",
       "p1": "Italy (Splinter)",
       "p2": "Argentina (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2614,13 +2614,13 @@
     },
     "FC26 R508(CHAMPIONS LEAGUE)15.05.2026": {
       "total": 7,
-      "finalizados": 1,
-      "agendados": 6
+      "finalizados": 7,
+      "agendados": 0
     },
     "FC26 R509(INTERNATIONAL)15.05.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3742,28 +3742,126 @@
     ],
     "FC26 R508(CHAMPIONS LEAGUE)15.05.2026": [
       {
-        "nome": "PSG (Adriano)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
-        "E": 0,
+        "nome": "Manchester City (Odin)",
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
+        "E": 1,
         "D": 0,
-        "GP": 3,
-        "GC": 1,
-        "SG": 2,
+        "GP": 10,
+        "GC": 7,
+        "SG": 3,
         "pos": 1
       },
       {
+        "nome": "PSG (Adriano)",
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
+        "E": 1,
+        "D": 0,
+        "GP": 8,
+        "GC": 5,
+        "SG": 3,
+        "pos": 2
+      },
+      {
+        "nome": "Atletico Madrid (Eduardo)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 9,
+        "GC": 10,
+        "SG": -1,
+        "pos": 3
+      },
+      {
         "nome": "Liverpool (Gael)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 8,
+        "GC": 10,
+        "SG": -2,
+        "pos": 4
+      },
+      {
+        "nome": "Bayern M. (Arthur)",
         "Pts": 0,
-        "J": 1,
+        "J": 2,
         "V": 0,
         "E": 0,
+        "D": 2,
+        "GP": 4,
+        "GC": 7,
+        "SG": -3,
+        "pos": 5
+      }
+    ],
+    "FC26 R509(INTERNATIONAL)15.05.2026": [
+      {
+        "nome": "Holland (William)",
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
+        "E": 1,
+        "D": 0,
+        "GP": 14,
+        "GC": 9,
+        "SG": 5,
+        "pos": 1
+      },
+      {
+        "nome": "Portugal (Sebastian)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
         "D": 1,
-        "GP": 1,
-        "GC": 3,
+        "GP": 9,
+        "GC": 11,
         "SG": -2,
         "pos": 2
+      },
+      {
+        "nome": "Argentina (Kristof)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 7,
+        "GC": 5,
+        "SG": 2,
+        "pos": 3
+      },
+      {
+        "nome": "Italy (Splinter)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 8,
+        "GC": 8,
+        "SG": 0,
+        "pos": 4
+      },
+      {
+        "nome": "Spain (Jason)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 4,
+        "GC": 9,
+        "SG": -5,
+        "pos": 5
       }
     ]
   }
