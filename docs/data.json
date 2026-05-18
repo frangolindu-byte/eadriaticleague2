@@ -1,9 +1,9 @@
 {
-  "updated_at": "18/05/2026 21:38:31",
+  "updated_at": "18/05/2026 22:38:40",
   "summary": {
     "total": 360,
-    "finalizados": 350,
-    "agendados": 10,
+    "finalizados": 358,
+    "agendados": 2,
     "ligas": 20
   },
   "jogos": [
@@ -2461,29 +2461,29 @@
       "liga": "FC26 R43(CHAMPIONS LEAGUE)18.05.2026",
       "p1": "Atletico Madrid (Gael)",
       "p2": "Bayern M. (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R43(CHAMPIONS LEAGUE)18.05.2026",
       "p1": "Barcelona (Eric)",
       "p2": "PSG (Matrix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R43(CHAMPIONS LEAGUE)18.05.2026",
       "p1": "Barcelona (Eric)",
       "p2": "Bayern M. (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R43(CHAMPIONS LEAGUE)18.05.2026",
       "p1": "PSG (Matrix)",
       "p2": "Liverpool (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R44(INTERNATIONAL)18.05.2026",
@@ -2503,29 +2503,29 @@
       "liga": "FC26 R44(INTERNATIONAL)18.05.2026",
       "p1": "Holland (Felix)",
       "p2": "Spain (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R44(INTERNATIONAL)18.05.2026",
       "p1": "Portugal (Kristof)",
       "p2": "Norway (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R44(INTERNATIONAL)18.05.2026",
       "p1": "Holland (Felix)",
       "p2": "Denmark (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R44(INTERNATIONAL)18.05.2026",
       "p1": "Spain (Conde)",
       "p2": "Norway (Arthur)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2621,13 +2621,13 @@
     },
     "FC26 R43(CHAMPIONS LEAGUE)18.05.2026": {
       "total": 8,
-      "finalizados": 4,
-      "agendados": 4
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R44(INTERNATIONAL)18.05.2026": {
       "total": 6,
-      "finalizados": 2,
-      "agendados": 4
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3750,113 +3750,125 @@
     "FC26 R43(CHAMPIONS LEAGUE)18.05.2026": [
       {
         "nome": "Liverpool (Dexter)",
-        "Pts": 6,
-        "J": 2,
-        "V": 2,
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
         "E": 0,
         "D": 0,
-        "GP": 5,
-        "GC": 3,
-        "SG": 2,
+        "GP": 7,
+        "GC": 4,
+        "SG": 3,
         "pos": 1
       },
       {
-        "nome": "Barcelona (Eric)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
-        "E": 0,
-        "D": 0,
-        "GP": 4,
-        "GC": 3,
-        "SG": 1,
+        "nome": "Bayern M. (Odin)",
+        "Pts": 7,
+        "J": 4,
+        "V": 2,
+        "E": 1,
+        "D": 1,
+        "GP": 13,
+        "GC": 8,
+        "SG": 5,
         "pos": 2
       },
       {
         "nome": "PSG (Matrix)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
         "E": 1,
-        "D": 0,
-        "GP": 4,
-        "GC": 4,
+        "D": 1,
+        "GP": 8,
+        "GC": 8,
         "SG": 0,
         "pos": 3
       },
       {
-        "nome": "Bayern M. (Odin)",
-        "Pts": 1,
-        "J": 2,
-        "V": 0,
-        "E": 1,
-        "D": 1,
-        "GP": 6,
-        "GC": 7,
-        "SG": -1,
+        "nome": "Barcelona (Eric)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 7,
+        "GC": 10,
+        "SG": -3,
         "pos": 4
       },
       {
         "nome": "Atletico Madrid (Gael)",
         "Pts": 0,
-        "J": 2,
+        "J": 3,
         "V": 0,
         "E": 0,
-        "D": 2,
+        "D": 3,
         "GP": 4,
-        "GC": 6,
-        "SG": -2,
+        "GC": 9,
+        "SG": -5,
         "pos": 5
       }
     ],
     "FC26 R44(INTERNATIONAL)18.05.2026": [
       {
         "nome": "Portugal (Kristof)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
         "E": 0,
         "D": 0,
-        "GP": 5,
-        "GC": 4,
-        "SG": 1,
+        "GP": 9,
+        "GC": 7,
+        "SG": 2,
         "pos": 1
       },
       {
         "nome": "Norway (Arthur)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
         "E": 1,
-        "D": 0,
-        "GP": 2,
-        "GC": 2,
+        "D": 1,
+        "GP": 10,
+        "GC": 10,
         "SG": 0,
         "pos": 2
       },
       {
-        "nome": "Denmark (George)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
-        "E": 1,
-        "D": 0,
-        "GP": 2,
-        "GC": 2,
-        "SG": 0,
+        "nome": "Spain (Conde)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 13,
+        "GC": 14,
+        "SG": -1,
         "pos": 3
       },
       {
-        "nome": "Spain (Conde)",
-        "Pts": 0,
-        "J": 1,
+        "nome": "Denmark (George)",
+        "Pts": 2,
+        "J": 2,
         "V": 0,
-        "E": 0,
-        "D": 1,
-        "GP": 4,
-        "GC": 5,
-        "SG": -1,
+        "E": 2,
+        "D": 0,
+        "GP": 3,
+        "GC": 3,
+        "SG": 0,
         "pos": 4
+      },
+      {
+        "nome": "Holland (Felix)",
+        "Pts": 1,
+        "J": 2,
+        "V": 0,
+        "E": 1,
+        "D": 1,
+        "GP": 5,
+        "GC": 6,
+        "SG": -1,
+        "pos": 5
       }
     ]
   }
