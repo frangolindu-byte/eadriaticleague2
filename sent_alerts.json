@@ -14448,7 +14448,10 @@
     ],
     "assertividade": 80.6,
     "key": "FC26 R52(INTERNATIONAL)19.05.2026|Denmark (Flash)|Italy (Leonardo)",
-    "message_id": 1194
+    "message_id": 1194,
+    "result_checked": true,
+    "result_placar": "3-4",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R52(INTERNATIONAL)19.05.2026",
@@ -14472,7 +14475,10 @@
     ],
     "assertividade": 80.6,
     "key": "FC26 R52(INTERNATIONAL)19.05.2026|Denmark (Flash)|Italy (Leonardo)",
-    "message_id": 1195
+    "message_id": 1195,
+    "result_checked": true,
+    "result_placar": "3-4",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R52(INTERNATIONAL)19.05.2026",
@@ -14496,7 +14502,10 @@
     ],
     "assertividade": 80.6,
     "key": "FC26 R52(INTERNATIONAL)19.05.2026|Denmark (Flash)|Italy (Leonardo)",
-    "message_id": 1196
+    "message_id": 1196,
+    "result_checked": true,
+    "result_placar": "3-4",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R52(INTERNATIONAL)19.05.2026",
@@ -14520,7 +14529,10 @@
     ],
     "assertividade": 80.6,
     "key": "FC26 R52(INTERNATIONAL)19.05.2026|Denmark (Flash)|Italy (Leonardo)",
-    "message_id": 1197
+    "message_id": 1197,
+    "result_checked": true,
+    "result_placar": "3-4",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R46(CHAMPIONS LEAGUE)19.05.2026",
@@ -14601,5 +14613,86 @@
     "result_checked": true,
     "result_placar": "5-4",
     "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R52(INTERNATIONAL)19.05.2026",
+    "p1": "Norway (Oliver)",
+    "p2": "Portugal (Gabriel)",
+    "w1": 20.0,
+    "w2": 100.0,
+    "j1": 5,
+    "j2": 5,
+    "o65": 80.0,
+    "btts": 100.0,
+    "avg_g": 7.800000000000001,
+    "f1": "L-L-L-W-L",
+    "f2": "W-W-W-W-W",
+    "fav": "Portugal (Gabriel)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 80%",
+      "BTTS: 100%",
+      "Vitoria Portugal (Gabriel) (WR 100%)"
+    ],
+    "assertividade": 92.0,
+    "key": "FC26 R52(INTERNATIONAL)19.05.2026|Norway (Oliver)|Portugal (Gabriel)",
+    "message_id": 1201,
+    "result_checked": true,
+    "result_placar": "2-5",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R52(INTERNATIONAL)19.05.2026",
+    "p1": "Italy (Leonardo)",
+    "p2": "Portugal (Gabriel)",
+    "w1": 33.3,
+    "w2": 100.0,
+    "j1": 12,
+    "j2": 5,
+    "o65": 81.65,
+    "btts": 100.0,
+    "avg_g": 8.54,
+    "f1": "L-L-L-L-L",
+    "f2": "W-W-W-W-W",
+    "fav": "Portugal (Gabriel)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 82%",
+      "BTTS: 100%",
+      "Vitoria Portugal (Gabriel) (WR 100%)"
+    ],
+    "assertividade": 92.7,
+    "key": "FC26 R52(INTERNATIONAL)19.05.2026|Italy (Leonardo)|Portugal (Gabriel)",
+    "message_id": 1202,
+    "result_checked": true,
+    "result_placar": "2-5",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R52(INTERNATIONAL)19.05.2026",
+    "p1": "Portugal (Gabriel)",
+    "p2": "Norway (Oliver)",
+    "w1": 100.0,
+    "w2": 20.0,
+    "j1": 5,
+    "j2": 5,
+    "o65": 80.0,
+    "btts": 100.0,
+    "avg_g": 7.8,
+    "f1": "W-W-W-W-W",
+    "f2": "L-L-L-W-L",
+    "fav": "Portugal (Gabriel)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 80%",
+      "BTTS: 100%",
+      "Vitoria Portugal (Gabriel) (WR 100%)"
+    ],
+    "assertividade": 92.0,
+    "key": "FC26 R52(INTERNATIONAL)19.05.2026|Norway (Oliver)|Portugal (Gabriel)",
+    "message_id": 1203,
+    "result_checked": true,
+    "result_placar": "2-5",
+    "result_status": "bateu"
   }
 ]
