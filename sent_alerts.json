@@ -14794,7 +14794,10 @@
     ],
     "assertividade": 67.8,
     "key": "FC26 R78(LA LIGA)20.05.2026|Barcelona (Beckham)|Sevilla (Haidan)",
-    "message_id": 1207
+    "message_id": 1207,
+    "result_checked": true,
+    "result_placar": "3-6",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R78(LA LIGA)20.05.2026",
@@ -14818,7 +14821,10 @@
     ],
     "assertividade": 67.8,
     "key": "FC26 R78(LA LIGA)20.05.2026|Barcelona (Beckham)|Sevilla (Haidan)",
-    "message_id": 1208
+    "message_id": 1208,
+    "result_checked": true,
+    "result_placar": "3-6",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R68(INTERNATIONAL)20.05.2026",
@@ -14981,5 +14987,110 @@
     "result_checked": true,
     "result_placar": "6-3",
     "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R78(LA LIGA)20.05.2026",
+    "p1": "Sevilla (Haidan)",
+    "p2": "Real Madrid (Alexander)",
+    "w1": 28.6,
+    "w2": 38.2,
+    "j1": 14,
+    "j2": 55,
+    "o65": 74.65,
+    "btts": 99.1,
+    "avg_g": 8.260000000000002,
+    "f1": "W-L-W-L-L",
+    "f2": "W-L-W-L-W",
+    "fav": "Real Madrid (Alexander)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 75%",
+      "BTTS: 99%"
+    ],
+    "assertividade": 68.0,
+    "key": "FC26 R78(LA LIGA)20.05.2026|Real Madrid (Alexander)|Sevilla (Haidan)",
+    "message_id": 1215,
+    "result_checked": true,
+    "result_placar": "6-4",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R78(LA LIGA)20.05.2026",
+    "p1": "Sevilla (Haidan)",
+    "p2": "Villarreal (Pascal)",
+    "w1": 28.6,
+    "w2": 25.0,
+    "j1": 14,
+    "j2": 20,
+    "o65": 72.85,
+    "btts": 100.0,
+    "avg_g": 8.08,
+    "f1": "W-L-W-L-L",
+    "f2": "L-L-W-W-L",
+    "fav": "Sevilla (Haidan)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 73%",
+      "BTTS: 100%"
+    ],
+    "assertividade": 64.1,
+    "key": "FC26 R78(LA LIGA)20.05.2026|Sevilla (Haidan)|Villarreal (Pascal)",
+    "message_id": 1216,
+    "result_checked": true,
+    "result_placar": "5-3",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R78(LA LIGA)20.05.2026",
+    "p1": "Barcelona (Beckham)",
+    "p2": "Villarreal (Pascal)",
+    "w1": 56.0,
+    "w2": 25.0,
+    "j1": 75,
+    "j2": 20,
+    "o65": 52.65,
+    "btts": 97.35,
+    "avg_g": 6.460000000000001,
+    "f1": "W-W-L-W-L",
+    "f2": "L-L-W-W-L",
+    "fav": "Barcelona (Beckham)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 53%",
+      "BTTS: 97%",
+      "Vitoria Barcelona (Beckham) (WR 56%)"
+    ],
+    "assertividade": 65.0,
+    "key": "FC26 R78(LA LIGA)20.05.2026|Barcelona (Beckham)|Villarreal (Pascal)",
+    "message_id": 1217,
+    "result_checked": true,
+    "result_placar": "4-1",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R78(LA LIGA)20.05.2026",
+    "p1": "Real Madrid (Alexander)",
+    "p2": "Sevilla (Haidan)",
+    "w1": 38.2,
+    "w2": 28.6,
+    "j1": 55,
+    "j2": 14,
+    "o65": 74.65,
+    "btts": 99.1,
+    "avg_g": 8.260000000000002,
+    "f1": "W-L-W-L-W",
+    "f2": "W-L-W-L-L",
+    "fav": "Real Madrid (Alexander)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 75%",
+      "BTTS: 99%"
+    ],
+    "assertividade": 68.0,
+    "key": "FC26 R78(LA LIGA)20.05.2026|Real Madrid (Alexander)|Sevilla (Haidan)",
+    "message_id": 1218,
+    "result_checked": true,
+    "result_placar": "6-4",
+    "result_status": "bateu"
   }
 ]
