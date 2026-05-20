@@ -14717,7 +14717,10 @@
     ],
     "assertividade": 74.3,
     "key": "FC26 R71(INTERNATIONAL)20.05.2026|Denmark (Flash)|Portugal (Maverick)",
-    "message_id": 1204
+    "message_id": 1204,
+    "result_checked": true,
+    "result_placar": "4-6",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R71(INTERNATIONAL)20.05.2026",
@@ -14741,7 +14744,10 @@
     ],
     "assertividade": 74.3,
     "key": "FC26 R71(INTERNATIONAL)20.05.2026|Denmark (Flash)|Portugal (Maverick)",
-    "message_id": 1205
+    "message_id": 1205,
+    "result_checked": true,
+    "result_placar": "4-6",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R80(CHAMPIONS LEAGUE)20.05.2026",
@@ -14920,6 +14926,60 @@
     "message_id": 1212,
     "result_checked": true,
     "result_placar": "3-1",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R72(PREMIER LEAGUE)20.05.2026",
+    "p1": "Newcastle U. (Kai)",
+    "p2": "Tottenham (Oliver)",
+    "w1": 28.6,
+    "w2": 58.6,
+    "j1": 21,
+    "j2": 29,
+    "o65": 54.400000000000006,
+    "btts": 96.55,
+    "avg_g": 7.065,
+    "f1": "L-D-L-D-L",
+    "f2": "W-W-W-W-W",
+    "fav": "Tottenham (Oliver)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 54%",
+      "BTTS: 97%",
+      "Vitoria Tottenham (Oliver) (WR 59%)"
+    ],
+    "assertividade": 66.4,
+    "key": "FC26 R72(PREMIER LEAGUE)20.05.2026|Newcastle U. (Kai)|Tottenham (Oliver)",
+    "message_id": 1213,
+    "result_checked": true,
+    "result_placar": "6-3",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R72(PREMIER LEAGUE)20.05.2026",
+    "p1": "Tottenham (Oliver)",
+    "p2": "Newcastle U. (Kai)",
+    "w1": 58.6,
+    "w2": 28.6,
+    "j1": 29,
+    "j2": 21,
+    "o65": 54.400000000000006,
+    "btts": 96.55,
+    "avg_g": 7.0649999999999995,
+    "f1": "W-W-W-W-W",
+    "f2": "L-D-L-D-L",
+    "fav": "Tottenham (Oliver)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 54%",
+      "BTTS: 97%",
+      "Vitoria Tottenham (Oliver) (WR 59%)"
+    ],
+    "assertividade": 66.4,
+    "key": "FC26 R72(PREMIER LEAGUE)20.05.2026|Newcastle U. (Kai)|Tottenham (Oliver)",
+    "message_id": 1214,
+    "result_checked": true,
+    "result_placar": "6-3",
     "result_status": "errou"
   }
 ]
