@@ -15118,7 +15118,10 @@
     ],
     "assertividade": 81.3,
     "key": "FC26 R84(SERIA A)21.05.2026|Atalanta (William)|Inter (Sebastian)",
-    "message_id": 1219
+    "message_id": 1219,
+    "result_checked": true,
+    "result_placar": "4-6",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R84(SERIA A)21.05.2026",
@@ -15142,7 +15145,10 @@
     ],
     "assertividade": 81.3,
     "key": "FC26 R84(SERIA A)21.05.2026|Atalanta (William)|Inter (Sebastian)",
-    "message_id": 1220
+    "message_id": 1220,
+    "result_checked": true,
+    "result_placar": "4-6",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R84(SERIA A)21.05.2026",
@@ -15166,7 +15172,10 @@
     ],
     "assertividade": 81.3,
     "key": "FC26 R84(SERIA A)21.05.2026|Atalanta (William)|Inter (Sebastian)",
-    "message_id": 1221
+    "message_id": 1221,
+    "result_checked": true,
+    "result_placar": "4-6",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R84(SERIA A)21.05.2026",
@@ -15190,7 +15199,10 @@
     ],
     "assertividade": 81.3,
     "key": "FC26 R84(SERIA A)21.05.2026|Atalanta (William)|Inter (Sebastian)",
-    "message_id": 1222
+    "message_id": 1222,
+    "result_checked": true,
+    "result_placar": "4-6",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R82(INTERNATIONAL)21.05.2026",
@@ -15217,6 +15229,128 @@
     "message_id": 1223,
     "result_checked": true,
     "result_placar": "3-3",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R88(PREMIER LEAGUE)21.05.2026",
+    "p1": "Tottenham (Andrew)",
+    "p2": "Arsenal (Haidan)",
+    "w1": 56.2,
+    "w2": 12.5,
+    "j1": 16,
+    "j2": 16,
+    "o65": 50.0,
+    "btts": 96.9,
+    "avg_g": 6.94,
+    "f1": "W-W-W-L-L",
+    "f2": "L-L-D-L-L",
+    "fav": "Tottenham (Andrew)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 50%",
+      "BTTS: 97%",
+      "Vitoria Tottenham (Andrew) (WR 56%)"
+    ],
+    "assertividade": 63.9,
+    "key": "FC26 R88(PREMIER LEAGUE)21.05.2026|Arsenal (Haidan)|Tottenham (Andrew)",
+    "message_id": 1224
+  },
+  {
+    "liga": "FC26 R88(PREMIER LEAGUE)21.05.2026",
+    "p1": "Arsenal (Haidan)",
+    "p2": "Tottenham (Andrew)",
+    "w1": 12.5,
+    "w2": 56.2,
+    "j1": 16,
+    "j2": 16,
+    "o65": 50.0,
+    "btts": 96.9,
+    "avg_g": 6.9399999999999995,
+    "f1": "L-L-D-L-L",
+    "f2": "W-W-W-L-L",
+    "fav": "Tottenham (Andrew)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 50%",
+      "BTTS: 97%",
+      "Vitoria Tottenham (Andrew) (WR 56%)"
+    ],
+    "assertividade": 63.9,
+    "key": "FC26 R88(PREMIER LEAGUE)21.05.2026|Arsenal (Haidan)|Tottenham (Andrew)",
+    "message_id": 1225
+  },
+  {
+    "liga": "FC26 R88(PREMIER LEAGUE)21.05.2026",
+    "p1": "Tottenham (Andrew)",
+    "p2": "Arsenal (Haidan)",
+    "w1": 56.2,
+    "w2": 12.5,
+    "j1": 16,
+    "j2": 16,
+    "o65": 50.0,
+    "btts": 96.9,
+    "avg_g": 6.94,
+    "f1": "W-W-W-L-L",
+    "f2": "L-L-D-L-L",
+    "fav": "Tottenham (Andrew)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 50%",
+      "BTTS: 97%",
+      "Vitoria Tottenham (Andrew) (WR 56%)"
+    ],
+    "assertividade": 63.9,
+    "key": "FC26 R88(PREMIER LEAGUE)21.05.2026|Arsenal (Haidan)|Tottenham (Andrew)",
+    "message_id": 1226
+  },
+  {
+    "liga": "FC26 R88(PREMIER LEAGUE)21.05.2026",
+    "p1": "Arsenal (Haidan)",
+    "p2": "Tottenham (Andrew)",
+    "w1": 12.5,
+    "w2": 56.2,
+    "j1": 16,
+    "j2": 16,
+    "o65": 50.0,
+    "btts": 96.9,
+    "avg_g": 6.9399999999999995,
+    "f1": "L-L-D-L-L",
+    "f2": "W-W-W-L-L",
+    "fav": "Tottenham (Andrew)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 50%",
+      "BTTS: 97%",
+      "Vitoria Tottenham (Andrew) (WR 56%)"
+    ],
+    "assertividade": 63.9,
+    "key": "FC26 R88(PREMIER LEAGUE)21.05.2026|Arsenal (Haidan)|Tottenham (Andrew)",
+    "message_id": 1227
+  },
+  {
+    "liga": "FC26 R82(INTERNATIONAL)21.05.2026",
+    "p1": "Italy (Sebastian)",
+    "p2": "Spain (William)",
+    "w1": 34.8,
+    "w2": 37.5,
+    "j1": 46,
+    "j2": 8,
+    "o65": 76.35,
+    "btts": 97.85,
+    "avg_g": 7.785,
+    "f1": "W-L-D-W-W",
+    "f2": "L-W-W-W-L",
+    "fav": "Spain (William)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 76%",
+      "BTTS: 98%"
+    ],
+    "assertividade": 68.1,
+    "key": "FC26 R82(INTERNATIONAL)21.05.2026|Italy (Sebastian)|Spain (William)",
+    "message_id": 1228,
+    "result_checked": true,
+    "result_placar": "5-4",
     "result_status": "errou"
   }
 ]
