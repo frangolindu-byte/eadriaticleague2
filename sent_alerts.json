@@ -15253,7 +15253,10 @@
     ],
     "assertividade": 63.9,
     "key": "FC26 R88(PREMIER LEAGUE)21.05.2026|Arsenal (Haidan)|Tottenham (Andrew)",
-    "message_id": 1224
+    "message_id": 1224,
+    "result_checked": true,
+    "result_placar": "3-6",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R88(PREMIER LEAGUE)21.05.2026",
@@ -15277,7 +15280,10 @@
     ],
     "assertividade": 63.9,
     "key": "FC26 R88(PREMIER LEAGUE)21.05.2026|Arsenal (Haidan)|Tottenham (Andrew)",
-    "message_id": 1225
+    "message_id": 1225,
+    "result_checked": true,
+    "result_placar": "3-6",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R88(PREMIER LEAGUE)21.05.2026",
@@ -15301,7 +15307,10 @@
     ],
     "assertividade": 63.9,
     "key": "FC26 R88(PREMIER LEAGUE)21.05.2026|Arsenal (Haidan)|Tottenham (Andrew)",
-    "message_id": 1226
+    "message_id": 1226,
+    "result_checked": true,
+    "result_placar": "3-6",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R88(PREMIER LEAGUE)21.05.2026",
@@ -15325,7 +15334,10 @@
     ],
     "assertividade": 63.9,
     "key": "FC26 R88(PREMIER LEAGUE)21.05.2026|Arsenal (Haidan)|Tottenham (Andrew)",
-    "message_id": 1227
+    "message_id": 1227,
+    "result_checked": true,
+    "result_placar": "3-6",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R82(INTERNATIONAL)21.05.2026",
@@ -15352,5 +15364,140 @@
     "result_checked": true,
     "result_placar": "5-4",
     "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R87(SERIA A)21.05.2026",
+    "p1": "Atalanta (Gabriel)",
+    "p2": "Inter (Oliver)",
+    "w1": 57.9,
+    "w2": 26.3,
+    "j1": 19,
+    "j2": 19,
+    "o65": 63.150000000000006,
+    "btts": 92.1,
+    "avg_g": 7.050000000000001,
+    "f1": "W-W-W-W-W",
+    "f2": "L-W-L-L-L",
+    "fav": "Atalanta (Gabriel)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 63%",
+      "BTTS: 92%",
+      "Vitoria Atalanta (Gabriel) (WR 58%)"
+    ],
+    "assertividade": 68.5,
+    "key": "FC26 R87(SERIA A)21.05.2026|Atalanta (Gabriel)|Inter (Oliver)",
+    "message_id": 1229,
+    "result_checked": true,
+    "result_placar": "5-3",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R87(SERIA A)21.05.2026",
+    "p1": "Atalanta (Gabriel)",
+    "p2": "Juventus (Leonardo)",
+    "w1": 57.9,
+    "w2": 25.9,
+    "j1": 19,
+    "j2": 27,
+    "o65": 67.55000000000001,
+    "btts": 94.75,
+    "avg_g": 7.1850000000000005,
+    "f1": "W-W-W-W-W",
+    "f2": "D-L-L-L-W",
+    "fav": "Atalanta (Gabriel)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 68%",
+      "BTTS: 95%",
+      "Vitoria Atalanta (Gabriel) (WR 58%)"
+    ],
+    "assertividade": 71.0,
+    "key": "FC26 R87(SERIA A)21.05.2026|Atalanta (Gabriel)|Juventus (Leonardo)",
+    "message_id": 1230,
+    "result_checked": true,
+    "result_placar": "6-2",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R87(SERIA A)21.05.2026",
+    "p1": "Inter (Oliver)",
+    "p2": "Atalanta (Gabriel)",
+    "w1": 26.3,
+    "w2": 57.9,
+    "j1": 19,
+    "j2": 19,
+    "o65": 63.150000000000006,
+    "btts": 92.1,
+    "avg_g": 7.050000000000001,
+    "f1": "L-W-L-L-L",
+    "f2": "W-W-W-W-W",
+    "fav": "Atalanta (Gabriel)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 63%",
+      "BTTS: 92%",
+      "Vitoria Atalanta (Gabriel) (WR 58%)"
+    ],
+    "assertividade": 68.5,
+    "key": "FC26 R87(SERIA A)21.05.2026|Atalanta (Gabriel)|Inter (Oliver)",
+    "message_id": 1231,
+    "result_checked": true,
+    "result_placar": "5-3",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R87(SERIA A)21.05.2026",
+    "p1": "Juventus (Leonardo)",
+    "p2": "Atalanta (Gabriel)",
+    "w1": 25.9,
+    "w2": 57.9,
+    "j1": 27,
+    "j2": 19,
+    "o65": 67.55000000000001,
+    "btts": 94.75,
+    "avg_g": 7.1850000000000005,
+    "f1": "D-L-L-L-W",
+    "f2": "W-W-W-W-W",
+    "fav": "Atalanta (Gabriel)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 68%",
+      "BTTS: 95%",
+      "Vitoria Atalanta (Gabriel) (WR 58%)"
+    ],
+    "assertividade": 71.0,
+    "key": "FC26 R87(SERIA A)21.05.2026|Atalanta (Gabriel)|Juventus (Leonardo)",
+    "message_id": 1232,
+    "result_checked": true,
+    "result_placar": "6-2",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R87(SERIA A)21.05.2026",
+    "p1": "Atalanta (Gabriel)",
+    "p2": "Inter (Oliver)",
+    "w1": 57.9,
+    "w2": 26.3,
+    "j1": 19,
+    "j2": 19,
+    "o65": 63.150000000000006,
+    "btts": 92.1,
+    "avg_g": 7.050000000000001,
+    "f1": "W-W-W-W-W",
+    "f2": "L-W-L-L-L",
+    "fav": "Atalanta (Gabriel)",
+    "score": 75,
+    "reasons": [
+      "Over 6.5: 63%",
+      "BTTS: 92%",
+      "Vitoria Atalanta (Gabriel) (WR 58%)"
+    ],
+    "assertividade": 68.5,
+    "key": "FC26 R87(SERIA A)21.05.2026|Atalanta (Gabriel)|Inter (Oliver)",
+    "message_id": 1233,
+    "result_checked": true,
+    "result_placar": "5-3",
+    "result_status": "bateu"
   }
 ]
