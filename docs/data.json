@@ -1,9 +1,9 @@
 {
-  "updated_at": "30/05/2026 18:49:52",
+  "updated_at": "30/05/2026 20:01:05",
   "summary": {
     "total": 300,
-    "finalizados": 270,
-    "agendados": 30,
+    "finalizados": 280,
+    "agendados": 20,
     "ligas": 17
   },
   "jogos": [
@@ -1901,71 +1901,71 @@
       "liga": "FC26 R249(CHAMPIONS LEAGUE)30.05.2026",
       "p1": "Bayern M. (Luigi)",
       "p2": "Liverpool (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R249(CHAMPIONS LEAGUE)30.05.2026",
       "p1": "PSG (Liam)",
       "p2": "Atletico Madrid (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R249(CHAMPIONS LEAGUE)30.05.2026",
       "p1": "Bayern M. (Luigi)",
       "p2": "Atletico Madrid (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R249(CHAMPIONS LEAGUE)30.05.2026",
       "p1": "Liverpool (Donatello)",
       "p2": "Barcelona (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R249(CHAMPIONS LEAGUE)30.05.2026",
       "p1": "Bayern M. (Luigi)",
       "p2": "Barcelona (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R249(CHAMPIONS LEAGUE)30.05.2026",
       "p1": "Liverpool (Donatello)",
       "p2": "PSG (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R249(CHAMPIONS LEAGUE)30.05.2026",
       "p1": "Liverpool (Donatello)",
       "p2": "Atletico Madrid (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R249(CHAMPIONS LEAGUE)30.05.2026",
       "p1": "PSG (Liam)",
       "p2": "Barcelona (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R249(CHAMPIONS LEAGUE)30.05.2026",
       "p1": "Atletico Madrid (Cleo)",
       "p2": "Barcelona (Dominic)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R249(CHAMPIONS LEAGUE)30.05.2026",
       "p1": "PSG (Liam)",
       "p2": "Bayern M. (Luigi)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R249(CHAMPIONS LEAGUE)30.05.2026",
@@ -2181,8 +2181,8 @@
     },
     "FC26 R249(CHAMPIONS LEAGUE)30.05.2026": {
       "total": 20,
-      "finalizados": 4,
-      "agendados": 16
+      "finalizados": 14,
+      "agendados": 6
     },
     "FC26 R250(INTERNATIONAL)30.05.2026": {
       "total": 8,
@@ -3066,63 +3066,63 @@
     ],
     "FC26 R249(CHAMPIONS LEAGUE)30.05.2026": [
       {
-        "nome": "PSG (Liam)",
-        "Pts": 6,
-        "J": 2,
-        "V": 2,
-        "E": 0,
-        "D": 0,
-        "GP": 13,
-        "GC": 7,
-        "SG": 6,
+        "nome": "Atletico Madrid (Cleo)",
+        "Pts": 11,
+        "J": 6,
+        "V": 3,
+        "E": 2,
+        "D": 1,
+        "GP": 25,
+        "GC": 18,
+        "SG": 7,
         "pos": 1
       },
       {
-        "nome": "Atletico Madrid (Cleo)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
+        "nome": "Liverpool (Donatello)",
+        "Pts": 9,
+        "J": 5,
+        "V": 3,
         "E": 0,
-        "D": 1,
-        "GP": 10,
-        "GC": 8,
+        "D": 2,
+        "GP": 14,
+        "GC": 12,
         "SG": 2,
         "pos": 2
       },
       {
-        "nome": "Barcelona (Dominic)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
-        "E": 0,
-        "D": 1,
-        "GP": 8,
-        "GC": 10,
-        "SG": -2,
+        "nome": "PSG (Liam)",
+        "Pts": 8,
+        "J": 6,
+        "V": 2,
+        "E": 2,
+        "D": 2,
+        "GP": 24,
+        "GC": 22,
+        "SG": 2,
         "pos": 3
       },
       {
-        "nome": "Bayern M. (Luigi)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
-        "E": 0,
-        "D": 1,
-        "GP": 5,
-        "GC": 8,
+        "nome": "Barcelona (Dominic)",
+        "Pts": 8,
+        "J": 6,
+        "V": 2,
+        "E": 2,
+        "D": 2,
+        "GP": 21,
+        "GC": 24,
         "SG": -3,
         "pos": 4
       },
       {
-        "nome": "Liverpool (Donatello)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
+        "nome": "Bayern M. (Luigi)",
+        "Pts": 3,
+        "J": 5,
+        "V": 1,
         "E": 0,
-        "D": 1,
-        "GP": 2,
-        "GC": 5,
-        "SG": -3,
+        "D": 4,
+        "GP": 20,
+        "GC": 28,
+        "SG": -8,
         "pos": 5
       }
     ]
