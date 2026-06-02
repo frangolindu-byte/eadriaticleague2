@@ -420,7 +420,10 @@
     ],
     "assertividade": 69.4,
     "key": "FC26 R291(SERIA A)02.06.2026|Atalanta (Gabriel)|Juventus (Bruno)",
-    "message_id": 1344
+    "message_id": 1344,
+    "result_checked": true,
+    "result_placar": "1-2",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R295(SERIA A)02.06.2026",
@@ -494,6 +497,55 @@
     ],
     "assertividade": 63.8,
     "key": "FC26 R290(CHAMPIONS LEAGUE)02.06.2026|Barcelona (VanGogh)|Manchester City (Alexander)",
-    "message_id": 1347
+    "message_id": 1347,
+    "result_checked": true,
+    "result_placar": "3-3",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R296(CHAMPIONS LEAGUE)02.06.2026",
+    "p1": "PSG (Pascal)",
+    "p2": "Bayern M. (Haidan)",
+    "w1": 39.6,
+    "w2": 35.9,
+    "j1": 48,
+    "j2": 78,
+    "o65": 70.0,
+    "btts": 97.25,
+    "avg_g": 7.9399999999999995,
+    "f1": "W-L-D-L-L",
+    "f2": "W-W-D-D-L",
+    "fav": "PSG (Pascal)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 70%",
+      "BTTS: 97%"
+    ],
+    "assertividade": 66.2,
+    "key": "FC26 R296(CHAMPIONS LEAGUE)02.06.2026|Bayern M. (Haidan)|PSG (Pascal)",
+    "message_id": 1348
+  },
+  {
+    "liga": "FC26 R300(INTERNATIONAL)02.06.2026",
+    "p1": "Italy (Pascal)",
+    "p2": "Holland (Haidan)",
+    "w1": 19.5,
+    "w2": 37.5,
+    "j1": 41,
+    "j2": 56,
+    "o65": 70.85,
+    "btts": 97.3,
+    "avg_g": 7.715,
+    "f1": "W-D-L-L-L",
+    "f2": "W-W-L-L-W",
+    "fav": "Holland (Haidan)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 71%",
+      "BTTS: 97%"
+    ],
+    "assertividade": 65.8,
+    "key": "FC26 R300(INTERNATIONAL)02.06.2026|Holland (Haidan)|Italy (Pascal)",
+    "message_id": 1349
   }
 ]
