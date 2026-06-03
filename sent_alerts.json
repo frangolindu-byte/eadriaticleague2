@@ -685,6 +685,80 @@
     ],
     "assertividade": 68.4,
     "key": "FC26 R307(SERIA A)03.06.2026|Atalanta (Oliver)|Roma (Gabriel)",
-    "message_id": 1354
+    "message_id": 1354,
+    "result_checked": true,
+    "result_placar": "1-5",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R310(PREMIER LEAGUE)03.06.2026",
+    "p1": "Manchester City (Haidan)",
+    "p2": "Aston Villa (Popeye)",
+    "w1": 32.2,
+    "w2": 62.5,
+    "j1": 59,
+    "j2": 8,
+    "o65": 59.75,
+    "btts": 99.15,
+    "avg_g": 7.594999999999999,
+    "f1": "W-W-D-L-L",
+    "f2": "W-W-D-W-L",
+    "fav": "Aston Villa (Popeye)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 60%",
+      "BTTS: 99%",
+      "Vitoria Aston Villa (Popeye) (WR 62%)"
+    ],
+    "assertividade": 70.6,
+    "key": "FC26 R310(PREMIER LEAGUE)03.06.2026|Aston Villa (Popeye)|Manchester City (Haidan)",
+    "message_id": 1355
+  },
+  {
+    "liga": "FC26 R312(INTERNATIONAL)03.06.2026",
+    "p1": "Portugal (Haidan)",
+    "p2": "France (Popeye)",
+    "w1": 25.0,
+    "w2": 12.5,
+    "j1": 16,
+    "j2": 8,
+    "o65": 65.6,
+    "btts": 100.0,
+    "avg_g": 8.344999999999999,
+    "f1": "L-D-L-L-L",
+    "f2": "W-L-L-L-L",
+    "fav": "Portugal (Haidan)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 66%",
+      "BTTS: 100%"
+    ],
+    "assertividade": 60.0,
+    "key": "FC26 R312(INTERNATIONAL)03.06.2026|France (Popeye)|Portugal (Haidan)",
+    "message_id": 1356
+  },
+  {
+    "liga": "FC26 R315(LA LIGA)03.06.2026",
+    "p1": "Real Sociedad (Panther)",
+    "p2": "Villarreal (Logan)",
+    "w1": 62.5,
+    "w2": 26.7,
+    "j1": 8,
+    "j2": 15,
+    "o65": 57.9,
+    "btts": 100.0,
+    "avg_g": 6.7,
+    "f1": "L-W-W-L-W",
+    "f2": "L-D-W-L-L",
+    "fav": "Real Sociedad (Panther)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 58%",
+      "BTTS: 100%",
+      "Vitoria Real Sociedad (Panther) (WR 62%)"
+    ],
+    "assertividade": 70.0,
+    "key": "FC26 R315(LA LIGA)03.06.2026|Real Sociedad (Panther)|Villarreal (Logan)",
+    "message_id": 1357
   }
 ]
