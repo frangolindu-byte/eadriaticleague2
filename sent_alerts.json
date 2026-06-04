@@ -821,7 +821,10 @@
     ],
     "assertividade": 66.0,
     "key": "FC26 R324(INTERNATIONAL)04.06.2026|France (Sebastian)|Holland (William)",
-    "message_id": 1359
+    "message_id": 1359,
+    "result_checked": true,
+    "result_placar": "3-4",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R324(INTERNATIONAL)04.06.2026",
@@ -844,7 +847,10 @@
     ],
     "assertividade": 64.0,
     "key": "FC26 R324(INTERNATIONAL)04.06.2026|Holland (William)|Portugal (Arthur)",
-    "message_id": 1360
+    "message_id": 1360,
+    "result_checked": true,
+    "result_placar": "2-4",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R326(INTERNATIONAL)04.06.2026",
@@ -891,5 +897,29 @@
     "assertividade": 68.2,
     "key": "FC26 R326(INTERNATIONAL)04.06.2026|Denmark (MisterX)|Italy (Leonardo)",
     "message_id": 1362
+  },
+  {
+    "liga": "FC26 R331(INTERNATIONAL)04.06.2026",
+    "p1": "Argentina (Maverick)",
+    "p2": "Spain (Logan)",
+    "w1": 56.2,
+    "w2": 18.8,
+    "j1": 16,
+    "j2": 16,
+    "o65": 59.4,
+    "btts": 93.75,
+    "avg_g": 7.16,
+    "f1": "W-W-W-W-W",
+    "f2": "D-L-D-L-L",
+    "fav": "Argentina (Maverick)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 59%",
+      "BTTS: 94%",
+      "Vitoria Argentina (Maverick) (WR 56%)"
+    ],
+    "assertividade": 66.9,
+    "key": "FC26 R331(INTERNATIONAL)04.06.2026|Argentina (Maverick)|Spain (Logan)",
+    "message_id": 1363
   }
 ]
