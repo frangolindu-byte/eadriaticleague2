@@ -1,9 +1,9 @@
 {
-  "updated_at": "06/06/2026 19:21:54",
+  "updated_at": "06/06/2026 20:40:36",
   "summary": {
     "total": 300,
-    "finalizados": 274,
-    "agendados": 26,
+    "finalizados": 284,
+    "agendados": 16,
     "ligas": 17
   },
   "jogos": [
@@ -1929,71 +1929,71 @@
       "liga": "FC26 R369(INTERNATIONAL)06.06.2026",
       "p1": "Argentina (William)",
       "p2": "Portugal (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R369(INTERNATIONAL)06.06.2026",
       "p1": "Italy (Lucas)",
       "p2": "Spain (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R369(INTERNATIONAL)06.06.2026",
       "p1": "Argentina (William)",
       "p2": "Croatia (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R369(INTERNATIONAL)06.06.2026",
       "p1": "Portugal (MisterX)",
       "p2": "Spain (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R369(INTERNATIONAL)06.06.2026",
       "p1": "Croatia (Donatello)",
       "p2": "Spain (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R369(INTERNATIONAL)06.06.2026",
       "p1": "Portugal (MisterX)",
       "p2": "Italy (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R369(INTERNATIONAL)06.06.2026",
       "p1": "Argentina (William)",
       "p2": "Italy (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R369(INTERNATIONAL)06.06.2026",
       "p1": "Croatia (Donatello)",
       "p2": "Portugal (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R369(INTERNATIONAL)06.06.2026",
       "p1": "Croatia (Donatello)",
       "p2": "Italy (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R369(INTERNATIONAL)06.06.2026",
       "p1": "Spain (Andrew)",
       "p2": "Argentina (William)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R369(INTERNATIONAL)06.06.2026",
@@ -2181,8 +2181,8 @@
     },
     "FC26 R369(INTERNATIONAL)06.06.2026": {
       "total": 20,
-      "finalizados": 8,
-      "agendados": 12
+      "finalizados": 18,
+      "agendados": 2
     },
     "FC26 R370(CHAMPIONS LEAGUE)06.06.2026": {
       "total": 8,
@@ -3066,63 +3066,63 @@
     ],
     "FC26 R369(INTERNATIONAL)06.06.2026": [
       {
-        "nome": "Argentina (William)",
-        "Pts": 5,
-        "J": 3,
-        "V": 1,
-        "E": 2,
-        "D": 0,
-        "GP": 6,
-        "GC": 4,
-        "SG": 2,
+        "nome": "Spain (Andrew)",
+        "Pts": 15,
+        "J": 7,
+        "V": 5,
+        "E": 0,
+        "D": 2,
+        "GP": 21,
+        "GC": 16,
+        "SG": 5,
         "pos": 1
       },
       {
         "nome": "Italy (Lucas)",
-        "Pts": 5,
-        "J": 3,
-        "V": 1,
+        "Pts": 11,
+        "J": 7,
+        "V": 3,
         "E": 2,
-        "D": 0,
-        "GP": 7,
-        "GC": 6,
-        "SG": 1,
+        "D": 2,
+        "GP": 25,
+        "GC": 20,
+        "SG": 5,
         "pos": 2
       },
       {
         "nome": "Portugal (MisterX)",
-        "Pts": 4,
-        "J": 3,
-        "V": 1,
+        "Pts": 10,
+        "J": 7,
+        "V": 3,
         "E": 1,
-        "D": 1,
-        "GP": 7,
-        "GC": 5,
+        "D": 3,
+        "GP": 21,
+        "GC": 19,
         "SG": 2,
         "pos": 3
       },
       {
-        "nome": "Croatia (Donatello)",
-        "Pts": 4,
-        "J": 4,
-        "V": 1,
-        "E": 1,
-        "D": 2,
-        "GP": 4,
-        "GC": 7,
-        "SG": -3,
+        "nome": "Argentina (William)",
+        "Pts": 8,
+        "J": 7,
+        "V": 2,
+        "E": 2,
+        "D": 3,
+        "GP": 16,
+        "GC": 21,
+        "SG": -5,
         "pos": 4
       },
       {
-        "nome": "Spain (Andrew)",
-        "Pts": 3,
-        "J": 3,
-        "V": 1,
-        "E": 0,
-        "D": 2,
-        "GP": 6,
-        "GC": 8,
-        "SG": -2,
+        "nome": "Croatia (Donatello)",
+        "Pts": 7,
+        "J": 8,
+        "V": 2,
+        "E": 1,
+        "D": 5,
+        "GP": 13,
+        "GC": 20,
+        "SG": -7,
         "pos": 5
       }
     ]
