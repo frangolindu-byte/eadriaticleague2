@@ -1,9 +1,9 @@
 {
-  "updated_at": "06/06/2026 20:40:36",
+  "updated_at": "06/06/2026 21:46:15",
   "summary": {
     "total": 300,
-    "finalizados": 284,
-    "agendados": 16,
+    "finalizados": 294,
+    "agendados": 6,
     "ligas": 17
   },
   "jogos": [
@@ -1999,57 +1999,57 @@
       "liga": "FC26 R369(INTERNATIONAL)06.06.2026",
       "p1": "Portugal (MisterX)",
       "p2": "Argentina (William)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R369(INTERNATIONAL)06.06.2026",
       "p1": "Spain (Andrew)",
       "p2": "Italy (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R370(CHAMPIONS LEAGUE)06.06.2026",
       "p1": "Atletico Madrid (Eric)",
       "p2": "Liverpool (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R370(CHAMPIONS LEAGUE)06.06.2026",
       "p1": "Manchester City (Eduardo)",
       "p2": "Real Madrid (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R370(CHAMPIONS LEAGUE)06.06.2026",
       "p1": "Manchester City (Eduardo)",
       "p2": "Atletico Madrid (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R370(CHAMPIONS LEAGUE)06.06.2026",
       "p1": "PSG (Alexis)",
       "p2": "Real Madrid (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R370(CHAMPIONS LEAGUE)06.06.2026",
       "p1": "PSG (Alexis)",
       "p2": "Liverpool (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R370(CHAMPIONS LEAGUE)06.06.2026",
       "p1": "Real Madrid (Adriano)",
       "p2": "Atletico Madrid (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R370(CHAMPIONS LEAGUE)06.06.2026",
@@ -2069,15 +2069,15 @@
       "liga": "FC26 R371(INTERNATIONAL)06.06.2026",
       "p1": "Spain (Alexander)",
       "p2": "Argentina (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R371(INTERNATIONAL)06.06.2026",
       "p1": "Sweden (Dexter)",
       "p2": "Denmark (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R371(INTERNATIONAL)06.06.2026",
@@ -2181,18 +2181,18 @@
     },
     "FC26 R369(INTERNATIONAL)06.06.2026": {
       "total": 20,
-      "finalizados": 18,
-      "agendados": 2
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R370(CHAMPIONS LEAGUE)06.06.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 6,
+      "agendados": 2
     },
     "FC26 R371(INTERNATIONAL)06.06.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 2,
+      "agendados": 4
     }
   },
   "classificacao": {
@@ -3068,49 +3068,49 @@
       {
         "nome": "Spain (Andrew)",
         "Pts": 15,
-        "J": 7,
+        "J": 8,
         "V": 5,
         "E": 0,
-        "D": 2,
-        "GP": 21,
-        "GC": 16,
-        "SG": 5,
+        "D": 3,
+        "GP": 24,
+        "GC": 20,
+        "SG": 4,
         "pos": 1
       },
       {
         "nome": "Italy (Lucas)",
-        "Pts": 11,
-        "J": 7,
-        "V": 3,
+        "Pts": 14,
+        "J": 8,
+        "V": 4,
         "E": 2,
         "D": 2,
-        "GP": 25,
-        "GC": 20,
-        "SG": 5,
+        "GP": 29,
+        "GC": 23,
+        "SG": 6,
         "pos": 2
+      },
+      {
+        "nome": "Argentina (William)",
+        "Pts": 11,
+        "J": 8,
+        "V": 3,
+        "E": 2,
+        "D": 3,
+        "GP": 20,
+        "GC": 23,
+        "SG": -3,
+        "pos": 3
       },
       {
         "nome": "Portugal (MisterX)",
         "Pts": 10,
-        "J": 7,
+        "J": 8,
         "V": 3,
         "E": 1,
-        "D": 3,
-        "GP": 21,
-        "GC": 19,
-        "SG": 2,
-        "pos": 3
-      },
-      {
-        "nome": "Argentina (William)",
-        "Pts": 8,
-        "J": 7,
-        "V": 2,
-        "E": 2,
-        "D": 3,
-        "GP": 16,
-        "GC": 21,
-        "SG": -5,
+        "D": 4,
+        "GP": 23,
+        "GC": 23,
+        "SG": 0,
         "pos": 4
       },
       {
@@ -3124,6 +3124,118 @@
         "GC": 20,
         "SG": -7,
         "pos": 5
+      }
+    ],
+    "FC26 R370(CHAMPIONS LEAGUE)06.06.2026": [
+      {
+        "nome": "Atletico Madrid (Eric)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 5,
+        "GC": 3,
+        "SG": 2,
+        "pos": 1
+      },
+      {
+        "nome": "PSG (Alexis)",
+        "Pts": 4,
+        "J": 2,
+        "V": 1,
+        "E": 1,
+        "D": 0,
+        "GP": 8,
+        "GC": 6,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Manchester City (Eduardo)",
+        "Pts": 4,
+        "J": 2,
+        "V": 1,
+        "E": 1,
+        "D": 0,
+        "GP": 5,
+        "GC": 4,
+        "SG": 1,
+        "pos": 3
+      },
+      {
+        "nome": "Liverpool (Logan)",
+        "Pts": 1,
+        "J": 2,
+        "V": 0,
+        "E": 1,
+        "D": 1,
+        "GP": 5,
+        "GC": 6,
+        "SG": -1,
+        "pos": 4
+      },
+      {
+        "nome": "Real Madrid (Adriano)",
+        "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 5,
+        "GC": 9,
+        "SG": -4,
+        "pos": 5
+      }
+    ],
+    "FC26 R371(INTERNATIONAL)06.06.2026": [
+      {
+        "nome": "Sweden (Dexter)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 4,
+        "GC": 3,
+        "SG": 1,
+        "pos": 1
+      },
+      {
+        "nome": "Argentina (Kristof)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 3,
+        "GC": 2,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Denmark (Sebastian)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 3,
+        "GC": 4,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Spain (Alexander)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 2,
+        "GC": 3,
+        "SG": -1,
+        "pos": 4
       }
     ]
   }
