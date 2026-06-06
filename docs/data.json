@@ -1,9 +1,9 @@
 {
-  "updated_at": "06/06/2026 15:42:20",
+  "updated_at": "06/06/2026 16:50:28",
   "summary": {
     "total": 300,
-    "finalizados": 246,
-    "agendados": 54,
+    "finalizados": 254,
+    "agendados": 46,
     "ligas": 17
   },
   "jogos": [
@@ -1733,57 +1733,57 @@
       "liga": "FC26 R368(CHAMPIONS LEAGUE)06.06.2026",
       "p1": "Atletico Madrid (Donatello)",
       "p2": "Barcelona (William)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R368(CHAMPIONS LEAGUE)06.06.2026",
       "p1": "Real Madrid (Andrew)",
       "p2": "Manchester City (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R368(CHAMPIONS LEAGUE)06.06.2026",
       "p1": "Liverpool (Lucas)",
       "p2": "Manchester City (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R368(CHAMPIONS LEAGUE)06.06.2026",
       "p1": "Real Madrid (Andrew)",
       "p2": "Atletico Madrid (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R368(CHAMPIONS LEAGUE)06.06.2026",
       "p1": "Liverpool (Lucas)",
       "p2": "Barcelona (William)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R368(CHAMPIONS LEAGUE)06.06.2026",
       "p1": "Manchester City (MisterX)",
       "p2": "Atletico Madrid (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R368(CHAMPIONS LEAGUE)06.06.2026",
       "p1": "Barcelona (William)",
       "p2": "Real Madrid (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R368(CHAMPIONS LEAGUE)06.06.2026",
       "p1": "Liverpool (Lucas)",
       "p2": "Atletico Madrid (Donatello)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R368(CHAMPIONS LEAGUE)06.06.2026",
@@ -2012,7 +2012,7 @@
     {
       "liga": "FC26 R370(CHAMPIONS LEAGUE)06.06.2026",
       "p1": "Atletico Madrid (Eric)",
-      "p2": "Liverpool (Liam)",
+      "p2": "Liverpool (Logan)",
       "placar": "vs",
       "status": "Agendado"
     },
@@ -2040,7 +2040,7 @@
     {
       "liga": "FC26 R370(CHAMPIONS LEAGUE)06.06.2026",
       "p1": "PSG (Alexis)",
-      "p2": "Liverpool (Liam)",
+      "p2": "Liverpool (Logan)",
       "placar": "vs",
       "status": "Agendado"
     },
@@ -2053,7 +2053,7 @@
     },
     {
       "liga": "FC26 R370(CHAMPIONS LEAGUE)06.06.2026",
-      "p1": "Liverpool (Liam)",
+      "p1": "Liverpool (Logan)",
       "p2": "Manchester City (Eduardo)",
       "placar": "vs",
       "status": "Agendado"
@@ -2176,8 +2176,8 @@
     },
     "FC26 R368(CHAMPIONS LEAGUE)06.06.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 8,
+      "agendados": 12
     },
     "FC26 R369(INTERNATIONAL)06.06.2026": {
       "total": 20,
@@ -2999,6 +2999,68 @@
         "GP": 18,
         "GC": 21,
         "SG": -3,
+        "pos": 5
+      }
+    ],
+    "FC26 R368(CHAMPIONS LEAGUE)06.06.2026": [
+      {
+        "nome": "Real Madrid (Andrew)",
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
+        "E": 0,
+        "D": 0,
+        "GP": 11,
+        "GC": 3,
+        "SG": 8,
+        "pos": 1
+      },
+      {
+        "nome": "Atletico Madrid (Donatello)",
+        "Pts": 7,
+        "J": 4,
+        "V": 2,
+        "E": 1,
+        "D": 1,
+        "GP": 11,
+        "GC": 9,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Liverpool (Lucas)",
+        "Pts": 2,
+        "J": 3,
+        "V": 0,
+        "E": 2,
+        "D": 1,
+        "GP": 7,
+        "GC": 9,
+        "SG": -2,
+        "pos": 3
+      },
+      {
+        "nome": "Manchester City (MisterX)",
+        "Pts": 2,
+        "J": 3,
+        "V": 0,
+        "E": 2,
+        "D": 1,
+        "GP": 6,
+        "GC": 8,
+        "SG": -2,
+        "pos": 4
+      },
+      {
+        "nome": "Barcelona (William)",
+        "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 3,
+        "GC": 9,
+        "SG": -6,
         "pos": 5
       }
     ]
