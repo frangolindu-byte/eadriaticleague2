@@ -1,9 +1,9 @@
 {
-  "updated_at": "08/06/2026 21:09:15",
+  "updated_at": "08/06/2026 22:49:45",
   "summary": {
     "total": 586,
-    "finalizados": 572,
-    "agendados": 14,
+    "finalizados": 586,
+    "agendados": 0,
     "ligas": 21
   },
   "jogos": [
@@ -4015,99 +4015,99 @@
       "liga": "FC26 R403(INTERNATIONAL)08.06.2026",
       "p1": "Denmark (Maverick)",
       "p2": "Italy (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R403(INTERNATIONAL)08.06.2026",
       "p1": "France (Odin)",
       "p2": "Portugal (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R403(INTERNATIONAL)08.06.2026",
       "p1": "France (Odin)",
       "p2": "Denmark (Maverick)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R403(INTERNATIONAL)08.06.2026",
       "p1": "Spain (Eduardo)",
       "p2": "Portugal (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R403(INTERNATIONAL)08.06.2026",
       "p1": "Portugal (Adriano)",
       "p2": "Denmark (Maverick)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R403(INTERNATIONAL)08.06.2026",
       "p1": "Spain (Eduardo)",
       "p2": "Italy (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R403(INTERNATIONAL)08.06.2026",
       "p1": "Italy (Gael)",
       "p2": "France (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R403(INTERNATIONAL)08.06.2026",
       "p1": "Spain (Eduardo)",
       "p2": "Denmark (Maverick)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R404(CHAMPIONS LEAGUE)08.06.2026",
       "p1": "Bayern M. (Sebastian)",
       "p2": "Barcelona (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R404(CHAMPIONS LEAGUE)08.06.2026",
       "p1": "PSG (Eric)",
       "p2": "Real Madrid (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R404(CHAMPIONS LEAGUE)08.06.2026",
       "p1": "Bayern M. (Sebastian)",
       "p2": "PSG (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R404(CHAMPIONS LEAGUE)08.06.2026",
       "p1": "Manchester City (Dexter)",
       "p2": "Barcelona (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R404(CHAMPIONS LEAGUE)08.06.2026",
       "p1": "Barcelona (Haidan)",
       "p2": "PSG (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R404(CHAMPIONS LEAGUE)08.06.2026",
       "p1": "Manchester City (Dexter)",
       "p2": "Real Madrid (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -4208,13 +4208,13 @@
     },
     "FC26 R403(INTERNATIONAL)08.06.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R404(CHAMPIONS LEAGUE)08.06.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -5573,6 +5573,130 @@
         "GP": 29,
         "GC": 35,
         "SG": -6,
+        "pos": 5
+      }
+    ],
+    "FC26 R403(INTERNATIONAL)08.06.2026": [
+      {
+        "nome": "France (Odin)",
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
+        "E": 0,
+        "D": 0,
+        "GP": 11,
+        "GC": 5,
+        "SG": 6,
+        "pos": 1
+      },
+      {
+        "nome": "Denmark (Maverick)",
+        "Pts": 6,
+        "J": 4,
+        "V": 2,
+        "E": 0,
+        "D": 2,
+        "GP": 15,
+        "GC": 12,
+        "SG": 3,
+        "pos": 2
+      },
+      {
+        "nome": "Spain (Eduardo)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 8,
+        "GC": 8,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Portugal (Adriano)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 7,
+        "GC": 9,
+        "SG": -2,
+        "pos": 4
+      },
+      {
+        "nome": "Italy (Gael)",
+        "Pts": 0,
+        "J": 3,
+        "V": 0,
+        "E": 0,
+        "D": 3,
+        "GP": 7,
+        "GC": 14,
+        "SG": -7,
+        "pos": 5
+      }
+    ],
+    "FC26 R404(CHAMPIONS LEAGUE)08.06.2026": [
+      {
+        "nome": "PSG (Eric)",
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
+        "E": 0,
+        "D": 0,
+        "GP": 17,
+        "GC": 7,
+        "SG": 10,
+        "pos": 1
+      },
+      {
+        "nome": "Manchester City (Dexter)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 9,
+        "GC": 4,
+        "SG": 5,
+        "pos": 2
+      },
+      {
+        "nome": "Barcelona (Haidan)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 14,
+        "GC": 17,
+        "SG": -3,
+        "pos": 3
+      },
+      {
+        "nome": "Bayern M. (Sebastian)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 7,
+        "GC": 11,
+        "SG": -4,
+        "pos": 4
+      },
+      {
+        "nome": "Real Madrid (Felix)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 1,
+        "GC": 9,
+        "SG": -8,
         "pos": 5
       }
     ]
