@@ -1512,7 +1512,10 @@
     ],
     "assertividade": 64.5,
     "key": "FC26 R440(CHAMPIONS LEAGUE)10.06.2026|Bayern M. (Sebastian)|Real Madrid (Kaizen)",
-    "message_id": 1385
+    "message_id": 1385,
+    "result_checked": true,
+    "result_placar": "0-5",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R426(PREMIER LEAGUE)10.06.2026",
@@ -1540,5 +1543,103 @@
     "result_checked": true,
     "result_placar": "0-1",
     "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R451(SERIA A)11.06.2026",
+    "p1": "Inter (Maverick)",
+    "p2": "Fiorentina (Gabriel)",
+    "w1": 14.7,
+    "w2": 66.7,
+    "j1": 34,
+    "j2": 24,
+    "o65": 66.80000000000001,
+    "btts": 98.55,
+    "avg_g": 7.705,
+    "f1": "D-L-L-L-L",
+    "f2": "D-W-L-D-W",
+    "fav": "Fiorentina (Gabriel)",
+    "score": 85,
+    "reasons": [
+      "Over 6.5: 67%",
+      "BTTS: 99%",
+      "Vitoria Fiorentina (Gabriel) (WR 67%)"
+    ],
+    "assertividade": 74.7,
+    "key": "FC26 R451(SERIA A)11.06.2026|Fiorentina (Gabriel)|Inter (Maverick)",
+    "message_id": 1387
+  },
+  {
+    "liga": "FC26 R447(LA LIGA)11.06.2026",
+    "p1": "Real Sociedad (Flash)",
+    "p2": "Real Madrid (Oliver)",
+    "w1": 75.0,
+    "w2": 41.7,
+    "j1": 8,
+    "j2": 48,
+    "o65": 57.3,
+    "btts": 100.0,
+    "avg_g": 7.59,
+    "f1": "W-W-W-L-W",
+    "f2": "L-L-L-D-W",
+    "fav": "Real Sociedad (Flash)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 57%",
+      "BTTS: 100%",
+      "Vitoria Real Sociedad (Flash) (WR 75%)"
+    ],
+    "assertividade": 74.2,
+    "key": "FC26 R447(LA LIGA)11.06.2026|Real Madrid (Oliver)|Real Sociedad (Flash)",
+    "message_id": 1388,
+    "result_checked": true,
+    "result_placar": "5-7",
+    "result_status": "bateu"
+  },
+  {
+    "liga": "FC26 R451(SERIA A)11.06.2026",
+    "p1": "Roma (Panther)",
+    "p2": "Inter (Maverick)",
+    "w1": 33.3,
+    "w2": 14.7,
+    "j1": 15,
+    "j2": 34,
+    "o65": 69.7,
+    "btts": 95.19999999999999,
+    "avg_g": 7.720000000000001,
+    "f1": "D-L-L-L-W",
+    "f2": "D-L-L-L-L",
+    "fav": "Roma (Panther)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 70%",
+      "BTTS: 95%"
+    ],
+    "assertividade": 63.3,
+    "key": "FC26 R451(SERIA A)11.06.2026|Inter (Maverick)|Roma (Panther)",
+    "message_id": 1389
+  },
+  {
+    "liga": "FC26 R451(SERIA A)11.06.2026",
+    "p1": "Fiorentina (Gabriel)",
+    "p2": "Roma (Panther)",
+    "w1": 66.7,
+    "w2": 33.3,
+    "j1": 24,
+    "j2": 15,
+    "o65": 57.1,
+    "btts": 96.65,
+    "avg_g": 6.925000000000001,
+    "f1": "D-W-L-D-W",
+    "f2": "D-L-L-L-W",
+    "fav": "Fiorentina (Gabriel)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 57%",
+      "BTTS: 97%",
+      "Vitoria Fiorentina (Gabriel) (WR 67%)"
+    ],
+    "assertividade": 70.3,
+    "key": "FC26 R451(SERIA A)11.06.2026|Fiorentina (Gabriel)|Roma (Panther)",
+    "message_id": 1390
   }
 ]
