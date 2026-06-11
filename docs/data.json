@@ -1,9 +1,9 @@
 {
-  "updated_at": "11/06/2026 21:05:45",
+  "updated_at": "11/06/2026 22:56:28",
   "summary": {
     "total": 360,
-    "finalizados": 346,
-    "agendados": 14,
+    "finalizados": 360,
+    "agendados": 0,
     "ligas": 20
   },
   "jogos": [
@@ -2433,99 +2433,99 @@
       "liga": "FC26 R457(INTERNATIONAL)11.06.2026",
       "p1": "Brazil (Liam)",
       "p2": "Czech Republic (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R457(INTERNATIONAL)11.06.2026",
       "p1": "South Africa (Cleo)",
       "p2": "Mexico (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R457(INTERNATIONAL)11.06.2026",
       "p1": "South Africa (Cleo)",
       "p2": "Brazil (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R457(INTERNATIONAL)11.06.2026",
       "p1": "South Korea (Gael)",
       "p2": "Mexico (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R457(INTERNATIONAL)11.06.2026",
       "p1": "Mexico (Eric)",
       "p2": "Brazil (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R457(INTERNATIONAL)11.06.2026",
       "p1": "South Korea (Gael)",
       "p2": "Czech Republic (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R457(INTERNATIONAL)11.06.2026",
       "p1": "Czech Republic (Odin)",
       "p2": "South Africa (Cleo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R457(INTERNATIONAL)11.06.2026",
       "p1": "South Korea (Gael)",
       "p2": "Brazil (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R458(CHAMPIONS LEAGUE)11.06.2026",
       "p1": "Bayern M. (Haidan)",
       "p2": "Liverpool (Kaizen)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R458(CHAMPIONS LEAGUE)11.06.2026",
       "p1": "Real Madrid (Sebastian)",
       "p2": "Manchester City (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R458(CHAMPIONS LEAGUE)11.06.2026",
       "p1": "Barcelona (Iron)",
       "p2": "Manchester City (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R458(CHAMPIONS LEAGUE)11.06.2026",
       "p1": "Real Madrid (Sebastian)",
       "p2": "Bayern M. (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R458(CHAMPIONS LEAGUE)11.06.2026",
       "p1": "Barcelona (Iron)",
       "p2": "Liverpool (Kaizen)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R458(CHAMPIONS LEAGUE)11.06.2026",
       "p1": "Manchester City (Kai)",
       "p2": "Bayern M. (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2621,13 +2621,13 @@
     },
     "FC26 R457(INTERNATIONAL)11.06.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R458(CHAMPIONS LEAGUE)11.06.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3744,6 +3744,130 @@
         "GP": 25,
         "GC": 37,
         "SG": -12,
+        "pos": 5
+      }
+    ],
+    "FC26 R457(INTERNATIONAL)11.06.2026": [
+      {
+        "nome": "South Africa (Cleo)",
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
+        "E": 1,
+        "D": 0,
+        "GP": 11,
+        "GC": 7,
+        "SG": 4,
+        "pos": 1
+      },
+      {
+        "nome": "Czech Republic (Odin)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 10,
+        "GC": 7,
+        "SG": 3,
+        "pos": 2
+      },
+      {
+        "nome": "Mexico (Eric)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 12,
+        "GC": 13,
+        "SG": -1,
+        "pos": 3
+      },
+      {
+        "nome": "Brazil (Liam)",
+        "Pts": 4,
+        "J": 4,
+        "V": 1,
+        "E": 1,
+        "D": 2,
+        "GP": 7,
+        "GC": 10,
+        "SG": -3,
+        "pos": 4
+      },
+      {
+        "nome": "South Korea (Gael)",
+        "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 11,
+        "GC": 14,
+        "SG": -3,
+        "pos": 5
+      }
+    ],
+    "FC26 R458(CHAMPIONS LEAGUE)11.06.2026": [
+      {
+        "nome": "Manchester City (Kai)",
+        "Pts": 5,
+        "J": 3,
+        "V": 1,
+        "E": 2,
+        "D": 0,
+        "GP": 10,
+        "GC": 9,
+        "SG": 1,
+        "pos": 1
+      },
+      {
+        "nome": "Real Madrid (Sebastian)",
+        "Pts": 4,
+        "J": 2,
+        "V": 1,
+        "E": 1,
+        "D": 0,
+        "GP": 9,
+        "GC": 8,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Liverpool (Kaizen)",
+        "Pts": 4,
+        "J": 2,
+        "V": 1,
+        "E": 1,
+        "D": 0,
+        "GP": 6,
+        "GC": 5,
+        "SG": 1,
+        "pos": 3
+      },
+      {
+        "nome": "Barcelona (Iron)",
+        "Pts": 1,
+        "J": 2,
+        "V": 0,
+        "E": 1,
+        "D": 1,
+        "GP": 6,
+        "GC": 7,
+        "SG": -1,
+        "pos": 4
+      },
+      {
+        "nome": "Bayern M. (Haidan)",
+        "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 8,
+        "GC": 10,
+        "SG": -2,
         "pos": 5
       }
     ]
