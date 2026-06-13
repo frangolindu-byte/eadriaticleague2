@@ -1,9 +1,9 @@
 {
-  "updated_at": "13/06/2026 20:59:25",
+  "updated_at": "13/06/2026 22:08:24",
   "summary": {
     "total": 300,
-    "finalizados": 286,
-    "agendados": 14,
+    "finalizados": 300,
+    "agendados": 0,
     "ligas": 17
   },
   "jogos": [
@@ -2013,99 +2013,99 @@
       "liga": "FC26 R490(INTERNATIONAL)13.06.2026",
       "p1": "Australia (Odin)",
       "p2": "Brazil (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R490(INTERNATIONAL)13.06.2026",
       "p1": "Turkey (Adriano)",
       "p2": "Bosnia and Herzegovina (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R490(INTERNATIONAL)13.06.2026",
       "p1": "Morocco (Alexis)",
       "p2": "Bosnia and Herzegovina (Eric)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R490(INTERNATIONAL)13.06.2026",
       "p1": "Turkey (Adriano)",
       "p2": "Australia (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R490(INTERNATIONAL)13.06.2026",
       "p1": "Bosnia and Herzegovina (Eric)",
       "p2": "Australia (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R490(INTERNATIONAL)13.06.2026",
       "p1": "Morocco (Alexis)",
       "p2": "Brazil (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R490(INTERNATIONAL)13.06.2026",
       "p1": "Brazil (Eduardo)",
       "p2": "Turkey (Adriano)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R490(INTERNATIONAL)13.06.2026",
       "p1": "Morocco (Alexis)",
       "p2": "Australia (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R491(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Barcelona (Gael)",
       "p2": "Bayern M. (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R491(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Manchester City (William)",
       "p2": "Liverpool (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R491(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Manchester City (William)",
       "p2": "Barcelona (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R491(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Real Madrid (Sebastian)",
       "p2": "Liverpool (Iron)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R491(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Liverpool (Iron)",
       "p2": "Barcelona (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R491(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Real Madrid (Sebastian)",
       "p2": "Bayern M. (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2186,13 +2186,13 @@
     },
     "FC26 R490(INTERNATIONAL)13.06.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R491(CHAMPIONS LEAGUE)13.06.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3123,6 +3123,130 @@
         "GP": 20,
         "GC": 26,
         "SG": -6,
+        "pos": 5
+      }
+    ],
+    "FC26 R490(INTERNATIONAL)13.06.2026": [
+      {
+        "nome": "Brazil (Eduardo)",
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
+        "E": 1,
+        "D": 0,
+        "GP": 7,
+        "GC": 5,
+        "SG": 2,
+        "pos": 1
+      },
+      {
+        "nome": "Morocco (Alexis)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 13,
+        "GC": 10,
+        "SG": 3,
+        "pos": 2
+      },
+      {
+        "nome": "Turkey (Adriano)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 4,
+        "GC": 4,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Australia (Odin)",
+        "Pts": 4,
+        "J": 4,
+        "V": 1,
+        "E": 1,
+        "D": 2,
+        "GP": 11,
+        "GC": 12,
+        "SG": -1,
+        "pos": 4
+      },
+      {
+        "nome": "Bosnia and Herzegovina (Eric)",
+        "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 7,
+        "GC": 11,
+        "SG": -4,
+        "pos": 5
+      }
+    ],
+    "FC26 R491(CHAMPIONS LEAGUE)13.06.2026": [
+      {
+        "nome": "Barcelona (Gael)",
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
+        "E": 0,
+        "D": 0,
+        "GP": 12,
+        "GC": 6,
+        "SG": 6,
+        "pos": 1
+      },
+      {
+        "nome": "Real Madrid (Sebastian)",
+        "Pts": 4,
+        "J": 2,
+        "V": 1,
+        "E": 1,
+        "D": 0,
+        "GP": 7,
+        "GC": 6,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Liverpool (Iron)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 10,
+        "GC": 12,
+        "SG": -2,
+        "pos": 3
+      },
+      {
+        "nome": "Bayern M. (Kristof)",
+        "Pts": 1,
+        "J": 2,
+        "V": 0,
+        "E": 1,
+        "D": 1,
+        "GP": 4,
+        "GC": 7,
+        "SG": -3,
+        "pos": 4
+      },
+      {
+        "nome": "Manchester City (William)",
+        "Pts": 0,
+        "J": 2,
+        "V": 0,
+        "E": 0,
+        "D": 2,
+        "GP": 7,
+        "GC": 9,
+        "SG": -2,
         "pos": 5
       }
     ]
