@@ -1,9 +1,9 @@
 {
-  "updated_at": "13/06/2026 13:11:24",
+  "updated_at": "13/06/2026 15:11:02",
   "summary": {
     "total": 300,
-    "finalizados": 226,
-    "agendados": 74,
+    "finalizados": 240,
+    "agendados": 60,
     "ligas": 17
   },
   "jogos": [
@@ -1593,99 +1593,99 @@
       "liga": "FC26 R487(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Barcelona (Andrew)",
       "p2": "Manchester City (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R487(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Real Madrid (Alexander)",
       "p2": "Liverpool (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R487(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Barcelona (Andrew)",
       "p2": "Real Madrid (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R487(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Bayern M. (George)",
       "p2": "Manchester City (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R487(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Bayern M. (George)",
       "p2": "Liverpool (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R487(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Manchester City (Dexter)",
       "p2": "Real Madrid (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R487(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Bayern M. (George)",
       "p2": "Real Madrid (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R487(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Liverpool (Haidan)",
       "p2": "Barcelona (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R487(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Bayern M. (George)",
       "p2": "Barcelona (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R487(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Liverpool (Haidan)",
       "p2": "Manchester City (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R487(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Liverpool (Haidan)",
       "p2": "Real Madrid (Alexander)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R487(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Manchester City (Dexter)",
       "p2": "Barcelona (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R487(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Manchester City (Dexter)",
       "p2": "Bayern M. (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R487(CHAMPIONS LEAGUE)13.06.2026",
       "p1": "Real Madrid (Alexander)",
       "p2": "Barcelona (Andrew)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R487(CHAMPIONS LEAGUE)13.06.2026",
@@ -2171,8 +2171,8 @@
     },
     "FC26 R487(CHAMPIONS LEAGUE)13.06.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 14,
+      "agendados": 6
     },
     "FC26 R488(INTERNATIONAL)13.06.2026": {
       "total": 20,
@@ -2937,6 +2937,68 @@
         "GP": 19,
         "GC": 34,
         "SG": -15,
+        "pos": 5
+      }
+    ],
+    "FC26 R487(CHAMPIONS LEAGUE)13.06.2026": [
+      {
+        "nome": "Manchester City (Dexter)",
+        "Pts": 11,
+        "J": 6,
+        "V": 3,
+        "E": 2,
+        "D": 1,
+        "GP": 13,
+        "GC": 9,
+        "SG": 4,
+        "pos": 1
+      },
+      {
+        "nome": "Bayern M. (George)",
+        "Pts": 10,
+        "J": 5,
+        "V": 3,
+        "E": 1,
+        "D": 1,
+        "GP": 13,
+        "GC": 10,
+        "SG": 3,
+        "pos": 2
+      },
+      {
+        "nome": "Barcelona (Andrew)",
+        "Pts": 10,
+        "J": 6,
+        "V": 3,
+        "E": 1,
+        "D": 2,
+        "GP": 16,
+        "GC": 14,
+        "SG": 2,
+        "pos": 3
+      },
+      {
+        "nome": "Liverpool (Haidan)",
+        "Pts": 4,
+        "J": 5,
+        "V": 1,
+        "E": 1,
+        "D": 3,
+        "GP": 17,
+        "GC": 20,
+        "SG": -3,
+        "pos": 4
+      },
+      {
+        "nome": "Real Madrid (Alexander)",
+        "Pts": 4,
+        "J": 6,
+        "V": 1,
+        "E": 1,
+        "D": 4,
+        "GP": 15,
+        "GC": 21,
+        "SG": -6,
         "pos": 5
       }
     ]
