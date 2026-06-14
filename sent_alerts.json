@@ -1885,7 +1885,10 @@
     ],
     "assertividade": 68.4,
     "key": "FC26 R496(CHAMPIONS LEAGUE)14.06.2026|Bayern M. (Luigi)|Liverpool (Beckham)",
-    "message_id": 1399
+    "message_id": 1399,
+    "result_checked": true,
+    "result_placar": "6-7",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R498(LA LIGA)14.06.2026",
@@ -1981,5 +1984,31 @@
     "assertividade": 70.9,
     "key": "FC26 R506(CHAMPIONS LEAGUE)14.06.2026|Bayern M. (Kaizen)|Real Madrid (Kristof)",
     "message_id": 1403
+  },
+  {
+    "liga": "FC26 R506(CHAMPIONS LEAGUE)14.06.2026",
+    "p1": "Liverpool (Sebastian)",
+    "p2": "Bayern M. (Kaizen)",
+    "w1": 40.4,
+    "w2": 50.0,
+    "j1": 208,
+    "j2": 16,
+    "o65": 75.25,
+    "btts": 96.9,
+    "avg_g": 7.915,
+    "f1": "W-L-W-L-W",
+    "f2": "D-W-W-W-W",
+    "fav": "Bayern M. (Kaizen)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 75%",
+      "BTTS: 97%"
+    ],
+    "assertividade": 71.8,
+    "key": "FC26 R506(CHAMPIONS LEAGUE)14.06.2026|Bayern M. (Kaizen)|Liverpool (Sebastian)",
+    "message_id": 1404,
+    "result_checked": true,
+    "result_placar": "4-4",
+    "result_status": "errou"
   }
 ]
