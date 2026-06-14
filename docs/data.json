@@ -1,9 +1,9 @@
 {
-  "updated_at": "14/06/2026 21:52:22",
+  "updated_at": "14/06/2026 22:58:40",
   "summary": {
     "total": 300,
-    "finalizados": 296,
-    "agendados": 4,
+    "finalizados": 300,
+    "agendados": 0,
     "ligas": 17
   },
   "jogos": [
@@ -2055,15 +2055,15 @@
       "liga": "FC26 R505(INTERNATIONAL)14.06.2026",
       "p1": "Netherland (Adriano)",
       "p2": "Sweden (Liam)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R505(INTERNATIONAL)14.06.2026",
       "p1": "Tunisia (Odin)",
       "p2": "Japan (Maverick)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R506(CHAMPIONS LEAGUE)14.06.2026",
@@ -2097,15 +2097,15 @@
       "liga": "FC26 R506(CHAMPIONS LEAGUE)14.06.2026",
       "p1": "Atletico Madrid (Gael)",
       "p2": "Real Madrid (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R506(CHAMPIONS LEAGUE)14.06.2026",
       "p1": "Liverpool (Sebastian)",
       "p2": "Bayern M. (Kaizen)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2186,13 +2186,13 @@
     },
     "FC26 R505(INTERNATIONAL)14.06.2026": {
       "total": 8,
-      "finalizados": 6,
-      "agendados": 2
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R506(CHAMPIONS LEAGUE)14.06.2026": {
       "total": 6,
-      "finalizados": 4,
-      "agendados": 2
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3128,39 +3128,39 @@
     ],
     "FC26 R505(INTERNATIONAL)14.06.2026": [
       {
-        "nome": "Netherland (Adriano)",
-        "Pts": 4,
-        "J": 2,
-        "V": 1,
+        "nome": "Tunisia (Odin)",
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
         "E": 1,
         "D": 0,
-        "GP": 4,
-        "GC": 2,
-        "SG": 2,
+        "GP": 7,
+        "GC": 4,
+        "SG": 3,
         "pos": 1
       },
       {
-        "nome": "Tunisia (Odin)",
-        "Pts": 4,
-        "J": 2,
-        "V": 1,
-        "E": 1,
-        "D": 0,
-        "GP": 3,
-        "GC": 2,
-        "SG": 1,
+        "nome": "Sweden (Liam)",
+        "Pts": 6,
+        "J": 4,
+        "V": 2,
+        "E": 0,
+        "D": 2,
+        "GP": 10,
+        "GC": 11,
+        "SG": -1,
         "pos": 2
       },
       {
-        "nome": "Japan (Maverick)",
-        "Pts": 3,
-        "J": 2,
+        "nome": "Netherland (Adriano)",
+        "Pts": 4,
+        "J": 3,
         "V": 1,
-        "E": 0,
+        "E": 1,
         "D": 1,
-        "GP": 11,
-        "GC": 11,
-        "SG": 0,
+        "GP": 5,
+        "GC": 4,
+        "SG": 1,
         "pos": 3
       },
       {
@@ -3176,19 +3176,31 @@
         "pos": 4
       },
       {
-        "nome": "Sweden (Liam)",
+        "nome": "Japan (Maverick)",
         "Pts": 3,
         "J": 3,
         "V": 1,
         "E": 0,
         "D": 2,
-        "GP": 8,
-        "GC": 10,
+        "GP": 13,
+        "GC": 15,
         "SG": -2,
         "pos": 5
       }
     ],
     "FC26 R506(CHAMPIONS LEAGUE)14.06.2026": [
+      {
+        "nome": "Atletico Madrid (Gael)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 14,
+        "GC": 10,
+        "SG": 4,
+        "pos": 1
+      },
       {
         "nome": "Manchester City (Andrew)",
         "Pts": 6,
@@ -3199,54 +3211,42 @@
         "GP": 9,
         "GC": 6,
         "SG": 3,
-        "pos": 1
+        "pos": 2
       },
       {
-        "nome": "Atletico Madrid (Gael)",
+        "nome": "Liverpool (Sebastian)",
         "Pts": 3,
         "J": 2,
         "V": 1,
         "E": 0,
         "D": 1,
-        "GP": 7,
-        "GC": 4,
-        "SG": 3,
-        "pos": 2
-      },
-      {
-        "nome": "Bayern M. (Kaizen)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
-        "E": 1,
-        "D": 0,
         "GP": 3,
-        "GC": 3,
-        "SG": 0,
+        "GC": 6,
+        "SG": -3,
         "pos": 3
       },
       {
         "nome": "Real Madrid (Kristof)",
         "Pts": 1,
+        "J": 3,
+        "V": 0,
+        "E": 1,
+        "D": 2,
+        "GP": 13,
+        "GC": 15,
+        "SG": -2,
+        "pos": 4
+      },
+      {
+        "nome": "Bayern M. (Kaizen)",
+        "Pts": 1,
         "J": 2,
         "V": 0,
         "E": 1,
         "D": 1,
-        "GP": 7,
-        "GC": 8,
-        "SG": -1,
-        "pos": 4
-      },
-      {
-        "nome": "Liverpool (Sebastian)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
-        "E": 0,
-        "D": 1,
-        "GP": 0,
-        "GC": 5,
-        "SG": -5,
+        "GP": 4,
+        "GC": 6,
+        "SG": -2,
         "pos": 5
       }
     ]
