@@ -2124,7 +2124,10 @@
     ],
     "assertividade": 66.9,
     "key": "FC26 R16(PREMIER LEAGUE)17.06.2026|Arsenal (Sebastian)|Aston Villa (Gael)",
-    "message_id": 1408
+    "message_id": 1408,
+    "result_checked": true,
+    "result_placar": "5-3",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R15(SERIA A)17.06.2026",
@@ -2148,7 +2151,10 @@
     ],
     "assertividade": 69.3,
     "key": "FC26 R15(SERIA A)17.06.2026|Atalanta (Odin)|Milan (MisterX)",
-    "message_id": 1409
+    "message_id": 1409,
+    "result_checked": true,
+    "result_placar": "2-2",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R16(PREMIER LEAGUE)17.06.2026",
@@ -2171,7 +2177,10 @@
     ],
     "assertividade": 70.9,
     "key": "FC26 R16(PREMIER LEAGUE)17.06.2026|Arsenal (Sebastian)|Manchester City (Kaizen)",
-    "message_id": 1410
+    "message_id": 1410,
+    "result_checked": true,
+    "result_placar": "4-2",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R16(PREMIER LEAGUE)17.06.2026",
@@ -2195,7 +2204,10 @@
     ],
     "assertividade": 64.5,
     "key": "FC26 R16(PREMIER LEAGUE)17.06.2026|Aston Villa (Gael)|Liverpool (Kristof)",
-    "message_id": 1411
+    "message_id": 1411,
+    "result_checked": true,
+    "result_placar": "5-3",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R17(CHAMPIONS LEAGUE)17.06.2026",
@@ -2220,5 +2232,29 @@
     "assertividade": 66.7,
     "key": "FC26 R17(CHAMPIONS LEAGUE)17.06.2026|Barcelona (Odin)|Bayern M. (MisterX)",
     "message_id": 1412
+  },
+  {
+    "liga": "FC26 R18(INTERNATIONAL)17.06.2026",
+    "p1": "France (Sebastian)",
+    "p2": "Argentina (Kristof)",
+    "w1": 34.9,
+    "w2": 69.4,
+    "j1": 86,
+    "j2": 49,
+    "o65": 58.55,
+    "btts": 94.45,
+    "avg_g": 7.01,
+    "f1": "W-L-W-L-W",
+    "f2": "W-L-D-L-W",
+    "fav": "Argentina (Kristof)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 59%",
+      "BTTS: 94%",
+      "Vitoria Argentina (Kristof) (WR 69%)"
+    ],
+    "assertividade": 71.3,
+    "key": "FC26 R18(INTERNATIONAL)17.06.2026|Argentina (Kristof)|France (Sebastian)",
+    "message_id": 1413
   }
 ]
