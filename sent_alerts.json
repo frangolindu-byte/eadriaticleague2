@@ -2285,7 +2285,10 @@
     ],
     "assertividade": 65.0,
     "key": "FC26 R50(INTERNATIONAL)18.06.2026|Bosnia and Herzegovina (George)|Switzerland (Felix)",
-    "message_id": 1414
+    "message_id": 1414,
+    "result_checked": true,
+    "result_placar": "1-3",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R37(SERIA A)18.06.2026",
@@ -2340,5 +2343,55 @@
     "result_checked": true,
     "result_placar": "1-3",
     "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R55(SERIA A)19.06.2026",
+    "p1": "Lazio (Flash)",
+    "p2": "Juventus (Bruno)",
+    "w1": 57.8,
+    "w2": 20.8,
+    "j1": 64,
+    "j2": 24,
+    "o65": 58.6,
+    "btts": 96.9,
+    "avg_g": 6.984999999999999,
+    "f1": "W-W-D-L-L",
+    "f2": "L-L-L-D-D",
+    "fav": "Lazio (Flash)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 59%",
+      "BTTS: 97%",
+      "Vitoria Lazio (Flash) (WR 58%)"
+    ],
+    "assertividade": 67.9,
+    "key": "FC26 R55(SERIA A)19.06.2026|Juventus (Bruno)|Lazio (Flash)",
+    "message_id": 1417,
+    "result_checked": true,
+    "result_placar": "5-2",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R62(INTERNATIONAL)19.06.2026",
+    "p1": "Sweden (MisterX)",
+    "p2": "USA (Alexander)",
+    "w1": 62.5,
+    "w2": 37.5,
+    "j1": 8,
+    "j2": 8,
+    "o65": 75.0,
+    "btts": 100.0,
+    "avg_g": 9.56,
+    "f1": "W-D-W-W-W",
+    "f2": "W-W-D-L-L",
+    "fav": "Sweden (MisterX)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 75%",
+      "BTTS: 100%"
+    ],
+    "assertividade": 76.9,
+    "key": "FC26 R62(INTERNATIONAL)19.06.2026|Sweden (MisterX)|USA (Alexander)",
+    "message_id": 1418
   }
 ]
