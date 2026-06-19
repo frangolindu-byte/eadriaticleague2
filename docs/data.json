@@ -1,9 +1,9 @@
 {
-  "updated_at": "19/06/2026 21:58:53",
+  "updated_at": "19/06/2026 23:01:23",
   "summary": {
     "total": 466,
-    "finalizados": 456,
-    "agendados": 10,
+    "finalizados": 460,
+    "agendados": 6,
     "ligas": 21
   },
   "jogos": [
@@ -3217,15 +3217,15 @@
       "liga": "FC26 R67(INTERNATIONAL)19.06.2026",
       "p1": "Morocco (Adriano)",
       "p2": "Sweden (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R67(INTERNATIONAL)19.06.2026",
       "p1": "Scotland (Alexis)",
       "p2": "Australia (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R68(CHAMPIONS LEAGUE)19.06.2026",
@@ -3259,15 +3259,15 @@
       "liga": "FC26 R68(CHAMPIONS LEAGUE)19.06.2026",
       "p1": "PSG (Gael)",
       "p2": "Liverpool (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R68(CHAMPIONS LEAGUE)19.06.2026",
       "p1": "Real Madrid (Kaizen)",
       "p2": "Bayern M. (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -3368,13 +3368,13 @@
     },
     "FC26 R67(INTERNATIONAL)19.06.2026": {
       "total": 8,
-      "finalizados": 6,
-      "agendados": 2
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R68(CHAMPIONS LEAGUE)19.06.2026": {
       "total": 6,
-      "finalizados": 4,
-      "agendados": 2
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -4606,50 +4606,50 @@
     ],
     "FC26 R67(INTERNATIONAL)19.06.2026": [
       {
-        "nome": "Scotland (Alexis)",
-        "Pts": 4,
-        "J": 2,
-        "V": 1,
-        "E": 1,
-        "D": 0,
-        "GP": 9,
-        "GC": 6,
-        "SG": 3,
+        "nome": "Australia (Odin)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
+        "E": 0,
+        "D": 1,
+        "GP": 6,
+        "GC": 5,
+        "SG": 1,
         "pos": 1
       },
       {
         "nome": "Sweden (Eduardo)",
+        "Pts": 5,
+        "J": 4,
+        "V": 1,
+        "E": 2,
+        "D": 1,
+        "GP": 4,
+        "GC": 5,
+        "SG": -1,
+        "pos": 2
+      },
+      {
+        "nome": "Scotland (Alexis)",
         "Pts": 4,
         "J": 3,
         "V": 1,
         "E": 1,
         "D": 1,
-        "GP": 3,
-        "GC": 4,
-        "SG": -1,
-        "pos": 2
-      },
-      {
-        "nome": "Australia (Odin)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
-        "E": 0,
-        "D": 1,
-        "GP": 2,
-        "GC": 2,
-        "SG": 0,
+        "GP": 12,
+        "GC": 10,
+        "SG": 2,
         "pos": 3
       },
       {
         "nome": "Morocco (Adriano)",
-        "Pts": 2,
-        "J": 2,
+        "Pts": 3,
+        "J": 3,
         "V": 0,
-        "E": 2,
+        "E": 3,
         "D": 0,
-        "GP": 9,
-        "GC": 9,
+        "GP": 10,
+        "GC": 10,
         "SG": 0,
         "pos": 4
       },
@@ -4680,51 +4680,51 @@
         "pos": 1
       },
       {
-        "nome": "Bayern M. (Sebastian)",
-        "Pts": 3,
+        "nome": "PSG (Gael)",
+        "Pts": 4,
         "J": 2,
         "V": 1,
-        "E": 0,
-        "D": 1,
-        "GP": 4,
-        "GC": 6,
-        "SG": -2,
+        "E": 1,
+        "D": 0,
+        "GP": 12,
+        "GC": 9,
+        "SG": 3,
         "pos": 2
       },
       {
-        "nome": "PSG (Gael)",
-        "Pts": 1,
-        "J": 1,
-        "V": 0,
+        "nome": "Real Madrid (Kaizen)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
         "E": 1,
-        "D": 0,
-        "GP": 8,
-        "GC": 8,
-        "SG": 0,
+        "D": 1,
+        "GP": 17,
+        "GC": 18,
+        "SG": -1,
         "pos": 3
       },
       {
-        "nome": "Real Madrid (Kaizen)",
-        "Pts": 1,
-        "J": 2,
-        "V": 0,
-        "E": 1,
-        "D": 1,
-        "GP": 12,
-        "GC": 14,
-        "SG": -2,
+        "nome": "Bayern M. (Sebastian)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 8,
+        "GC": 11,
+        "SG": -3,
         "pos": 4
       },
       {
         "nome": "Liverpool (Dexter)",
         "Pts": 0,
-        "J": 1,
+        "J": 2,
         "V": 0,
         "E": 0,
-        "D": 1,
-        "GP": 2,
-        "GC": 3,
-        "SG": -1,
+        "D": 2,
+        "GP": 3,
+        "GC": 7,
+        "SG": -4,
         "pos": 5
       }
     ]
