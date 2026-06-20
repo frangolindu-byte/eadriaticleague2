@@ -1,9 +1,9 @@
 {
-  "updated_at": "20/06/2026 21:47:13",
+  "updated_at": "20/06/2026 22:54:38",
   "summary": {
-    "total": 300,
-    "finalizados": 293,
-    "agendados": 7,
+    "total": 299,
+    "finalizados": 299,
+    "agendados": 0,
     "ligas": 17
   },
   "jogos": [
@@ -2055,15 +2055,15 @@
       "liga": "FC26 R82(INTERNATIONAL)20.06.2026",
       "p1": "Holland (Adriano)",
       "p2": "Germany (Eduardo)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R82(INTERNATIONAL)20.06.2026",
       "p1": "Sweden (Eric)",
       "p2": "Japan (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R83(SERIA A)20.06.2026",
@@ -2075,37 +2075,30 @@
     {
       "liga": "FC26 R83(SERIA A)20.06.2026",
       "p1": "Inter (Dexter)",
-      "p2": "Juventus (Kaizen)",
-      "placar": "vs",
-      "status": "Agendado"
-    },
-    {
-      "liga": "FC26 R83(SERIA A)20.06.2026",
-      "p1": "Inter (Dexter)",
       "p2": "Atalanta (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R83(SERIA A)20.06.2026",
       "p1": "Lazio (Iron)",
       "p2": "Juventus (Kaizen)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R83(SERIA A)20.06.2026",
       "p1": "Juventus (Kaizen)",
       "p2": "Atalanta (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R83(SERIA A)20.06.2026",
       "p1": "Lazio (Iron)",
       "p2": "Milan (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2186,13 +2179,13 @@
     },
     "FC26 R82(INTERNATIONAL)20.06.2026": {
       "total": 8,
-      "finalizados": 6,
-      "agendados": 2
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R83(SERIA A)20.06.2026": {
-      "total": 6,
-      "finalizados": 1,
-      "agendados": 5
+      "total": 5,
+      "finalizados": 5,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3129,37 +3122,37 @@
     "FC26 R82(INTERNATIONAL)20.06.2026": [
       {
         "nome": "Holland (Adriano)",
-        "Pts": 6,
-        "J": 2,
-        "V": 2,
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
         "E": 0,
         "D": 0,
-        "GP": 9,
-        "GC": 5,
-        "SG": 4,
+        "GP": 11,
+        "GC": 6,
+        "SG": 5,
         "pos": 1
       },
       {
         "nome": "Japan (Odin)",
-        "Pts": 4,
-        "J": 2,
+        "Pts": 5,
+        "J": 3,
         "V": 1,
-        "E": 1,
+        "E": 2,
         "D": 0,
-        "GP": 6,
-        "GC": 3,
+        "GP": 9,
+        "GC": 6,
         "SG": 3,
         "pos": 2
       },
       {
         "nome": "Sweden (Eric)",
-        "Pts": 3,
-        "J": 2,
+        "Pts": 4,
+        "J": 3,
         "V": 1,
-        "E": 0,
+        "E": 1,
         "D": 1,
-        "GP": 4,
-        "GC": 5,
+        "GP": 7,
+        "GC": 8,
         "SG": -1,
         "pos": 3
       },
@@ -3178,40 +3171,76 @@
       {
         "nome": "Germany (Eduardo)",
         "Pts": 1,
-        "J": 3,
+        "J": 4,
         "V": 0,
         "E": 1,
-        "D": 2,
-        "GP": 4,
-        "GC": 8,
-        "SG": -4,
+        "D": 3,
+        "GP": 5,
+        "GC": 10,
+        "SG": -5,
         "pos": 5
       }
     ],
     "FC26 R83(SERIA A)20.06.2026": [
       {
-        "nome": "Milan (Kai)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "nome": "Atalanta (Sebastian)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
-        "D": 0,
-        "GP": 3,
-        "GC": 0,
-        "SG": 3,
+        "D": 1,
+        "GP": 10,
+        "GC": 9,
+        "SG": 1,
         "pos": 1
       },
       {
-        "nome": "Atalanta (Sebastian)",
+        "nome": "Juventus (Kaizen)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 10,
+        "GC": 8,
+        "SG": 2,
+        "pos": 2
+      },
+      {
+        "nome": "Milan (Kai)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 4,
+        "GC": 3,
+        "SG": 1,
+        "pos": 3
+      },
+      {
+        "nome": "Lazio (Iron)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 5,
+        "GC": 6,
+        "SG": -1,
+        "pos": 4
+      },
+      {
+        "nome": "Inter (Dexter)",
         "Pts": 0,
         "J": 1,
         "V": 0,
         "E": 0,
         "D": 1,
-        "GP": 0,
-        "GC": 3,
+        "GP": 1,
+        "GC": 4,
         "SG": -3,
-        "pos": 2
+        "pos": 5
       }
     ]
   }
