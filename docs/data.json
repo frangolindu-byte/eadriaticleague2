@@ -1,9 +1,9 @@
 {
-  "updated_at": "20/06/2026 16:07:30",
+  "updated_at": "20/06/2026 17:47:19",
   "summary": {
     "total": 300,
-    "finalizados": 248,
-    "agendados": 52,
+    "finalizados": 260,
+    "agendados": 40,
     "ligas": 17
   },
   "jogos": [
@@ -1747,85 +1747,85 @@
       "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
       "p1": "Japan (VanGogh)",
       "p2": "Holland (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
       "p1": "Sweden (Noah)",
       "p2": "Germany (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
       "p1": "Germany (Felix)",
       "p2": "Holland (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
       "p1": "Sweden (Noah)",
       "p2": "Ivory Coast (Logan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
       "p1": "Ivory Coast (Logan)",
       "p2": "Japan (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
       "p1": "Sweden (Noah)",
       "p2": "Holland (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "9-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
       "p1": "Ivory Coast (Logan)",
       "p2": "Germany (Felix)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
       "p1": "Sweden (Noah)",
       "p2": "Japan (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
       "p1": "Germany (Felix)",
       "p2": "Japan (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
       "p1": "Ivory Coast (Logan)",
       "p2": "Holland (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
       "p1": "Germany (Felix)",
       "p2": "Sweden (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "8-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
       "p1": "Holland (Lucas)",
       "p2": "Japan (VanGogh)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
@@ -2176,8 +2176,8 @@
     },
     "FC26 R80(INTERNATIONAL)20.06.2026": {
       "total": 20,
-      "finalizados": 2,
-      "agendados": 18
+      "finalizados": 14,
+      "agendados": 6
     },
     "FC26 R81(CHAMPIONS LEAGUE)20.06.2026": {
       "total": 20,
@@ -3004,52 +3004,64 @@
     ],
     "FC26 R80(INTERNATIONAL)20.06.2026": [
       {
-        "nome": "Ivory Coast (Logan)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "nome": "Germany (Felix)",
+        "Pts": 12,
+        "J": 6,
+        "V": 4,
         "E": 0,
-        "D": 0,
-        "GP": 5,
-        "GC": 3,
+        "D": 2,
+        "GP": 24,
+        "GC": 22,
         "SG": 2,
         "pos": 1
       },
       {
-        "nome": "Germany (Felix)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
-        "E": 0,
-        "D": 0,
-        "GP": 3,
-        "GC": 1,
-        "SG": 2,
+        "nome": "Sweden (Noah)",
+        "Pts": 10,
+        "J": 5,
+        "V": 3,
+        "E": 1,
+        "D": 1,
+        "GP": 27,
+        "GC": 21,
+        "SG": 6,
         "pos": 2
       },
       {
-        "nome": "Holland (Lucas)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
-        "E": 0,
+        "nome": "Ivory Coast (Logan)",
+        "Pts": 10,
+        "J": 5,
+        "V": 3,
+        "E": 1,
         "D": 1,
-        "GP": 3,
-        "GC": 5,
-        "SG": -2,
+        "GP": 18,
+        "GC": 15,
+        "SG": 3,
         "pos": 3
       },
       {
-        "nome": "Japan (VanGogh)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
-        "E": 0,
-        "D": 1,
-        "GP": 1,
-        "GC": 3,
-        "SG": -2,
+        "nome": "Holland (Lucas)",
+        "Pts": 4,
+        "J": 6,
+        "V": 1,
+        "E": 1,
+        "D": 4,
+        "GP": 23,
+        "GC": 28,
+        "SG": -5,
         "pos": 4
+      },
+      {
+        "nome": "Japan (VanGogh)",
+        "Pts": 4,
+        "J": 6,
+        "V": 1,
+        "E": 1,
+        "D": 4,
+        "GP": 18,
+        "GC": 24,
+        "SG": -6,
+        "pos": 5
       }
     ]
   }
