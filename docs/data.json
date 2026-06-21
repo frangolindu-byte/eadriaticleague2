@@ -1,9 +1,9 @@
 {
-  "updated_at": "21/06/2026 21:49:50",
+  "updated_at": "21/06/2026 22:55:04",
   "summary": {
     "total": 301,
-    "finalizados": 295,
-    "agendados": 6,
+    "finalizados": 301,
+    "agendados": 0,
     "ligas": 17
   },
   "jogos": [
@@ -2062,15 +2062,15 @@
       "liga": "FC26 R97(CHAMPIONS LEAGUE)21.06.2026",
       "p1": "Atletico Madrid (Maverick)",
       "p2": "Manchester City (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R97(CHAMPIONS LEAGUE)21.06.2026",
       "p1": "Barcelona (Dexter)",
       "p2": "Bayern M. (Kai)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R98(INTERNATIONAL)21.06.2026",
@@ -2090,29 +2090,29 @@
       "liga": "FC26 R98(INTERNATIONAL)21.06.2026",
       "p1": "Cabo Verde (Eric)",
       "p2": "Uruguay (Splinter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-0",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R98(INTERNATIONAL)21.06.2026",
       "p1": "Saudi Arabia (Iron)",
       "p2": "Spain (Kaizen)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R98(INTERNATIONAL)21.06.2026",
       "p1": "Cabo Verde (Eric)",
       "p2": "Belgium (Gael)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R98(INTERNATIONAL)21.06.2026",
       "p1": "Uruguay (Splinter)",
       "p2": "Spain (Kaizen)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2193,13 +2193,13 @@
     },
     "FC26 R97(CHAMPIONS LEAGUE)21.06.2026": {
       "total": 8,
-      "finalizados": 6,
-      "agendados": 2
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R98(INTERNATIONAL)21.06.2026": {
       "total": 6,
-      "finalizados": 2,
-      "agendados": 4
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3135,6 +3135,18 @@
     ],
     "FC26 R97(CHAMPIONS LEAGUE)21.06.2026": [
       {
+        "nome": "Atletico Madrid (Maverick)",
+        "Pts": 7,
+        "J": 3,
+        "V": 2,
+        "E": 1,
+        "D": 0,
+        "GP": 9,
+        "GC": 6,
+        "SG": 3,
+        "pos": 1
+      },
+      {
         "nome": "PSG (Odin)",
         "Pts": 6,
         "J": 3,
@@ -3144,10 +3156,48 @@
         "GP": 14,
         "GC": 7,
         "SG": 7,
-        "pos": 1
+        "pos": 2
       },
       {
-        "nome": "Atletico Madrid (Maverick)",
+        "nome": "Manchester City (Conde)",
+        "Pts": 3,
+        "J": 4,
+        "V": 0,
+        "E": 3,
+        "D": 1,
+        "GP": 13,
+        "GC": 17,
+        "SG": -4,
+        "pos": 3
+      },
+      {
+        "nome": "Barcelona (Dexter)",
+        "Pts": 2,
+        "J": 3,
+        "V": 0,
+        "E": 2,
+        "D": 1,
+        "GP": 7,
+        "GC": 9,
+        "SG": -2,
+        "pos": 4
+      },
+      {
+        "nome": "Bayern M. (Kai)",
+        "Pts": 2,
+        "J": 3,
+        "V": 0,
+        "E": 2,
+        "D": 1,
+        "GP": 8,
+        "GC": 12,
+        "SG": -4,
+        "pos": 5
+      }
+    ],
+    "FC26 R98(INTERNATIONAL)21.06.2026": [
+      {
+        "nome": "Belgium (Gael)",
         "Pts": 6,
         "J": 2,
         "V": 2,
@@ -3156,93 +3206,55 @@
         "GP": 7,
         "GC": 4,
         "SG": 3,
-        "pos": 2
-      },
-      {
-        "nome": "Manchester City (Conde)",
-        "Pts": 2,
-        "J": 3,
-        "V": 0,
-        "E": 2,
-        "D": 1,
-        "GP": 11,
-        "GC": 15,
-        "SG": -4,
-        "pos": 3
-      },
-      {
-        "nome": "Barcelona (Dexter)",
-        "Pts": 1,
-        "J": 2,
-        "V": 0,
-        "E": 1,
-        "D": 1,
-        "GP": 5,
-        "GC": 7,
-        "SG": -2,
-        "pos": 4
-      },
-      {
-        "nome": "Bayern M. (Kai)",
-        "Pts": 1,
-        "J": 2,
-        "V": 0,
-        "E": 1,
-        "D": 1,
-        "GP": 6,
-        "GC": 10,
-        "SG": -4,
-        "pos": 5
-      }
-    ],
-    "FC26 R98(INTERNATIONAL)21.06.2026": [
-      {
-        "nome": "Saudi Arabia (Iron)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
-        "E": 0,
-        "D": 0,
-        "GP": 4,
-        "GC": 1,
-        "SG": 3,
         "pos": 1
       },
       {
-        "nome": "Belgium (Gael)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "nome": "Spain (Kaizen)",
+        "Pts": 6,
+        "J": 3,
+        "V": 2,
         "E": 0,
-        "D": 0,
-        "GP": 4,
-        "GC": 2,
+        "D": 1,
+        "GP": 10,
+        "GC": 8,
         "SG": 2,
         "pos": 2
       },
       {
-        "nome": "Spain (Kaizen)",
-        "Pts": 0,
-        "J": 1,
-        "V": 0,
+        "nome": "Cabo Verde (Eric)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
         "E": 0,
         "D": 1,
-        "GP": 2,
-        "GC": 4,
-        "SG": -2,
+        "GP": 6,
+        "GC": 3,
+        "SG": 3,
         "pos": 3
+      },
+      {
+        "nome": "Saudi Arabia (Iron)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 6,
+        "GC": 6,
+        "SG": 0,
+        "pos": 4
       },
       {
         "nome": "Uruguay (Splinter)",
         "Pts": 0,
-        "J": 1,
+        "J": 3,
         "V": 0,
         "E": 0,
-        "D": 1,
-        "GP": 1,
-        "GC": 4,
-        "SG": -3,
-        "pos": 4
+        "D": 3,
+        "GP": 3,
+        "GC": 11,
+        "SG": -8,
+        "pos": 5
       }
     ]
   }
