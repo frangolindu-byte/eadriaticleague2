@@ -1,3246 +1,2380 @@
 {
-  "updated_at": "20/06/2026 22:54:38",
+  "updated_at": "21/06/2026 00:01:16",
   "summary": {
-    "total": 299,
-    "finalizados": 299,
-    "agendados": 0,
+    "total": 301,
+    "finalizados": 28,
+    "agendados": 273,
     "ligas": 17
   },
   "jogos": [
     {
-      "liga": "FC26 R67(INTERNATIONAL)19.06.2026",
-      "p1": "Morocco (Adriano)",
-      "p2": "Australia (Odin)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R67(INTERNATIONAL)19.06.2026",
-      "p1": "Scotland (Alexis)",
-      "p2": "USA (Eric)",
-      "placar": "6-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R67(INTERNATIONAL)19.06.2026",
-      "p1": "Scotland (Alexis)",
-      "p2": "Sweden (Eduardo)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R67(INTERNATIONAL)19.06.2026",
-      "p1": "USA (Eric)",
-      "p2": "Australia (Odin)",
-      "placar": "5-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R67(INTERNATIONAL)19.06.2026",
-      "p1": "Sweden (Eduardo)",
-      "p2": "Australia (Odin)",
-      "placar": "1-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R67(INTERNATIONAL)19.06.2026",
-      "p1": "USA (Eric)",
-      "p2": "Morocco (Adriano)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R67(INTERNATIONAL)19.06.2026",
-      "p1": "Scotland (Alexis)",
-      "p2": "Morocco (Adriano)",
-      "placar": "5-7",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R67(INTERNATIONAL)19.06.2026",
-      "p1": "Sweden (Eduardo)",
-      "p2": "USA (Eric)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R67(INTERNATIONAL)19.06.2026",
-      "p1": "Australia (Odin)",
-      "p2": "Scotland (Alexis)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R67(INTERNATIONAL)19.06.2026",
-      "p1": "Sweden (Eduardo)",
-      "p2": "Morocco (Adriano)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R67(INTERNATIONAL)19.06.2026",
-      "p1": "Australia (Odin)",
-      "p2": "Morocco (Adriano)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R67(INTERNATIONAL)19.06.2026",
-      "p1": "USA (Eric)",
-      "p2": "Scotland (Alexis)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R68(CHAMPIONS LEAGUE)19.06.2026",
-      "p1": "Liverpool (Dexter)",
-      "p2": "Manchester City (Felix)",
-      "placar": "3-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R68(CHAMPIONS LEAGUE)19.06.2026",
-      "p1": "PSG (Gael)",
-      "p2": "Bayern M. (Sebastian)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R68(CHAMPIONS LEAGUE)19.06.2026",
-      "p1": "Liverpool (Dexter)",
-      "p2": "Real Madrid (Kaizen)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R68(CHAMPIONS LEAGUE)19.06.2026",
-      "p1": "PSG (Gael)",
-      "p2": "Manchester City (Felix)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R68(CHAMPIONS LEAGUE)19.06.2026",
-      "p1": "Liverpool (Dexter)",
-      "p2": "Bayern M. (Sebastian)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R68(CHAMPIONS LEAGUE)19.06.2026",
-      "p1": "Real Madrid (Kaizen)",
-      "p2": "Manchester City (Felix)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R68(CHAMPIONS LEAGUE)19.06.2026",
-      "p1": "Bayern M. (Sebastian)",
-      "p2": "Manchester City (Felix)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R68(CHAMPIONS LEAGUE)19.06.2026",
-      "p1": "Real Madrid (Kaizen)",
-      "p2": "PSG (Gael)",
-      "placar": "5-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R68(CHAMPIONS LEAGUE)19.06.2026",
-      "p1": "Bayern M. (Sebastian)",
-      "p2": "Real Madrid (Kaizen)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R68(CHAMPIONS LEAGUE)19.06.2026",
-      "p1": "Liverpool (Dexter)",
-      "p2": "PSG (Gael)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R68(CHAMPIONS LEAGUE)19.06.2026",
-      "p1": "Bayern M. (Sebastian)",
-      "p2": "PSG (Gael)",
-      "placar": "4-7",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R68(CHAMPIONS LEAGUE)19.06.2026",
-      "p1": "Manchester City (Felix)",
-      "p2": "Liverpool (Dexter)",
-      "placar": "1-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R68(CHAMPIONS LEAGUE)19.06.2026",
-      "p1": "Manchester City (Felix)",
-      "p2": "PSG (Gael)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R68(CHAMPIONS LEAGUE)19.06.2026",
-      "p1": "Real Madrid (Kaizen)",
-      "p2": "Liverpool (Dexter)",
-      "placar": "0-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Atalanta (Odin)",
-      "p2": "Juventus (Eric)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Lazio (Eduardo)",
-      "p2": "Inter (Alexis)",
-      "placar": "4-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Atalanta (Odin)",
-      "p2": "Lazio (Eduardo)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Milan (Adriano)",
-      "p2": "Juventus (Eric)",
-      "placar": "1-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Juventus (Eric)",
-      "p2": "Lazio (Eduardo)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Milan (Adriano)",
-      "p2": "Inter (Alexis)",
-      "placar": "4-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Inter (Alexis)",
-      "p2": "Atalanta (Odin)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Milan (Adriano)",
-      "p2": "Lazio (Eduardo)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Inter (Alexis)",
-      "p2": "Juventus (Eric)",
-      "placar": "6-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Milan (Adriano)",
-      "p2": "Atalanta (Odin)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Inter (Alexis)",
-      "p2": "Lazio (Eduardo)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Juventus (Eric)",
-      "p2": "Atalanta (Odin)",
-      "placar": "5-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Juventus (Eric)",
-      "p2": "Milan (Adriano)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Lazio (Eduardo)",
-      "p2": "Atalanta (Odin)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Inter (Alexis)",
-      "p2": "Milan (Adriano)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Lazio (Eduardo)",
-      "p2": "Juventus (Eric)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Atalanta (Odin)",
-      "p2": "Inter (Alexis)",
-      "placar": "1-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Lazio (Eduardo)",
-      "p2": "Milan (Adriano)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Atalanta (Odin)",
-      "p2": "Milan (Adriano)",
-      "placar": "3-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R69(SERIA A)20.06.2026",
-      "p1": "Juventus (Eric)",
-      "p2": "Inter (Alexis)",
-      "placar": "3-7",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Everton (Felix)",
-      "p2": "Arsenal (Kaizen)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Newcastle U. (Sebastian)",
-      "p2": "Aston Villa (Dexter)",
-      "placar": "0-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Everton (Felix)",
-      "p2": "Newcastle U. (Sebastian)",
-      "placar": "3-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Manchester City (Gael)",
-      "p2": "Arsenal (Kaizen)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Arsenal (Kaizen)",
-      "p2": "Newcastle U. (Sebastian)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Manchester City (Gael)",
-      "p2": "Aston Villa (Dexter)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Aston Villa (Dexter)",
-      "p2": "Everton (Felix)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Manchester City (Gael)",
-      "p2": "Newcastle U. (Sebastian)",
-      "placar": "6-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Aston Villa (Dexter)",
-      "p2": "Arsenal (Kaizen)",
-      "placar": "3-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Manchester City (Gael)",
-      "p2": "Everton (Felix)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Arsenal (Kaizen)",
-      "p2": "Everton (Felix)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Aston Villa (Dexter)",
-      "p2": "Newcastle U. (Sebastian)",
-      "placar": "1-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Arsenal (Kaizen)",
-      "p2": "Manchester City (Gael)",
-      "placar": "6-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Newcastle U. (Sebastian)",
-      "p2": "Everton (Felix)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Aston Villa (Dexter)",
-      "p2": "Manchester City (Gael)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Newcastle U. (Sebastian)",
-      "p2": "Arsenal (Kaizen)",
-      "placar": "4-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Everton (Felix)",
-      "p2": "Aston Villa (Dexter)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Newcastle U. (Sebastian)",
-      "p2": "Manchester City (Gael)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Arsenal (Kaizen)",
-      "p2": "Aston Villa (Dexter)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R70(PREMIER LEAGUE)20.06.2026",
-      "p1": "Everton (Felix)",
-      "p2": "Manchester City (Gael)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Manchester City (Eduardo)",
-      "p2": "Barcelona (Alexis)",
-      "placar": "1-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "PSG (Odin)",
-      "p2": "Liverpool (Eric)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Atletico Madrid (Adriano)",
-      "p2": "Liverpool (Eric)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "PSG (Odin)",
-      "p2": "Manchester City (Eduardo)",
-      "placar": "1-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Atletico Madrid (Adriano)",
-      "p2": "Barcelona (Alexis)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Liverpool (Eric)",
-      "p2": "Manchester City (Eduardo)",
-      "placar": "3-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Atletico Madrid (Adriano)",
-      "p2": "Manchester City (Eduardo)",
-      "placar": "0-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Barcelona (Alexis)",
-      "p2": "PSG (Odin)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Atletico Madrid (Adriano)",
-      "p2": "PSG (Odin)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Barcelona (Alexis)",
-      "p2": "Liverpool (Eric)",
-      "placar": "1-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Barcelona (Alexis)",
-      "p2": "Manchester City (Eduardo)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Liverpool (Eric)",
-      "p2": "PSG (Odin)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Liverpool (Eric)",
-      "p2": "Atletico Madrid (Adriano)",
-      "placar": "5-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Manchester City (Eduardo)",
-      "p2": "PSG (Odin)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Barcelona (Alexis)",
-      "p2": "Atletico Madrid (Adriano)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Manchester City (Eduardo)",
-      "p2": "Liverpool (Eric)",
-      "placar": "7-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Manchester City (Eduardo)",
-      "p2": "Atletico Madrid (Adriano)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "PSG (Odin)",
-      "p2": "Barcelona (Alexis)",
-      "placar": "1-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Liverpool (Eric)",
-      "p2": "Barcelona (Alexis)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R71(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "PSG (Odin)",
-      "p2": "Atletico Madrid (Adriano)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "Australia (Felix)",
-      "p2": "USA (Kaizen)",
-      "placar": "5-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "Sweden (Sebastian)",
-      "p2": "Scotland (Dexter)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "Australia (Felix)",
-      "p2": "Sweden (Sebastian)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "Morocco (Gael)",
-      "p2": "USA (Kaizen)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "Morocco (Gael)",
-      "p2": "Scotland (Dexter)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "USA (Kaizen)",
-      "p2": "Sweden (Sebastian)",
-      "placar": "6-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "Morocco (Gael)",
-      "p2": "Sweden (Sebastian)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "Scotland (Dexter)",
-      "p2": "Australia (Felix)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "Morocco (Gael)",
-      "p2": "Australia (Felix)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "Scotland (Dexter)",
-      "p2": "USA (Kaizen)",
-      "placar": "6-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "Scotland (Dexter)",
-      "p2": "Sweden (Sebastian)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "USA (Kaizen)",
-      "p2": "Australia (Felix)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "Sweden (Sebastian)",
-      "p2": "Australia (Felix)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "USA (Kaizen)",
-      "p2": "Morocco (Gael)",
-      "placar": "5-8",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "Scotland (Dexter)",
-      "p2": "Morocco (Gael)",
-      "placar": "5-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "Sweden (Sebastian)",
-      "p2": "USA (Kaizen)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "Australia (Felix)",
-      "p2": "Scotland (Dexter)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "Sweden (Sebastian)",
-      "p2": "Morocco (Gael)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "Australia (Felix)",
-      "p2": "Morocco (Gael)",
-      "placar": "5-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R72(INTERNATIONAL)20.06.2026",
-      "p1": "USA (Kaizen)",
-      "p2": "Scotland (Dexter)",
-      "placar": "1-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Liverpool (MisterX)",
-      "p2": "Bayern M. (Conde)",
-      "placar": "5-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "PSG (Maverick)",
-      "p2": "Manchester City (Matrix)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Atletico Madrid (Gabriel)",
-      "p2": "Bayern M. (Conde)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Liverpool (MisterX)",
-      "p2": "PSG (Maverick)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Atletico Madrid (Gabriel)",
-      "p2": "Manchester City (Matrix)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Bayern M. (Conde)",
-      "p2": "PSG (Maverick)",
-      "placar": "7-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Atletico Madrid (Gabriel)",
-      "p2": "PSG (Maverick)",
-      "placar": "4-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Manchester City (Matrix)",
-      "p2": "Liverpool (MisterX)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Atletico Madrid (Gabriel)",
-      "p2": "Liverpool (MisterX)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Manchester City (Matrix)",
-      "p2": "Bayern M. (Conde)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Bayern M. (Conde)",
-      "p2": "Liverpool (MisterX)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Manchester City (Matrix)",
-      "p2": "PSG (Maverick)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Bayern M. (Conde)",
-      "p2": "Atletico Madrid (Gabriel)",
-      "placar": "1-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "PSG (Maverick)",
-      "p2": "Liverpool (MisterX)",
-      "placar": "4-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Manchester City (Matrix)",
-      "p2": "Atletico Madrid (Gabriel)",
-      "placar": "4-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "PSG (Maverick)",
-      "p2": "Bayern M. (Conde)",
-      "placar": "4-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Liverpool (MisterX)",
-      "p2": "Manchester City (Matrix)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "PSG (Maverick)",
-      "p2": "Atletico Madrid (Gabriel)",
-      "placar": "4-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Bayern M. (Conde)",
-      "p2": "Manchester City (Matrix)",
-      "placar": "5-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R73(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Liverpool (MisterX)",
-      "p2": "Atletico Madrid (Gabriel)",
-      "placar": "1-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Holland (Haidan)",
-      "p2": "Japan (Beckham)",
-      "placar": "4-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Ivory Coast (Alexander)",
-      "p2": "Sweden (Cezar)",
-      "placar": "4-7",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Germany (Splinter)",
-      "p2": "Japan (Beckham)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Holland (Haidan)",
-      "p2": "Ivory Coast (Alexander)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Germany (Splinter)",
-      "p2": "Sweden (Cezar)",
-      "placar": "1-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Japan (Beckham)",
-      "p2": "Ivory Coast (Alexander)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Germany (Splinter)",
-      "p2": "Ivory Coast (Alexander)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Sweden (Cezar)",
-      "p2": "Holland (Haidan)",
-      "placar": "2-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Germany (Splinter)",
-      "p2": "Holland (Haidan)",
-      "placar": "4-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Sweden (Cezar)",
-      "p2": "Japan (Beckham)",
-      "placar": "2-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Japan (Beckham)",
-      "p2": "Holland (Haidan)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Sweden (Cezar)",
-      "p2": "Ivory Coast (Alexander)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Ivory Coast (Alexander)",
-      "p2": "Holland (Haidan)",
-      "placar": "0-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Japan (Beckham)",
-      "p2": "Germany (Splinter)",
-      "placar": "7-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Ivory Coast (Alexander)",
-      "p2": "Japan (Beckham)",
-      "placar": "2-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Sweden (Cezar)",
-      "p2": "Germany (Splinter)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Holland (Haidan)",
-      "p2": "Sweden (Cezar)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Ivory Coast (Alexander)",
-      "p2": "Germany (Splinter)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Holland (Haidan)",
-      "p2": "Germany (Splinter)",
-      "placar": "9-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R74(INTERNATIONAL)20.06.2026",
-      "p1": "Japan (Beckham)",
-      "p2": "Sweden (Cezar)",
-      "placar": "7-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Real Betis (Maverick)",
-      "p2": "Atletico Madrid (Matrix)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Sevilla (MisterX)",
-      "p2": "Real Madrid (Conde)",
-      "placar": "6-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Real Sociedad (Gabriel)",
-      "p2": "Real Madrid (Conde)",
-      "placar": "5-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Sevilla (MisterX)",
-      "p2": "Real Betis (Maverick)",
-      "placar": "7-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Real Madrid (Conde)",
-      "p2": "Real Betis (Maverick)",
-      "placar": "4-8",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Real Sociedad (Gabriel)",
-      "p2": "Atletico Madrid (Matrix)",
-      "placar": "2-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Atletico Madrid (Matrix)",
-      "p2": "Sevilla (MisterX)",
-      "placar": "6-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Real Sociedad (Gabriel)",
-      "p2": "Real Betis (Maverick)",
-      "placar": "4-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Atletico Madrid (Matrix)",
-      "p2": "Real Madrid (Conde)",
-      "placar": "6-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Real Sociedad (Gabriel)",
-      "p2": "Sevilla (MisterX)",
-      "placar": "5-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Atletico Madrid (Matrix)",
-      "p2": "Real Betis (Maverick)",
-      "placar": "5-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Real Madrid (Conde)",
-      "p2": "Sevilla (MisterX)",
-      "placar": "5-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Real Betis (Maverick)",
-      "p2": "Sevilla (MisterX)",
-      "placar": "6-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Real Madrid (Conde)",
-      "p2": "Real Sociedad (Gabriel)",
-      "placar": "3-7",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Atletico Madrid (Matrix)",
-      "p2": "Real Sociedad (Gabriel)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Real Betis (Maverick)",
-      "p2": "Real Madrid (Conde)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Real Betis (Maverick)",
-      "p2": "Real Sociedad (Gabriel)",
-      "placar": "4-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Sevilla (MisterX)",
-      "p2": "Atletico Madrid (Matrix)",
-      "placar": "3-7",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Real Madrid (Conde)",
-      "p2": "Atletico Madrid (Matrix)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R75(LA LIGA)20.06.2026",
-      "p1": "Sevilla (MisterX)",
-      "p2": "Real Sociedad (Gabriel)",
-      "placar": "5-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Bayern M. (Haidan)",
-      "p2": "Real Madrid (Beckham)",
-      "placar": "1-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Manchester City (Alexander)",
-      "p2": "PSG (Cezar)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Atletico Madrid (Splinter)",
-      "p2": "Real Madrid (Beckham)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Bayern M. (Haidan)",
-      "p2": "Manchester City (Alexander)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Atletico Madrid (Splinter)",
-      "p2": "PSG (Cezar)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Real Madrid (Beckham)",
-      "p2": "Manchester City (Alexander)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Atletico Madrid (Splinter)",
-      "p2": "Manchester City (Alexander)",
-      "placar": "5-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "PSG (Cezar)",
-      "p2": "Bayern M. (Haidan)",
-      "placar": "2-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Atletico Madrid (Splinter)",
-      "p2": "Bayern M. (Haidan)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "PSG (Cezar)",
-      "p2": "Real Madrid (Beckham)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "PSG (Cezar)",
-      "p2": "Manchester City (Alexander)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Real Madrid (Beckham)",
-      "p2": "Bayern M. (Haidan)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Manchester City (Alexander)",
-      "p2": "Bayern M. (Haidan)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Real Madrid (Beckham)",
-      "p2": "Atletico Madrid (Splinter)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Manchester City (Alexander)",
-      "p2": "Real Madrid (Beckham)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "PSG (Cezar)",
-      "p2": "Atletico Madrid (Splinter)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Bayern M. (Haidan)",
-      "p2": "PSG (Cezar)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Manchester City (Alexander)",
-      "p2": "Atletico Madrid (Splinter)",
-      "placar": "6-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Bayern M. (Haidan)",
-      "p2": "Atletico Madrid (Splinter)",
-      "placar": "4-8",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R76(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Real Madrid (Beckham)",
-      "p2": "PSG (Cezar)",
-      "placar": "6-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Germany (MisterX)",
-      "p2": "Sweden (Conde)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Holland (Maverick)",
-      "p2": "Ivory Coast (Matrix)",
-      "placar": "3-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Germany (MisterX)",
-      "p2": "Holland (Maverick)",
-      "placar": "5-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Japan (Gabriel)",
-      "p2": "Sweden (Conde)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Japan (Gabriel)",
-      "p2": "Ivory Coast (Matrix)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Sweden (Conde)",
-      "p2": "Holland (Maverick)",
-      "placar": "1-8",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Ivory Coast (Matrix)",
-      "p2": "Germany (MisterX)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Japan (Gabriel)",
-      "p2": "Holland (Maverick)",
-      "placar": "5-7",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Ivory Coast (Matrix)",
-      "p2": "Sweden (Conde)",
-      "placar": "6-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Japan (Gabriel)",
-      "p2": "Germany (MisterX)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Ivory Coast (Matrix)",
-      "p2": "Holland (Maverick)",
-      "placar": "8-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Sweden (Conde)",
-      "p2": "Germany (MisterX)",
-      "placar": "5-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Holland (Maverick)",
-      "p2": "Germany (MisterX)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Sweden (Conde)",
-      "p2": "Japan (Gabriel)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Holland (Maverick)",
-      "p2": "Sweden (Conde)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Ivory Coast (Matrix)",
-      "p2": "Japan (Gabriel)",
-      "placar": "4-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Germany (MisterX)",
-      "p2": "Ivory Coast (Matrix)",
-      "placar": "2-7",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Holland (Maverick)",
-      "p2": "Japan (Gabriel)",
-      "placar": "4-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Germany (MisterX)",
-      "p2": "Japan (Gabriel)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R77(INTERNATIONAL)20.06.2026",
-      "p1": "Sweden (Conde)",
-      "p2": "Ivory Coast (Matrix)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Liverpool (Haidan)",
-      "p2": "Manchester City (Beckham)",
-      "placar": "1-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Tottenham (Alexander)",
-      "p2": "Manchester Utd. (Cezar)",
-      "placar": "5-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Everton (Splinter)",
-      "p2": "Manchester City (Beckham)",
-      "placar": "CancelledC-C",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Liverpool (Haidan)",
-      "p2": "Tottenham (Alexander)",
-      "placar": "CancelledC-C",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Everton (Splinter)",
-      "p2": "Manchester Utd. (Cezar)",
-      "placar": "5-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Manchester City (Beckham)",
-      "p2": "Tottenham (Alexander)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Everton (Splinter)",
-      "p2": "Tottenham (Alexander)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Manchester Utd. (Cezar)",
-      "p2": "Liverpool (Haidan)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Everton (Splinter)",
-      "p2": "Liverpool (Haidan)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Manchester Utd. (Cezar)",
-      "p2": "Manchester City (Beckham)",
-      "placar": "5-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Manchester City (Beckham)",
-      "p2": "Liverpool (Haidan)",
-      "placar": "4-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Manchester Utd. (Cezar)",
-      "p2": "Tottenham (Alexander)",
-      "placar": "2-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Manchester City (Beckham)",
-      "p2": "Everton (Splinter)",
-      "placar": "5-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Tottenham (Alexander)",
-      "p2": "Liverpool (Haidan)",
-      "placar": "2-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Manchester Utd. (Cezar)",
-      "p2": "Everton (Splinter)",
-      "placar": "5-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Tottenham (Alexander)",
-      "p2": "Manchester City (Beckham)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Liverpool (Haidan)",
-      "p2": "Manchester Utd. (Cezar)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Tottenham (Alexander)",
-      "p2": "Everton (Splinter)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Liverpool (Haidan)",
-      "p2": "Everton (Splinter)",
-      "placar": "5-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R78(PREMIER LEAGUE)20.06.2026",
-      "p1": "Manchester City (Beckham)",
-      "p2": "Manchester Utd. (Cezar)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Lazio (Lucas)",
-      "p2": "Juventus (Logan)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Milan (VanGogh)",
-      "p2": "Atalanta (Felix)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Inter (Noah)",
-      "p2": "Atalanta (Felix)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Milan (VanGogh)",
-      "p2": "Lazio (Lucas)",
-      "placar": "1-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Atalanta (Felix)",
-      "p2": "Lazio (Lucas)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Inter (Noah)",
-      "p2": "Juventus (Logan)",
-      "placar": "3-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Inter (Noah)",
-      "p2": "Lazio (Lucas)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Juventus (Logan)",
-      "p2": "Milan (VanGogh)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Inter (Noah)",
-      "p2": "Milan (VanGogh)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Juventus (Logan)",
-      "p2": "Atalanta (Felix)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Atalanta (Felix)",
-      "p2": "Milan (VanGogh)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Juventus (Logan)",
-      "p2": "Lazio (Lucas)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Atalanta (Felix)",
-      "p2": "Inter (Noah)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Lazio (Lucas)",
-      "p2": "Milan (VanGogh)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Juventus (Logan)",
-      "p2": "Inter (Noah)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Lazio (Lucas)",
-      "p2": "Atalanta (Felix)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Lazio (Lucas)",
-      "p2": "Inter (Noah)",
-      "placar": "3-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Milan (VanGogh)",
-      "p2": "Juventus (Logan)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Atalanta (Felix)",
-      "p2": "Juventus (Logan)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R79(SERIA A)20.06.2026",
-      "p1": "Milan (VanGogh)",
-      "p2": "Inter (Noah)",
-      "placar": "3-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Holland (Lucas)",
-      "p2": "Ivory Coast (Logan)",
-      "placar": "3-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Japan (VanGogh)",
-      "p2": "Germany (Felix)",
-      "placar": "1-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Japan (VanGogh)",
-      "p2": "Holland (Lucas)",
-      "placar": "5-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Sweden (Noah)",
-      "p2": "Germany (Felix)",
-      "placar": "5-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Germany (Felix)",
-      "p2": "Holland (Lucas)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Sweden (Noah)",
-      "p2": "Ivory Coast (Logan)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Ivory Coast (Logan)",
-      "p2": "Japan (VanGogh)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Sweden (Noah)",
-      "p2": "Holland (Lucas)",
-      "placar": "9-7",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Ivory Coast (Logan)",
-      "p2": "Germany (Felix)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Sweden (Noah)",
-      "p2": "Japan (VanGogh)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Germany (Felix)",
-      "p2": "Japan (VanGogh)",
-      "placar": "5-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Ivory Coast (Logan)",
-      "p2": "Holland (Lucas)",
-      "placar": "4-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Germany (Felix)",
-      "p2": "Sweden (Noah)",
-      "placar": "8-6",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Holland (Lucas)",
-      "p2": "Japan (VanGogh)",
-      "placar": "5-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Holland (Lucas)",
-      "p2": "Germany (Felix)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Ivory Coast (Logan)",
-      "p2": "Sweden (Noah)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Holland (Lucas)",
-      "p2": "Sweden (Noah)",
-      "placar": "1-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Japan (VanGogh)",
-      "p2": "Ivory Coast (Logan)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Germany (Felix)",
-      "p2": "Ivory Coast (Logan)",
-      "placar": "5-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R80(INTERNATIONAL)20.06.2026",
-      "p1": "Japan (VanGogh)",
-      "p2": "Sweden (Noah)",
-      "placar": "6-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Bayern M. (Lucas)",
-      "p2": "Atletico Madrid (Logan)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Liverpool (VanGogh)",
-      "p2": "Barcelona (Felix)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Liverpool (VanGogh)",
-      "p2": "Bayern M. (Lucas)",
-      "placar": "6-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Manchester City (Noah)",
-      "p2": "Barcelona (Felix)",
-      "placar": "2-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Barcelona (Felix)",
-      "p2": "Bayern M. (Lucas)",
-      "placar": "1-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Manchester City (Noah)",
-      "p2": "Atletico Madrid (Logan)",
-      "placar": "2-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Atletico Madrid (Logan)",
-      "p2": "Liverpool (VanGogh)",
-      "placar": "3-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Manchester City (Noah)",
-      "p2": "Bayern M. (Lucas)",
-      "placar": "4-2",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Atletico Madrid (Logan)",
-      "p2": "Barcelona (Felix)",
-      "placar": "2-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Manchester City (Noah)",
-      "p2": "Liverpool (VanGogh)",
-      "placar": "1-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Atletico Madrid (Logan)",
-      "p2": "Bayern M. (Lucas)",
-      "placar": "2-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Barcelona (Felix)",
-      "p2": "Liverpool (VanGogh)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Barcelona (Felix)",
-      "p2": "Manchester City (Noah)",
-      "placar": "1-5",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Bayern M. (Lucas)",
-      "p2": "Liverpool (VanGogh)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Atletico Madrid (Logan)",
-      "p2": "Manchester City (Noah)",
-      "placar": "4-3",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Bayern M. (Lucas)",
-      "p2": "Barcelona (Felix)",
-      "placar": "4-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Bayern M. (Lucas)",
-      "p2": "Manchester City (Noah)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Liverpool (VanGogh)",
-      "p2": "Atletico Madrid (Logan)",
-      "placar": "3-4",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Barcelona (Felix)",
-      "p2": "Atletico Madrid (Logan)",
-      "placar": "3-1",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R81(CHAMPIONS LEAGUE)20.06.2026",
-      "p1": "Liverpool (VanGogh)",
-      "p2": "Manchester City (Noah)",
-      "placar": "4-5",
-      "status": "Finalizado"
-    },
-    {
       "liga": "FC26 R82(INTERNATIONAL)20.06.2026",
-      "p1": "Germany (Eduardo)",
-      "p2": "Sweden (Eric)",
+      "p1": "Holland (Adriano)",
+      "p2": "Japan (Odin)",
       "placar": "0-1",
       "status": "Finalizado"
     },
     {
       "liga": "FC26 R82(INTERNATIONAL)20.06.2026",
-      "p1": "Japan (Odin)",
+      "p1": "Sweden (Eric)",
       "p2": "Ivory Coast (Alexis)",
+      "placar": "1-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R82(INTERNATIONAL)20.06.2026",
+      "p1": "Ivory Coast (Alexis)",
+      "p2": "Japan (Odin)",
+      "placar": "6-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R82(INTERNATIONAL)20.06.2026",
+      "p1": "Sweden (Eric)",
+      "p2": "Germany (Eduardo)",
+      "placar": "4-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R82(INTERNATIONAL)20.06.2026",
+      "p1": "Germany (Eduardo)",
+      "p2": "Japan (Odin)",
+      "placar": "4-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R82(INTERNATIONAL)20.06.2026",
+      "p1": "Ivory Coast (Alexis)",
+      "p2": "Holland (Adriano)",
       "placar": "3-3",
       "status": "Finalizado"
     },
     {
       "liga": "FC26 R82(INTERNATIONAL)20.06.2026",
-      "p1": "Holland (Adriano)",
+      "p1": "Germany (Eduardo)",
       "p2": "Ivory Coast (Alexis)",
+      "placar": "2-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R82(INTERNATIONAL)20.06.2026",
+      "p1": "Sweden (Eric)",
+      "p2": "Holland (Adriano)",
+      "placar": "3-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R82(INTERNATIONAL)20.06.2026",
+      "p1": "Germany (Eduardo)",
+      "p2": "Holland (Adriano)",
       "placar": "4-2",
       "status": "Finalizado"
     },
     {
       "liga": "FC26 R82(INTERNATIONAL)20.06.2026",
       "p1": "Japan (Odin)",
-      "p2": "Germany (Eduardo)",
-      "placar": "3-0",
-      "status": "Finalizado"
-    },
-    {
-      "liga": "FC26 R82(INTERNATIONAL)20.06.2026",
-      "p1": "Holland (Adriano)",
       "p2": "Sweden (Eric)",
-      "placar": "5-3",
+      "placar": "1-3",
       "status": "Finalizado"
     },
     {
       "liga": "FC26 R82(INTERNATIONAL)20.06.2026",
       "p1": "Ivory Coast (Alexis)",
-      "p2": "Germany (Eduardo)",
-      "placar": "4-4",
+      "p2": "Sweden (Eric)",
+      "placar": "4-0",
       "status": "Finalizado"
     },
     {
       "liga": "FC26 R82(INTERNATIONAL)20.06.2026",
-      "p1": "Holland (Adriano)",
-      "p2": "Germany (Eduardo)",
-      "placar": "2-1",
+      "p1": "Japan (Odin)",
+      "p2": "Holland (Adriano)",
+      "placar": "3-1",
       "status": "Finalizado"
     },
     {
-      "liga": "FC26 R82(INTERNATIONAL)20.06.2026",
-      "p1": "Sweden (Eric)",
-      "p2": "Japan (Odin)",
+      "liga": "FC26 R83(SERIA A)20.06.2026",
+      "p1": "Lazio (Iron)",
+      "p2": "Atalanta (Sebastian)",
+      "placar": "2-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R83(SERIA A)20.06.2026",
+      "p1": "Milan (Kai)",
+      "p2": "Inter (Dexter)",
+      "placar": "3-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R83(SERIA A)20.06.2026",
+      "p1": "Lazio (Iron)",
+      "p2": "Inter (Dexter)",
+      "placar": "3-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R83(SERIA A)20.06.2026",
+      "p1": "Milan (Kai)",
+      "p2": "Juventus (Kaizen)",
       "placar": "3-3",
       "status": "Finalizado"
     },
     {
       "liga": "FC26 R83(SERIA A)20.06.2026",
-      "p1": "Atalanta (Sebastian)",
-      "p2": "Milan (Kai)",
-      "placar": "0-3",
+      "p1": "Juventus (Kaizen)",
+      "p2": "Inter (Dexter)",
+      "placar": "3-5",
       "status": "Finalizado"
     },
     {
       "liga": "FC26 R83(SERIA A)20.06.2026",
-      "p1": "Inter (Dexter)",
+      "p1": "Milan (Kai)",
       "p2": "Atalanta (Sebastian)",
-      "placar": "1-4",
+      "placar": "3-1",
       "status": "Finalizado"
     },
     {
       "liga": "FC26 R83(SERIA A)20.06.2026",
-      "p1": "Lazio (Iron)",
-      "p2": "Juventus (Kaizen)",
-      "placar": "2-5",
+      "p1": "Atalanta (Sebastian)",
+      "p2": "Inter (Dexter)",
+      "placar": "1-3",
       "status": "Finalizado"
     },
     {
       "liga": "FC26 R83(SERIA A)20.06.2026",
       "p1": "Juventus (Kaizen)",
-      "p2": "Atalanta (Sebastian)",
-      "placar": "5-6",
+      "p2": "Lazio (Iron)",
+      "placar": "5-3",
       "status": "Finalizado"
     },
     {
       "liga": "FC26 R83(SERIA A)20.06.2026",
-      "p1": "Lazio (Iron)",
-      "p2": "Milan (Kai)",
-      "placar": "3-1",
+      "p1": "Atalanta (Sebastian)",
+      "p2": "Juventus (Kaizen)",
+      "placar": "4-3",
       "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R83(SERIA A)20.06.2026",
+      "p1": "Milan (Kai)",
+      "p2": "Lazio (Iron)",
+      "placar": "4-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R83(SERIA A)20.06.2026",
+      "p1": "Atalanta (Sebastian)",
+      "p2": "Lazio (Iron)",
+      "placar": "5-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R83(SERIA A)20.06.2026",
+      "p1": "Inter (Dexter)",
+      "p2": "Milan (Kai)",
+      "placar": "2-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R83(SERIA A)20.06.2026",
+      "p1": "Inter (Dexter)",
+      "p2": "Lazio (Iron)",
+      "placar": "3-2",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R83(SERIA A)20.06.2026",
+      "p1": "Juventus (Kaizen)",
+      "p2": "Milan (Kai)",
+      "placar": "1-4",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R83(SERIA A)20.06.2026",
+      "p1": "Inter (Dexter)",
+      "p2": "Juventus (Kaizen)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Eduardo)",
+      "p2": "Real Madrid (Eric)",
+      "placar": "3-3",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Manchester City (Odin)",
+      "p2": "Atletico Madrid (Alexis)",
+      "placar": "2-1",
+      "status": "Finalizado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Adriano)",
+      "p2": "Atletico Madrid (Alexis)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Manchester City (Odin)",
+      "p2": "Bayern M. (Eduardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Atletico Madrid (Alexis)",
+      "p2": "Bayern M. (Eduardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Adriano)",
+      "p2": "Real Madrid (Eric)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Adriano)",
+      "p2": "Bayern M. (Eduardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Real Madrid (Eric)",
+      "p2": "Manchester City (Odin)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Adriano)",
+      "p2": "Manchester City (Odin)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Real Madrid (Eric)",
+      "p2": "Atletico Madrid (Alexis)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Atletico Madrid (Alexis)",
+      "p2": "Manchester City (Odin)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Real Madrid (Eric)",
+      "p2": "Bayern M. (Eduardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Atletico Madrid (Alexis)",
+      "p2": "Liverpool (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Eduardo)",
+      "p2": "Manchester City (Odin)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Eduardo)",
+      "p2": "Atletico Madrid (Alexis)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Real Madrid (Eric)",
+      "p2": "Liverpool (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Eduardo)",
+      "p2": "Liverpool (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Manchester City (Odin)",
+      "p2": "Real Madrid (Eric)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Atletico Madrid (Alexis)",
+      "p2": "Real Madrid (Eric)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R84(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Manchester City (Odin)",
+      "p2": "Liverpool (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Ivory Coast (Sebastian)",
+      "p2": "Holland (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Japan (Dexter)",
+      "p2": "Sweden (Kaizen)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Germany (Iron)",
+      "p2": "Sweden (Kaizen)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Japan (Dexter)",
+      "p2": "Ivory Coast (Sebastian)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Germany (Iron)",
+      "p2": "Holland (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Sweden (Kaizen)",
+      "p2": "Ivory Coast (Sebastian)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Germany (Iron)",
+      "p2": "Ivory Coast (Sebastian)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Holland (Kai)",
+      "p2": "Japan (Dexter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Germany (Iron)",
+      "p2": "Japan (Dexter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Holland (Kai)",
+      "p2": "Sweden (Kaizen)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Holland (Kai)",
+      "p2": "Ivory Coast (Sebastian)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Sweden (Kaizen)",
+      "p2": "Japan (Dexter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Ivory Coast (Sebastian)",
+      "p2": "Japan (Dexter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Sweden (Kaizen)",
+      "p2": "Germany (Iron)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Holland (Kai)",
+      "p2": "Germany (Iron)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Ivory Coast (Sebastian)",
+      "p2": "Sweden (Kaizen)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Ivory Coast (Sebastian)",
+      "p2": "Germany (Iron)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Japan (Dexter)",
+      "p2": "Holland (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Japan (Dexter)",
+      "p2": "Germany (Iron)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R85(INTERNATIONAL)21.06.2026",
+      "p1": "Sweden (Kaizen)",
+      "p2": "Holland (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "Aston Villa (Eduardo)",
+      "p2": "Arsenal (Eric)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "Everton (Odin)",
+      "p2": "Newcastle U. (Alexis)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "Everton (Odin)",
+      "p2": "Aston Villa (Eduardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "West Ham United (Adriano)",
+      "p2": "Newcastle U. (Alexis)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "Newcastle U. (Alexis)",
+      "p2": "Aston Villa (Eduardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "West Ham United (Adriano)",
+      "p2": "Arsenal (Eric)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "Arsenal (Eric)",
+      "p2": "Everton (Odin)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "West Ham United (Adriano)",
+      "p2": "Aston Villa (Eduardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "Arsenal (Eric)",
+      "p2": "Newcastle U. (Alexis)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "West Ham United (Adriano)",
+      "p2": "Everton (Odin)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "Arsenal (Eric)",
+      "p2": "Aston Villa (Eduardo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "Newcastle U. (Alexis)",
+      "p2": "Everton (Odin)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "Aston Villa (Eduardo)",
+      "p2": "Everton (Odin)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "Newcastle U. (Alexis)",
+      "p2": "West Ham United (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "Arsenal (Eric)",
+      "p2": "West Ham United (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "Aston Villa (Eduardo)",
+      "p2": "Newcastle U. (Alexis)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "Aston Villa (Eduardo)",
+      "p2": "West Ham United (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "Everton (Odin)",
+      "p2": "Arsenal (Eric)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "Everton (Odin)",
+      "p2": "West Ham United (Adriano)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R86(PREMIER LEAGUE)21.06.2026",
+      "p1": "Newcastle U. (Alexis)",
+      "p2": "Arsenal (Eric)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Barcelona (Sebastian)",
+      "p2": "Liverpool (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Real Madrid (Dexter)",
+      "p2": "Bayern M. (Kaizen)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "PSG (Iron)",
+      "p2": "Bayern M. (Kaizen)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Real Madrid (Dexter)",
+      "p2": "Barcelona (Sebastian)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Kaizen)",
+      "p2": "Barcelona (Sebastian)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "PSG (Iron)",
+      "p2": "Liverpool (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Kai)",
+      "p2": "Real Madrid (Dexter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "PSG (Iron)",
+      "p2": "Barcelona (Sebastian)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Kai)",
+      "p2": "Bayern M. (Kaizen)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "PSG (Iron)",
+      "p2": "Real Madrid (Dexter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Kaizen)",
+      "p2": "Real Madrid (Dexter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Kai)",
+      "p2": "Barcelona (Sebastian)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Barcelona (Sebastian)",
+      "p2": "Real Madrid (Dexter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Kaizen)",
+      "p2": "PSG (Iron)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Barcelona (Sebastian)",
+      "p2": "Bayern M. (Kaizen)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Kai)",
+      "p2": "PSG (Iron)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Barcelona (Sebastian)",
+      "p2": "PSG (Iron)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Real Madrid (Dexter)",
+      "p2": "Liverpool (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Kaizen)",
+      "p2": "Liverpool (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R87(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Real Madrid (Dexter)",
+      "p2": "PSG (Iron)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Conde)",
+      "p2": "Barcelona (Matrix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "PSG (Flash)",
+      "p2": "Atletico Madrid (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Liam)",
+      "p2": "Barcelona (Matrix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Conde)",
+      "p2": "PSG (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Barcelona (Matrix)",
+      "p2": "PSG (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Liam)",
+      "p2": "Atletico Madrid (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Atletico Madrid (Noah)",
+      "p2": "Liverpool (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Liam)",
+      "p2": "PSG (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Atletico Madrid (Noah)",
+      "p2": "Barcelona (Matrix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Liam)",
+      "p2": "Liverpool (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Atletico Madrid (Noah)",
+      "p2": "PSG (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Barcelona (Matrix)",
+      "p2": "Liverpool (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Barcelona (Matrix)",
+      "p2": "Bayern M. (Liam)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "PSG (Flash)",
+      "p2": "Liverpool (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Atletico Madrid (Noah)",
+      "p2": "Bayern M. (Liam)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "PSG (Flash)",
+      "p2": "Barcelona (Matrix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Conde)",
+      "p2": "Atletico Madrid (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "PSG (Flash)",
+      "p2": "Bayern M. (Liam)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Barcelona (Matrix)",
+      "p2": "Atletico Madrid (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R88(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Conde)",
+      "p2": "Bayern M. (Liam)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Saudi Arabia (VanGogh)",
+      "p2": "Belgium (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Uruguay (Mateo)",
+      "p2": "Cabo Verde (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Spain (Juan)",
+      "p2": "Cabo Verde (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Uruguay (Mateo)",
+      "p2": "Saudi Arabia (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Cabo Verde (Beckham)",
+      "p2": "Saudi Arabia (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Spain (Juan)",
+      "p2": "Belgium (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Belgium (Alexander)",
+      "p2": "Uruguay (Mateo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Spain (Juan)",
+      "p2": "Saudi Arabia (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Belgium (Alexander)",
+      "p2": "Cabo Verde (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Spain (Juan)",
+      "p2": "Uruguay (Mateo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Belgium (Alexander)",
+      "p2": "Saudi Arabia (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Cabo Verde (Beckham)",
+      "p2": "Uruguay (Mateo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Cabo Verde (Beckham)",
+      "p2": "Spain (Juan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Saudi Arabia (VanGogh)",
+      "p2": "Uruguay (Mateo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Belgium (Alexander)",
+      "p2": "Spain (Juan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Saudi Arabia (VanGogh)",
+      "p2": "Cabo Verde (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Saudi Arabia (VanGogh)",
+      "p2": "Spain (Juan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Uruguay (Mateo)",
+      "p2": "Belgium (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Cabo Verde (Beckham)",
+      "p2": "Belgium (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R89(INTERNATIONAL)21.06.2026",
+      "p1": "Uruguay (Mateo)",
+      "p2": "Spain (Juan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Atalanta (Flash)",
+      "p2": "Roma (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Juventus (Conde)",
+      "p2": "Lazio (Matrix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Juventus (Conde)",
+      "p2": "Atalanta (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Milan (Liam)",
+      "p2": "Lazio (Matrix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Lazio (Matrix)",
+      "p2": "Atalanta (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Milan (Liam)",
+      "p2": "Roma (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Milan (Liam)",
+      "p2": "Atalanta (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Roma (Noah)",
+      "p2": "Juventus (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Milan (Liam)",
+      "p2": "Juventus (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Roma (Noah)",
+      "p2": "Lazio (Matrix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Lazio (Matrix)",
+      "p2": "Juventus (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Roma (Noah)",
+      "p2": "Atalanta (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Atalanta (Flash)",
+      "p2": "Juventus (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Lazio (Matrix)",
+      "p2": "Milan (Liam)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Atalanta (Flash)",
+      "p2": "Lazio (Matrix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Roma (Noah)",
+      "p2": "Milan (Liam)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Atalanta (Flash)",
+      "p2": "Milan (Liam)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Juventus (Conde)",
+      "p2": "Roma (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Juventus (Conde)",
+      "p2": "Milan (Liam)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R90(SERIA A)21.06.2026",
+      "p1": "Lazio (Matrix)",
+      "p2": "Roma (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Mateo)",
+      "p2": "Bayern M. (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Manchester City (VanGogh)",
+      "p2": "Atletico Madrid (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Mateo)",
+      "p2": "Manchester City (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Real Madrid (Juan)",
+      "p2": "Bayern M. (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Beckham)",
+      "p2": "Manchester City (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Real Madrid (Juan)",
+      "p2": "Atletico Madrid (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Atletico Madrid (Alexander)",
+      "p2": "Liverpool (Mateo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Real Madrid (Juan)",
+      "p2": "Manchester City (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Atletico Madrid (Alexander)",
+      "p2": "Bayern M. (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Real Madrid (Juan)",
+      "p2": "Liverpool (Mateo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Atletico Madrid (Alexander)",
+      "p2": "Manchester City (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Beckham)",
+      "p2": "Liverpool (Mateo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Beckham)",
+      "p2": "Real Madrid (Juan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Manchester City (VanGogh)",
+      "p2": "Liverpool (Mateo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Atletico Madrid (Alexander)",
+      "p2": "Real Madrid (Juan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Manchester City (VanGogh)",
+      "p2": "Bayern M. (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Mateo)",
+      "p2": "Atletico Madrid (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Manchester City (VanGogh)",
+      "p2": "Real Madrid (Juan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Beckham)",
+      "p2": "Atletico Madrid (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R91(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Mateo)",
+      "p2": "Real Madrid (Juan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Saudi Arabia (Flash)",
+      "p2": "Belgium (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Uruguay (Conde)",
+      "p2": "Cabo Verde (Matrix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Spain (Liam)",
+      "p2": "Cabo Verde (Matrix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Uruguay (Conde)",
+      "p2": "Saudi Arabia (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Cabo Verde (Matrix)",
+      "p2": "Saudi Arabia (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Spain (Liam)",
+      "p2": "Belgium (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Belgium (Noah)",
+      "p2": "Uruguay (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Spain (Liam)",
+      "p2": "Saudi Arabia (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Belgium (Noah)",
+      "p2": "Cabo Verde (Matrix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Spain (Liam)",
+      "p2": "Uruguay (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Belgium (Noah)",
+      "p2": "Saudi Arabia (Flash)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Cabo Verde (Matrix)",
+      "p2": "Uruguay (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Cabo Verde (Matrix)",
+      "p2": "Spain (Liam)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Saudi Arabia (Flash)",
+      "p2": "Uruguay (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Belgium (Noah)",
+      "p2": "Spain (Liam)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Saudi Arabia (Flash)",
+      "p2": "Cabo Verde (Matrix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Saudi Arabia (Flash)",
+      "p2": "Spain (Liam)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Uruguay (Conde)",
+      "p2": "Belgium (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Cabo Verde (Matrix)",
+      "p2": "Belgium (Noah)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R92(INTERNATIONAL)21.06.2026",
+      "p1": "Uruguay (Conde)",
+      "p2": "Spain (Liam)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Arsenal (Mateo)",
+      "p2": "Liverpool (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Aston Villa (VanGogh)",
+      "p2": "Newcastle U. (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Arsenal (Mateo)",
+      "p2": "Aston Villa (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Manchester City (Juan)",
+      "p2": "Liverpool (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Liverpool (Beckham)",
+      "p2": "Aston Villa (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Manchester City (Juan)",
+      "p2": "Newcastle U. (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Manchester City (Juan)",
+      "p2": "Aston Villa (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Newcastle U. (Alexander)",
+      "p2": "Arsenal (Mateo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Manchester City (Juan)",
+      "p2": "Arsenal (Mateo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Newcastle U. (Alexander)",
+      "p2": "Liverpool (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Liverpool (Beckham)",
+      "p2": "Arsenal (Mateo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Newcastle U. (Alexander)",
+      "p2": "Aston Villa (VanGogh)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Aston Villa (VanGogh)",
+      "p2": "Arsenal (Mateo)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Liverpool (Beckham)",
+      "p2": "Manchester City (Juan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Aston Villa (VanGogh)",
+      "p2": "Liverpool (Beckham)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Newcastle U. (Alexander)",
+      "p2": "Manchester City (Juan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Arsenal (Mateo)",
+      "p2": "Newcastle U. (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Aston Villa (VanGogh)",
+      "p2": "Manchester City (Juan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Arsenal (Mateo)",
+      "p2": "Manchester City (Juan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R93(PREMIER LEAGUE)21.06.2026",
+      "p1": "Liverpool (Beckham)",
+      "p2": "Newcastle U. (Alexander)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Juventus (Haidan)",
+      "p2": "Atalanta (Lucas)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Milan (Cezar)",
+      "p2": "Lazio (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Inter (Felix)",
+      "p2": "Lazio (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Milan (Cezar)",
+      "p2": "Juventus (Haidan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Inter (Felix)",
+      "p2": "Atalanta (Lucas)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Lazio (Donatello)",
+      "p2": "Juventus (Haidan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Atalanta (Lucas)",
+      "p2": "Milan (Cezar)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Inter (Felix)",
+      "p2": "Juventus (Haidan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Atalanta (Lucas)",
+      "p2": "Lazio (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Inter (Felix)",
+      "p2": "Milan (Cezar)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Atalanta (Lucas)",
+      "p2": "Juventus (Haidan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Lazio (Donatello)",
+      "p2": "Milan (Cezar)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Juventus (Haidan)",
+      "p2": "Milan (Cezar)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Lazio (Donatello)",
+      "p2": "Inter (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Atalanta (Lucas)",
+      "p2": "Inter (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Juventus (Haidan)",
+      "p2": "Lazio (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Juventus (Haidan)",
+      "p2": "Inter (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Milan (Cezar)",
+      "p2": "Atalanta (Lucas)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Lazio (Donatello)",
+      "p2": "Atalanta (Lucas)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R94(SERIA A)21.06.2026",
+      "p1": "Milan (Cezar)",
+      "p2": "Inter (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Belgium (Haidan)",
+      "p2": "Cabo Verde (Lucas)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Saudi Arabia (Cezar)",
+      "p2": "Uruguay (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Saudi Arabia (Cezar)",
+      "p2": "Belgium (Haidan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Spain (Felix)",
+      "p2": "Uruguay (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Spain (Felix)",
+      "p2": "Cabo Verde (Lucas)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Uruguay (Donatello)",
+      "p2": "Belgium (Haidan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Cabo Verde (Lucas)",
+      "p2": "Saudi Arabia (Cezar)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Spain (Felix)",
+      "p2": "Belgium (Haidan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Cabo Verde (Lucas)",
+      "p2": "Uruguay (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Spain (Felix)",
+      "p2": "Saudi Arabia (Cezar)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Cabo Verde (Lucas)",
+      "p2": "Belgium (Haidan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Uruguay (Donatello)",
+      "p2": "Saudi Arabia (Cezar)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Belgium (Haidan)",
+      "p2": "Saudi Arabia (Cezar)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Uruguay (Donatello)",
+      "p2": "Spain (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Belgium (Haidan)",
+      "p2": "Uruguay (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Cabo Verde (Lucas)",
+      "p2": "Spain (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Belgium (Haidan)",
+      "p2": "Spain (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Saudi Arabia (Cezar)",
+      "p2": "Cabo Verde (Lucas)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Saudi Arabia (Cezar)",
+      "p2": "Spain (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R95(INTERNATIONAL)21.06.2026",
+      "p1": "Uruguay (Donatello)",
+      "p2": "Cabo Verde (Lucas)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Cezar)",
+      "p2": "Barcelona (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Real Madrid (Haidan)",
+      "p2": "Manchester City (Lucas)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Cezar)",
+      "p2": "Real Madrid (Haidan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "PSG (Felix)",
+      "p2": "Barcelona (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Barcelona (Donatello)",
+      "p2": "Real Madrid (Haidan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "PSG (Felix)",
+      "p2": "Manchester City (Lucas)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Manchester City (Lucas)",
+      "p2": "Liverpool (Cezar)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "PSG (Felix)",
+      "p2": "Real Madrid (Haidan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Manchester City (Lucas)",
+      "p2": "Barcelona (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "PSG (Felix)",
+      "p2": "Liverpool (Cezar)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Barcelona (Donatello)",
+      "p2": "Liverpool (Cezar)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Manchester City (Lucas)",
+      "p2": "Real Madrid (Haidan)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Barcelona (Donatello)",
+      "p2": "PSG (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Real Madrid (Haidan)",
+      "p2": "Liverpool (Cezar)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Manchester City (Lucas)",
+      "p2": "PSG (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Real Madrid (Haidan)",
+      "p2": "Barcelona (Donatello)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Cezar)",
+      "p2": "Manchester City (Lucas)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Real Madrid (Haidan)",
+      "p2": "PSG (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Barcelona (Donatello)",
+      "p2": "Manchester City (Lucas)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R96(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Liverpool (Cezar)",
+      "p2": "PSG (Felix)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R97(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Kai)",
+      "p2": "PSG (Odin)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R97(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Manchester City (Conde)",
+      "p2": "Barcelona (Dexter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R97(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Atletico Madrid (Maverick)",
+      "p2": "PSG (Odin)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R97(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Bayern M. (Kai)",
+      "p2": "Manchester City (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R97(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Atletico Madrid (Maverick)",
+      "p2": "Barcelona (Dexter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R97(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "PSG (Odin)",
+      "p2": "Manchester City (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R97(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Atletico Madrid (Maverick)",
+      "p2": "Manchester City (Conde)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R97(CHAMPIONS LEAGUE)21.06.2026",
+      "p1": "Barcelona (Dexter)",
+      "p2": "Bayern M. (Kai)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R98(INTERNATIONAL)21.06.2026",
+      "p1": "Saudi Arabia (Iron)",
+      "p2": "Uruguay (Splinter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R98(INTERNATIONAL)21.06.2026",
+      "p1": "Spain (Kaizen)",
+      "p2": "Belgium (Gael)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R98(INTERNATIONAL)21.06.2026",
+      "p1": "Cabo Verde (Eric)",
+      "p2": "Uruguay (Splinter)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R98(INTERNATIONAL)21.06.2026",
+      "p1": "Saudi Arabia (Iron)",
+      "p2": "Spain (Kaizen)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R98(INTERNATIONAL)21.06.2026",
+      "p1": "Cabo Verde (Eric)",
+      "p2": "Belgium (Gael)",
+      "placar": "vs",
+      "status": "Agendado"
+    },
+    {
+      "liga": "FC26 R98(INTERNATIONAL)21.06.2026",
+      "p1": "Uruguay (Splinter)",
+      "p2": "Spain (Kaizen)",
+      "placar": "vs",
+      "status": "Agendado"
     }
   ],
   "resumo": {
-    "FC26 R67(INTERNATIONAL)19.06.2026": {
+    "FC26 R82(INTERNATIONAL)20.06.2026": {
       "total": 12,
       "finalizados": 12,
       "agendados": 0
     },
-    "FC26 R68(CHAMPIONS LEAGUE)19.06.2026": {
-      "total": 14,
-      "finalizados": 14,
-      "agendados": 0
-    },
-    "FC26 R69(SERIA A)20.06.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R70(PREMIER LEAGUE)20.06.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R71(CHAMPIONS LEAGUE)20.06.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R72(INTERNATIONAL)20.06.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R73(CHAMPIONS LEAGUE)20.06.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R74(INTERNATIONAL)20.06.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R75(LA LIGA)20.06.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R76(CHAMPIONS LEAGUE)20.06.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R77(INTERNATIONAL)20.06.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R78(PREMIER LEAGUE)20.06.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R79(SERIA A)20.06.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R80(INTERNATIONAL)20.06.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R81(CHAMPIONS LEAGUE)20.06.2026": {
-      "total": 20,
-      "finalizados": 20,
-      "agendados": 0
-    },
-    "FC26 R82(INTERNATIONAL)20.06.2026": {
-      "total": 8,
-      "finalizados": 8,
-      "agendados": 0
-    },
     "FC26 R83(SERIA A)20.06.2026": {
-      "total": 5,
-      "finalizados": 5,
-      "agendados": 0
+      "total": 15,
+      "finalizados": 14,
+      "agendados": 1
+    },
+    "FC26 R84(CHAMPIONS LEAGUE)21.06.2026": {
+      "total": 20,
+      "finalizados": 2,
+      "agendados": 18
+    },
+    "FC26 R85(INTERNATIONAL)21.06.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R86(PREMIER LEAGUE)21.06.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R87(CHAMPIONS LEAGUE)21.06.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R88(CHAMPIONS LEAGUE)21.06.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R89(INTERNATIONAL)21.06.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R90(SERIA A)21.06.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R91(CHAMPIONS LEAGUE)21.06.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R92(INTERNATIONAL)21.06.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R93(PREMIER LEAGUE)21.06.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R94(SERIA A)21.06.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R95(INTERNATIONAL)21.06.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R96(CHAMPIONS LEAGUE)21.06.2026": {
+      "total": 20,
+      "finalizados": 0,
+      "agendados": 20
+    },
+    "FC26 R97(CHAMPIONS LEAGUE)21.06.2026": {
+      "total": 8,
+      "finalizados": 0,
+      "agendados": 8
+    },
+    "FC26 R98(INTERNATIONAL)21.06.2026": {
+      "total": 6,
+      "finalizados": 0,
+      "agendados": 6
     }
   },
   "classificacao": {
-    "FC26 R67(INTERNATIONAL)19.06.2026": [
+    "FC26 R82(INTERNATIONAL)20.06.2026": [
       {
-        "nome": "Scotland (Alexis)",
-        "Pts": 12,
+        "nome": "Ivory Coast (Alexis)",
+        "Pts": 11,
         "J": 5,
-        "V": 4,
-        "E": 0,
-        "D": 1,
-        "GP": 22,
-        "GC": 14,
+        "V": 3,
+        "E": 2,
+        "D": 0,
+        "GP": 17,
+        "GC": 9,
         "SG": 8,
         "pos": 1
       },
       {
-        "nome": "Morocco (Adriano)",
-        "Pts": 11,
-        "J": 5,
-        "V": 3,
-        "E": 2,
-        "D": 0,
-        "GP": 21,
-        "GC": 15,
-        "SG": 6,
-        "pos": 2
-      },
-      {
-        "nome": "USA (Eric)",
-        "Pts": 6,
-        "J": 5,
-        "V": 2,
-        "E": 0,
-        "D": 3,
-        "GP": 13,
-        "GC": 17,
-        "SG": -4,
-        "pos": 3
-      },
-      {
-        "nome": "Australia (Odin)",
-        "Pts": 4,
-        "J": 5,
-        "V": 1,
-        "E": 1,
-        "D": 3,
-        "GP": 10,
-        "GC": 15,
-        "SG": -5,
-        "pos": 4
-      },
-      {
-        "nome": "Sweden (Eduardo)",
-        "Pts": 1,
+        "nome": "Germany (Eduardo)",
+        "Pts": 7,
         "J": 4,
-        "V": 0,
+        "V": 2,
         "E": 1,
-        "D": 3,
-        "GP": 8,
-        "GC": 13,
-        "SG": -5,
-        "pos": 5
-      }
-    ],
-    "FC26 R68(CHAMPIONS LEAGUE)19.06.2026": [
-      {
-        "nome": "PSG (Gael)",
-        "Pts": 16,
-        "J": 6,
-        "V": 5,
-        "E": 1,
-        "D": 0,
-        "GP": 27,
-        "GC": 17,
-        "SG": 10,
-        "pos": 1
-      },
-      {
-        "nome": "Liverpool (Dexter)",
-        "Pts": 15,
-        "J": 6,
-        "V": 5,
-        "E": 0,
         "D": 1,
-        "GP": 20,
-        "GC": 9,
-        "SG": 11,
-        "pos": 2
-      },
-      {
-        "nome": "Bayern M. (Sebastian)",
-        "Pts": 4,
-        "J": 5,
-        "V": 1,
-        "E": 1,
-        "D": 3,
-        "GP": 14,
-        "GC": 19,
-        "SG": -5,
-        "pos": 3
-      },
-      {
-        "nome": "Manchester City (Felix)",
-        "Pts": 3,
-        "J": 6,
-        "V": 1,
-        "E": 0,
-        "D": 5,
         "GP": 12,
-        "GC": 21,
-        "SG": -9,
-        "pos": 4
-      },
-      {
-        "nome": "Real Madrid (Kaizen)",
-        "Pts": 2,
-        "J": 5,
-        "V": 0,
-        "E": 2,
-        "D": 3,
-        "GP": 11,
-        "GC": 18,
-        "SG": -7,
-        "pos": 5
-      }
-    ],
-    "FC26 R69(SERIA A)20.06.2026": [
-      {
-        "nome": "Inter (Alexis)",
-        "Pts": 22,
-        "J": 8,
-        "V": 7,
-        "E": 1,
-        "D": 0,
-        "GP": 35,
-        "GC": 20,
-        "SG": 15,
-        "pos": 1
-      },
-      {
-        "nome": "Atalanta (Odin)",
-        "Pts": 13,
-        "J": 8,
-        "V": 4,
-        "E": 1,
-        "D": 3,
-        "GP": 27,
-        "GC": 22,
-        "SG": 5,
-        "pos": 2
-      },
-      {
-        "nome": "Lazio (Eduardo)",
-        "Pts": 10,
-        "J": 8,
-        "V": 3,
-        "E": 1,
-        "D": 4,
-        "GP": 22,
-        "GC": 25,
-        "SG": -3,
-        "pos": 3
-      },
-      {
-        "nome": "Milan (Adriano)",
-        "Pts": 8,
-        "J": 8,
-        "V": 2,
-        "E": 2,
-        "D": 4,
-        "GP": 18,
-        "GC": 23,
-        "SG": -5,
-        "pos": 4
-      },
-      {
-        "nome": "Juventus (Eric)",
-        "Pts": 3,
-        "J": 8,
-        "V": 0,
-        "E": 3,
-        "D": 5,
-        "GP": 22,
-        "GC": 34,
-        "SG": -12,
-        "pos": 5
-      }
-    ],
-    "FC26 R70(PREMIER LEAGUE)20.06.2026": [
-      {
-        "nome": "Aston Villa (Dexter)",
-        "Pts": 18,
-        "J": 8,
-        "V": 6,
-        "E": 0,
-        "D": 2,
-        "GP": 24,
-        "GC": 17,
-        "SG": 7,
-        "pos": 1
-      },
-      {
-        "nome": "Arsenal (Kaizen)",
-        "Pts": 14,
-        "J": 8,
-        "V": 4,
-        "E": 2,
-        "D": 2,
-        "GP": 30,
-        "GC": 27,
-        "SG": 3,
-        "pos": 2
-      },
-      {
-        "nome": "Manchester City (Gael)",
-        "Pts": 12,
-        "J": 8,
-        "V": 3,
-        "E": 3,
-        "D": 2,
-        "GP": 31,
-        "GC": 28,
-        "SG": 3,
-        "pos": 3
-      },
-      {
-        "nome": "Everton (Felix)",
-        "Pts": 8,
-        "J": 8,
-        "V": 2,
-        "E": 2,
-        "D": 4,
-        "GP": 20,
-        "GC": 22,
-        "SG": -2,
-        "pos": 4
-      },
-      {
-        "nome": "Newcastle U. (Sebastian)",
-        "Pts": 4,
-        "J": 8,
-        "V": 1,
-        "E": 1,
-        "D": 6,
-        "GP": 19,
-        "GC": 30,
-        "SG": -11,
-        "pos": 5
-      }
-    ],
-    "FC26 R71(CHAMPIONS LEAGUE)20.06.2026": [
-      {
-        "nome": "Liverpool (Eric)",
-        "Pts": 15,
-        "J": 8,
-        "V": 4,
-        "E": 3,
-        "D": 1,
-        "GP": 28,
-        "GC": 21,
-        "SG": 7,
-        "pos": 1
-      },
-      {
-        "nome": "Manchester City (Eduardo)",
-        "Pts": 14,
-        "J": 8,
-        "V": 4,
-        "E": 2,
-        "D": 2,
-        "GP": 20,
-        "GC": 19,
-        "SG": 1,
-        "pos": 2
-      },
-      {
-        "nome": "Barcelona (Alexis)",
-        "Pts": 11,
-        "J": 8,
-        "V": 3,
-        "E": 2,
-        "D": 3,
-        "GP": 25,
-        "GC": 21,
-        "SG": 4,
-        "pos": 3
-      },
-      {
-        "nome": "PSG (Odin)",
-        "Pts": 8,
-        "J": 8,
-        "V": 2,
-        "E": 2,
-        "D": 4,
-        "GP": 20,
-        "GC": 23,
-        "SG": -3,
-        "pos": 4
-      },
-      {
-        "nome": "Atletico Madrid (Adriano)",
-        "Pts": 7,
-        "J": 8,
-        "V": 2,
-        "E": 1,
-        "D": 5,
-        "GP": 18,
-        "GC": 27,
-        "SG": -9,
-        "pos": 5
-      }
-    ],
-    "FC26 R72(INTERNATIONAL)20.06.2026": [
-      {
-        "nome": "Scotland (Dexter)",
-        "Pts": 18,
-        "J": 8,
-        "V": 6,
-        "E": 0,
-        "D": 2,
-        "GP": 29,
-        "GC": 17,
-        "SG": 12,
-        "pos": 1
-      },
-      {
-        "nome": "Morocco (Gael)",
-        "Pts": 16,
-        "J": 8,
-        "V": 5,
-        "E": 1,
-        "D": 2,
-        "GP": 31,
-        "GC": 26,
-        "SG": 5,
-        "pos": 2
-      },
-      {
-        "nome": "USA (Kaizen)",
-        "Pts": 10,
-        "J": 8,
-        "V": 3,
-        "E": 1,
-        "D": 4,
-        "GP": 29,
-        "GC": 33,
-        "SG": -4,
-        "pos": 3
-      },
-      {
-        "nome": "Sweden (Sebastian)",
-        "Pts": 9,
-        "J": 8,
-        "V": 3,
-        "E": 0,
-        "D": 5,
-        "GP": 16,
-        "GC": 26,
-        "SG": -10,
-        "pos": 4
-      },
-      {
-        "nome": "Australia (Felix)",
-        "Pts": 6,
-        "J": 8,
-        "V": 2,
-        "E": 0,
-        "D": 6,
-        "GP": 24,
-        "GC": 27,
-        "SG": -3,
-        "pos": 5
-      }
-    ],
-    "FC26 R73(CHAMPIONS LEAGUE)20.06.2026": [
-      {
-        "nome": "Atletico Madrid (Gabriel)",
-        "Pts": 14,
-        "J": 8,
-        "V": 4,
-        "E": 2,
-        "D": 2,
-        "GP": 33,
-        "GC": 26,
-        "SG": 7,
-        "pos": 1
-      },
-      {
-        "nome": "Bayern M. (Conde)",
-        "Pts": 13,
-        "J": 8,
-        "V": 4,
-        "E": 1,
-        "D": 3,
-        "GP": 28,
-        "GC": 33,
-        "SG": -5,
-        "pos": 2
-      },
-      {
-        "nome": "Manchester City (Matrix)",
-        "Pts": 10,
-        "J": 8,
-        "V": 3,
-        "E": 1,
-        "D": 4,
-        "GP": 31,
-        "GC": 29,
+        "GC": 10,
         "SG": 2,
-        "pos": 3
-      },
-      {
-        "nome": "PSG (Maverick)",
-        "Pts": 10,
-        "J": 8,
-        "V": 3,
-        "E": 1,
-        "D": 4,
-        "GP": 38,
-        "GC": 38,
-        "SG": 0,
-        "pos": 4
-      },
-      {
-        "nome": "Liverpool (MisterX)",
-        "Pts": 10,
-        "J": 8,
-        "V": 3,
-        "E": 1,
-        "D": 4,
-        "GP": 26,
-        "GC": 30,
-        "SG": -4,
-        "pos": 5
-      }
-    ],
-    "FC26 R74(INTERNATIONAL)20.06.2026": [
-      {
-        "nome": "Japan (Beckham)",
-        "Pts": 21,
-        "J": 8,
-        "V": 7,
-        "E": 0,
-        "D": 1,
-        "GP": 37,
-        "GC": 23,
-        "SG": 14,
-        "pos": 1
-      },
-      {
-        "nome": "Holland (Haidan)",
-        "Pts": 13,
-        "J": 8,
-        "V": 4,
-        "E": 1,
-        "D": 3,
-        "GP": 34,
-        "GC": 25,
-        "SG": 9,
-        "pos": 2
-      },
-      {
-        "nome": "Ivory Coast (Alexander)",
-        "Pts": 10,
-        "J": 8,
-        "V": 3,
-        "E": 1,
-        "D": 4,
-        "GP": 20,
-        "GC": 25,
-        "SG": -5,
-        "pos": 3
-      },
-      {
-        "nome": "Sweden (Cezar)",
-        "Pts": 9,
-        "J": 8,
-        "V": 3,
-        "E": 0,
-        "D": 5,
-        "GP": 29,
-        "GC": 35,
-        "SG": -6,
-        "pos": 4
-      },
-      {
-        "nome": "Germany (Splinter)",
-        "Pts": 6,
-        "J": 8,
-        "V": 2,
-        "E": 0,
-        "D": 6,
-        "GP": 27,
-        "GC": 39,
-        "SG": -12,
-        "pos": 5
-      }
-    ],
-    "FC26 R75(LA LIGA)20.06.2026": [
-      {
-        "nome": "Atletico Madrid (Matrix)",
-        "Pts": 19,
-        "J": 8,
-        "V": 6,
-        "E": 1,
-        "D": 1,
-        "GP": 41,
-        "GC": 23,
-        "SG": 18,
-        "pos": 1
-      },
-      {
-        "nome": "Real Sociedad (Gabriel)",
-        "Pts": 12,
-        "J": 8,
-        "V": 4,
-        "E": 0,
-        "D": 4,
-        "GP": 37,
-        "GC": 34,
-        "SG": 3,
-        "pos": 2
-      },
-      {
-        "nome": "Real Betis (Maverick)",
-        "Pts": 10,
-        "J": 8,
-        "V": 3,
-        "E": 1,
-        "D": 4,
-        "GP": 37,
-        "GC": 38,
-        "SG": -1,
-        "pos": 3
-      },
-      {
-        "nome": "Sevilla (MisterX)",
-        "Pts": 8,
-        "J": 8,
-        "V": 2,
-        "E": 2,
-        "D": 4,
-        "GP": 40,
-        "GC": 45,
-        "SG": -5,
-        "pos": 4
-      },
-      {
-        "nome": "Real Madrid (Conde)",
-        "Pts": 8,
-        "J": 8,
-        "V": 2,
-        "E": 2,
-        "D": 4,
-        "GP": 28,
-        "GC": 43,
-        "SG": -15,
-        "pos": 5
-      }
-    ],
-    "FC26 R76(CHAMPIONS LEAGUE)20.06.2026": [
-      {
-        "nome": "Real Madrid (Beckham)",
-        "Pts": 20,
-        "J": 8,
-        "V": 6,
-        "E": 2,
-        "D": 0,
-        "GP": 31,
-        "GC": 18,
-        "SG": 13,
-        "pos": 1
-      },
-      {
-        "nome": "Atletico Madrid (Splinter)",
-        "Pts": 12,
-        "J": 8,
-        "V": 3,
-        "E": 3,
-        "D": 2,
-        "GP": 34,
-        "GC": 29,
-        "SG": 5,
-        "pos": 2
-      },
-      {
-        "nome": "PSG (Cezar)",
-        "Pts": 12,
-        "J": 8,
-        "V": 3,
-        "E": 3,
-        "D": 2,
-        "GP": 25,
-        "GC": 23,
-        "SG": 2,
-        "pos": 3
-      },
-      {
-        "nome": "Manchester City (Alexander)",
-        "Pts": 8,
-        "J": 8,
-        "V": 2,
-        "E": 2,
-        "D": 4,
-        "GP": 26,
-        "GC": 28,
-        "SG": -2,
-        "pos": 4
-      },
-      {
-        "nome": "Bayern M. (Haidan)",
-        "Pts": 3,
-        "J": 8,
-        "V": 1,
-        "E": 0,
-        "D": 7,
-        "GP": 14,
-        "GC": 32,
-        "SG": -18,
-        "pos": 5
-      }
-    ],
-    "FC26 R77(INTERNATIONAL)20.06.2026": [
-      {
-        "nome": "Japan (Gabriel)",
-        "Pts": 18,
-        "J": 8,
-        "V": 6,
-        "E": 0,
-        "D": 2,
-        "GP": 38,
-        "GC": 31,
-        "SG": 7,
-        "pos": 1
-      },
-      {
-        "nome": "Ivory Coast (Matrix)",
-        "Pts": 15,
-        "J": 8,
-        "V": 5,
-        "E": 0,
-        "D": 3,
-        "GP": 40,
-        "GC": 29,
-        "SG": 11,
-        "pos": 2
-      },
-      {
-        "nome": "Holland (Maverick)",
-        "Pts": 9,
-        "J": 8,
-        "V": 2,
-        "E": 3,
-        "D": 3,
-        "GP": 37,
-        "GC": 36,
-        "SG": 1,
-        "pos": 3
-      },
-      {
-        "nome": "Germany (MisterX)",
-        "Pts": 9,
-        "J": 8,
-        "V": 2,
-        "E": 3,
-        "D": 3,
-        "GP": 25,
-        "GC": 33,
-        "SG": -8,
-        "pos": 4
-      },
-      {
-        "nome": "Sweden (Conde)",
-        "Pts": 5,
-        "J": 8,
-        "V": 1,
-        "E": 2,
-        "D": 5,
-        "GP": 22,
-        "GC": 33,
-        "SG": -11,
-        "pos": 5
-      }
-    ],
-    "FC26 R78(PREMIER LEAGUE)20.06.2026": [
-      {
-        "nome": "Manchester City (Beckham)",
-        "Pts": 15,
-        "J": 7,
-        "V": 5,
-        "E": 0,
-        "D": 2,
-        "GP": 27,
-        "GC": 15,
-        "SG": 12,
-        "pos": 1
-      },
-      {
-        "nome": "Manchester Utd. (Cezar)",
-        "Pts": 15,
-        "J": 8,
-        "V": 5,
-        "E": 0,
-        "D": 3,
-        "GP": 25,
-        "GC": 26,
-        "SG": -1,
-        "pos": 2
-      },
-      {
-        "nome": "Everton (Splinter)",
-        "Pts": 8,
-        "J": 7,
-        "V": 2,
-        "E": 2,
-        "D": 3,
-        "GP": 26,
-        "GC": 29,
-        "SG": -3,
-        "pos": 3
-      },
-      {
-        "nome": "Tottenham (Alexander)",
-        "Pts": 7,
-        "J": 7,
-        "V": 2,
-        "E": 1,
-        "D": 4,
-        "GP": 19,
-        "GC": 19,
-        "SG": 0,
-        "pos": 4
-      },
-      {
-        "nome": "Liverpool (Haidan)",
-        "Pts": 7,
-        "J": 7,
-        "V": 2,
-        "E": 1,
-        "D": 4,
-        "GP": 16,
-        "GC": 24,
-        "SG": -8,
-        "pos": 5
-      }
-    ],
-    "FC26 R79(SERIA A)20.06.2026": [
-      {
-        "nome": "Inter (Noah)",
-        "Pts": 18,
-        "J": 8,
-        "V": 6,
-        "E": 0,
-        "D": 2,
-        "GP": 31,
-        "GC": 22,
-        "SG": 9,
-        "pos": 1
-      },
-      {
-        "nome": "Lazio (Lucas)",
-        "Pts": 11,
-        "J": 8,
-        "V": 3,
-        "E": 2,
-        "D": 3,
-        "GP": 25,
-        "GC": 25,
-        "SG": 0,
-        "pos": 2
-      },
-      {
-        "nome": "Juventus (Logan)",
-        "Pts": 9,
-        "J": 8,
-        "V": 2,
-        "E": 3,
-        "D": 3,
-        "GP": 25,
-        "GC": 24,
-        "SG": 1,
-        "pos": 3
-      },
-      {
-        "nome": "Atalanta (Felix)",
-        "Pts": 9,
-        "J": 8,
-        "V": 2,
-        "E": 3,
-        "D": 3,
-        "GP": 21,
-        "GC": 23,
-        "SG": -2,
-        "pos": 4
-      },
-      {
-        "nome": "Milan (VanGogh)",
-        "Pts": 8,
-        "J": 8,
-        "V": 2,
-        "E": 2,
-        "D": 4,
-        "GP": 21,
-        "GC": 29,
-        "SG": -8,
-        "pos": 5
-      }
-    ],
-    "FC26 R80(INTERNATIONAL)20.06.2026": [
-      {
-        "nome": "Germany (Felix)",
-        "Pts": 15,
-        "J": 8,
-        "V": 5,
-        "E": 0,
-        "D": 3,
-        "GP": 32,
-        "GC": 29,
-        "SG": 3,
-        "pos": 1
-      },
-      {
-        "nome": "Sweden (Noah)",
-        "Pts": 14,
-        "J": 8,
-        "V": 4,
-        "E": 2,
-        "D": 2,
-        "GP": 38,
-        "GC": 31,
-        "SG": 7,
-        "pos": 2
-      },
-      {
-        "nome": "Ivory Coast (Logan)",
-        "Pts": 11,
-        "J": 8,
-        "V": 3,
-        "E": 2,
-        "D": 3,
-        "GP": 26,
-        "GC": 27,
-        "SG": -1,
-        "pos": 3
-      },
-      {
-        "nome": "Japan (VanGogh)",
-        "Pts": 10,
-        "J": 8,
-        "V": 3,
-        "E": 1,
-        "D": 4,
-        "GP": 28,
-        "GC": 30,
-        "SG": -2,
-        "pos": 4
-      },
-      {
-        "nome": "Holland (Lucas)",
-        "Pts": 7,
-        "J": 8,
-        "V": 2,
-        "E": 1,
-        "D": 5,
-        "GP": 28,
-        "GC": 35,
-        "SG": -7,
-        "pos": 5
-      }
-    ],
-    "FC26 R81(CHAMPIONS LEAGUE)20.06.2026": [
-      {
-        "nome": "Barcelona (Felix)",
-        "Pts": 15,
-        "J": 8,
-        "V": 4,
-        "E": 3,
-        "D": 1,
-        "GP": 26,
-        "GC": 21,
-        "SG": 5,
-        "pos": 1
-      },
-      {
-        "nome": "Manchester City (Noah)",
-        "Pts": 13,
-        "J": 8,
-        "V": 4,
-        "E": 1,
-        "D": 3,
-        "GP": 26,
-        "GC": 25,
-        "SG": 1,
-        "pos": 2
-      },
-      {
-        "nome": "Liverpool (VanGogh)",
-        "Pts": 11,
-        "J": 8,
-        "V": 3,
-        "E": 2,
-        "D": 3,
-        "GP": 30,
-        "GC": 30,
-        "SG": 0,
-        "pos": 3
-      },
-      {
-        "nome": "Atletico Madrid (Logan)",
-        "Pts": 11,
-        "J": 8,
-        "V": 3,
-        "E": 2,
-        "D": 3,
-        "GP": 21,
-        "GC": 23,
-        "SG": -2,
-        "pos": 4
-      },
-      {
-        "nome": "Bayern M. (Lucas)",
-        "Pts": 5,
-        "J": 8,
-        "V": 1,
-        "E": 2,
-        "D": 5,
-        "GP": 24,
-        "GC": 28,
-        "SG": -4,
-        "pos": 5
-      }
-    ],
-    "FC26 R82(INTERNATIONAL)20.06.2026": [
-      {
-        "nome": "Holland (Adriano)",
-        "Pts": 9,
-        "J": 3,
-        "V": 3,
-        "E": 0,
-        "D": 0,
-        "GP": 11,
-        "GC": 6,
-        "SG": 5,
-        "pos": 1
-      },
-      {
-        "nome": "Japan (Odin)",
-        "Pts": 5,
-        "J": 3,
-        "V": 1,
-        "E": 2,
-        "D": 0,
-        "GP": 9,
-        "GC": 6,
-        "SG": 3,
         "pos": 2
       },
       {
         "nome": "Sweden (Eric)",
-        "Pts": 4,
-        "J": 3,
-        "V": 1,
+        "Pts": 7,
+        "J": 5,
+        "V": 2,
         "E": 1,
-        "D": 1,
-        "GP": 7,
-        "GC": 8,
+        "D": 2,
+        "GP": 11,
+        "GC": 12,
         "SG": -1,
         "pos": 3
       },
       {
-        "nome": "Ivory Coast (Alexis)",
-        "Pts": 2,
-        "J": 3,
-        "V": 0,
-        "E": 2,
-        "D": 1,
-        "GP": 9,
-        "GC": 11,
-        "SG": -2,
+        "nome": "Japan (Odin)",
+        "Pts": 6,
+        "J": 5,
+        "V": 2,
+        "E": 0,
+        "D": 3,
+        "GP": 10,
+        "GC": 14,
+        "SG": -4,
         "pos": 4
       },
       {
-        "nome": "Germany (Eduardo)",
-        "Pts": 1,
-        "J": 4,
+        "nome": "Holland (Adriano)",
+        "Pts": 2,
+        "J": 5,
         "V": 0,
-        "E": 1,
+        "E": 2,
         "D": 3,
-        "GP": 5,
-        "GC": 10,
+        "GP": 9,
+        "GC": 14,
         "SG": -5,
         "pos": 5
       }
     ],
     "FC26 R83(SERIA A)20.06.2026": [
       {
-        "nome": "Atalanta (Sebastian)",
-        "Pts": 6,
-        "J": 3,
-        "V": 2,
+        "nome": "Inter (Dexter)",
+        "Pts": 12,
+        "J": 6,
+        "V": 4,
         "E": 0,
+        "D": 2,
+        "GP": 16,
+        "GC": 13,
+        "SG": 3,
+        "pos": 1
+      },
+      {
+        "nome": "Milan (Kai)",
+        "Pts": 11,
+        "J": 6,
+        "V": 3,
+        "E": 2,
         "D": 1,
-        "GP": 10,
-        "GC": 9,
+        "GP": 18,
+        "GC": 12,
+        "SG": 6,
+        "pos": 2
+      },
+      {
+        "nome": "Atalanta (Sebastian)",
+        "Pts": 9,
+        "J": 5,
+        "V": 3,
+        "E": 0,
+        "D": 2,
+        "GP": 15,
+        "GC": 15,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Juventus (Kaizen)",
+        "Pts": 4,
+        "J": 5,
+        "V": 1,
+        "E": 1,
+        "D": 3,
+        "GP": 15,
+        "GC": 19,
+        "SG": -4,
+        "pos": 4
+      },
+      {
+        "nome": "Lazio (Iron)",
+        "Pts": 4,
+        "J": 6,
+        "V": 1,
+        "E": 1,
+        "D": 4,
+        "GP": 18,
+        "GC": 23,
+        "SG": -5,
+        "pos": 5
+      }
+    ],
+    "FC26 R84(CHAMPIONS LEAGUE)21.06.2026": [
+      {
+        "nome": "Manchester City (Odin)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 2,
+        "GC": 1,
         "SG": 1,
         "pos": 1
       },
       {
-        "nome": "Juventus (Kaizen)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
-        "E": 0,
-        "D": 1,
-        "GP": 10,
-        "GC": 8,
-        "SG": 2,
+        "nome": "Bayern M. (Eduardo)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 3,
+        "GC": 3,
+        "SG": 0,
         "pos": 2
       },
       {
-        "nome": "Milan (Kai)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
-        "E": 0,
-        "D": 1,
-        "GP": 4,
+        "nome": "Real Madrid (Eric)",
+        "Pts": 1,
+        "J": 1,
+        "V": 0,
+        "E": 1,
+        "D": 0,
+        "GP": 3,
         "GC": 3,
-        "SG": 1,
+        "SG": 0,
         "pos": 3
       },
       {
-        "nome": "Lazio (Iron)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
-        "E": 0,
-        "D": 1,
-        "GP": 5,
-        "GC": 6,
-        "SG": -1,
-        "pos": 4
-      },
-      {
-        "nome": "Inter (Dexter)",
+        "nome": "Atletico Madrid (Alexis)",
         "Pts": 0,
         "J": 1,
         "V": 0,
         "E": 0,
         "D": 1,
         "GP": 1,
-        "GC": 4,
-        "SG": -3,
-        "pos": 5
+        "GC": 2,
+        "SG": -1,
+        "pos": 4
       }
     ]
   }
