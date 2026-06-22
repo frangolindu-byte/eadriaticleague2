@@ -2552,7 +2552,10 @@
     ],
     "assertividade": 76.6,
     "key": "FC26 R109(SERIA A)22.06.2026|Inter (Conde)|Napoli (Logan)",
-    "message_id": 1424
+    "message_id": 1424,
+    "result_checked": true,
+    "result_placar": "4-2",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R103(SERIA A)22.06.2026",
@@ -2629,7 +2632,10 @@
     ],
     "assertividade": 72.0,
     "key": "FC26 R109(SERIA A)22.06.2026|Inter (Conde)|Milan (Kai)",
-    "message_id": 1427
+    "message_id": 1427,
+    "result_checked": true,
+    "result_placar": "2-5",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R109(SERIA A)22.06.2026",
@@ -2653,7 +2659,10 @@
     ],
     "assertividade": 72.4,
     "key": "FC26 R109(SERIA A)22.06.2026|Atalanta (Donatello)|Napoli (Logan)",
-    "message_id": 1428
+    "message_id": 1428,
+    "result_checked": true,
+    "result_placar": "5-3",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R112(PREMIER LEAGUE)22.06.2026",
@@ -2676,7 +2685,10 @@
     ],
     "assertividade": 64.9,
     "key": "FC26 R112(PREMIER LEAGUE)22.06.2026|Arsenal (Haidan)|Everton (William)",
-    "message_id": 1429
+    "message_id": 1429,
+    "result_checked": true,
+    "result_placar": "6-4",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R112(PREMIER LEAGUE)22.06.2026",
@@ -2700,6 +2712,56 @@
     ],
     "assertividade": 68.8,
     "key": "FC26 R112(PREMIER LEAGUE)22.06.2026|Liverpool (Splinter)|Manchester Utd. (MisterX)",
-    "message_id": 1430
+    "message_id": 1430,
+    "result_checked": true,
+    "result_placar": "3-1",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R124(SERIA A)23.06.2026",
+    "p1": "Atalanta (VanGogh)",
+    "p2": "Roma (Oliver)",
+    "w1": 45.8,
+    "w2": 37.5,
+    "j1": 24,
+    "j2": 16,
+    "o65": 70.85,
+    "btts": 97.9,
+    "avg_g": 8.21,
+    "f1": "D-W-L-W-D",
+    "f2": "L-L-L-L-W",
+    "fav": "Atalanta (VanGogh)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 71%",
+      "BTTS: 98%"
+    ],
+    "assertividade": 68.8,
+    "key": "FC26 R124(SERIA A)23.06.2026|Atalanta (VanGogh)|Roma (Oliver)",
+    "message_id": 1431
+  },
+  {
+    "liga": "FC26 R129(INTERNATIONAL)23.06.2026",
+    "p1": "Portugal (Maverick)",
+    "p2": "Croatia (Noah)",
+    "w1": 43.6,
+    "w2": 75.0,
+    "j1": 55,
+    "j2": 16,
+    "o65": 58.1,
+    "btts": 94.15,
+    "avg_g": 7.405,
+    "f1": "D-W-W-L-W",
+    "f2": "W-D-W-W-W",
+    "fav": "Croatia (Noah)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 58%",
+      "BTTS: 94%",
+      "Vitoria Croatia (Noah) (WR 75%)"
+    ],
+    "assertividade": 73.0,
+    "key": "FC26 R129(INTERNATIONAL)23.06.2026|Croatia (Noah)|Portugal (Maverick)",
+    "message_id": 1432
   }
 ]
