@@ -2525,7 +2525,10 @@
     ],
     "assertividade": 62.2,
     "key": "FC26 R106(PREMIER LEAGUE)22.06.2026|Arsenal (Cezar)|Newcastle U. (Mateo)",
-    "message_id": 1423
+    "message_id": 1423,
+    "result_checked": true,
+    "result_placar": "1-5",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R109(SERIA A)22.06.2026",
@@ -2599,7 +2602,10 @@
     ],
     "assertividade": 66.5,
     "key": "FC26 R106(PREMIER LEAGUE)22.06.2026|Liverpool (VanGogh)|Newcastle U. (Mateo)",
-    "message_id": 1426
+    "message_id": 1426,
+    "result_checked": true,
+    "result_placar": "4-4",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R109(SERIA A)22.06.2026",
@@ -2624,5 +2630,76 @@
     "assertividade": 72.0,
     "key": "FC26 R109(SERIA A)22.06.2026|Inter (Conde)|Milan (Kai)",
     "message_id": 1427
+  },
+  {
+    "liga": "FC26 R109(SERIA A)22.06.2026",
+    "p1": "Napoli (Logan)",
+    "p2": "Atalanta (Donatello)",
+    "w1": 37.5,
+    "w2": 75.0,
+    "j1": 32,
+    "j2": 16,
+    "o65": 54.7,
+    "btts": 96.9,
+    "avg_g": 6.595000000000001,
+    "f1": "W-D-W-L-W",
+    "f2": "W-W-W-W-W",
+    "fav": "Atalanta (Donatello)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 55%",
+      "BTTS: 97%",
+      "Vitoria Atalanta (Donatello) (WR 75%)"
+    ],
+    "assertividade": 72.4,
+    "key": "FC26 R109(SERIA A)22.06.2026|Atalanta (Donatello)|Napoli (Logan)",
+    "message_id": 1428
+  },
+  {
+    "liga": "FC26 R112(PREMIER LEAGUE)22.06.2026",
+    "p1": "Everton (William)",
+    "p2": "Arsenal (Haidan)",
+    "w1": 37.5,
+    "w2": 34.9,
+    "j1": 8,
+    "j2": 63,
+    "o65": 72.4,
+    "btts": 91.35,
+    "avg_g": 7.3100000000000005,
+    "f1": "L-L-W-W-L",
+    "f2": "W-D-L-W-D",
+    "fav": "Everton (William)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 72%",
+      "BTTS: 91%"
+    ],
+    "assertividade": 64.9,
+    "key": "FC26 R112(PREMIER LEAGUE)22.06.2026|Arsenal (Haidan)|Everton (William)",
+    "message_id": 1429
+  },
+  {
+    "liga": "FC26 R112(PREMIER LEAGUE)22.06.2026",
+    "p1": "Liverpool (Splinter)",
+    "p2": "Manchester Utd. (MisterX)",
+    "w1": 32.1,
+    "w2": 62.5,
+    "j1": 53,
+    "j2": 16,
+    "o65": 57.35,
+    "btts": 95.94999999999999,
+    "avg_g": 7.24,
+    "f1": "W-W-W-L-L",
+    "f2": "W-W-W-W-W",
+    "fav": "Manchester Utd. (MisterX)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 57%",
+      "BTTS: 96%",
+      "Vitoria Manchester Utd. (MisterX) (WR 62%)"
+    ],
+    "assertividade": 68.8,
+    "key": "FC26 R112(PREMIER LEAGUE)22.06.2026|Liverpool (Splinter)|Manchester Utd. (MisterX)",
+    "message_id": 1430
   }
 ]
