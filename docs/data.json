@@ -1,9 +1,9 @@
 {
-  "updated_at": "27/06/2026 15:02:23",
+  "updated_at": "27/06/2026 16:19:27",
   "summary": {
     "total": 300,
-    "finalizados": 242,
-    "agendados": 58,
+    "finalizados": 250,
+    "agendados": 50,
     "ligas": 17
   },
   "jogos": [
@@ -1705,57 +1705,57 @@
       "liga": "FC26 R199(SERIA A)27.06.2026",
       "p1": "Atalanta (Noah)",
       "p2": "Inter (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R199(SERIA A)27.06.2026",
       "p1": "Juventus (George)",
       "p2": "Milan (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R199(SERIA A)27.06.2026",
       "p1": "Juventus (George)",
       "p2": "Inter (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R199(SERIA A)27.06.2026",
       "p1": "Lazio (Pascal)",
       "p2": "Milan (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R200(INTERNATIONAL)27.06.2026",
       "p1": "England (George)",
       "p2": "Croatia (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R200(INTERNATIONAL)27.06.2026",
       "p1": "Panama (Noah)",
       "p2": "Portugal (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R200(INTERNATIONAL)27.06.2026",
       "p1": "England (George)",
       "p2": "Panama (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R200(INTERNATIONAL)27.06.2026",
       "p1": "Ghana (MisterX)",
       "p2": "Croatia (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R200(INTERNATIONAL)27.06.2026",
@@ -2171,13 +2171,13 @@
     },
     "FC26 R199(SERIA A)27.06.2026": {
       "total": 20,
-      "finalizados": 16,
-      "agendados": 4
+      "finalizados": 20,
+      "agendados": 0
     },
     "FC26 R200(INTERNATIONAL)27.06.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 4,
+      "agendados": 16
     },
     "FC26 R201(CHAMPIONS LEAGUE)27.06.2026": {
       "total": 20,
@@ -2943,61 +2943,123 @@
     "FC26 R199(SERIA A)27.06.2026": [
       {
         "nome": "Atalanta (Noah)",
-        "Pts": 18,
-        "J": 7,
-        "V": 6,
+        "Pts": 21,
+        "J": 8,
+        "V": 7,
         "E": 0,
         "D": 1,
-        "GP": 46,
-        "GC": 33,
-        "SG": 13,
+        "GP": 53,
+        "GC": 37,
+        "SG": 16,
         "pos": 1
       },
       {
         "nome": "Inter (MisterX)",
-        "Pts": 10,
-        "J": 6,
-        "V": 3,
+        "Pts": 13,
+        "J": 8,
+        "V": 4,
         "E": 1,
-        "D": 2,
-        "GP": 31,
-        "GC": 31,
+        "D": 3,
+        "GP": 42,
+        "GC": 42,
         "SG": 0,
         "pos": 2
       },
       {
         "nome": "Juventus (George)",
-        "Pts": 9,
-        "J": 6,
-        "V": 3,
+        "Pts": 12,
+        "J": 8,
+        "V": 4,
         "E": 0,
-        "D": 3,
-        "GP": 21,
-        "GC": 24,
-        "SG": -3,
+        "D": 4,
+        "GP": 29,
+        "GC": 34,
+        "SG": -5,
         "pos": 3
       },
       {
         "nome": "Lazio (Pascal)",
-        "Pts": 6,
-        "J": 7,
+        "Pts": 7,
+        "J": 8,
         "V": 2,
-        "E": 0,
+        "E": 1,
         "D": 5,
-        "GP": 27,
-        "GC": 35,
+        "GP": 33,
+        "GC": 41,
         "SG": -8,
         "pos": 4
       },
       {
         "nome": "Milan (Haidan)",
+        "Pts": 5,
+        "J": 8,
+        "V": 1,
+        "E": 2,
+        "D": 5,
+        "GP": 42,
+        "GC": 45,
+        "SG": -3,
+        "pos": 5
+      }
+    ],
+    "FC26 R200(INTERNATIONAL)27.06.2026": [
+      {
+        "nome": "Panama (Noah)",
         "Pts": 4,
-        "J": 6,
+        "J": 2,
         "V": 1,
         "E": 1,
-        "D": 4,
-        "GP": 33,
-        "GC": 35,
+        "D": 0,
+        "GP": 9,
+        "GC": 7,
+        "SG": 2,
+        "pos": 1
+      },
+      {
+        "nome": "Ghana (MisterX)",
+        "Pts": 3,
+        "J": 1,
+        "V": 1,
+        "E": 0,
+        "D": 0,
+        "GP": 5,
+        "GC": 4,
+        "SG": 1,
+        "pos": 2
+      },
+      {
+        "nome": "Croatia (Pascal)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 9,
+        "GC": 9,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "England (George)",
+        "Pts": 1,
+        "J": 2,
+        "V": 0,
+        "E": 1,
+        "D": 1,
+        "GP": 7,
+        "GC": 8,
+        "SG": -1,
+        "pos": 4
+      },
+      {
+        "nome": "Portugal (Haidan)",
+        "Pts": 0,
+        "J": 1,
+        "V": 0,
+        "E": 0,
+        "D": 1,
+        "GP": 4,
+        "GC": 6,
         "SG": -2,
         "pos": 5
       }
