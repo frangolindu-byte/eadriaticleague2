@@ -1,9 +1,9 @@
 {
-  "updated_at": "27/06/2026 16:19:27",
+  "updated_at": "27/06/2026 17:39:50",
   "summary": {
     "total": 300,
-    "finalizados": 250,
-    "agendados": 50,
+    "finalizados": 260,
+    "agendados": 40,
     "ligas": 17
   },
   "jogos": [
@@ -1761,71 +1761,71 @@
       "liga": "FC26 R200(INTERNATIONAL)27.06.2026",
       "p1": "Croatia (Pascal)",
       "p2": "Panama (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R200(INTERNATIONAL)27.06.2026",
       "p1": "Ghana (MisterX)",
       "p2": "Portugal (Haidan)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R200(INTERNATIONAL)27.06.2026",
       "p1": "Ghana (MisterX)",
       "p2": "Panama (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-8",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R200(INTERNATIONAL)27.06.2026",
       "p1": "Portugal (Haidan)",
       "p2": "England (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R200(INTERNATIONAL)27.06.2026",
       "p1": "Ghana (MisterX)",
       "p2": "England (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "7-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R200(INTERNATIONAL)27.06.2026",
       "p1": "Portugal (Haidan)",
       "p2": "Croatia (Pascal)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-9",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R200(INTERNATIONAL)27.06.2026",
       "p1": "Croatia (Pascal)",
       "p2": "England (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R200(INTERNATIONAL)27.06.2026",
       "p1": "Portugal (Haidan)",
       "p2": "Panama (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R200(INTERNATIONAL)27.06.2026",
       "p1": "Croatia (Pascal)",
       "p2": "Ghana (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R200(INTERNATIONAL)27.06.2026",
       "p1": "Panama (Noah)",
       "p2": "England (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R200(INTERNATIONAL)27.06.2026",
@@ -2176,8 +2176,8 @@
     },
     "FC26 R200(INTERNATIONAL)27.06.2026": {
       "total": 20,
-      "finalizados": 4,
-      "agendados": 16
+      "finalizados": 14,
+      "agendados": 6
     },
     "FC26 R201(CHAMPIONS LEAGUE)27.06.2026": {
       "total": 20,
@@ -3005,62 +3005,62 @@
     "FC26 R200(INTERNATIONAL)27.06.2026": [
       {
         "nome": "Panama (Noah)",
-        "Pts": 4,
-        "J": 2,
-        "V": 1,
-        "E": 1,
+        "Pts": 14,
+        "J": 6,
+        "V": 4,
+        "E": 2,
         "D": 0,
-        "GP": 9,
-        "GC": 7,
-        "SG": 2,
+        "GP": 33,
+        "GC": 22,
+        "SG": 11,
         "pos": 1
       },
       {
-        "nome": "Ghana (MisterX)",
-        "Pts": 3,
-        "J": 1,
-        "V": 1,
+        "nome": "Croatia (Pascal)",
+        "Pts": 12,
+        "J": 6,
+        "V": 4,
         "E": 0,
-        "D": 0,
-        "GP": 5,
-        "GC": 4,
-        "SG": 1,
+        "D": 2,
+        "GP": 32,
+        "GC": 23,
+        "SG": 9,
         "pos": 2
       },
       {
-        "nome": "Croatia (Pascal)",
-        "Pts": 3,
-        "J": 2,
-        "V": 1,
-        "E": 0,
-        "D": 1,
-        "GP": 9,
-        "GC": 9,
-        "SG": 0,
+        "nome": "Ghana (MisterX)",
+        "Pts": 7,
+        "J": 5,
+        "V": 2,
+        "E": 1,
+        "D": 2,
+        "GP": 22,
+        "GC": 26,
+        "SG": -4,
         "pos": 3
       },
       {
         "nome": "England (George)",
-        "Pts": 1,
-        "J": 2,
-        "V": 0,
-        "E": 1,
-        "D": 1,
-        "GP": 7,
-        "GC": 8,
-        "SG": -1,
+        "Pts": 5,
+        "J": 6,
+        "V": 1,
+        "E": 2,
+        "D": 3,
+        "GP": 24,
+        "GC": 28,
+        "SG": -4,
         "pos": 4
       },
       {
         "nome": "Portugal (Haidan)",
-        "Pts": 0,
-        "J": 1,
+        "Pts": 1,
+        "J": 5,
         "V": 0,
-        "E": 0,
-        "D": 1,
-        "GP": 4,
-        "GC": 6,
-        "SG": -2,
+        "E": 1,
+        "D": 4,
+        "GP": 21,
+        "GC": 33,
+        "SG": -12,
         "pos": 5
       }
     ]
