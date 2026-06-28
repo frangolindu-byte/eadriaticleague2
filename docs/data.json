@@ -1,9 +1,9 @@
 {
-  "updated_at": "28/06/2026 15:57:47",
+  "updated_at": "28/06/2026 17:10:12",
   "summary": {
     "total": 300,
-    "finalizados": 246,
-    "agendados": 54,
+    "finalizados": 256,
+    "agendados": 44,
     "ligas": 17
   },
   "jogos": [
@@ -1733,71 +1733,71 @@
       "liga": "FC26 R215(CHAMPIONS LEAGUE)28.06.2026",
       "p1": "Atletico Madrid (Bruno)",
       "p2": "Real Madrid (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R215(CHAMPIONS LEAGUE)28.06.2026",
       "p1": "Bayern M. (Lucas)",
       "p2": "Barcelona (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-7",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R215(CHAMPIONS LEAGUE)28.06.2026",
       "p1": "Bayern M. (Lucas)",
       "p2": "Atletico Madrid (Bruno)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R215(CHAMPIONS LEAGUE)28.06.2026",
       "p1": "PSG (Conde)",
       "p2": "Barcelona (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R215(CHAMPIONS LEAGUE)28.06.2026",
       "p1": "Barcelona (Noah)",
       "p2": "Atletico Madrid (Bruno)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R215(CHAMPIONS LEAGUE)28.06.2026",
       "p1": "PSG (Conde)",
       "p2": "Real Madrid (George)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R215(CHAMPIONS LEAGUE)28.06.2026",
       "p1": "PSG (Conde)",
       "p2": "Atletico Madrid (Bruno)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-4",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R215(CHAMPIONS LEAGUE)28.06.2026",
       "p1": "Real Madrid (George)",
       "p2": "Bayern M. (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R215(CHAMPIONS LEAGUE)28.06.2026",
       "p1": "PSG (Conde)",
       "p2": "Bayern M. (Lucas)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R215(CHAMPIONS LEAGUE)28.06.2026",
       "p1": "Real Madrid (George)",
       "p2": "Barcelona (Noah)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R215(CHAMPIONS LEAGUE)28.06.2026",
@@ -2176,8 +2176,8 @@
     },
     "FC26 R215(CHAMPIONS LEAGUE)28.06.2026": {
       "total": 20,
-      "finalizados": 0,
-      "agendados": 20
+      "finalizados": 10,
+      "agendados": 10
     },
     "FC26 R216(INTERNATIONAL)28.06.2026": {
       "total": 20,
@@ -2999,6 +2999,68 @@
         "GP": 19,
         "GC": 28,
         "SG": -9,
+        "pos": 5
+      }
+    ],
+    "FC26 R215(CHAMPIONS LEAGUE)28.06.2026": [
+      {
+        "nome": "Barcelona (Noah)",
+        "Pts": 9,
+        "J": 4,
+        "V": 3,
+        "E": 0,
+        "D": 1,
+        "GP": 22,
+        "GC": 17,
+        "SG": 5,
+        "pos": 1
+      },
+      {
+        "nome": "PSG (Conde)",
+        "Pts": 9,
+        "J": 4,
+        "V": 3,
+        "E": 0,
+        "D": 1,
+        "GP": 16,
+        "GC": 12,
+        "SG": 4,
+        "pos": 2
+      },
+      {
+        "nome": "Real Madrid (George)",
+        "Pts": 6,
+        "J": 4,
+        "V": 2,
+        "E": 0,
+        "D": 2,
+        "GP": 14,
+        "GC": 14,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Atletico Madrid (Bruno)",
+        "Pts": 4,
+        "J": 4,
+        "V": 1,
+        "E": 1,
+        "D": 2,
+        "GP": 15,
+        "GC": 17,
+        "SG": -2,
+        "pos": 4
+      },
+      {
+        "nome": "Bayern M. (Lucas)",
+        "Pts": 1,
+        "J": 4,
+        "V": 0,
+        "E": 1,
+        "D": 3,
+        "GP": 11,
+        "GC": 18,
+        "SG": -7,
         "pos": 5
       }
     ]
