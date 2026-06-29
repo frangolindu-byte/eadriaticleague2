@@ -3351,7 +3351,10 @@
     ],
     "assertividade": 71.3,
     "key": "FC26 R225(INTERNATIONAL)29.06.2026|Holland (Oliver)|Paraguay (Flash)",
-    "message_id": 1454
+    "message_id": 1454,
+    "result_checked": true,
+    "result_placar": "5-3",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R219(LA LIGA)29.06.2026",
@@ -3400,7 +3403,10 @@
     ],
     "assertividade": 71.3,
     "key": "FC26 R223(SERIA A)29.06.2026|Atalanta (Leonardo)|Lazio (Oliver)",
-    "message_id": 1456
+    "message_id": 1456,
+    "result_checked": true,
+    "result_placar": "2-4",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R226(PREMIER LEAGUE)29.06.2026",
@@ -3424,7 +3430,8 @@
     ],
     "assertividade": 71.2,
     "key": "FC26 R226(PREMIER LEAGUE)29.06.2026|Arsenal (Alexander)|Chelsea (Beckham)",
-    "message_id": 1457
+    "message_id": 1457,
+    "result_checked": true
   },
   {
     "liga": "FC26 R226(PREMIER LEAGUE)29.06.2026",
@@ -3448,6 +3455,81 @@
     ],
     "assertividade": 71.5,
     "key": "FC26 R226(PREMIER LEAGUE)29.06.2026|Chelsea (Beckham)|Manchester Utd. (VanGogh)",
-    "message_id": 1458
+    "message_id": 1458,
+    "result_checked": true,
+    "result_placar": "3-1",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R229(INTERNATIONAL)29.06.2026",
+    "p1": "Holland (Odin)",
+    "p2": "Japan (Matrix)",
+    "w1": 75.0,
+    "w2": 30.0,
+    "j1": 16,
+    "j2": 10,
+    "o65": 55.0,
+    "btts": 93.75,
+    "avg_g": 5.914999999999999,
+    "f1": "L-W-W-W-W",
+    "f2": "L-L-L-W-W",
+    "fav": "Holland (Odin)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 55%",
+      "BTTS: 94%",
+      "Vitoria Holland (Odin) (WR 75%)"
+    ],
+    "assertividade": 71.7,
+    "key": "FC26 R229(INTERNATIONAL)29.06.2026|Holland (Odin)|Japan (Matrix)",
+    "message_id": 1459
+  },
+  {
+    "liga": "FC26 R233(PREMIER LEAGUE)29.06.2026",
+    "p1": "Manchester Utd. (Noah)",
+    "p2": "Chelsea (Dominic)",
+    "w1": 45.0,
+    "w2": 75.0,
+    "j1": 40,
+    "j2": 8,
+    "o65": 57.5,
+    "btts": 93.75,
+    "avg_g": 7.12,
+    "f1": "L-W-D-W-W",
+    "f2": "W-W-L-W-W",
+    "fav": "Chelsea (Dominic)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 58%",
+      "BTTS: 94%",
+      "Vitoria Chelsea (Dominic) (WR 75%)"
+    ],
+    "assertividade": 72.7,
+    "key": "FC26 R233(PREMIER LEAGUE)29.06.2026|Chelsea (Dominic)|Manchester Utd. (Noah)",
+    "message_id": 1460
+  },
+  {
+    "liga": "FC26 R235(INTERNATIONAL)29.06.2026",
+    "p1": "Holland (Eric)",
+    "p2": "Japan (Gael)",
+    "w1": 38.6,
+    "w2": 69.2,
+    "j1": 184,
+    "j2": 13,
+    "o65": 50.1,
+    "btts": 94.3,
+    "avg_g": 6.835000000000001,
+    "f1": "W-W-L-L-W",
+    "f2": "W-W-L-W-W",
+    "fav": "Japan (Gael)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 50%",
+      "BTTS: 94%",
+      "Vitoria Japan (Gael) (WR 69%)"
+    ],
+    "assertividade": 67.8,
+    "key": "FC26 R235(INTERNATIONAL)29.06.2026|Holland (Eric)|Japan (Gael)",
+    "message_id": 1461
   }
 ]
