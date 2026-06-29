@@ -3374,7 +3374,10 @@
     ],
     "assertividade": 70.5,
     "key": "FC26 R219(LA LIGA)29.06.2026|Real Madrid (Maverick)|Sevilla (Gael)",
-    "message_id": 1455
+    "message_id": 1455,
+    "result_checked": true,
+    "result_placar": "7-6",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R223(SERIA A)29.06.2026",
@@ -3422,5 +3425,29 @@
     "assertividade": 71.2,
     "key": "FC26 R226(PREMIER LEAGUE)29.06.2026|Arsenal (Alexander)|Chelsea (Beckham)",
     "message_id": 1457
+  },
+  {
+    "liga": "FC26 R226(PREMIER LEAGUE)29.06.2026",
+    "p1": "Chelsea (Beckham)",
+    "p2": "Manchester Utd. (VanGogh)",
+    "w1": 77.3,
+    "w2": 25.0,
+    "j1": 44,
+    "j2": 8,
+    "o65": 50.0,
+    "btts": 97.75,
+    "avg_g": 6.42,
+    "f1": "W-L-L-L-W",
+    "f2": "L-D-L-W-D",
+    "fav": "Chelsea (Beckham)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 50%",
+      "BTTS: 98%",
+      "Vitoria Chelsea (Beckham) (WR 77%)"
+    ],
+    "assertividade": 71.5,
+    "key": "FC26 R226(PREMIER LEAGUE)29.06.2026|Chelsea (Beckham)|Manchester Utd. (VanGogh)",
+    "message_id": 1458
   }
 ]
