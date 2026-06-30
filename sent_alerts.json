@@ -3563,7 +3563,10 @@
     ],
     "assertividade": 80.3,
     "key": "FC26 R250(INTERNATIONAL)30.06.2026|France (VanGogh)|Sweden (MisterX)",
-    "message_id": 1462
+    "message_id": 1462,
+    "result_checked": true,
+    "result_placar": "4-2",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R254(INTERNATIONAL)30.06.2026",
@@ -3611,7 +3614,10 @@
     ],
     "assertividade": 67.6,
     "key": "FC26 R249(LA LIGA)30.06.2026|Real Betis (Noah)|Real Madrid (Donatello)",
-    "message_id": 1464
+    "message_id": 1464,
+    "result_checked": true,
+    "result_placar": "3-3",
+    "result_status": "errou"
   },
   {
     "liga": "FC26 R250(INTERNATIONAL)30.06.2026",
@@ -3634,7 +3640,10 @@
     ],
     "assertividade": 79.9,
     "key": "FC26 R250(INTERNATIONAL)30.06.2026|Mexico (Haidan)|Sweden (MisterX)",
-    "message_id": 1465
+    "message_id": 1465,
+    "result_checked": true,
+    "result_placar": "3-5",
+    "result_status": "bateu"
   },
   {
     "liga": "FC26 R250(INTERNATIONAL)30.06.2026",
@@ -3658,6 +3667,32 @@
     ],
     "assertividade": 73.4,
     "key": "FC26 R250(INTERNATIONAL)30.06.2026|Norway (Lucas)|Sweden (MisterX)",
-    "message_id": 1466
+    "message_id": 1466,
+    "result_checked": true,
+    "result_placar": "3-3",
+    "result_status": "errou"
+  },
+  {
+    "liga": "FC26 R254(INTERNATIONAL)30.06.2026",
+    "p1": "Sweden (Felix)",
+    "p2": "France (Kaizen)",
+    "w1": 9.5,
+    "w2": 35.3,
+    "j1": 21,
+    "j2": 17,
+    "o65": 60.900000000000006,
+    "btts": 100.0,
+    "avg_g": 7.31,
+    "f1": "L-D-L-D-L",
+    "f2": "L-D-W-D-W",
+    "fav": "France (Kaizen)",
+    "score": 65,
+    "reasons": [
+      "Over 6.5: 61%",
+      "BTTS: 100%"
+    ],
+    "assertividade": 61.7,
+    "key": "FC26 R254(INTERNATIONAL)30.06.2026|France (Kaizen)|Sweden (Felix)",
+    "message_id": 1467
   }
 ]
