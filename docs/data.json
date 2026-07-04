@@ -1,9 +1,9 @@
 {
-  "updated_at": "04/07/2026 21:10:18",
+  "updated_at": "04/07/2026 22:15:10",
   "summary": {
     "total": 300,
-    "finalizados": 286,
-    "agendados": 14,
+    "finalizados": 300,
+    "agendados": 0,
     "ligas": 17
   },
   "jogos": [
@@ -2013,99 +2013,99 @@
       "liga": "FC26 R322(INTERNATIONAL)04.07.2026",
       "p1": "Morocco (Odin)",
       "p2": "Portugal (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R322(INTERNATIONAL)04.07.2026",
       "p1": "Paraguay (MisterX)",
       "p2": "France (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R322(INTERNATIONAL)04.07.2026",
       "p1": "Canada (Eric)",
       "p2": "France (Dexter)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R322(INTERNATIONAL)04.07.2026",
       "p1": "Paraguay (MisterX)",
       "p2": "Morocco (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-2",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R322(INTERNATIONAL)04.07.2026",
       "p1": "Canada (Eric)",
       "p2": "Portugal (Conde)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R322(INTERNATIONAL)04.07.2026",
       "p1": "France (Dexter)",
       "p2": "Morocco (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "2-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R322(INTERNATIONAL)04.07.2026",
       "p1": "Canada (Eric)",
       "p2": "Morocco (Odin)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "3-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R322(INTERNATIONAL)04.07.2026",
       "p1": "Portugal (Conde)",
       "p2": "Paraguay (MisterX)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-6",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R323(CHAMPIONS LEAGUE)04.07.2026",
       "p1": "Manchester City (Gael)",
       "p2": "PSG (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "4-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R323(CHAMPIONS LEAGUE)04.07.2026",
       "p1": "Real Madrid (Kristof)",
       "p2": "Liverpool (Kaizen)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "0-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R323(CHAMPIONS LEAGUE)04.07.2026",
       "p1": "Atletico Madrid (Iron)",
       "p2": "PSG (Sebastian)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "6-5",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R323(CHAMPIONS LEAGUE)04.07.2026",
       "p1": "Manchester City (Gael)",
       "p2": "Real Madrid (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-1",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R323(CHAMPIONS LEAGUE)04.07.2026",
       "p1": "Atletico Madrid (Iron)",
       "p2": "Liverpool (Kaizen)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "1-3",
+      "status": "Finalizado"
     },
     {
       "liga": "FC26 R323(CHAMPIONS LEAGUE)04.07.2026",
       "p1": "PSG (Sebastian)",
       "p2": "Real Madrid (Kristof)",
-      "placar": "vs",
-      "status": "Agendado"
+      "placar": "5-3",
+      "status": "Finalizado"
     }
   ],
   "resumo": {
@@ -2186,13 +2186,13 @@
     },
     "FC26 R322(INTERNATIONAL)04.07.2026": {
       "total": 8,
-      "finalizados": 0,
-      "agendados": 8
+      "finalizados": 8,
+      "agendados": 0
     },
     "FC26 R323(CHAMPIONS LEAGUE)04.07.2026": {
       "total": 6,
-      "finalizados": 0,
-      "agendados": 6
+      "finalizados": 6,
+      "agendados": 0
     }
   },
   "classificacao": {
@@ -3123,6 +3123,130 @@
         "GP": 34,
         "GC": 40,
         "SG": -6,
+        "pos": 5
+      }
+    ],
+    "FC26 R322(INTERNATIONAL)04.07.2026": [
+      {
+        "nome": "Canada (Eric)",
+        "Pts": 9,
+        "J": 3,
+        "V": 3,
+        "E": 0,
+        "D": 0,
+        "GP": 11,
+        "GC": 4,
+        "SG": 7,
+        "pos": 1
+      },
+      {
+        "nome": "Morocco (Odin)",
+        "Pts": 7,
+        "J": 4,
+        "V": 2,
+        "E": 1,
+        "D": 1,
+        "GP": 12,
+        "GC": 8,
+        "SG": 4,
+        "pos": 2
+      },
+      {
+        "nome": "Paraguay (MisterX)",
+        "Pts": 4,
+        "J": 3,
+        "V": 1,
+        "E": 1,
+        "D": 1,
+        "GP": 10,
+        "GC": 9,
+        "SG": 1,
+        "pos": 3
+      },
+      {
+        "nome": "France (Dexter)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 7,
+        "GC": 9,
+        "SG": -2,
+        "pos": 4
+      },
+      {
+        "nome": "Portugal (Conde)",
+        "Pts": 0,
+        "J": 3,
+        "V": 0,
+        "E": 0,
+        "D": 3,
+        "GP": 6,
+        "GC": 16,
+        "SG": -10,
+        "pos": 5
+      }
+    ],
+    "FC26 R323(CHAMPIONS LEAGUE)04.07.2026": [
+      {
+        "nome": "Manchester City (Gael)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 9,
+        "GC": 4,
+        "SG": 5,
+        "pos": 1
+      },
+      {
+        "nome": "Liverpool (Kaizen)",
+        "Pts": 6,
+        "J": 2,
+        "V": 2,
+        "E": 0,
+        "D": 0,
+        "GP": 6,
+        "GC": 1,
+        "SG": 5,
+        "pos": 2
+      },
+      {
+        "nome": "PSG (Sebastian)",
+        "Pts": 3,
+        "J": 3,
+        "V": 1,
+        "E": 0,
+        "D": 2,
+        "GP": 13,
+        "GC": 13,
+        "SG": 0,
+        "pos": 3
+      },
+      {
+        "nome": "Atletico Madrid (Iron)",
+        "Pts": 3,
+        "J": 2,
+        "V": 1,
+        "E": 0,
+        "D": 1,
+        "GP": 7,
+        "GC": 8,
+        "SG": -1,
+        "pos": 4
+      },
+      {
+        "nome": "Real Madrid (Kristof)",
+        "Pts": 0,
+        "J": 3,
+        "V": 0,
+        "E": 0,
+        "D": 3,
+        "GP": 4,
+        "GC": 13,
+        "SG": -9,
         "pos": 5
       }
     ]
